@@ -1,4 +1,4 @@
-## Shared
+# Labels
 
 label_organisation_name:
   nl: Zorginstituut Nederland
@@ -166,6 +166,8 @@ label_the_tools:
 label_news:
   nl: Nieuws
   en: News
+
+# Messages
 
 message_contact_us_via_form:
   nl: Neem via onderstaand formulier contact op met het Zorginstituut.
