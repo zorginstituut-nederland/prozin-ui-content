@@ -1,0 +1,196 @@
+## Shared
+
+label_organisation_name:
+  nl: Zorginstituut Nederland
+  en: National Health Care Institute
+label_service:
+  nl: Service
+  en: Service
+label_about_this_site:
+  nl: Over deze site
+  en: About this site
+label_name:
+  nl: Naam
+  en: Name
+label_your_response:
+  nl: Uw reactie
+  en: Your response
+label_mandatory_fields:
+  nl: Verplichte velden
+  en: Mandatory fields
+label_send:
+  nl: Verstuur
+  en: Send
+label_professional:
+  nl: Beroepsmatig
+  en: Professional
+label_private:
+  nl: Privé
+  en: Private
+label_viewed_often:
+  nl: Vaak bekeken
+  en: Viewed often
+label_email:
+  nl: E-mail
+  en: E-mail
+label_subject:
+  nl: Onderwerp
+  en: Subject
+label_grouping: 
+  nl: Gegroepeerd op
+  en: Grouped by
+label_employee_position:
+  nl: Functie
+  en: Position
+label_more_news:
+  nl: Meer nieuws
+  en: More nieuws
+label_pdf_file:
+  nl: PDF-document
+  en: PDF file
+label_zip_file:
+  nl: ZIP-bestand
+  en: ZIP file
+label_compressed_file:
+  nl: Gecomprimeerd bestand
+  en: Compressed file
+label_word_file:
+  nl: Word-document
+  en: Word file
+label_excel_file:
+  nl: Excel-document
+  en: Excel file
+label_login:
+  nl: Inloggen
+  en: Login
+label_logged_in_as:
+  nl: Ingelogd als
+  en: Logged in as
+label_directly_to:
+  nl: Direct naar
+  en: Directly to
+label_warnings:
+  nl: Waarschuwingen
+  en: Warnings
+label_recent:
+  nl: Recent
+  en: Recent
+
+label_toc:
+  nl: Inhoudsopgave
+  en: Table of contents
+label_logout:
+  nl: Uitloggen
+  en: Logout
+label_change_password:
+  nl: Wachtwoord wijzigen
+  en: Change password
+label_medicines:
+  nl: Geneesmiddelen
+  en: Medicines
+label_medicine_group:
+  nl: Geneesmiddelgroep
+  en: Medicine group
+label_medicine_groups:
+  nl: Geneesmiddelgroepen
+  en: Medicine groups
+label_product_fk:
+  nl: Farmacotherapeutisch Kompas
+  en: Pharmacotherapeutical Compass
+label_composition: 
+  nl: Samenstelling
+  en: Composition
+label_advice: 
+  nl: Advies
+  en: Advice
+label_indications: 
+  nl: Indicaties
+  en: Indications
+label_side_effects: 
+  nl: Bijwerkingen
+  en: Side effects
+label_interactions: 
+  nl: Interacties
+  en: Interactions
+label_dosage: 
+  nl: Dosering
+  en: Dosage
+label_pregnancy: 
+  nl: Zwangerschap
+  en: Pregnancy
+label_lactation: 
+  nl: Lactatie
+  en: Lactation
+label_contraindications:
+  nl: Contra-indicaties
+  en: Contraindications
+label_warnings_and_precautions:
+  nl: Waarschuwingen en voorzorgen
+  en: Warnings and precautions
+label_overdose:
+  nl: Overdosering
+  en: Overdose
+label_properties:
+  nl: Eigenschappen
+  en: Properties
+label_group_information:
+  nl: Groepsinformatie
+  en: Group information
+label_cost:
+  nl: Kosten
+  en: Cost
+label_see_also:
+  nl: Zie ook
+  en: See also
+label_external_links:
+  nl: Externe links
+  en: External links
+label_contact:
+  nl: Contact
+  en: Contact
+label_page_not_found:
+  nl: De pagina die of het bestand dat u heeft opgevraagd is niet gevonden
+  en: The page or file that you requested could not be found
+label_not_found:
+  nl: Niet gevonden
+  en: Not found
+label_main_menu:
+  nl: Hoofdmenu
+  en: Main menu
+label_topics:
+  nl: Onderwerpen
+  en: Topics
+label_the_tools:
+  nl: De tools
+  en: The tools
+label_news:
+  nl: Nieuws
+  en: News
+
+message_contact_us_via_form:
+  nl: Neem via onderstaand formulier contact op met het Zorginstituut.
+  en: Use the form below to contact Zorginstituut.
+message_are_you_sure:
+  nl: Weet u zeker dat u verder wilt gaan?
+  en: Are you sure you want to continue?
+message_thanks_for_response_we_will_contact_you:
+  nl: Dankuwel voor uw reactie. Wij nemen zo spoedig mogelijk contact met u op.
+  en: Thank you for your response. We will contact you as soon as possible.
+message_information_location_alternative:
+  nl: U kunt de informatie die u zoekt mogelijk vinden via de zoekpagina of de homepage.
+  en: TRANSLATION REQUIRED
+message_you_are_here:
+  nl: "U bevindt zich hier:"
+  en: "You are here:"
+message_use_filters_to_alter_view_of_tool_list_p1:
+  nl: Gebruik de volgende filters om
+  en: TRANSLATION REQUIRED
+message_use_filters_to_alter_view_of_tool_list_p2:
+  nl: de lijst met tools
+  en: TRANSLATION REQUIRED
+message_use_filters_to_alter_view_of_tool_list_p3:
+  nl: toe te spitsen op uw behoeften.
+  en: TRANSLATION REQUIRED
+message_session_expired:
+  nl: U bent automatisch uitgelogd, omdat uw sessie verlopen is. U kunt hieronder opnieuw inloggen om verder te gaan.
+  en: You were automatically logged out because your session was epxired. Please log in again below to continue.
