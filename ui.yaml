@@ -44,7 +44,7 @@ label_employee_position:
   en: Position
 label_more_news:
   nl: Meer nieuws
-  en: More nieuws
+  en: More news
 label_pdf_file:
   nl: PDF-document
   en: PDF file
@@ -75,7 +75,12 @@ label_warnings:
 label_recent:
   nl: Recent
   en: Recent
-
+label_comments:
+  nl: Reacties
+  en: Comments
+label_manufacturer:
+  nl: Fabrikant
+  en: Manufacturer
 label_toc:
   nl: Inhoudsopgave
   en: Table of contents
@@ -103,6 +108,15 @@ label_composition:
 label_advice: 
   nl: Advies
   en: Advice
+label_active_substance: 
+  nl: Werkzame stof
+  en: Active substance
+label_indication: 
+  nl: Indicatie
+  en: Indication
+label_indication_group: 
+  nl: Indicatiegroep
+  en: Indication group
 label_indications: 
   nl: Indicaties
   en: Indications
@@ -115,6 +129,12 @@ label_interactions:
 label_dosage: 
   nl: Dosering
   en: Dosage
+label_registration:
+  nl: Registratie
+  en: Registration
+label_product:
+  nl: Product
+  en: Product
 label_pregnancy: 
   nl: Zwangerschap
   en: Pregnancy
