@@ -1,5 +1,32 @@
 # Labels
 
+label_draft:
+  nl: Concept
+  en: Draft
+label_version:
+  nl: Versie
+  en: Version
+label_options:
+  nl: Opties
+  en: Options
+label_revert:
+  nl: Herstel
+  en: Revert
+label_publish:
+  nl: Publiceer
+  en: Publish
+label_edit:
+  nl: Bewerk
+  en: Edit
+label_new_revision:
+  nl: Nieuwe revisie
+  en: New revision
+label_follow:
+  nl: Volg
+  en: Follow
+label_unfollow:
+  nl: Ontvolg
+  en: Unfollow
 label_organisation_name:
   nl: Zorginstituut Nederland
   en: National Health Care Institute
