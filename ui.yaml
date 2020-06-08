@@ -20,9 +20,15 @@ snippet_times_per_year:
   en: times per year
 
 # Labels
+label_other_information:
+  nl: Overige informatie
+  en: Other information
 label_sources:
   nl: Bronnen
   en: Sources
+label_exptected_market_share:
+  nl: Verwacht marktaandeel
+  en: Expected market share
 label_dosage_per_administration:
   nl: Dosis per toediening
   en: Dosage per administration
@@ -53,6 +59,9 @@ label_additional_comments:
 label_off_label_use:
   nl: Off-label gebruik
   en: Off label use
+label_indications_off_label_use:
+  nl: Indicaties off-label gebruik
+  en: Indications off label use
 label_already_available_biosimilars_generics:
   nl: Reeds beschikbare biosimilars/generieken
   en: Already available biosimilars/generics
@@ -107,6 +116,12 @@ label_total_cost:
 label_patient_volume:
   nl: Patiëntvolume
   en: Patient volume
+minimum_total_costs:
+  nl: Minimale totale kosten
+  en: Minimum total costs
+maximum_total_costs:
+  nl: Maximale totale kosten
+  en: Maximum total costs
 label_possible_total_cost_per_year:
   nl: Mogelijke totale kosten per jaar
   en: Possible total cost per year
@@ -431,6 +446,9 @@ label_extended_indication:
 label_indication_extension: 
   nl: Indicatieuitbreiding
   en: Indication extension
+label_indication_extensions: 
+  nl: Indicatieuitbreidingen
+  en: Indication extensions
 label_indication_group: 
   nl: Indicatiegroep
   en: Indication group
