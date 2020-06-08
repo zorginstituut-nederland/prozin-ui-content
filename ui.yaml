@@ -1,5 +1,203 @@
 # Labels
 
+label_oncology_and_hematology:
+  nl: Oncologie en Hematologie
+  en: Oncology and Hematology
+label_metabolism_and_endocrinology:
+  nl: Stofwisseling en Endocrinologie
+  en: Metabolism and Endocrinology
+label_chronic_immune_diseases:
+  nl: Chronische immuunziekten
+  en: Chronic immune diseases
+label_infection_diseases:
+  nl: Infectieziekten
+  en: Infection diseases
+label_lung_diseases_general:
+  nl: Longziekten algemeen
+  en: Lung diseases general
+label_neurological_disorders:
+  nl: Neurologische aandoeningen
+  en: Neurological disorders
+label_cardiovascular_diseases:
+  nl: Cardiovasculaire aandoeningen 
+  en: Cardiovascular diseases
+label_additional_comments:
+  nl: Aanvullende opmerkingen
+  en: Additional comments
+label_off_label_use:
+  nl: Off-label gebruik
+  en: Off label use
+label_new_medicine_specialite:
+  nl: Nieuw middel (specialité)
+  en: New medicine (specialité)
+label_generic_medicine:
+  nl: Generiek middel
+  en: Generic
+label_biosimilar:
+  nl: Biosimilar
+  en: Biosimilar
+label_current_treatment_options:
+  nl: Huidige behandelopties
+  en: Current treatment options
+label_therapeutical_value:
+  nl: Therapeutische waarde
+  en: Therapeutical value
+label_cost:
+  nl: Kosten
+  en: Cost
+label_total_cost:
+  nl: Totale kosten
+  en: Total cost
+label_patient_volume:
+  nl: Patiëntvolume
+  en: Patient volume
+label_possible_total_cost_per_year:
+  nl: Mogelijke totale kosten per jaar
+  en: Possible total cost per year
+label_expected_patient_volume_per_year:
+  nl: Verwacht patiëntvolume per jaar
+  en: Expected patient volume per year
+label_expected_cost_per_patient_per_year:
+  nl: Verwachte kosten per patiënt per jaar
+  en: Expected cost per patient per year
+label_domain:
+  nl: Domein
+  en: Domain
+label_reason_of_inclusion:
+  en: Reason of inclusion in Horizonscan Geneesmiddelen
+  nl: Reden van opnamen in Horizonscan Geneesmiddelen
+snippet_published_on:
+  nl: Gepubliceerd op
+  en: Published on
+label_older_publications:
+  nl: Oudere publicaties
+  en: Older publications
+label_save:
+  nl: Bewaar
+  en: Save
+label_cancel:
+  nl: Annuleer
+  en: Cancel
+label_send:
+  nl: Verstuur
+  en: Send
+label_therapeutical_value_and_treatment_scheme:
+  nl: Therapeutische waarde en behandelschema
+  en: Therapeutical value and treatment scheme
+label_about_horizonscan:
+  nl: Over Horizonscan Geneesmiddelen
+  en: About Horizonscan Geneesmiddelen
+message_about_horizonscan:
+  nl: Horizonscan Geneesmiddelen is een integraal, openbaar en zo objectief mogelijk overzicht van welke innovatieve geneesmiddelen op de markt verwacht worden en de mogelijk impact hiervan.
+  en: Horizonscan Geneesmiddelen is an integral, public and as objective as possible overview of innovative medicines which are expected to hit the market and the possible impact thereof.
+label_medicines_overview:
+  nl: Geneesmiddelen
+  en: Medicines
+message_medicines_overview:
+  nl: Een overzicht van innovatieve geneesmiddelen die waarschijnlijk binnen nu en twee jaar op de markt komen en bestaande geneesmiddelen waarbij indicatie-uitbreidingen worden verwacht.
+  en: An overview of innovative medicines that are likely to hit the market within the next two years and existing medicines of which indication extensions are expected.
+label_unassigned: 
+  nl: Niet toebedeeld
+  en: Unassigned
+label_new_by_manufacturers:
+  nl: Nieuw van Fabrikanten
+  en: New by manufacturers
+label_edit:
+  nl: Bewerk
+  en: Edit
+label_compact_view:
+  nl: Compacte weergave
+  en: Compact view
+label_extended_view:
+  nl: Uitgebreide weergave
+  en: Extended view
+label_grouped_by_domain:
+  nl: Ingedeeld op domain
+  en: Grouped by domain
+label_grouped_by_indication:
+  nl: Ingedeeld op indicatie
+  en: Grouped by indication
+label_grouped_by_status:
+  nl: Ingedeeld op status
+  en: Grouped by status
+label_grouped_by_expected_registration_date:
+  nl: Ingedeeld op verwachte registratiedatum
+  en: Grouped by expected registration date
+label_grouped_by_manufacturer:
+  nl: Ingedeeld op fabrikant
+  en: Grouped by manufacturer
+label_grouped_by_active_substance:
+  nl: Ingedeeld op werkzame stof
+  en: Grouped by active substance
+label_grouped_by_publication_date:
+  nl: Ingedeeld op publicatiedatum
+  en: Grouped by publication date
+label_grouped_by_submission_date:
+  nl: Ingedeeld op indieningsdatum
+  en: Grouped by submission date
+label_grouped_by_reason_of_inclusion:
+  nl: Ingedeeld op reden van opname in Horizonscan Geneesmiddelen
+  en: Grouped by reason of inclusion in Horizonscan Geneesmiddelen
+label_ungrouped:
+  nl: Zonder indeling
+  en: Ungrouped
+label_contact_person:
+  nl: Contactpersoon
+  en: Contact
+label_email:
+  nl: E-mail
+  en: E-mail
+label_remove: 
+  nl: Verwijder
+  en: Remove
+label_drafts:
+  nl: Concepten
+  en: Drafts
+label_start_pipeline_request:
+  nl: Start uitvraag
+  en: Start request
+label_add_manufacturer:
+  nl: Voeg fabrikant toe
+  en: Add manufacturer
+label_followed_pages:
+  nl: Gevolgde pagina's
+  en: Followed pages
+label_follow:
+  nl: Volgen
+  en: Follow
+label_manufacturer:
+  nl: Fabrikant
+  en: Manufacturer
+label_manufacturers:
+  nl: Fabrikanten
+  en: Manufacturers
+label_management:
+  nl: Beheer
+  en: Management
+label_change_requests:
+  nl: Wijzigingsverzoeken
+  en: Change requests
+label_portfolio:
+  nl: Portfolio
+  en: Portfolio
+label_to_review:
+  nl: Ter beoordeling
+  en: For review
+label_for_verification:
+  nl: Ter beoordeling
+  en: For verification
+label_for_review_by_manufacturer:
+  nl: Ter beoordling door fabrikant
+  en: For verification by manufacturer
+label_new_medicines:
+  nl: Nieuwe geneesmiddelen
+  en: New medicines
+label_new_record:
+  nl: Nieuw record
+  en: New record
+label_unassigned:
+  nl: Niet toegedeeld
+  en: Unassigned
 label_draft:
   nl: Concept
   en: Draft
@@ -138,9 +336,18 @@ label_advice:
 label_active_substance: 
   nl: Werkzame stof
   en: Active substance
+label_main_indication: 
+  nl: Hoofdindicatie
+  en: Main indication
 label_indication: 
   nl: Indicatie
   en: Indication
+label_extended_indication: 
+  nl: Uitgebreide indicatie
+  en: Extended indication
+label_indication_extension: 
+  nl: Indicatieuitbreiding
+  en: Indication extension
 label_indication_group: 
   nl: Indicatiegroep
   en: Indication group
@@ -216,6 +423,85 @@ label_news:
 
 # Messages
 
+message_nothing_to_verify_by_manufacturer:
+  nl: Op dit ogenblik staan er geen beoordelingsverzoeken uit.
+  en: There are currently no verification requests pending.
+message_manufacturer_corrected:
+  nl: Uw correcties zullen beoordeeld worden door het Horizonscan geneesmiddelenteam van Zorginstituut Nederland en zonodig verwerkt in de volgende publicatie.
+  en: Your corrections will be assessed by the Horizonscan geneesmiddelen team of Zorginstituut Nederland. If neccesary they will be processed for the next publication.
+message_review_changes_zin:
+  nl: De volgende documenten zijn bewerkt door Zorginstituut Nederland en kunnen door u nagekeken worden.
+  en: The following documents were edited by Zorginstituut Nederland and may be reviewed by you.
+message_nothing_to_review:
+  nl: Op dit moment hoeft er niets door u nagekeken te worden.
+  en: Currently there is nothing to review for you.
+message_manufacturer_no_new_proposals:
+  nl: U heeft op dit moment geen voorstellen uit staan voor nieuwe geneesmiddelen in Horizonscan Geneesmiddelen.
+  en: You have no proposals for new medicines in Horizonscan Geneesmiddelen at this time.
+message_the_following_documents_were_proposed_by_you:
+  nl: U heeft de volgende nieuwe records voorgesteld voor de volgende publicatie van Horizonscan Geneesmiddelen.  
+  en: You proposed the following new records for the next publication of Horizonscan Geneesmiddelen.   
+message_the_following_documents_were_edited_by_you:
+  nl: De volgende documenten zijn door u bewerkt.
+  en: The following documents were edited by you.
+message_your_changes_will_be_reviewed_by_zin:
+  nl: Uw wijzigingen worden bekeken door Zorginstituut Nederland.
+  en: Your changes will be reviewed by Zorginstituut Nederland. 
+message_manufacturer_no_change_requests:
+  nl: Er zijn op dit moment geen wijzingsverzoeken van u in behandeling.
+  en: There are no change requests of you being processed at this time.
+message_currently_no_records_from_manufacturers:
+  nl: Er zijn op dit moment geen binnengekomen stukken van fabrikanten.
+  en: There are currently no new records from manufacturers.
+
+message_no_info_registration:
+  nl: Er is op dit moment niets bekend over registratie.
+  en: There is currently nothing known about registration.
+message_no_info_other: 
+  nl: Er is op dit moment geen overige informatie.
+  en: There is currently no futher information available.
+message_no_info_indication_extensions: 
+  nl: Er is op dit moment niets bekend over indicatieuitbreidingen.
+  en: There is currently nothing known about indication extensions.
+message_no_info_off_label: 
+  nl: Er is op dit moment niets bekend over off-label gebruik.
+  en: There is currently nothing known about off label use.
+message_no_info_impact: 
+  nl: Er is op dit moment niets bekend over de mogelijke totale kosten.
+  en: There is currently nothing known about the possible total cost.
+message_no_info_cost: 
+  nl: Er is op dit moment niets bekend over de verwachte kosten.
+  en: There is currently nothing known about the expected costs.
+message_no_info_volume: 
+  nl: Er is op dit moment niets bekend over het verwachte patiëntvolume.
+  en: There is currently nothing known about the expected patient volume.
+message_no_info_therapeutical_value: 
+  nl: Er is op dit moment niets bekend over therapeutische waarde en behandelschema.
+  en: There is currently nothing known about therapeutic value and treatment regimen.
+message_no_info_product: 
+  nl: Er is op dit moment niets bekend over het product.
+  en: There is currently nothing known about the product.
+notice_patient_volume: 
+  nl: Marktaandeel wordt in de regel niet meegenomen tenzij anders vermeld.
+  en: Market share is generally not included unless otherwise stated.
+notice_cost: 
+  nl: Dit is de inschatting van de mogelijke kosten per patiënt per jaar. In het opmerkingenveld staat beschreven hoe tot dit bedrag is gekomen.
+  en: This is the estimate of the possible costs per patient per year. The comments box describes how this amount was reached.
+notice_impact: 
+  nl: 'Dit bedrag geeft een <strong>indicatie</strong> van de totale kosten. Het is de uitkomst van het gemiddelde verwacht patiëntvolume maal de gemiddelde kosten per patiënt; beiden per jaar.'
+  en: 'This amount gives an <strong>indication</strong> of the total cost. It is the result of the average expected patient volume times the average cost per patient. both per year.'
+notice_therapeutical_value: 
+  nl:  Deze inschatting doet geen uitspraak over de mogelijke opname in het pakket.
+footnote_cost: 
+  nl: De getoonde getallen betreffen een verwachting over de periode van een jaar. 
+  en: The numbers shown are an expectation over the period of one year.
+footnote_total_cost: 
+  nl: Betreft de mogelijke totale kosten per jaar.
+  en: Concerns the possible total costs per year.
+message_bio_gen_prices:
+  nl: Er zijn geen prijzen bekend van bio similars.
+  en: There are no known prices for bio similars.
+
 message_contact_us_via_form:
   nl: Neem via onderstaand formulier contact op met het Zorginstituut.
   en: Use the form below to contact Zorginstituut.
@@ -243,3 +529,29 @@ message_use_filters_to_alter_view_of_tool_list_p3:
 message_session_expired:
   nl: U bent automatisch uitgelogd, omdat uw sessie verlopen is. U kunt hieronder opnieuw inloggen om verder te gaan.
   en: You were automatically logged out because your session was epxired. Please log in again below to continue.
+
+## Historical
+
+share: 
+  nl: U kunt iemand zonder gebruikersaccount via een link die per e-mail wordt verstuurd toegang geven tot een kopie van dit document. De ontvanger van de e-mail zal het document kunnen bewerken en de voorgestelde wijzigingen kunnen op een later moment overgenomen in de hoofdversie.
+  en: You can give someone without a user account access to a copy of this document via a link sent by email. The recipient of the email will be able to edit the document, and the proposed changes will be reflected in the major version at a later time.
+share_shared: 
+  nl:  '<a href="{0}">Een kopie van dit document</a> is gedeeld met <a href="{1}">{2}</a>. {2} kan deze kopie inzien en bewerken tot en met <strong>{3}</strong>.'
+share_change_accepted: 
+  nl: "De aanpassing van Max Meijer is <strong>geaccepteerd</strong> en opgeslagen in uw werkdocument."
+share_change_rejected: 
+  nl: "De aanpassing van Max Meijer is <strong>verworpen</strong>. Uw werkdocument blijft ongewijzigd. "
+message_revision_of_copy:
+  nl: Dit is een revisie van een kopie dat gedeeld is met en bewerkt werd door Max Meijer.
+  en: This is a revision of a copy which is shared with and edited by Max Meijer.
+edit_copy: 
+  nl: 'Klik bovenaan de pagina op de knop ‘Bewerk’ om dit document te bewerken. Door u aangebrachte wijzigingen zullen publiekelijk zichtbaar zijn zodra <a href="mailto: nicole@vanreemst.nl">Nicole Van Reemst</a> of een andere redacteur uw inhoud geaccepteerd en gepubliceerd heeft.'
+cancel_share: 
+  nl: 'Als u verder gaat wordt het kopie dat u met Max Meijer gedeeld heeft opgeheven. Eventuele inhoudswijzigingsvoorstellen die Max Meijer gedaan heeft blijven wel voor u beschikbaar. Deze handeling kan niet ongedaan gemaakt worden.'
+  en: If you continue, the copy you shared with Max Meijer will be canceled. Any content change proposals Max Meijer has made will remain available to you. This action cannot be undone.
+extend_share: 
+  nl: 'Verleng de levensduur van deze kopie met'
+  en: 'Extend the time to live of this copy by'
+extend_share_explanation: 
+  nl: 'U kunt de kopie op elk moment nog verder verlengen, of opheffen.'
+  en: 'You may extend or cancel the copy at any time.'
