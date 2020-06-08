@@ -1,5 +1,31 @@
-# Labels
+# Snippets
 
+snippet_times_per_day:
+  nl: maal per dag
+  en: times per day
+snippet_times_per_week:
+  nl: maal per week
+  en: times per week
+snippet_times_per_2_weeks:
+  nl: maal per 2 weken
+  en: times per 2 weeks
+snippet_times_per_4_weeks:
+  nl: maal per 4 weken
+  en: times per 4 weeks
+snippet_times_per_month:
+  nl: maal per maand
+  en: times per month
+snippet_times_per_year:
+  nl: maal per jaar
+  en: times per year
+
+# Labels
+label_sources:
+  nl: Bronnen
+  en: Sources
+label_dosage_per_administration:
+  nl: Dosis per toediening
+  en: Dosage per administration
 label_oncology_and_hematology:
   nl: Oncologie en Hematologie
   en: Oncology and Hematology
@@ -33,6 +59,12 @@ label_already_available_biosimilars_generics:
 label_current_brand_name:
   nl: Huidig specialité
   en: Current brand name
+label_yes:
+  nl: Ja
+  en: 'Yes'
+label_no:
+  nl: Nee
+  en: 'No'
 label_brand_name:
   nl: Merknaam
   en: Brand name
@@ -51,6 +83,21 @@ label_current_treatment_options:
 label_therapeutical_value:
   nl: Therapeutische waarde
   en: Therapeutical value
+label_no_judgement:
+  nl: Geen oordeel
+  en: No judgement
+label_substantiation:
+  nl: Onderbouwing
+  en: Substantiation
+label_duration_of_treatment:
+  nl: Behandelduur
+  en: Duration of treatment
+label_average:
+  nl: Gemiddeld
+  en: Average
+label_median:
+  nl: Mediaan
+  en: Median
 label_cost:
   nl: Kosten
   en: Cost
@@ -66,6 +113,9 @@ label_possible_total_cost_per_year:
 label_expected_patient_volume_per_year:
   nl: Verwacht patiëntvolume per jaar
   en: Expected patient volume per year
+label_expected_patient_volume:
+  nl: Verwacht patiëntvolume
+  en: Expected patient volume
 label_expected_cost_per_patient_per_year:
   nl: Verwachte kosten per patiënt per jaar
   en: Expected cost per patient per year
@@ -216,6 +266,9 @@ label_route_of_administration:
 label_administration_form:
   nl: Toedieningsvorm
   en: Administration form
+label_application_frequency:
+  nl: Toedingsfrequentie
+  en: Application frequency
 label_funding_framework:
   nl: Bekostigingskader
   en: Funding framework
@@ -405,6 +458,60 @@ label_type_of_process:
 label_date_of_application:
   nl: Indieningsdatum
   en: Date of application
+label_expected_registration:
+  nl: Verwachte registratie
+  en: Expected Registration
+label_regular_process:
+  nl: Normaal traject
+  en: Regular process
+label_accelerated_assesment:
+  nl: Versnelde beoordeling
+  en: Accelerated assessment
+label_conditional_marketing_authorisation:
+  nl: Conditional marketing authorisation
+  en: Conditional marketing authorisation
+label_adaptive_pathway:
+  nl: Adaptief traject
+  en: Adaptive pathway
+label_orphan_drug:
+  nl: Weesgeneesmiddel
+  en: Orphan drug
+label_january:
+  nl: Januari
+  en: January
+label_february:
+  nl: Februari
+  en: February
+label_march:
+  nl: Maart
+  en: March
+label_april:
+  nl: April
+  en: April
+label_may:
+  nl: Mei
+  en: May
+label_june:
+  nl: Juni
+  en: June
+label_juli:
+  nl: Juli
+  en: July
+label_august:
+  nl: Augustus
+  en: August
+label_september:
+  nl: September
+  en: September
+label_october:
+  nl: Oktober
+  en: October
+label_november:
+  nl: November
+  en: November
+label_december:
+  nl: December
+  en: December
 label_product:
   nl: Product
   en: Product
