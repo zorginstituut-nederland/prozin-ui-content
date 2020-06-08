@@ -20,12 +20,22 @@ snippet_times_per_year:
   en: times per year
 
 # Labels
+
+label_copd:
+  nl: COPD
+  en: COPD
+label_cystic_fibrosis:
+  nl: Taaislijmziekte
+  en: Cystic fibrosis
+label_asthma:
+  nl: Astma
+  en: Asthma
 label_bacterial_infections:
   nl: Bacteriele infecties
   en: Bacterial infections
-label_other_infectious_deseases:
+label_other_infectious_diseases:
   nl: Infectieziekten overig
-  en: Other infectious deseases
+  en: Other infectious diseases
 label_viral_infections:
   nl: Virale infecties
   en: Viral infections
