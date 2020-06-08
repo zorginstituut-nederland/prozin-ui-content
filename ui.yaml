@@ -20,6 +20,15 @@ snippet_times_per_year:
   en: times per year
 
 # Labels
+label_bacterial_infections:
+  nl: Bacteriele infecties
+  en: Bacterial infections
+label_other_infectious_deseases:
+  nl: Infectieziekten overig
+  en: Other infectious deseases
+label_viral_infections:
+  nl: Virale infecties
+  en: Viral infections
 label_other_information:
   nl: Overige informatie
   en: Other information
