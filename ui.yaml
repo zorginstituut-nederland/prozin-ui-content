@@ -27,6 +27,15 @@ label_additional_comments:
 label_off_label_use:
   nl: Off-label gebruik
   en: Off label use
+label_already_available_biosimilars_generics:
+  nl: Reeds beschikbare biosimilars/generieken
+  en: Already available biosimilars/generics
+label_current_brand_name:
+  nl: Huidig specialité
+  en: Current brand name
+label_brand_name:
+  nl: Merknaam
+  en: Brand name
 label_new_medicine_specialite:
   nl: Nieuw middel (specialité)
   en: New medicine (specialité)
@@ -198,6 +207,27 @@ label_new_record:
 label_unassigned:
   nl: Niet toegedeeld
   en: Unassigned
+label_unknown: 
+  nl: Onbekend
+  en: Unknown
+label_route_of_administration:
+  nl: Toedieningsweg
+  en: Route of administration
+label_administration_form:
+  nl: Toedieningsvorm
+  en: Administration form
+label_funding_framework:
+  nl: Bekostigingskader
+  en: Funding framework
+label_intermural:
+  nl: Intramuraal (MSZ)
+  en: Intermural (MSZ)
+label_extramural:
+  nl: Extramuraal (GVS)
+  en: Extramural (GVS)
+label_centre_of_expertise:
+  nl: Expertisecentrum
+  en: Centre of expertise
 label_draft:
   nl: Concept
   en: Draft
@@ -366,6 +396,15 @@ label_dosage:
 label_registration:
   nl: Registratie
   en: Registration
+label_registration_route:
+  nl: Registratieroute
+  en: Registration route
+label_type_of_process:
+  nl: Type traject
+  en: Type of process
+label_date_of_application:
+  nl: Indieningsdatum
+  en: Date of application
 label_product:
   nl: Product
   en: Product
