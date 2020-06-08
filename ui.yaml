@@ -158,18 +158,6 @@ label_send:
 label_therapeutical_value_and_treatment_scheme:
   nl: Therapeutische waarde en behandelschema
   en: Therapeutical value and treatment scheme
-label_about_horizonscan:
-  nl: Over Horizonscan Geneesmiddelen
-  en: About Horizonscan Geneesmiddelen
-message_about_horizonscan:
-  nl: Horizonscan Geneesmiddelen is een integraal, openbaar en zo objectief mogelijk overzicht van welke innovatieve geneesmiddelen op de markt verwacht worden en de mogelijk impact hiervan.
-  en: Horizonscan Geneesmiddelen is an integral, public and as objective as possible overview of innovative medicines which are expected to hit the market and the possible impact thereof.
-label_medicines_overview:
-  nl: Geneesmiddelen
-  en: Medicines
-message_medicines_overview:
-  nl: Een overzicht van innovatieve geneesmiddelen die waarschijnlijk binnen nu en twee jaar op de markt komen en bestaande geneesmiddelen waarbij indicatie-uitbreidingen worden verwacht.
-  en: An overview of innovative medicines that are likely to hit the market within the next two years and existing medicines of which indication extensions are expected.
 label_unassigned: 
   nl: Niet toebedeeld
   en: Unassigned
