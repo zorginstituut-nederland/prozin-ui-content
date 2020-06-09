@@ -198,6 +198,16 @@ label_neurological_disorders:
 label_cardiovascular_diseases:
   nl: Cardiovasculaire aandoeningen 
   en: Cardiovascular diseases
+
+label_potential_loss:
+  nl: Mogelijke minderwaarde
+  en: Potential loss
+label_potential_equal_value:
+  nl: Mogelijke gelijke waarde
+  en: Potential equal value
+label_potential_added_value:
+  nl: Mogelijke meerwaarde
+  en: Potential added value
 label_additional_comments:
   nl: Aanvullende opmerkingen
   en: Additional comments
