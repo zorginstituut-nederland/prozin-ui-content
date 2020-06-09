@@ -20,6 +20,123 @@ snippet_times_per_year:
   en: times per year
 
 # Labels
+label_bowel_diseases:
+  nl: Darmziekten
+  en: Bowel diseases
+label_diabetes:
+  nl: Diabetes
+  en: Diabetes
+label_heart_and_vascular_diseases:
+  nl: Hart- en vaatziekten
+  en: Heart and vascular diseases
+label_haemophilia:
+  nl: Hemofilie
+  en: Haemophilia
+label_liver_diseases:
+  nl: Leverziekten
+  en: Liver diseases
+label_eye_disorders:
+  nl: Oogaandoeningen
+  en: Eye disorders
+label_metabolic_diseases:
+  nl: Stofwisselingsziekten
+  en: Metabolic diseases
+
+label_blood_clotting:
+  en: Blood clotting
+  nl: Bloedstolling
+label_erectile_dysfunction:
+  en: Erectile dysfunction
+  nl: Erectiestoornissen
+label_heart_failure:
+  en: Heart failure
+  nl: Hartfalen
+label_hemostasis:
+  en: Hemostasis
+  nl: Hemostase
+label_thrombosis:
+  en: Thrombosis
+  nl: Trombose
+
+label_pancreatic_cancer:
+  nl: Alvleesklierkanker
+  en: Pancreatic cancer
+label_bladder_cancer:
+  nl: Blaaskanker
+  en: Bladder cancer
+label_breast_cancer:
+  nl: Borstkanker
+  en: Breast cancer
+label_pleural_cancer:
+  nl: Borstvlieskanker
+  en: Pleural cancer
+label_colon_cancer:
+  nl: Darmkanker
+  en: Colon cancer
+label_ovarian_cancer:
+  nl: Eierstokkanker
+  en: Ovarian cancer
+label_brain_cancer:
+  nl: Hersenkanker
+  en: Brain cancer
+label_head_and_neck_cancer:
+  nl: Hoofd- en halskanker
+  en: Head and neck cancer
+label_skin_cancer:
+  nl: Huidkanker
+  en: Skin cancer
+label_leukemia:
+  nl: Leukemie
+  en: Leukemia
+label_liver_cancer:
+  nl: Leverkanker
+  en: Liver cancer
+label_lung_cancer:
+  nl: Longkanker
+  en: Lung cancer
+label_lymph_node_cancer:
+  nl: Lymfeklierkanker
+  en: Lymph node cancer
+label_stomach_cancer:
+  nl: Maagkanker
+  en: Stomach cancer
+label_multiple_myeloma:
+  nl: Multipel Myeloma
+  en: Multiple Myeloma
+label_neuroendocrine_cancer:
+  nl: Neuro-endocriene kanker
+  en: Neuroendocrine cancer
+label_kidney_cancer:
+  nl: Nierkanker
+  en: Kidney cancer
+label_prostate_cancer:
+  nl: Prostaatkanker
+  en: Prostate cancer
+
+label_dementia:
+  nl: Dementie
+  en: Dementia
+label_headache:
+  nl: Hoofdpijn
+  en: Headache
+label_other_neurology:
+  nl: Neurologie overig
+  en: Other neurology
+label_eye_disorders:
+  nl: Oogaandoeningen
+  en: Eye disorders
+label_parkinsons:
+  nl: Parkinson
+  en: Parkinson's
+label_psychiatry:
+  nl: Psychiatrie
+  en: Psychiatry
+label_sleep_disturbances:
+  nl: Slaapstoornissen
+  en: Sleep disturbances
+label_muscular_diseases:
+  nl: Spierziekten
+  en: Muscular diseases
 
 label_copd:
   nl: COPD
@@ -60,6 +177,15 @@ label_metabolism_and_endocrinology:
 label_chronic_immune_diseases:
   nl: Chronische immuunziekten
   en: Chronic immune diseases
+label_skin_diseases:
+  nl: Huidziekten
+  en: Skin diseases
+label_rheumatism:
+  nl: Reuma
+  en: Rheumatism
+label_other_chronic_immune_diseases:
+  nl: Chronische immuunziekten overig
+  en: Other chronic immune diseases
 label_infection_diseases:
   nl: Infectieziekten
   en: Infection diseases
