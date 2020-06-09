@@ -20,6 +20,164 @@ snippet_times_per_year:
   en: times per year
 
 # Labels
+
+label_auricular:
+  nl: Auriculair
+  en: Auricular
+label_cutaneous:
+  nl: Cutaan
+  en: Cutaneous
+label_dental:
+  nl: Dentaal
+  en: Dental
+label_endocervical:
+  nl: Endocervicaal
+  en: Endocervical
+label_endotracheal_pulmonary:
+  nl: Endotracheopulmonair
+  en: Endotracheal pulmonary
+label_epidural:
+  nl: Epiduraal
+  en: Epidural
+label_epilesional:
+  nl: Epilesionaal
+  en: Epilesional
+label_extracorporeal:
+  nl: Extracorporaal
+  en: Extracorporeal
+label_gastroenteral:
+  nl: Gastro-enteraal
+  en: Gastroenteral
+label_inhalation:
+  nl: Inhalatie
+  en: Inhalation
+label_intra-arterial:
+  nl: Intra-arterieel
+  en: Intra-arterial
+label_intra-articular:
+  nl: Intra-articulair
+  en: Intra-articular
+label_intra-fellow:
+  nl: Intrabursaal
+  en: Intra-fellow
+label_intracardiac:
+  nl: Intracardiaal
+  en: Intracardiac
+label_intracavernous:
+  nl: Intracaverneus
+  en: Intracavernous
+label_intracoronary:
+  nl: Intracoronair
+  en: Intracoronary
+label_intrader_meal:
+  nl: Intradermaal
+  en: Intrader meal
+label_intralesional:
+  nl: Intralaesionaal
+  en: Intralesional
+label_intralymphatic:
+  nl: Intralymfatisch
+  en: Intralymphatic
+label_intramuscular:
+  nl: Intramusculair
+  en: Intramuscular
+label_intraocular:
+  nl: Intra-oculair
+  en: Intraocular
+label_intraosseous:
+  nl: Intraossaal
+  en: Intraosseous
+label_intraperitoneal:
+  nl: Intraperitoneaal
+  en: Intraperitoneal
+label_intrapleural:
+  nl: Intrapleuraal
+  en: Intrapleural
+label_intrathecal:
+  nl: Intrathecaal
+  en: Intrathecal
+label_intratumoral:
+  nl: Intratumoraal
+  en: Intratumoral
+label_intrauterine:
+  nl: Intra-uterien
+  en: Intrauterine
+label_intravenous:
+  nl: Intraveneus
+  en: Intravenous
+label_intravesical:
+  nl: Intravesicaal
+  en: Intravesical
+label_intravitreal:
+  nl: Intravitreaal
+  en: Intravitreal
+label_local:
+  nl: Lokaal
+  en: Local
+label_nasal:
+  nl: Nasaal
+  en: Nasal
+label_unspecified:
+  nl: Niet gespecificeerd 
+  en: Unspecified
+label_not_applicable:
+  nl: Niet van toepassing
+  en: Not applicable
+label_eyepiece:
+  nl: Oculair
+  en: Eyepiece
+label_oral:
+  nl: Oraal
+  en: Oral
+label_oromucosal:
+  nl: Oromucosaal
+  en: Oromucosal
+label_parabulbar:
+  nl: Parabulbair
+  en: Parabulbar
+label_peri-articular:
+  nl: Peri-articulair
+  en: Peri-articular
+label_peribulbar:
+  nl: Peribulbair
+  en: Peribulbar
+label_perineural:
+  nl: Perineuraal
+  en: Perineural
+label_peritumoral:
+  nl: Peritumoraal
+  en: Peritumoral
+label_rectal:
+  nl: Rectaal
+  en: Rectal
+label_retrobulbar:
+  nl: Retrobulbair
+  en: Retrobulbar
+label_subconjunctival:
+  nl: Subconjunctivaal
+  en: Subconjunctival
+label_subcutaneously:
+  nl: Subcutaan
+  en: Subcutaneously
+label_sublingual:
+  nl: Sublinguaal
+  en: Sublingual
+label_submucosal:
+  nl: Submucosaal
+  en: Submucosal
+label_transdermal:
+  nl: Transdermaal
+  en: Transdermal
+label_urethral:
+  nl: Urethraal
+  en: Urethral
+label_vaginal:
+  nl: Vaginaal
+  en: Vaginal
+label_for_implantation:
+  nl: Voor implantatie
+  en: For implantation
+  
 label_bowel_diseases:
   nl: Darmziekten
   en: Bowel diseases
