@@ -285,7 +285,7 @@ label_unknown:
 label_route_of_administration:
   nl: Toedieningsweg
   en: Route of administration
-label_administration_form:
+label_form_of_administration:
   nl: Toedieningsvorm
   en: Administration form
 label_application_frequency:
