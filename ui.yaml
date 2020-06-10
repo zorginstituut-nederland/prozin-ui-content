@@ -988,9 +988,18 @@ label_older_publications:
 label_save:
   nl: Bewaar
   en: Save
+label_save_as:
+  nl: Bewaar als
+  en: Save as
+label_save_and_close:
+  nl: Bewaar en sluit
+  en: Save and close
 label_cancel:
   nl: Annuleer
   en: Cancel
+label_delete:
+  nl: Verwijder
+  en: Delete
 label_send:
   nl: Verstuur
   en: Send
