@@ -901,6 +901,18 @@ label_yes:
 label_no:
   nl: Nee
   en: 'No'
+label_year:
+  nl: Jaar
+  en: Year
+label_amount:
+  nl: Aantal
+  en: Amount
+label_minimum:
+  nl: Minimum
+  en: Minimum
+label_maximum:
+  nl: Maximum
+  en: Maximum
 label_brand_name:
   nl: Merknaam
   en: Brand name
