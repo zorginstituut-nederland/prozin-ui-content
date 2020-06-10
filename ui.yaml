@@ -1528,7 +1528,7 @@ message_help_therapeutical_value:
 message_help_substantiation:
   nl: Onderbouwing van de therapeutische waarde.
   en: Substantiation of the therapeutic value.
-message_help_duration_of_treatmet:
+message_help_duration_of_treatment:
   nl: Dit betreft de gemiddelde behandelduur.
   en: This concerns the average duration of treatment.
 message_help_sources:
