@@ -1421,6 +1421,18 @@ label_the_tools:
 label_news:
   nl: Nieuws
   en: News
+label_history:
+  nl: Geschiedenis
+  en: History
+label_share:
+  nl: Deel
+  en: Share
+label_duplicate:
+  nl: Dupliceer
+  en: Duplicate
+label_send_verification_request:
+  nl: Stuur een verificatieverzoek naar fabrikant
+  en: Send a verification request to the manufacturer
 
 # Messages
 
@@ -1606,6 +1618,10 @@ message_revision_of_copy:
   en: This is a revision of a copy which is shared with and edited by Max Meijer.
 edit_copy: 
   nl: 'Klik bovenaan de pagina op de knop ‘Bewerk’ om dit document te bewerken. Door u aangebrachte wijzigingen zullen publiekelijk zichtbaar zijn zodra <a href="mailto: nicole@vanreemst.nl">Nicole Van Reemst</a> of een andere redacteur uw inhoud geaccepteerd en gepubliceerd heeft.'
+  en: 'Klik bovenaan de pagina op de knop ‘Bewerk’ om dit document te bewerken. Door u aangebrachte wijzigingen zullen publiekelijk zichtbaar zijn zodra <a href="mailto: nicole@vanreemst.nl">Nicole Van Reemst</a> of een andere redacteur uw inhoud geaccepteerd en gepubliceerd heeft.'
+edit_copy_expiration:
+  nl: Tekst onbreekt
+  en: Text is missing 
 cancel_share: 
   nl: 'Als u verder gaat wordt het kopie dat u met Max Meijer gedeeld heeft opgeheven. Eventuele inhoudswijzigingsvoorstellen die Max Meijer gedaan heeft blijven wel voor u beschikbaar. Deze handeling kan niet ongedaan gemaakt worden.'
   en: If you continue, the copy you shared with Max Meijer will be canceled. Any content change proposals Max Meijer has made will remain available to you. This action cannot be undone.
