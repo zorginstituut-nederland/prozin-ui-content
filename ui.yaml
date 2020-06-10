@@ -833,13 +833,16 @@ label_exptected_market_share:
 label_dosage_per_administration:
   nl: Dosis per toediening
   en: Dosage per administration
-label_oncology_and_hematology:
+# Label should match the ldap workgroup  
+label_oncologie-en-hematologie:
   nl: Oncologie en Hematologie
   en: Oncology and Hematology
-label_metabolism_and_endocrinology:
+# Label should match the ldap workgroup
+label_stofwisseling-en-endocrinologie:
   nl: Stofwisseling en Endocrinologie
   en: Metabolism and Endocrinology
-label_chronic_immune_diseases:
+# Label should match the ldap workgroup  
+label_chronische-immuunziekten:
   nl: Chronische immuunziekten
   en: Chronic immune diseases
 label_skin_diseases:
@@ -851,16 +854,20 @@ label_rheumatism:
 label_other_chronic_immune_diseases:
   nl: Chronische immuunziekten overig
   en: Other chronic immune diseases
-label_infection_diseases:
+# Label should match the ldap workgroup  
+label_infectieziekten:
   nl: Infectieziekten
   en: Infection diseases
-label_lung_diseases_general:
+# Label should match the ldap workgroup  
+label_longziekten-algemeen:
   nl: Longziekten algemeen
   en: Lung diseases general
-label_neurological_disorders:
+# Label should match the ldap workgroup  
+label_neurologische-aandoeningen:
   nl: Neurologische aandoeningen
   en: Neurological disorders
-label_cardiovascular_diseases:
+# Label should match the ldap workgroup  
+label_cardiovasculaire-aandoeningen:
   nl: Cardiovasculaire aandoeningen 
   en: Cardiovascular diseases
 
@@ -978,7 +985,8 @@ label_send:
 label_therapeutical_value_and_treatment_scheme:
   nl: Therapeutische waarde en behandelschema
   en: Therapeutical value and treatment scheme
-label_unassigned: 
+# Label should match the ldap workgroup  
+label_niet-toegedeeld: 
   nl: Niet toebedeeld
   en: Unassigned
 label_new_by_manufacturers:
@@ -1077,9 +1085,6 @@ label_new_medicines:
 label_new_record:
   nl: Nieuw record
   en: New record
-label_unassigned:
-  nl: Niet toegedeeld
-  en: Unassigned
 label_unknown: 
   nl: Onbekend
   en: Unknown
