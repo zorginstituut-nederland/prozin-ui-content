@@ -1561,6 +1561,19 @@ message_help_indication_extensions:
 message_help_additional_comments:
   nl: Zijn er nog overige algemene opmerkingen?
   en: Are there any other general comments?
+message_document_being_edited_by_other_user:
+  nl: 'Dit document wordt momenteel bewerkt door gebruiker &apos;<strong>maria065</strong>&apos;.'
+  en: 'This document is currently being edited by user &apos;<strong>maria065</strong>&apos;.'
+message_the_request_for_pipeline_was_sent_successfully:
+  nl: De uitvraag is verstuurd.
+  en: The request for pipeline was sent succesfully.
+message_this_is_an_unpublished_concept:
+  nl: Dit is een ogepubliceerd concept.
+  en: This is an unpublished concept.
+message_changes_to_this_revision_are_visible_after_publication:
+  nl: <strong>Wijzigingen in deze revisie</strong> zijn pas na publicatie 
+         zichtbaar in de <a href="#" target="_blank">publieke kopie</a>.
+  en: <strong>Changes to this revision</strong> are visible after publication in the <a href="#" target="_blank">public copy</a>.
 
 ## Historical
 
