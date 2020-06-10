@@ -1534,6 +1534,21 @@ message_help_duration_of_treatmet:
 message_help_sources:
   nl: "Dit betreft bronnen buiten de expertopinie."
   en: "This concerns sources outside the expert opinion."
+message_help_patient_volume:
+  nl: "Als er een exact aantal bekend is voor het patiëntvolume, vul dit aantal dan in beide velden in. In de weergave zal dit aantal maar één keer getoond worden."
+  en: "If an exact number is known for the patient volume, enter this number in both fields. The display will show this number only once."
+message_help_cost:
+  nl: "Als er een exact bedrag bekend is voor de kosten, vul dit bedrag dan in beide velden in. In de weergave zal dit bedrag maar één keer getoond worden."
+  en: If an exact amount is known for the costs, enter this amount in both fields. In the display this amount will only be shown once.
+message_help_indications_off_label_use:
+  nl: Bij welke indicaties wordt off-labelgebruik verwacht?
+  en: In which indications is off-label use expected?
+message_help_indication_extensions:
+  nl: "Welke indicatieuitbreiding(en) wordt/worden er verwacht?"
+  en: "Which indication extensions are expected?"
+message_help_additional_comments:
+  nl: Zijn er nog overige algemene opmerkingen?
+  en: Are there any other general comments?
 
 ## Historical
 
