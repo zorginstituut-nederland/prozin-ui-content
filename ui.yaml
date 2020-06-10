@@ -1506,12 +1506,34 @@ message_use_filters_to_alter_view_of_tool_list_p3:
 message_session_expired:
   nl: U bent automatisch uitgelogd, omdat uw sessie verlopen is. U kunt hieronder opnieuw inloggen om verder te gaan.
   en: You were automatically logged out because your session was epxired. Please log in again below to continue.
-message_write_active_substance_in_lowercase:
+
+message_help_active_subtance:
   nl: Schrijf een stofnaam altijd in onderkast.
   en: Always write the active substance in lowercase. 
-message_the_indication_derives_from_the_registered_indication:
+message_help_main_indication:
   nl: "De indicatie is afgeleid van de geregistreerde indicatie, maar is korter."
   en: "The indication name derives from the registered indication, yet shorter."
+message_help_extended_indication:
+  nl: "Schrijf een beknopte verbijzondering van de hoofdindicatie. Gebruik het opmerkingenveld onder 'Product' voor eventuele verdere toelichting."
+  en: "Write a brief description of the main indication. Use the comments field under 'Product' for any further explanation."
+message_help_registration_route:
+  nl: "De registratieroute maakt duidelijk waar het middel aangemeld is ter registratie."
+  en: The registration route makes clear where the product is registered for registration.
+message_help_type_of_process:
+  nl: Welk type registratietraject is van toepassing?
+  en: Which type of registration process applies?
+message_help_therapeutical_value:
+  nl: "Wat is de verwachte toegevoegde therapeutische waarde van het middel t.o.v. de huidige behandelopties?"
+  en: What is the added therapeutic value of the medicine compared to current treatment options?
+message_help_substantiation:
+  nl: Onderbouwing van de therapeutische waarde.
+  en: Substantiation of the therapeutic value.
+message_help_duration_of_treatmet:
+  nl: Dit betreft de gemiddelde behandelduur.
+  en: This concerns the average duration of treatment.
+message_help_sources
+  nl: "Dit betreft bronnen buiten de expertopinie."
+  en: "This concerns sources outside the expert opinion."
 
 ## Historical
 
