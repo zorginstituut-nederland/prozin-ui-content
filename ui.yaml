@@ -1531,7 +1531,7 @@ message_help_substantiation:
 message_help_duration_of_treatmet:
   nl: Dit betreft de gemiddelde behandelduur.
   en: This concerns the average duration of treatment.
-message_help_sources
+message_help_sources:
   nl: "Dit betreft bronnen buiten de expertopinie."
   en: "This concerns sources outside the expert opinion."
 
