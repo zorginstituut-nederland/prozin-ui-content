@@ -20,6 +20,215 @@ snippet_times_per_year:
   en: times per year
 
 # Labels
+
+label_enzyme_replacement_therapy:
+  nl: Enzymvervangende therapie
+  en: Enzyme replacement therapy
+label_pd_1_pd_l1_inhibitor:
+  nl: PD-1/PD-L1 remmer
+  en: PD-1 / PD-L1 inhibitor
+label_sglt_inhibitor:
+  nl: SGLT-remmer
+  en: SGLT inhibitor
+label_tyrosine_kinase_inhibitor:
+  nl: Tyrosine kinase remmer
+  en: Tyrosine kinase inhibitor
+label_alkylating_drug:
+  nl: Alkylerend geneesmiddel
+  en: Alkylating drug
+label_allergen:
+  nl: Allergeen
+  en: Allergen
+label_allogeneic_modified_cell_therapy:
+  nl: Allogene gemodificeerde celtherapie
+  en: Allogeneic modified cell therapy
+label_amino_acid:
+  nl: Aminozuur
+  en: Amino acid
+label_otherwise,_see_comments_box:
+  nl: Anders, zie opmerkingenveld
+  en: Otherwise, see comments box
+label_angiogenesis_inhibitor:
+  nl: Angiogeneseremmer
+  en: Angiogenesis inhibitor
+label_anti_androgen:
+  nl: Anti-androgeen
+  en: Anti-androgen
+label_antibiotic:
+  nl: Antibioticum
+  en: Antibiotic
+label_antihistamine:
+  nl: Antihistamine
+  en: Antihistamine
+label_antibody_drug_conjugate:
+  nl: Antilichaam-geneesmiddel conjugaat
+  en: Antibody-drug conjugate
+label_antifungals:
+  nl: Antimycoticum
+  en: Antifungals
+label_antioxidant:
+  nl: Antioxidant
+  en: Antioxidant
+label_antisense_oligonucleotide:
+  nl: Antisense oligonucleotide
+  en: Antisense oligonucleotide
+label_anti_clotting_factor:
+  nl: Antistollingsfactor
+  en: Anti-clotting factor
+label_autologous_modified_cell_therapy:
+  nl: Autologe gemodificeerde celtherapie
+  en: Autologous modified cell therapy
+label_bcl_2_inhibitor:
+  nl: Bcl-2 remmer
+  en: Bcl-2 inhibitor
+label_bet_inhibitor:
+  nl: BET remmer
+  en: BET inhibitor
+label_calcineurin_inhibitor:
+  nl: Calcineurineremmer
+  en: Calcineurin inhibitor
+label_cannabidoid:
+  nl: Cannabidoïde
+  en: Cannabidoid
+label_car_t_therapy:
+  nl: CAR-T therapie
+  en: CAR-T therapy
+label_cdk4_6_tyrosine_kinase_inhibitor:
+  nl: CDK4/6 tyrosine kinaseremmer
+  en: CDK4 / 6 tyrosine kinase inhibitor
+label_cfs1r_inhibitor:
+  nl: CFS1R remmer
+  en: CFS1R inhibitor
+label_cgrp_directed_antibody:
+  nl: CGRP-gericht antilichaam
+  en: CGRP-directed antibody
+label_chelating_agent:
+  nl: Cheleermiddel
+  en: Chelating agent
+label_combination_therapy:
+  nl: Combinatietherapie
+  en: Combination therapy
+label_complement_system_braking:
+  nl: Complementsysteemremming
+  en: Complement system braking
+label_corticosteroid:
+  nl: Corticosteroïd
+  en: Corticosteroid
+label_ctla_4_antibody:
+  nl: CTLA-4 antilichaam
+  en: CTLA-4 antibody
+label_cytostatic:
+  nl: Cytostaticum
+  en: Cytostatic
+label_disinfectant:
+  nl: Desinfectant
+  en: Disinfectant
+label_protein_chaperone:
+  nl: Eiwitchaperone
+  en: Protein chaperone
+label_enzyme:
+  nl: Enzym
+  en: Enzyme
+label_enzyme_inhibitor:
+  nl: Enzymremmer
+  en: Enzyme inhibitor
+label_gene_therapy:
+  nl: Gentherapie
+  en: Gene therapy
+label_glp_1_receptor_agonist:
+  nl: GLP-1 receptoragonist
+  en: GLP-1 receptor agonist
+label_glucagon_analogue:
+  nl: Glucagonanaloog
+  en: Glucagon analogue
+label_growth_factor:
+  nl: Groeifactor
+  en: Growth factor
+label_hiv_inhibitor:
+  nl: HIV remmer
+  en: HIV inhibitor
+label_hormonal_therapy:
+  nl: Hormonale therapie
+  en: Hormonal therapy
+label_immunostimulation:
+  nl: Immunostimulatie
+  en: Immunostimulation
+label_immunosuppression:
+  nl: Immunosuppressie
+  en: Immunosuppression
+label_insulin_preparation:
+  nl: Insulinepreparaat
+  en: Insulin preparation
+label_interferon_inhibitor:
+  nl: Interferonremmer
+  en: Interferon inhibitor
+label_interleukin_inhibitor:
+  nl: Interleukineremmer
+  en: Interleukin inhibitor
+label_jak_tyrosine_kinase_inhibitor:
+  nl: JAK tyrosine kinaseremmer
+  en: JAK tyrosine kinase inhibitor
+label_cancer_vaccine:
+  nl: Kankervaccin
+  en: Cancer vaccine
+label_laba_ics:
+  nl: LABA/ICS
+  en: LABA / ICS
+label_laba_lama:
+  nl: LABA/LAMA
+  en: LABA / LAMA
+label_laba_lama_ics:
+  nl: LABA/LAMA/ICS
+  en: LABA / LAMA / ICS
+label_lama:
+  nl: LAMA
+  en: LAMA
+label_mek_kinase_inhibitor:
+  nl: MEK kinaseremmer
+  en: MEK kinase inhibitor
+label_sodium_channel_blocker:
+  nl: Natriumkanaalblokker
+  en: Sodium channel blocker
+label_neurotoxin:
+  nl: Neurotoxine
+  en: Neurotoxin
+label_neurotransmitter:
+  nl: Neurotransmitter
+  en: Neurotransmitter
+label_oncolytic_adenovirus:
+  nl: Oncolytisch adenovirus
+  en: Oncolytic adenovirus
+label_other:
+  nl: Overig
+  en: Other
+label_parp_inhibitor:
+  nl: PARP-remmer
+  en: PARP inhibitor
+label_proteasome_inhibitor:
+  nl: Proteasoomremmer
+  en: Proteasome inhibitor
+label_receptor_agonist:
+  nl: Receptoragonist
+  en: Receptor agonist
+label_receptor_antagonist:
+  nl: Receptorantagonist
+  en: Receptor antagonist
+label_serine_threonine_kinase_inhibitor:
+  nl: Serine/threonine kinaseremmer
+  en: Serine / threonine kinase inhibitor
+label_clotting_factor:
+  nl: Stollingsfactor
+  en: Clotting factor
+label_thrombin_inhibitor:
+  nl: Trombineremmer
+  en: Thrombin inhibitor
+label_vasodilator:
+  nl: Vasodilator
+  en: Vasodilator
+label_virus_inhibitor:
+  nl: Virusremmer
+  en: Virus inhibitor
+
 label_national_cbg:
   nl: Nationaal (CBG)
   en: National (CBG)
@@ -1292,6 +1501,12 @@ label_indication_group:
 label_indications: 
   nl: Indicaties
   en: Indications
+label_mechanism_of_action:
+  nl: Werkingsmechanisme
+  en: Mechanism of action
+label_particularity:
+  nl: Bijzonderheid
+  en: Particularity
 label_side_effects: 
   nl: Bijwerkingen
   en: Side effects
@@ -1307,6 +1522,9 @@ label_registration:
 label_registration_route:
   nl: Registratieroute
   en: Registration route
+registration_phase: 
+  nl: Registratiefase
+  en: Registration phase
 label_type_of_process:
   nl: Type traject
   en: Type of process
