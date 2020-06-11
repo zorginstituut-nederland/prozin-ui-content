@@ -229,6 +229,31 @@ label_virus_inhibitor:
   nl: Virusremmer
   en: Virus inhibitor
 
+label_registered_and_reimbursed:
+  en: Registered and reimbursed
+  nl: Geregistreerd en vergoed
+label_registered_and_not_reimbursed:
+  en: Registered and not reimbursed
+  nl: Geregistreerd en niet vergoed
+label_registered:
+  en: Registered
+  nl: Geregistreerd
+label_positive_chmp_opinion:
+  en: Positive CHMP opinion
+  nl: Positieve CHMP-opinie
+label_negative_chmp_opinion:
+  en: Negative CHMP opinion
+  nl: Negatieve CHMP-opinie
+label_registration_application_pending:
+  en: Registration application pending
+  nl: Registratieaanvraag in behandeling
+label_clinical_studies:
+  en: Clinical studies
+  nl: Klinische studies
+label_withdrawn:
+  en: Withdraw
+  nl: Teruggetrokkenn
+
 label_national_cbg:
   nl: Nationaal (CBG)
   en: National (CBG)
@@ -1522,7 +1547,7 @@ label_registration:
 label_registration_route:
   nl: Registratieroute
   en: Registration route
-registration_phase: 
+label_registration_phase: 
   nl: Registratiefase
   en: Registration phase
 label_type_of_process:
