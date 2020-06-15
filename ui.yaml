@@ -1286,6 +1286,15 @@ label_grouped_by_submission_date:
 label_grouped_by_reason_of_inclusion:
   nl: Ingedeeld op reden van opname in Horizonscan Geneesmiddelen
   en: Grouped by reason of inclusion in Horizonscan Geneesmiddelen
+label_grouped_by_mechanism_of_action:
+  nl: Ingedeeld op werkingsmechanisme
+  en: Grouped by mechanism of action
+label_grouped_by_particularity:
+  nl: Ingedeeld op bijzonderheid
+  en: Grouped by particularity
+label_grouped_by_registration_phase: 
+  nl: Ingedeeld op registratiefase
+  en: Grouped by registration phase  
 label_ungrouped:
   nl: Zonder indeling
   en: Ungrouped
