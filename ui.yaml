@@ -23,6 +23,9 @@ snippet_times_per_year:
 label_replace_photo:
   nl: Vervang foto
   en: Replace photo
+label_upload_photo:
+  nl: Laad een foto op
+  en: Upload a photo
 label_role_scanner:
   nl: Scanner
   en: Scanner
