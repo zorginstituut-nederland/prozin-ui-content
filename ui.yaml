@@ -20,7 +20,24 @@ snippet_times_per_year:
   en: times per year
 
 # Labels
-
+label_replace_photo:
+  nl: Vervang foto
+  en: Replace photo
+label_role_scanner:
+  nl: Scanner
+  en: Scanner
+label_role_workgroup_member:
+  nl: Werkgroeplid
+  en: Workgroup member
+label_role_bystander:
+  nl: Lezer
+  en: Bystander
+label_role_administrator:
+  nl: Beheerder
+  en: Administrator
+label_role_manufacturer:
+  nl: Fabrikant
+  en: Manufacturer
 label_enzyme_replacement_therapy:
   nl: Enzymvervangende therapie
   en: Enzyme replacement therapy
@@ -1355,6 +1372,9 @@ label_new_record:
 label_unknown: 
   nl: Onbekend
   en: Unknown
+label_role:
+  nl: Rol
+  en: Role
 label_route_of_administration:
   nl: Toedieningsweg
   en: Route of administration
