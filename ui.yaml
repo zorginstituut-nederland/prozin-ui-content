@@ -1070,7 +1070,7 @@ label_bacterial_infections:
   nl: Bacteriele infecties
   en: Bacterial infections
 label_other_infectious_diseases:
-  nl: Infectieziekten overig
+  nl: Overige infectieziekten overig
   en: Other infectious diseases
 label_viral_infections:
   nl: Virale infecties
@@ -1145,7 +1145,7 @@ label_indications_off_label_use:
   en: Indications off label use
 label_already_available_biosimilars_generics:
   nl: Reeds beschikbare biosimilars/generieken
-  en: Already available biosimilars/generics
+  en: Already available biosimilars / generics
 label_current_brand_name:
   nl: Huidig specialité
   en: Current brand name
