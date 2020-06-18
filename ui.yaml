@@ -1747,9 +1747,18 @@ label_zorginstituut_edits_a_record:
 label_edit_a_record:
   nl: Een record bewerken
   en: Edit a record
+label_request_for_pipeline:
+  nl: Uitvraag
+  en: Request for pipeline
 
 # Messages
 
+message_process_request_for_pipeline:
+  nl: Zorginstituut Nederland nodigt u per e-mail uit om te reageren op onze uitvraag.
+  en: Zorginstituut Nederland invites you by e-mail to respond to our request for pipeline information.
+message_process_new_record_by_manufacturer:
+  en: The manufacturer creates a new record for any upcoming medicine, indication extension, generic medicine or biosimilar.
+  nl: De fabrikant creëert een nieuw record voor elk aankomend geneesmiddel, indicatieuitbreiding, generiek geneesmiddel of biosimilar.
 message_process_zorginstituut_edits_a_record:
   nl: Zorginstituut Nederlands bewerkt een nieuw of bestaand record voor de volgende publicatie van Horizonscan Geneesmiddelen.
   en: Zorginstituut Nederlands edits a new or existing record for the next publication of Horizonscan Geneesmiddelen.
