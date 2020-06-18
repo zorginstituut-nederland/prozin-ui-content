@@ -20,6 +20,18 @@ snippet_times_per_year:
   en: times per year
 
 # Labels
+label_log_out:
+  nl: Log uit
+  en: Log out
+label_my_profile:
+  nl: Mijn profiel
+  en: My profile
+label_change_password:
+  nl: Wijzig wachtwoord
+  en: Change password
+label_preferences:
+  nl: Voorkeuren
+  en: Preferences
 label_replace_photo:
   nl: Vervang foto
   en: Replace photo
