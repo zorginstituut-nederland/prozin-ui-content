@@ -1387,6 +1387,9 @@ label_for_verification:
 label_for_review_by_manufacturer:
   nl: Ter beoordling door fabrikant
   en: For verification by manufacturer
+label_verification_by_manufacturer:
+  nl: Beoordeling door fabrikant
+  en: Verification by manufacturer
 label_new_medicines:
   nl: Nieuwe geneesmiddelen
   en: New medicines
@@ -1747,6 +1750,12 @@ label_edit_a_record:
 
 # Messages
 
+message_process_zorginstituut_edits_a_record:
+  nl: Zorginstituut Nederlands bewerkt een nieuw of bestaand record voor de volgende publicatie van Horizonscan Geneesmiddelen.
+  en: Zorginstituut Nederlands edits a new or existing record for the next publication of Horizonscan Geneesmiddelen.
+message_process_manufacturer_verifies:
+  nl: De fabrikant bekijkt de wijzigingen die Zorginstituut Nederland aangebracht heeft. Dit is het moment voor de fabrikant om ontbrekende of foutieve informatie op te merken. 
+  en: The manufacturer reviews the changes by Zorginstituut Nederland and has the oppurtunity to point out missing or faulty information.
 message_process_published:
   nl: Adipiscing elit, sed do eiusmod tempor incididunt dolor sit amet, consectetur  ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
   en: Adipiscing elit, sed do eiusmod tempor incididunt dolor sit amet, consectetur  ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
@@ -1763,8 +1772,8 @@ message_nothing_to_verify_by_manufacturer:
   nl: Op dit ogenblik staan er geen beoordelingsverzoeken uit.
   en: There are currently no verification requests pending.
 message_manufacturer_corrected:
-  nl: Uw correcties zullen beoordeeld worden door het Horizonscan geneesmiddelenteam van Zorginstituut Nederland en zonodig verwerkt in de volgende publicatie.
-  en: Your corrections will be assessed by the Horizonscan geneesmiddelen team of Zorginstituut Nederland. If neccesary they will be processed for the next publication.
+  nl: Uw correcties zullen beoordeeld worden door het Horizonscan Geneesmiddelenteam van Zorginstituut Nederland en zonodig verwerkt in de volgende publicatie.
+  en: Your corrections will be assessed by the Horizonscan Geneesmiddelen team of Zorginstituut Nederland. If neccesary they will be processed for the next publication.
 message_review_changes_zin:
   nl: De volgende documenten zijn bewerkt door Zorginstituut Nederland en kunnen door u nagekeken worden.
   en: The following documents were edited by Zorginstituut Nederland and may be reviewed by you.
