@@ -20,6 +20,12 @@ snippet_times_per_year:
   en: times per year
 
 # Labels
+label_read_more:
+  nl: Lees meer…
+  en: Read more…
+label_step:
+  nl: Stap
+  en: Step
 label_log_out:
   nl: Log uit
   en: Log out
@@ -1363,6 +1369,9 @@ label_manufacturers:
 label_management:
   nl: Beheer
   en: Management
+label_change_request:
+  nl: Wijzigingsverzoek
+  en: Change request
 label_change_requests:
   nl: Wijzigingsverzoeken
   en: Change requests
@@ -1426,6 +1435,9 @@ label_revert:
 label_publish:
   nl: Publiceer
   en: Publish
+label_published:
+  nl: Gepubliceerd
+  en: Published
 label_edit:
   nl: Bewerk
   en: Edit
@@ -1720,9 +1732,24 @@ label_duplicate:
 label_send_verification_request:
   nl: Stuur een verificatieverzoek naar fabrikant
   en: Send a verification request to the manufacturer
+label_change_request_by_manufacturer:
+  nl: Wijzigingsverzoek door fabrikant
+  en: Change request by manufacturer
+review_by_zorginstituut: 
+  nl: Review door Zorginstituut
+  en: Review by Zorginstituut
 
 # Messages
 
+message_process_published:
+  nl: Adipiscing elit, sed do eiusmod tempor incididunt dolor sit amet, consectetur  ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+  en: Adipiscing elit, sed do eiusmod tempor incididunt dolor sit amet, consectetur  ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+message_process_review_by_zorginstituut:
+  nl: Adipiscing elit, sed do eiusmod tempor incididunt dolor sit amet, consectetur  ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+  en: Adipiscing elit, sed do eiusmod tempor incididunt dolor sit amet, consectetur  ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+message_process_change_request:
+  nl: Een fabrikant mag op elk moment een bestaand record bewerken.
+  en: A manufacturer may edit an existing record at any time.
 message_log_motivation_for_save:
   nl: Log een motivatie voor deze mutatie (optioneel).
   en: Write a motivation for this mutation (optional).
