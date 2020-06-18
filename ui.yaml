@@ -1735,9 +1735,15 @@ label_send_verification_request:
 label_change_request_by_manufacturer:
   nl: Wijzigingsverzoek door fabrikant
   en: Change request by manufacturer
-review_by_zorginstituut: 
+label_review_by_zorginstituut: 
   nl: Review door Zorginstituut
   en: Review by Zorginstituut
+label_zorginstituut_edits_a_record: 
+  nl: Zorginstituut Nederland bewerkt een record
+  en: Zorginstituut Nederland edits a record
+label_edit_a_record:
+  nl: Een record bewerken
+  en: Edit a record
 
 # Messages
 
@@ -1783,6 +1789,9 @@ message_manufacturer_no_change_requests:
 message_currently_no_records_from_manufacturers:
   nl: Er zijn op dit moment geen binnengekomen stukken van fabrikanten.
   en: There are currently no new records from manufacturers.
+message_nothing_followed:
+  nl: Momenteel volgt u geen documenten.
+  en: You are currently not following any documents.
 
 message_no_info_registration:
   nl: Er is op dit moment niets bekend over registratie.
