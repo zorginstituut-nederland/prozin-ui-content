@@ -1260,6 +1260,9 @@ label_older_publications:
 label_publishing:
   nl: Publicatie
   en: Publishing
+label_publication:
+  nl: Publicatie
+  en: Publication
 label_steal_lock:
   nl: Neem bewerken over
   en: Steal lock
