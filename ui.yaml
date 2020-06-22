@@ -1257,6 +1257,9 @@ snippet_published_on:
 label_older_publications:
   nl: Oudere publicaties
   en: Older publications
+label_publishing:
+  nl: Publicatie
+  en: Publishing
 label_steal_lock:
   nl: Neem bewerken over
   en: Steal lock
