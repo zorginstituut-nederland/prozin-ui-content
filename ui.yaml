@@ -1748,8 +1748,8 @@ label_review_by_zorginstituut:
   nl: Review door Zorginstituut
   en: Review by Zorginstituut
 label_zorginstituut_edits_a_record: 
-  nl: Zorginstituut Nederland bewerkt een record
-  en: Zorginstituut Nederland edits a record
+  nl: Zorginstituut bewerkt een record
+  en: Zorginstituut edits a record
 label_edit_a_record:
   nl: Een record bewerken
   en: Edit a record
