@@ -20,6 +20,12 @@ snippet_times_per_year:
   en: times per year
 
 # Labels
+label_i_am_sure_publish_now:
+  nl: "Ik weet het zeker, publiceer nu"
+  en: "I'm sure, publish now"
+label_select:
+  nl: Selecteer
+  en: Select
 label_read_more:
   nl: Lees meer…
   en: Read more…
@@ -1738,6 +1744,9 @@ label_share:
 label_duplicate:
   nl: Dupliceer
   en: Duplicate
+label_verification_request:
+  nl: Verificatieverzoek
+  en: Verification request
 label_send_verification_request:
   nl: Stuur een verificatieverzoek naar fabrikant
   en: Send a verification request to the manufacturer
@@ -1948,6 +1957,9 @@ message_changes_to_this_revision_are_visible_after_publication:
   nl: <strong>Wijzigingen in deze revisie</strong> zijn pas na publicatie 
          zichtbaar in de <a href="#" target="_blank">publieke kopie</a>.
   en: <strong>Changes to this revision</strong> are visible after publication in the <a href="#" target="_blank">public copy</a>.
+message_batch_publish:
+  nl: Als u verder gaat worden alle geselecteerde documenten gepubliceerd. Deze handeling is onomkeerbaar. Controleer het volgende.
+  en: As you proceed, all selected documents will be published. This action is irreversible. Check the following.
 
 ## Historical
 
