@@ -20,6 +20,25 @@ snippet_times_per_year:
   en: times per year
 
 # Labels
+
+message_contact_system_administrator:
+  en: Please contact the system administrator if you think you should have permissions to view this page.
+  nl: Neem contact op met de systeembeheerder als u meent dat u toegang zou moeten hebben tot deze pagina.
+label_inssuficient_privileges:
+  en: Insufficient priviliges to view this page
+  nl: Onvoldoende bevoegdheden om deze pagina te bezoeken
+label_unauthorised:
+  en: Unauthorised
+  nl: Niet bevoegd
+label_error_code:
+  nl: Foutcode
+  en: Error code
+label_question_wrong_address:
+  nl: Verkeerd adres?
+  en: Wrong address?
+label_to_search:
+  nl: "Zoeken"
+  en: "Search"
 label_i_am_sure_publish_now:
   nl: "Ik weet het zeker, publiceer nu"
   en: "I'm sure, publish now"
@@ -1884,8 +1903,8 @@ message_thanks_for_response_we_will_contact_you:
   nl: Dankuwel voor uw reactie. Wij nemen zo spoedig mogelijk contact met u op.
   en: Thank you for your response. We will contact you as soon as possible.
 message_information_location_alternative:
-  nl: U kunt de informatie die u zoekt mogelijk vinden via de zoekpagina of de homepage.
-  en: TRANSLATION REQUIRED
+  nl: U kunt de informatie die u zoekt mogelijk vinden via een van de volgende paginaʼs.
+  en: You may be able to find the information you are looking for through one of the following pages.
 message_you_are_here:
   nl: "U bevindt zich hier:"
   en: "You are here:"
@@ -1960,6 +1979,9 @@ message_changes_to_this_revision_are_visible_after_publication:
 message_batch_publish:
   nl: Als u verder gaat worden alle geselecteerde documenten gepubliceerd. Deze handeling is onomkeerbaar. Controleer het volgende.
   en: As you proceed, all selected documents will be published. This action is irreversible. Check the following.
+message_check_the_url:
+  nl: Controleer het adres in de adresbalk. Soms gaat er iets mis bij het kopiëren van een link, bijvoorbeeld uit een e-mailbericht. U kunt de informatie die u zoekt mogelijk vinden via de zoekpagina.
+  en: Please check the address in the address bar. Sometimes something goes wrong when copying a link, for example from an e-mail message. You might be able to find the information you are looking for through the search page.
 
 ## Historical
 
