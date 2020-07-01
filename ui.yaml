@@ -72,16 +72,16 @@ label_upload_photo:
 label_role_scanner:
   nl: Scanner
   en: Scanner
-label_role_workgroup_member:
+label_role_werkgroeplid:
   nl: Werkgroeplid
   en: Workgroup member
-label_role_bystander:
+label_role_lezer:
   nl: Lezer
   en: Bystander
-label_role_administrator:
+label_role_beheerder:
   nl: Beheerder
   en: Administrator
-label_role_manufacturer:
+label_role_fabrikant:
   nl: Fabrikant
   en: Manufacturer
 label_enzyme_replacement_therapy:
