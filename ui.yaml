@@ -1081,7 +1081,7 @@ label_dementia:
 label_headache:
   nl: Hoofdpijn
   en: Headache
-label_overig_neurology:
+label_other_neurology:
   nl: Neurologie overig
   en: Other neurology
 label_eye_disorders:
@@ -1112,13 +1112,13 @@ label_asthma:
 label_bacterial_infections:
   nl: Bacteriele infecties
   en: Bacterial infections
-label_overig_infectious_diseases:
+label_other_infectious_diseases:
   nl: Overige infectieziekten overig
   en: Other infectious diseases
 label_viral_infections:
   nl: Virale infecties
   en: Viral infections
-label_overig_information:
+label_other_information:
   nl: Overige informatie
   en: Other information
 label_sources:
@@ -1148,7 +1148,7 @@ label_skin_diseases:
 label_rheumatism:
   nl: Reuma
   en: Rheumatism
-label_overig_chronic_immune_diseases:
+label_other_chronic_immune_diseases:
   nl: Chronische immuunziekten overig
   en: Other chronic immune diseases
 # Label should match the ldap workgroup  
