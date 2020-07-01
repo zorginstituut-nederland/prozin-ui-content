@@ -84,49 +84,49 @@ label_role_beheerder:
 label_role_fabrikant:
   nl: Fabrikant
   en: Manufacturer
-label_enzyme_replacement_therapy:
+label_enzymvervangende_therapie:
   nl: Enzymvervangende therapie
   en: Enzyme replacement therapy
-label_pd_1_pd_l1_inhibitor:
+label_pd-1_pd-l1_remmer:
   nl: PD-1/PD-L1 remmer
   en: PD-1 / PD-L1 inhibitor
-label_sglt_inhibitor:
+label_sglt-remmer:
   nl: SGLT-remmer
   en: SGLT inhibitor
-label_tyrosine_kinase_inhibitor:
+label_tyrosine_kinase_remmer:
   nl: Tyrosine kinase remmer
   en: Tyrosine kinase inhibitor
-label_alkylating_drug:
+label_alkylerend_geneesmiddel:
   nl: Alkylerend geneesmiddel
   en: Alkylating drug
-label_allergen:
+label_allergeen:
   nl: Allergeen
   en: Allergen
-label_allogeneic_modified_cell_therapy:
+label_allogene_gemodificeerde_celtherapie:
   nl: Allogene gemodificeerde celtherapie
   en: Allogeneic modified cell therapy
-label_amino_acid:
+label_aminozuur:
   nl: Aminozuur
   en: Amino acid
-label_otherwise,_see_comments_box:
+label_anders_zie_opmerkingenveld:
   nl: Anders, zie opmerkingenveld
   en: Otherwise, see comments box
-label_angiogenesis_inhibitor:
+label_angiogeneseremmer:
   nl: Angiogeneseremmer
   en: Angiogenesis inhibitor
-label_anti_androgen:
+label_anti-androgeen:
   nl: Anti-androgeen
   en: Anti-androgen
-label_antibiotic:
+label_antibioticum:
   nl: Antibioticum
   en: Antibiotic
 label_antihistamine:
   nl: Antihistamine
   en: Antihistamine
-label_antibody_drug_conjugate:
+label_antilichaam-geneesmiddel_conjugaat:
   nl: Antilichaam-geneesmiddel conjugaat
   en: Antibody-drug conjugate
-label_antifungals:
+label_antimycoticum:
   nl: Antimycoticum
   en: Antifungals
 label_antioxidant:
@@ -135,103 +135,103 @@ label_antioxidant:
 label_antisense_oligonucleotide:
   nl: Antisense oligonucleotide
   en: Antisense oligonucleotide
-label_anti_clotting_factor:
+label_antistollingsfactor:
   nl: Antistollingsfactor
   en: Anti-clotting factor
-label_autologous_modified_cell_therapy:
+label_autologe_gemodificeerde_celtherapie:
   nl: Autologe gemodificeerde celtherapie
   en: Autologous modified cell therapy
-label_bcl_2_inhibitor:
+label_bcl-2_remmer:
   nl: Bcl-2 remmer
   en: Bcl-2 inhibitor
-label_bet_inhibitor:
+label_bet_remmer:
   nl: BET remmer
   en: BET inhibitor
-label_calcineurin_inhibitor:
+label_calcineurineremmer:
   nl: Calcineurineremmer
   en: Calcineurin inhibitor
-label_cannabidoid:
+label_cannabidoide:
   nl: Cannabidoïde
   en: Cannabidoid
-label_car_t_therapy:
+label_car-t_therapie:
   nl: CAR-T therapie
   en: CAR-T therapy
-label_cdk4_6_tyrosine_kinase_inhibitor:
+label_cdk4_6_tyrosine_kinaseremmer:
   nl: CDK4/6 tyrosine kinaseremmer
   en: CDK4 / 6 tyrosine kinase inhibitor
-label_cfs1r_inhibitor:
+label_cfs1r_remmer:
   nl: CFS1R remmer
   en: CFS1R inhibitor
-label_cgrp_directed_antibody:
+label_cgrp-gericht_antilichaam:
   nl: CGRP-gericht antilichaam
   en: CGRP-directed antibody
-label_chelating_agent:
+label_cheleermiddel:
   nl: Cheleermiddel
   en: Chelating agent
-label_combination_therapy:
+label_combinatietherapie:
   nl: Combinatietherapie
   en: Combination therapy
-label_complement_system_braking:
+label_complementsysteemremming:
   nl: Complementsysteemremming
   en: Complement system braking
 label_corticosteroid:
   nl: Corticosteroïd
   en: Corticosteroid
-label_ctla_4_antibody:
+label_ctla-4_antilichaam:
   nl: CTLA-4 antilichaam
   en: CTLA-4 antibody
-label_cytostatic:
+label_cytostaticum:
   nl: Cytostaticum
   en: Cytostatic
-label_disinfectant:
+label_desinfectant:
   nl: Desinfectant
   en: Disinfectant
-label_protein_chaperone:
+label_eiwitchaperone:
   nl: Eiwitchaperone
   en: Protein chaperone
-label_enzyme:
+label_enzym:
   nl: Enzym
   en: Enzyme
-label_enzyme_inhibitor:
+label_enzymremmer:
   nl: Enzymremmer
   en: Enzyme inhibitor
-label_gene_therapy:
+label_gentherapie:
   nl: Gentherapie
   en: Gene therapy
-label_glp_1_receptor_agonist:
+label_glp-1_receptoragonist:
   nl: GLP-1 receptoragonist
   en: GLP-1 receptor agonist
-label_glucagon_analogue:
+label_glucagonanaloog:
   nl: Glucagonanaloog
   en: Glucagon analogue
-label_growth_factor:
+label_groeifactor:
   nl: Groeifactor
   en: Growth factor
-label_hiv_inhibitor:
+label_hiv_remmer:
   nl: HIV remmer
   en: HIV inhibitor
-label_hormonal_therapy:
+label_hormonale_therapie:
   nl: Hormonale therapie
   en: Hormonal therapy
-label_immunostimulation:
+label_immunostimulatie:
   nl: Immunostimulatie
   en: Immunostimulation
-label_immunosuppression:
+label_immunosuppressie:
   nl: Immunosuppressie
   en: Immunosuppression
-label_insulin_preparation:
+label_insulinepreparaat:
   nl: Insulinepreparaat
   en: Insulin preparation
-label_interferon_inhibitor:
+label_interferonremmer:
   nl: Interferonremmer
   en: Interferon inhibitor
-label_interleukin_inhibitor:
+label_interleukineremmer:
   nl: Interleukineremmer
   en: Interleukin inhibitor
-label_jak_tyrosine_kinase_inhibitor:
+label_jak_tyrosine_kinaseremmer:
   nl: JAK tyrosine kinaseremmer
   en: JAK tyrosine kinase inhibitor
-label_cancer_vaccine:
+label_kankervaccin:
   nl: Kankervaccin
   en: Cancer vaccine
 label_laba_ics:
@@ -246,49 +246,49 @@ label_laba_lama_ics:
 label_lama:
   nl: LAMA
   en: LAMA
-label_mek_kinase_inhibitor:
+label_mek_kinaseremmer:
   nl: MEK kinaseremmer
   en: MEK kinase inhibitor
-label_sodium_channel_blocker:
+label_natriumkanaalblokker:
   nl: Natriumkanaalblokker
   en: Sodium channel blocker
-label_neurotoxin:
+label_neurotoxine:
   nl: Neurotoxine
   en: Neurotoxin
 label_neurotransmitter:
   nl: Neurotransmitter
   en: Neurotransmitter
-label_oncolytic_adenovirus:
+label_oncolytisch_adenovirus:
   nl: Oncolytisch adenovirus
   en: Oncolytic adenovirus
-label_other:
+label_overig:
   nl: Overig
   en: Other
-label_parp_inhibitor:
+label_parp-remmer:
   nl: PARP-remmer
   en: PARP inhibitor
-label_proteasome_inhibitor:
+label_proteasoomremmer:
   nl: Proteasoomremmer
   en: Proteasome inhibitor
-label_receptor_agonist:
+label_receptoragonist:
   nl: Receptoragonist
   en: Receptor agonist
-label_receptor_antagonist:
+label_receptorantagonist:
   nl: Receptorantagonist
   en: Receptor antagonist
-label_serine_threonine_kinase_inhibitor:
+label_serine_threonine_kinaseremmer:
   nl: Serine/threonine kinaseremmer
   en: Serine / threonine kinase inhibitor
-label_clotting_factor:
+label_stollingsfactor:
   nl: Stollingsfactor
   en: Clotting factor
-label_thrombin_inhibitor:
+label_trombineremmer:
   nl: Trombineremmer
   en: Thrombin inhibitor
 label_vasodilator:
   nl: Vasodilator
   en: Vasodilator
-label_virus_inhibitor:
+label_virusremmer:
   nl: Virusremmer
   en: Virus inhibitor
 
@@ -1081,7 +1081,7 @@ label_dementia:
 label_headache:
   nl: Hoofdpijn
   en: Headache
-label_other_neurology:
+label_overig_neurology:
   nl: Neurologie overig
   en: Other neurology
 label_eye_disorders:
@@ -1112,13 +1112,13 @@ label_asthma:
 label_bacterial_infections:
   nl: Bacteriele infecties
   en: Bacterial infections
-label_other_infectious_diseases:
+label_overig_infectious_diseases:
   nl: Overige infectieziekten overig
   en: Other infectious diseases
 label_viral_infections:
   nl: Virale infecties
   en: Viral infections
-label_other_information:
+label_overig_information:
   nl: Overige informatie
   en: Other information
 label_sources:
@@ -1148,7 +1148,7 @@ label_skin_diseases:
 label_rheumatism:
   nl: Reuma
   en: Rheumatism
-label_other_chronic_immune_diseases:
+label_overig_chronic_immune_diseases:
   nl: Chronische immuunziekten overig
   en: Other chronic immune diseases
 # Label should match the ldap workgroup  
