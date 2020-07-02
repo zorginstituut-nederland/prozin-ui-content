@@ -2,22 +2,22 @@
 
 snippet_times_per_day:
   nl: maal per dag
-  en: times per day
+  en: times a day
 snippet_times_per_week:
   nl: maal per week
-  en: times per week
+  en: times a week
 snippet_times_per_2_weeks:
   nl: maal per 2 weken
-  en: times per 2 weeks
+  en: times a 2 weeks
 snippet_times_per_4_weeks:
   nl: maal per 4 weken
-  en: times per 4 weeks
+  en: times a 4 weeks
 snippet_times_per_month:
   nl: maal per maand
-  en: times per month
+  en: times a month
 snippet_times_per_year:
   nl: maal per jaar
-  en: times per year
+  en: times a year
 
 # Labels
 
@@ -98,7 +98,7 @@ label_tyrosine_kinase_remmer:
   en: Tyrosine kinase inhibitor
 label_alkylerend_geneesmiddel:
   nl: Alkylerend geneesmiddel
-  en: Alkylating drug
+  en: Alkylating agent
 label_allergeen:
   nl: Allergeen
   en: Allergen
@@ -110,13 +110,13 @@ label_aminozuur:
   en: Amino acid
 label_anders_zie_opmerkingenveld:
   nl: Anders, zie opmerkingenveld
-  en: Otherwise, see comments box
+  en: Other, see general comments
 label_angiogeneseremmer:
   nl: Angiogeneseremmer
   en: Angiogenesis inhibitor
 label_anti-androgeen:
   nl: Anti-androgeen
-  en: Anti-androgen
+  en: Antiandrogen
 label_antibioticum:
   nl: Antibioticum
   en: Antibiotic
@@ -137,7 +137,7 @@ label_antisense_oligonucleotide:
   en: Antisense oligonucleotide
 label_antistollingsfactor:
   nl: Antistollingsfactor
-  en: Anti-clotting factor
+  en: Anticoagulant
 label_autologe_gemodificeerde_celtherapie:
   nl: Autologe gemodificeerde celtherapie
   en: Autologous modified cell therapy
@@ -152,7 +152,7 @@ label_calcineurineremmer:
   en: Calcineurin inhibitor
 label_cannabidoide:
   nl: Cannabidoïde
-  en: Cannabidoid
+  en: Cannabinoid
 label_car-t_therapie:
   nl: CAR-T therapie
   en: CAR-T therapy
@@ -173,7 +173,7 @@ label_combinatietherapie:
   en: Combination therapy
 label_complementsysteemremming:
   nl: Complementsysteemremming
-  en: Complement system braking
+  en: Complement inhibitor
 label_corticosteroid:
   nl: Corticosteroïd
   en: Corticosteroid
@@ -281,7 +281,7 @@ label_serine_threonine_kinaseremmer:
   en: Serine / threonine kinase inhibitor
 label_stollingsfactor:
   nl: Stollingsfactor
-  en: Clotting factor
+  en: Coagulant
 label_trombineremmer:
   nl: Trombineremmer
   en: Thrombin inhibitor
@@ -311,10 +311,10 @@ label_registration_application_pending:
   en: Registration application pending
   nl: Registratieaanvraag in behandeling
 label_clinical_studies:
-  en: Clinical studies
+  en: Clinical trials
   nl: Klinische studies
 label_withdrawn:
-  en: Withdraw
+  en: Withdrawn
   nl: Teruggetrokkenn
 
 label_national_cbg:
@@ -331,10 +331,10 @@ label_aerosol:
   en: Aerosol
 label_bladder_flushing:
   nl: Blaasspoeling
-  en: Bladder flushing
+  en: Bladder lavage
 label_effervescent_granulate:
   nl: Bruisgranulaat
-  en: Effervescent granulate
+  en: Effervecent granules
 label_effervescent_tablet:
   nl: Bruistablet
   en: Effervescent tablet
@@ -343,7 +343,7 @@ label_capsule:
   en: Capsule
 label_modified-release_capsule:
   nl: Capsule met gereguleerde afgifte
-  en: Modified-release capsule
+  en: Controlled release capsule
 label_capsule_for_vaginal_use:
   nl: Capsule voor vaginaal gebruik
   en: Capsule for vaginal use
@@ -541,7 +541,7 @@ label_enema:
   en: Enema
 label_herbal_teas:
   nl: Kruidenthee
-  en: Herbal teas
+  en: Herbal tea
 label_living_tissue_equivalent:
   nl: Levend weefsel equivalent
   en: Living tissue equivalent
@@ -562,7 +562,7 @@ label_gastro-resistant_tablet_plus_tablet:
   en: Gastro-resistant tablet + tablet
 label_gastro-resistant_modified-release_tablet:
   nl: Maagsapresistente tablet met gereguleerde afgifte
-  en: Gastro-resistant modified-release tablet
+  en: Gastro-resistant Controlled release tablet
 label_mouthwash:
   nl: Mondspoeling
   en: Mouthwash
@@ -860,7 +860,7 @@ label_intra-articular:
   en: Intra-articular
 label_intra-fellow:
   nl: Intrabursaal
-  en: Intra-fellow
+  en: Intrabursal
 label_intracardiac:
   nl: Intracardiaal
   en: Intracardiac
@@ -929,7 +929,7 @@ label_not_applicable:
   en: Not applicable
 label_eyepiece:
   nl: Oculair
-  en: Eyepiece
+  en: Ocular
 label_oral:
   nl: Oraal
   en: Oral
@@ -962,7 +962,7 @@ label_subconjunctival:
   en: Subconjunctival
 label_subcutaneously:
   nl: Subcutaan
-  en: Subcutaneously
+  en: Subcutaneous
 label_sublingual:
   nl: Sublinguaal
   en: Sublingual
@@ -1031,7 +1031,7 @@ label_breast_cancer:
   en: Breast cancer
 label_pleural_cancer:
   nl: Borstvlieskanker
-  en: Pleural cancer
+  en: Mesothelioma
 label_colon_cancer:
   nl: Darmkanker
   en: Colon cancer
@@ -1058,7 +1058,7 @@ label_lung_cancer:
   en: Lung cancer
 label_lymph_node_cancer:
   nl: Lymfeklierkanker
-  en: Lymph node cancer
+  en: Lymphoma
 label_stomach_cancer:
   nl: Maagkanker
   en: Stomach cancer
@@ -1083,7 +1083,7 @@ label_headache:
   en: Headache
 label_other_neurology:
   nl: Neurologie overig
-  en: Other neurology
+  en: Other neurological disorders
 label_eye_disorders:
   nl: Oogaandoeningen
   en: Eye disorders
@@ -1095,7 +1095,7 @@ label_psychiatry:
   en: Psychiatry
 label_sleep_disturbances:
   nl: Slaapstoornissen
-  en: Sleep disturbances
+  en: Sleep disorders
 label_muscular_diseases:
   nl: Spierziekten
   en: Muscular diseases
@@ -1123,7 +1123,7 @@ label_other_information:
   en: Other information
 label_sources:
   nl: Bronnen
-  en: Sources
+  en: References
 label_exptected_market_share:
   nl: Verwacht marktaandeel
   en: Expected market share
@@ -1154,11 +1154,11 @@ label_other_chronic_immune_diseases:
 # Label should match the ldap workgroup  
 label_infectieziekten:
   nl: Infectieziekten
-  en: Infection diseases
+  en: Infectious diseases
 # Label should match the ldap workgroup  
 label_longziekten-algemeen:
   nl: Longziekten algemeen
-  en: Lung diseases general
+  en: Lung diseases
 # Label should match the ldap workgroup  
 label_neurologische-aandoeningen:
   nl: Neurologische aandoeningen
@@ -1170,7 +1170,7 @@ label_cardiovasculaire-aandoeningen:
 
 label_potential_loss:
   nl: Mogelijke minderwaarde
-  en: Potential loss
+  en: Potential reduced value
 label_potential_equal_value:
   nl: Mogelijke gelijke waarde
   en: Potential equal value
@@ -1191,7 +1191,7 @@ label_already_available_biosimilars_generics:
   en: Already available biosimilars / generics
 label_current_brand_name:
   nl: Huidig specialité
-  en: Current brand name
+  en: Current proprietary name
 label_yes:
   nl: Ja
   en: 'Yes'
@@ -1212,7 +1212,7 @@ label_maximum:
   en: Maximum
 label_brand_name:
   nl: Merknaam
-  en: Brand name
+  en: Proprietary name
 label_new_medicine_specialite:
   nl: Nieuw middel (specialité)
   en: New medicine (specialité)
@@ -1227,7 +1227,7 @@ label_current_treatment_options:
   en: Current treatment options
 label_therapeutical_value:
   nl: Therapeutische waarde
-  en: Therapeutical value
+  en: Therapeutic value
 label_no_judgement:
   nl: Geen oordeel
   en: No judgement
@@ -1254,13 +1254,13 @@ label_patient_volume:
   en: Patient volume
 minimum_total_costs:
   nl: Minimale totale kosten
-  en: Minimum total costs
+  en: Minimum total cost
 maximum_total_costs:
   nl: Maximale totale kosten
-  en: Maximum total costs
+  en: Maximum total cost
 label_possible_total_cost_per_year:
   nl: Mogelijke totale kosten per jaar
-  en: Possible total cost per year
+  en: Potential total cost per year
 label_expected_patient_volume_per_year:
   nl: Verwacht patiëntvolume per jaar
   en: Expected patient volume per year
@@ -1438,13 +1438,13 @@ label_route_of_administration:
   en: Route of administration
 label_form_of_administration:
   nl: Toedieningsvorm
-  en: Therapeutical form
+  en: Therapeutical formulation
 label_application_frequency:
   nl: Toedingsfrequentie
-  en: Application frequency
+  en: Frequency of administration
 label_funding_framework:
   nl: Bekostigingskader
-  en: Funding framework
+  en: Budgetting framework
 label_intermural:
   nl: Intramuraal (MSZ)
   en: Intermural (MSZ)
@@ -1642,16 +1642,16 @@ label_registration_phase:
   en: Registration phase
 label_type_of_process:
   nl: Type traject
-  en: Type of process
+  en: Type of trajectory
 label_date_of_application:
   nl: Indieningsdatum
-  en: Date of application
+  en: Submission date
 label_expected_registration:
   nl: Verwachte registratie
   en: Expected Registration
 label_regular_process:
   nl: Normaal traject
-  en: Regular process
+  en: Normal trajectory
 label_accelerated_assesment:
   nl: Versnelde beoordeling
   en: Accelerated assessment
@@ -1660,7 +1660,7 @@ label_conditional_marketing_authorisation:
   en: Conditional marketing authorisation
 label_adaptive_pathway:
   nl: Adaptief traject
-  en: Adaptive pathway
+  en: Adaptive pathways
 label_orphan_drug:
   nl: Weesgeneesmiddel
   en: Orphan drug
@@ -1865,7 +1865,7 @@ message_no_info_impact:
   en: There is currently nothing known about the possible total cost.
 message_no_info_cost: 
   nl: Er is op dit moment niets bekend over de verwachte kosten.
-  en: There is currently nothing known about the expected costs.
+  en: There is currently nothing known about the expected cost.
 message_no_info_volume: 
   nl: Er is op dit moment niets bekend over het verwachte patiëntvolume.
   en: There is currently nothing known about the expected patient volume.
@@ -1880,7 +1880,7 @@ notice_patient_volume:
   en: Market share is generally not included unless otherwise stated.
 notice_cost: 
   nl: Dit is de inschatting van de mogelijke kosten per patiënt per jaar. In het opmerkingenveld staat beschreven hoe tot dit bedrag is gekomen.
-  en: This is the estimate of the possible costs per patient per year. The comments box describes how this amount was reached.
+  en: This is the estimate of the possible cost per patient per year. The comments box describes how this amount was reached.
 notice_impact: 
   nl: 'Dit bedrag geeft een <strong>indicatie</strong> van de totale kosten. Het is de uitkomst van het gemiddelde verwacht patiëntvolume maal de gemiddelde kosten per patiënt; beiden per jaar.'
   en: 'This amount gives an <strong>indication</strong> of the total cost. It is the result of the average expected patient volume times the average cost per patient. both per year.'
@@ -1891,10 +1891,10 @@ footnote_cost:
   en: The numbers shown are an expectation over the period of one year.
 footnote_total_cost: 
   nl: Betreft de mogelijke totale kosten per jaar.
-  en: Concerns the possible total costs per year.
+  en: Concerns the possible total cost per year.
 message_bio_gen_prices:
   nl: Er zijn geen prijzen bekend van bio similars.
-  en: There are no known prices for bio similars.
+  en: There are no known prices for biosimilar.
 
 message_contact_us_via_form:
   nl: Neem via onderstaand formulier contact op met het Zorginstituut.
@@ -1935,7 +1935,7 @@ message_help_extended_indication:
   en: "Write a brief description of the main indication. Use the comments field under 'Product' for any further explanation."
 message_help_registration_route:
   nl: "De registratieroute maakt duidelijk waar het middel aangemeld is ter registratie."
-  en: The registration route makes clear where the product is registered for registration.
+  en: The registration route makes clear where the product has been applied for registration.
 message_help_type_of_process:
   nl: Welk type registratietraject is van toepassing?
   en: Which type of registration process applies?
@@ -2011,7 +2011,7 @@ cancel_share:
   en: If you continue, the copy you shared with Max Meijer will be canceled. Any content change proposals Max Meijer has made will remain available to you. This action cannot be undone.
 extend_share: 
   nl: 'Verleng de levensduur van deze kopie met'
-  en: 'Extend the time to live of this copy by'
+  en: 'Extend the lifespan of this copy by'
 extend_share_explanation: 
   nl: 'U kunt de kopie op elk moment nog verder verlengen, of opheffen.'
   en: 'You may extend or cancel the copy at any time.'
