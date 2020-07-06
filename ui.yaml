@@ -21,6 +21,21 @@ snippet_times_per_year:
 
 # Labels
 
+label_message_will_be_sent_to_x_manufacturers:
+  nl: Onderstaand bericht zal verstuurd worden naar 54 fabrikanten.
+  en: The message below will be sent to 54 manufacturers.
+label_new_deadline_for_submission:
+  en: New deadline for submission
+  nl: Nieuwe uiterste inleverdatum
+label_deadline_for_submission_is_set_to:
+  en: The deadline for submission is set to 
+  nl: De uiterste inleverdatum staat ingesteld op
+label_change_expected_publication_month:
+  en: Change the expected publication month
+  nl: Verwachte publicatiemaand opnieuw instellen
+label_change_deadline_for_submission:
+  nl: Uiterste aanleverdatum opnieuw instellen
+  en: Change the deadline for submission
 label_new_expected_publication_date:
   nl: Nieuwe verwachte datum volgende publicatie
   en: New expected date of the next publication
@@ -33,6 +48,9 @@ label_select_a_date:
 label_continue:
   en: Continue
   nl: Verder
+label_back:
+  en: Back
+  nl: Terug
 label_deadline_new_data:
   en: Deadline for submission of new data
   nl: Uiterste inleverdatum nieuwe data
@@ -1806,6 +1824,9 @@ label_verification_request:
 label_send_verification_request:
   nl: Stuur een verificatieverzoek naar fabrikant
   en: Send a verification request to the manufacturer
+label_send_request_for_pipeline:
+  nl: Verstuur uitvraag
+  en: Send request for pipeline information
 label_change_request_by_manufacturer:
   nl: Wijzigingsverzoek door fabrikant
   en: Change request by manufacturer
