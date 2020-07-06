@@ -21,9 +21,18 @@ snippet_times_per_year:
 
 # Labels
 
-message_contact_system_administrator:
-  en: Please contact the system administrator if you think you should have permissions to view this page.
-  nl: Neem contact op met de systeembeheerder als u meent dat u toegang zou moeten hebben tot deze pagina.
+label_select_a_date:
+  en: Select a date
+  nl: Selecteer een datum
+label_continue:
+  en: Continue
+  nl: Verder
+label_deadline_new_data:
+  en: Deadline for submission of new data
+  nl: Uiterste inleverdatum nieuwe data
+label_expected_next_publication_date:
+  nl: Verwachte datum volgende publicatie
+  en: Expected date for the next publication
 label_inssuficient_privileges:
   en: Insufficient priviliges to view this page
   nl: Onvoldoende bevoegdheden om deze pagina te bezoeken
@@ -1581,6 +1590,9 @@ label_recent:
 label_comments:
   nl: Reacties
   en: Comments
+label_remarks:
+  nl: Opmerkingen
+  en: Remarks
 label_manufacturer:
   nl: Fabrikant
   en: Manufacturer
@@ -1809,6 +1821,9 @@ label_contact_not_selected:
 
 # Messages
 
+message_contact_system_administrator:
+  en: Please contact the system administrator if you think you should have permissions to view this page.
+  nl: Neem contact op met de systeembeheerder als u meent dat u toegang zou moeten hebben tot deze pagina.
 message_process_request_for_pipeline:
   nl: Zorginstituut Nederland nodigt u per e-mail uit om te reageren op onze uitvraag.
   en: Zorginstituut Nederland invites you by e-mail to respond to our request for pipeline information.
