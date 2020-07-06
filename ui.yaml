@@ -329,498 +329,501 @@ label_central_ema:
 label_aerosol:
   nl: Aerosol
   en: Aerosol
-label_bladder_flushing:
+label_blaasspoeling:
   nl: Blaasspoeling
   en: Bladder lavage
-label_effervescent_granulate:
+label_bruisgranulaat:
   nl: Bruisgranulaat
   en: Effervecent granules
-label_effervescent_tablet:
+label_bruistablet:
   nl: Bruistablet
   en: Effervescent tablet
 label_capsule:
   nl: Capsule
   en: Capsule
-label_modified-release_capsule:
+label_capsule_met_gereguleerde_afgifte:
   nl: Capsule met gereguleerde afgifte
   en: Controlled release capsule
-label_capsule_for_vaginal_use:
+label_capsule_voor_vaginaal_gebruik:
   nl: Capsule voor vaginaal gebruik
   en: Capsule for vaginal use
-label_capsule_soft:
+label_capsule_zacht:
   nl: Capsule, zacht
   en: Capsule, soft
 label_collodion:
   nl: Collodion
   en: Collodion
-label_concentrate_for_drink:
+label_concentraat_voor_drank:
   nl: Concentraat voor drank
   en: Concentrate for drink
-label_concentrate_for_mouthwash:
+label_concentraat_voor_mondspoeling:
   nl: Concentraat voor mondspoeling
   en: Concentrate for mouthwash
-label_concentrate_for_solution:
+label_concentraat_voor_oplossing:
   nl: Concentraat voor oplossing
   en: Concentrate for solution
-label_concentrate_for_solution_for_cutaneous_use:
+label_concentraat_voor_oplossing_voor_cutaan_gebruik:
   nl: Concentraat voor oplossing voor cutaan gebruik
   en: Concentrate for solution for cutaneous use
-label_concentrate_for_solution_for_infusion:
+label_concentraat_voor_oplossing_voor_infusie:
   nl: Concentraat voor oplossing voor infusie
   en: Concentrate for solution for infusion
-label_concentrate_for_solution_for_injection:
+label_concentraat_voor_oplossing_voor_injectie:
   nl: Concentraat voor oplossing voor injectie
   en: Concentrate for solution for injection
-label_concentrate_for_solution_for_injection_and_infusion:
+label_concentraat_voor_oplossing_voor_injectie_infusie:
   nl: Concentraat voor oplossing voor injectie/infusie
   en: Concentrate for solution for injection / infusion
-label_cream:
+label_creme:
   nl: Creme
   en: Cream
-label_cream_for_rectal_use:
+label_creme_voor_rectaal_gebruik:
   nl: Creme voor rectaal gebruik
   en: Cream for rectal use
-label_cream_for_vaginal_use:
+label_creme_voor_vaginaal_gebruik:
   nl: Creme voor vaginaal gebruik
   en: Cream for vaginal use
-label_dispersible_tablet:
+label_dispergeerbare_tablet:
   nl: Dispergeerbare tablet
   en: Dispersible tablet
 label_dragee:
   nl: Dragee
   en: Dragee
-label_drink:
+label_drank:
   nl: Drank
   en: Drink
-label_drink_and_concentrate_for_enema:
+label_drank_concentraat_voor_klysma:
   nl: Drank/concentraat voor klysma
   en: Drink / concentrate for enema
-label_oral_drops:
+label_druppels_voor_oraal_gebruik:
   nl: Druppels voor oraal gebruik
   en: Oral drops
-label_oromucosal_drops:
+label_druppels_voor_oromucosaal_gebruik:
   nl: Druppels voor oromucosaal gebruik
   en: Oromucosal drops
-label_sublingual_drops:
+label_druppels_voor_sublinguaal_gebruik:
   nl: Druppels voor sublinguaal gebruik
   en: Sublingual drops
-label_emulsion_for_cutaneous_use:
+label_emulsie_voor_cutaan_gebruik:
   nl: Emulsie voor cutaan gebruik
   en: Emulsion for cutaneous use
-label_emulsion_for_infusion:
+label_emulsie_voor_infusie:
   nl: Emulsie voor infusie
   en: Emulsion for infusion
-label_emulsion_for_injection:
+label_emulsie_voor_injectie:
   nl: Emulsie voor injectie
   en: Emulsion for injection
-label_endotracheal_pulmonary_instillation_suspension:
+label_endotracheopulmonaire_instillatie_suspensie:
   nl: Endotracheopulmonaire instillatie, suspensie
   en: Endotracheal pulmonary instillation, suspension
-label_film-coated_tablet:
+label_filmomhulde_tablet:
   nl: Filmomhulde tablet
   en: Film-coated tablet
-label_gas_and_solvent_for_dispersion_injection_and_infusion:
+label_gas_en_oplosmiddel_voor_dispersie_injectie_infusie:
   nl: Gas en oplosmiddel voor dispersie injectie/infusie
   en: Gas and solvent for dispersion injection / infusion
-label_impregnated_gauze:
+label_geimpregneerd_verbandgaas:
   nl: Geimpregneerd verbandgaas
   en: Impregnated gauze
 label_gel:
   nl: Gel
   en: Gel
-label_gel_for_dental_use:
+label_gel_voor_dentaal_gebruik:
   nl: Gel voor dentaal gebruik
   en: Gel for dental use
-label_gel_for_endocervical_use:
+label_gel_voor_endocervicaal_gebruik:
   nl: Gel voor endocervicaal gebruik
   en: Gel for endocervical use
-label_gel_for_gastroenteral_use:
+label_gel_voor_gastro-enteraal_gebruik:
   nl: Gel voor gastro-enteraal gebruik
   en: Gel for gastroenteral use
-label_oral_gel:
+label_gel_voor_oraal_gebruik:
   nl: Gel voor oraal gebruik
   en: Oral gel
-label_oromucosal_gel:
+label_gel_voor_oromucosaal_gebruik:
   nl: Gel voor oromucosaal gebruik
   en: Oromucosal gel
-label_gel_for_rectal_use:
+label_gel_voor_rectaal_gebruik:
   nl: Gel voor rectaal gebruik
   en: Gel for rectal use
-label_gel_for_urethral_use:
+label_gel_voor_urethraal_gebruik:
   nl: Gel voor urethraal gebruik
   en: Gel for urethral use
-label_gel_for_vaginal_use:
+label_gel_voor_vaginaal_gebruik:
   nl: Gel voor vaginaal gebruik
   en: Gel for vaginal use
-label_gargle:
+label_gorgeldrank:
   nl: Gorgeldrank
   en: Gargle
-label_granulate:
+label_granulaat:
   nl: Granulaat
   en: Granulate
-label_controlled_release_granules:
+label_granulaat_met_gereguleerde_afgifte:
   nl: Granulaat met gereguleerde afgifte
   en: Controlled release granules
-label_granules_for_oral_suspension:
+label_granulaat_voor_orale_suspensie:
   nl: Granulaat voor orale suspensie
   en: Granules for oral suspension
-label_skin_spray:
+label_huidspray:
   nl: Huidspray
   en: Skin spray
-label_skin_stick:
+label_huidstift:
   nl: Huidstift
   en: Skin stick
-label_implant:
+label_implantaat:
   nl: Implantaat
   en: Implant
-label_implantation_mesh:
+label_implantatiegaas:
   nl: Implantatiegaas
   en: Implantation mesh
-label_implant_bead:
+label_implantatiekraal:
   nl: Implantatiekraal
   en: Implant bead
-label_implantation_matrix:
+label_implantatiematrix:
   nl: Implantatiematrix
   en: Implantation Matrix
-label_implantation_sponge:
+label_implantatiespons:
   nl: Implantatiespons
   en: Implantation sponge
-label_implant_pen:
+label_implantatiestift:
   nl: Implantatiestift
   en: Implant pen
-label_infusion_fluid:
+label_infusievloeistof:
   nl: Infusievloeistof
   en: Infusion fluid
-label_intravenous_drip:
+label_infuus:
   nl: Infuus
   en: Intravenous drip
-label_inhalation_gas:
+label_inhalatiegas:
   nl: Inhalatiegas
   en: Inhalation gas
-label_inhalation_powder:
+label_inhalatiepoeder:
   nl: Inhalatiepoeder
   en: Inhalation powder
-label_inhalation_powder_for_nasal_use:
+label_inhalatiepoeder_voor_nasaal_gebruik:
   nl: Inhalatiepoeder voor nasaal gebruik
   en: Inhalation powder for nasal use
-label_injection:
+label_injectie:
   nl: Injectie
   en: Injection
-label_injection_and_infusion_solution:
+label_injectie_infusieoplossing:
   nl: Injectie/infusieoplossing
   en: Injection / infusion solution
-label_injection_and_infusion:
+label_injectie_infuus:
   nl: Injectie/infuus
   en: Injection / infusion
-label_injection_liquid:
+label_injectievloeistof:
   nl: Injectievloeistof
   en: Injection liquid
-label_instillation_fluid:
+label_instillatievloeistof:
   nl: Instillatievloeistof
   en: Instillation fluid
-label_iud_(intrauterine_device):
+label_iud_intra_uterine_device_:
   nl: Iud (intra uterine device)
   en: Iud (intrauterine device)
-label_chewable_and_dispersible_tablet:
+label_kauw-_dispergeerbare_tablet:
   nl: Kauw-/dispergeerbare tablet
   en: Chewable / dispersible tablet
-label_chewable_capsule:
+label_kauwcapsule:
   nl: Kauwcapsule
   en: Chewable capsule
-label_chewing_gum:
+label_kauwgom:
   nl: Kauwgom
   en: Chewing gum
-label_chewable_tablet:
+label_kauwtablet:
   nl: Kauwtablet
   en: Chewable tablet
-label_kit_for_radiopharmaceutical_preparation:
+label_kit_voor_radiofarmaceutisch_preparaat:
   nl: Kit voor radiofarmaceutisch preparaat
   en: Kit for radiopharmaceutical preparation
-label_enema:
+label_klysma:
   nl: Klysma
   en: Enema
-label_herbal_teas:
+label_kruidenthee:
   nl: Kruidenthee
   en: Herbal tea
-label_living_tissue_equivalent:
+label_levend_weefsel_equivalent:
   nl: Levend weefsel equivalent
   en: Living tissue equivalent
-label_oral_lyophilisate:
+label_lyophilisaat_voor_oraal_gebruik:
   nl: Lyophilisaat voor oraal gebruik
   en: Oral lyophilisate
-label_gastro-resistant_granules:
+label_maagsapresistent_granulaat:
   nl: Maagsapresistent granulaat
   en: Gastro-resistant granules
-label_gastro-resistant_capsule:
+label_maagsapresistente_capsule:
   nl: Maagsapresistente capsule
   en: Gastro-resistant capsule
-label_gastro-resistant_tablet:
+label_maagsapresistente_tablet:
   nl: Maagsapresistente tablet
   en: Gastro-resistant tablet
-label_gastro-resistant_tablet_plus_tablet:
+label_maagsapresistente_tablet_tablet:
   nl: Maagsapresistente tablet + tablet
   en: Gastro-resistant tablet + tablet
-label_gastro-resistant_modified-release_tablet:
+label_maagsapresistente_tablet_met_gereguleerde_afgifte:
   nl: Maagsapresistente tablet met gereguleerde afgifte
   en: Gastro-resistant Controlled release tablet
-label_mouthwash:
+label_mondspoeling:
   nl: Mondspoeling
   en: Mouthwash
-label_nose_drops:
+label_neusdruppels:
   nl: Neusdruppels
   en: Nose drops
-label_nose_spray:
+label_neusspray:
   nl: Neusspray
   en: Nose spray
-label_nasal_ointment:
+label_neuszalf:
   nl: Neuszalf
   en: Nasal ointment
 label_niet_van_toepassing:
   nl: Niet van toepassing
   en: Not applicable
-label_coated_tablet:
+label_omhulde_tablet:
   nl: Omhulde tablet
   en: Coated tablet
-label_eye_drops:
+label_oogdruppels:
   nl: Oogdruppels
   en: Eye drops
-label_eye_drops_suspension:
+label_oogdruppels_suspensie:
   nl: Oogdruppels, suspensie
   en: Eye drops, suspension
-label_eye_gel:
+label_ooggel:
   nl: Ooggel
   en: Eye gel
-label_eye_inserts:
+label_ooginsert:
   nl: Ooginsert
   en: Eye inserts
-label_eye_wash:
+label_oogwassing:
   nl: Oogwassing
   en: Eye wash
-label_eye_ointment:
+label_oogzalf:
   nl: Oogzalf
   en: Eye ointment
-label_ear_drops:
+label_oordruppels:
   nl: Oordruppels
   en: Ear drops
-label_ear_powder:
+label_oorpoeder:
   nl: Oorpoeder
   en: Ear powder
-label_ear_ointment:
+label_oorzalf:
   nl: Oorzalf
   en: Ear ointment
-label_soluble_tablet:
+label_oplosbare_tablet:
   nl: Oplosbare tablet
   en: Soluble tablet
-label_solvent_for_parenteral_use:
+label_oplosmiddel_voor_parenteraal_gebruik:
   nl: Oplosmiddel voor parenteraal gebruik
   en: Solvent for parenteral use
-label_solution:
+label_oplossing:
   nl: Oplossing
   en: Solution
-label_solution_for_cutaneous_use:
+label_oplossing_voor_cutaan_gebruik:
   nl: Oplossing voor cutaan gebruik
   en: Solution for cutaneous use
-label_solution_for_hemodialysis:
+label_oplossing_voor_hemodialyse:
   nl: Oplossing voor hemodialyse
   en: Solution for hemodialysis
-label_solution_for_haemofiltration:
+label_oplossing_voor_hemofiltratie:
   nl: Oplossing voor hemofiltratie
   en: Solution for haemofiltration
-label_solution_for_haemofiltration_and_hemodialysis:
+label_oplossing_voor_hemofiltratie_hemodialyse:
   nl: Oplossing voor hemofiltratie/hemodialyse
   en: Solution for haemofiltration / hemodialysis
-label_solution_for_parenteral_and_oral_use:
+label_oplossing_voor_parenteraal_oraal_gebruik:
   nl: Oplossing voor parenteraal/oraal gebruik
   en: Solution for parenteral / oral use
-label_solution_for_peritoneal_dialysis:
+label_oplossing_voor_peritoneale_dialyse:
   nl: Oplossing voor peritoneale dialyse
   en: Solution for peritoneal dialysis
 label_ovule:
   nl: Ovule
   en: Ovule
-label_cutaneous_paste:
+label_pasta_voor_cutaan_gebruik:
   nl: Pasta voor cutaan gebruik
   en: Cutaneous paste
-label_oral_paste:
+label_pasta_voor_oraal_gebruik:
   nl: Pasta voor oraal gebruik
   en: Oral paste
-label_oromucosal_paste:
+label_pasta_voor_oromucosaal_gebruik:
   nl: Pasta voor oromucosaal gebruik
   en: Oromucosal paste
 label_pastille:
   nl: Pastille
   en: Pastille
-label_band_aid:
+label_pleister:
   nl: Pleister
   en: Band Aid
-label_transdermal_patch:
+label_pleister_voor_transdermaal_gebruik:
   nl: Pleister voor transdermaal gebruik
   en: Transdermal patch
-label_powder_for_cement:
+label_poeder_voor_cement:
   nl: Poeder voor cement
   en: Powder for cement
-label_powder_for_oral_solution:
+label_poeder_voor_drank:
   nl: Poeder voor drank
   en: Powder for oral solution
-label_powder_for_injection_and_infusion_solution:
+label_poeder_voor_injectie_infusieoplossing:
   nl: Poeder voor injectie/infusieoplossing
   en: Powder for injection / infusion solution
-label_powder_for_injection:
+label_poeder_voor_injectievloeistof:
   nl: Poeder voor injectievloeistof
   en: Powder for injection
-label_instillation_liquid_powder:
+label_poeder_voor_instillatievloeistof:
   nl: Poeder voor instillatievloeistof
   en: Instillation liquid powder
-label_powder_for_enema:
+label_poeder_voor_klysma:
   nl: Poeder voor klysma
   en: Powder for enema
-label_powder_for_topical_use:
+label_poeder_voor_lokaal_gebruik:
   nl: Poeder voor lokaal gebruik
   en: Powder for topical use
-label_powder_for_solution:
+label_poeder_voor_oplossing:
   nl: Poeder voor oplossing
   en: Powder for solution
-label_powder_for_solution_for_infusion:
+label_poeder_voor_oplossing_voor_infusie:
   nl: Poeder voor oplossing voor infusie
   en: Powder for solution for infusion
-label_oral_powder:
+label_poeder_voor_oraal_gebruik:
   nl: Poeder voor oraal gebruik
   en: Oral powder
-label_powder_for_oral_suspension:
+label_poeder_voor_orale_suspensie:
   nl: Poeder voor orale suspensie
   en: Powder for oral suspension
-label_powder_for_suspension_for_injection:
+label_poeder_voor_suspensie_voor_injectie:
   nl: Poeder voor suspensie voor injectie
   en: Powder for suspension for injection
-label_powder_for_oral_and_rectal_suspension:
+label_poeder_voor_suspensie_voor_oraal_rectaal_gebruik:
   nl: Poeder voor suspensie voor oraal/rectaal gebruik
   en: Powder for oral / rectal suspension
-label_spray_liquid_powder:
+label_poeder_voor_vernevelvloeistof:
   nl: Poeder voor vernevelvloeistof
   en: Spray liquid powder
-label_radiopharmaceutical_starting_solution:
+label_radiofarmaceutische_uitgangsoplossing:
   nl: Radiofarmaceutische uitgangsoplossing
   en: Radiopharmaceutical starting solution
 label_radionuclide_generator:
   nl: Radionuclide generator
   en: Radionuclide generator
-label_bar:
+label_reep:
   nl: Reep
   en: Bar
-label_foam_for_cutaneous_use:
+label_schuim_voor_cutaan_gebruik:
   nl: Schuim voor cutaan gebruik
   en: Foam for cutaneous use
-label_foam_for_rectal_use:
+label_schuim_voor_rectaal_gebruik:
   nl: Schuim voor rectaal gebruik
   en: Foam for rectal use
 label_shampoo:
   nl: Shampoo
   en: Shampoo
-label_melting_tablet:
+label_smelttablet:
   nl: Smelttablet
   en: Melting tablet
-label_rinse:
+label_spoeling:
   nl: Spoeling
   en: Rinse
-label_rinse_for_urethral_use:
+label_spoeling_voor_urethraal_gebruik:
   nl: Spoeling voor urethraal gebruik
   en: Rinse for urethral use
 label_spray:
   nl: Spray
   en: Spray
-label_oromucosal_spray:
+label_spray_voor_oromucosaal_gebruik:
   nl: Spray voor oromucosaal gebruik
   en: Oromucosal spray
-label_sublingual_spray:
+label_spray_voor_sublinguaal_gebruik:
   nl: Spray voor sublinguaal gebruik
   en: Sublingual spray
-label_pen_for_urethral_use:
+label_stift_voor_urethraal_gebruik:
   nl: Stift voor urethraal gebruik
   en: Pen for urethral use
-label_spreading_powder:
+label_strooipoeder:
   nl: Strooipoeder
   en: Spreading powder
-label_syrup:
+label_stroop:
   nl: Stroop
   en: Syrup
-label_suspension_for_cutaneous_use:
+label_suspensie_voor_cutaan_gebruik:
   nl: Suspensie voor cutaan gebruik
   en: Suspension for cutaneous use
-label_suspension_for_dental_use:
+label_suspensie_voor_dentaal_gebruik:
   nl: Suspensie voor dentaal gebruik
   en: Suspension for dental use
-label_suspension_for_injection:
+label_suspensie_voor_injectie:
   nl: Suspensie voor injectie
   en: Suspension for injection
-label_oral_suspension:
+label_suspensie_voor_oraal_gebruik:
   nl: Suspensie voor oraal gebruik
   en: Oral suspension
-label_transdermal_system:
+label_systeem_voor_transdermaal_gebruik:
   nl: Systeem voor transdermaal gebruik
   en: Transdermal system
 label_tablet:
   nl: Tablet
   en: Tablet
-label_tablet_plus_effervescent_granulate:
+label_tablet_bruisgranulaat:
   nl: Tablet + bruisgranulaat
   en: Tablet + effervescent granulate
-label_tablet_plus_chewable_tablet:
+label_tablet_kauwtablet:
   nl: Tablet + kauwtablet
   en: Tablet + chewable tablet
-label_modified-release_tablet:
+label_tablet_met_gereguleerde_afgifte:
   nl: Tablet met gereguleerde afgifte
   en: Modified-release tablet
-label_buccal_tablet:
+label_tablet_voor_buccaal_gebruik:
   nl: Tablet voor buccaal gebruik
   en: Buccal tablet
-label_tablet_for_enema:
+label_tablet_voor_klysma:
   nl: Tablet voor klysma
   en: Tablet for enema
-label_sublingual_tablet:
+label_tablet_voor_sublinguaal_gebruik:
   nl: Tablet voor sublinguaal gebruik
   en: Sublingual tablet
-label_vaginal_tablet:
+label_tablet_voor_vaginaal_gebruik:
   nl: Tablet voor vaginaal gebruik
   en: Vaginal tablet
-label_administration_system_for_vaginal_use:
+label_toedieningssysteem_voor_vaginaal_gebruik:
   nl: Toedieningssysteem voor vaginaal gebruik
   en: Administration system for vaginal use
-label_nebulizing_fluid:
+label_vernevelvloeistof:
   nl: Vernevelvloeistof
   en: Nebulizing fluid
-label_liquid:
+label_vloeistof:
   nl: Vloeistof
   en: Liquid
-label_liquid_for_inhalation_vapor:
+label_vloeistof_voor_inhalatiedamp:
   nl: Vloeistof voor inhalatiedamp
   en: Liquid for inhalation vapor
-label_oromucosal_fluid:
+label_vloeistof_voor_oromucosaal_gebruik:
   nl: Vloeistof voor oromucosaal gebruik
   en: Oromucosal fluid
-label_liquid_for_vaginal_use:
+label_vloeistof_voor_vaginaal_gebruik:
   nl: Vloeistof voor vaginaal gebruik
   en: Liquid for vaginal use
-label_tissue_adhesive:
+label_weefsellijm:
   nl: Weefsellijm
   en: Tissue adhesive
-label_tissue_adhesive_matrix:
+label_weefsellijm_matrix:
   nl: Weefsellijm matrix
   en: Tissue adhesive matrix
-label_ointment:
+label_zalf:
   nl: Zalf
   en: Ointment
-label_ointment_for_inhalation_vapor:
+label_zalf_voor_inhalatiedamp:
   nl: Zalf voor inhalatiedamp
   en: Ointment for inhalation vapor
-label_ointment_for_rectal_use:
+label_zalf_voor_rectaal_gebruik:
   nl: Zalf voor rectaal gebruik
   en: Ointment for rectal use
-label_suppository:
+label_zetpil:
   nl: Zetpil
   en: Suppository
-label_lozenge:
+label_zuigtablet:
   nl: Zuigtablet  
   en: Lozenge
+label_pessarium:
+  nl: Pessarium
+  en: Pessary  
 
 label_auriculair:
   nl: Auriculair
@@ -1461,10 +1464,10 @@ label_application_frequency:
 label_funding_framework:
   nl: Bekostigingskader
   en: Budgetting framework
-label_intermural:
+label_intramuraal_msz_:
   nl: Intramuraal (MSZ)
   en: Intermural (MSZ)
-label_extramural:
+label_extramuraal_gvs_:
   nl: Extramuraal (GVS)
   en: Extramural (GVS)
 label_centre_of_expertise:
