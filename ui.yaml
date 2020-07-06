@@ -21,6 +21,12 @@ snippet_times_per_year:
 
 # Labels
 
+label_new_expected_publication_date:
+  nl: Nieuwe verwachte datum volgende publicatie
+  en: New expected date of the next publication
+label_expected_next_publication_date_is_set_to:
+  nl: De verwachte publicatiedatum voor de volgende editie van Horizonscan Geneesmiddelen staat ingesteld op
+  en: The expected publication date for the next edition of Horizon Scan Medicines is set to
 label_select_a_date:
   en: Select a date
   nl: Selecteer een datum
