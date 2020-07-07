@@ -21,6 +21,15 @@ snippet_times_per_year:
 
 # Labels
 
+label_contributing_a_record:
+  nl: Een record bijdragen
+  en: Contributing a record
+label_verifying_a_change:
+  nl: Een wijziging nakijken
+  en: Verifying a change
+label_proposing_a_change:
+  nl: Een wijzigings voorstellen
+  en: Proposing a change
 label_help:
   nl: Help
   en: Help
