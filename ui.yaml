@@ -21,6 +21,9 @@ snippet_times_per_year:
 
 # Labels
 
+label_help:
+  nl: Help
+  en: Help
 label_message_will_be_sent_to_x_manufacturers:
   nl: Onderstaand bericht zal verstuurd worden naar 54 fabrikanten.
   en: The message below will be sent to 54 manufacturers.
