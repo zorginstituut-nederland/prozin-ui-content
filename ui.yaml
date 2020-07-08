@@ -1664,6 +1664,12 @@ label_verification_by_manufacturer:
 label_new_medicines:
   nl: Nieuwe geneesmiddelen
   en: New medicines
+label_new_medicine:
+  nl: Nieuw geneesmiddel
+  en: New medicine
+label_new_medicine_prime:
+  nl: Nieuw geneesmiddel met Priority Medicines (PRIME)
+  en: New medicine with Priority Medicines (PRIME)
 label_new_record:
   nl: Nieuw record
   en: New record
@@ -1683,6 +1689,9 @@ label_route_of_administration:
 label_form_of_administration:
   nl: Toedieningsvorm
   en: Therapeutical formulation
+label_new_form_of_administration:
+  nl: Nieuwe toedieningsvorm
+  en: New therapeutical formulation
 label_application_frequency:
   nl: Toedingsfrequentie
   en: Frequency of administration
