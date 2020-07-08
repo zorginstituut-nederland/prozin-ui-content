@@ -1435,6 +1435,10 @@ label_nieuw_middel_specialite_:
 label_generiek_geneesmiddel:
   nl: Generiek middel
   en: Generic
+#Zowel label_generiek_geneesmiddel als label_generiek behouden omdat beide in gebruik zijn in hippo
+label_generiek:
+  nl: Generiek middel
+  en: Generic
 label_biosimilar:
   nl: Biosimilar
   en: Biosimilar
@@ -1664,10 +1668,10 @@ label_verification_by_manufacturer:
 label_new_medicines:
   nl: Nieuwe geneesmiddelen
   en: New medicines
-label_new_medicine:
+label_nieuw_geneesmiddel:
   nl: Nieuw geneesmiddel
   en: New medicine
-label_new_medicine_prime:
+label_nieuw_geneesmiddel_met_priority_medicines_prime_:
   nl: Nieuw geneesmiddel met Priority Medicines (PRIME)
   en: New medicine with Priority Medicines (PRIME)
 label_new_record:
@@ -1689,7 +1693,7 @@ label_route_of_administration:
 label_form_of_administration:
   nl: Toedieningsvorm
   en: Therapeutical formulation
-label_new_form_of_administration:
+label_nieuwe_toedieningsvorm:
   nl: Nieuwe toedieningsvorm
   en: New therapeutical formulation
 label_application_frequency:
@@ -1861,6 +1865,10 @@ label_extended_indication:
   nl: Uitgebreide indicatie
   en: Extended indication
 label_indicatieuitbreiding: 
+  nl: Indicatieuitbreiding
+  en: Indication extension
+#Zowel label_indicatieuitbreiding als label_indicatie behouden omdat beide in gebruik zijn in hippo
+label_indicatie-uitbreiding:
   nl: Indicatieuitbreiding
   en: Indication extension
 label_indication_extensions: 
