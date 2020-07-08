@@ -1,21 +1,69 @@
 # Snippets
 
-snippet_times_per_day:
+label_maal_per_dag:
   nl: maal per dag
   en: times a day
-snippet_times_per_week:
+label_maal_per_2_dagen:
+  nl: maal per 2 dagen
+  en: times every 2 days
+label_maal_per_3_dagen:
+  nl: maal per 3 dagen
+  en: times every 3 days   
+label_maal_per_4_dagen:
+  nl: maal per 4 dagen
+  en: times every 4 days
+label_maal_per_5_dagen:
+  nl: maal per 5 dagen
+  en: times every 5 days
+label_maal_per_6_dagen:
+  nl: maal per 6 dagen
+  en: times every 6 days
+label_maal_per_week:
   nl: maal per week
   en: times a week
-snippet_times_per_2_weeks:
+label_maal_per_2_weken:
   nl: maal per 2 weken
-  en: times a 2 weeks
-snippet_times_per_4_weeks:
+  en: times every 2 weeks
+label_maal_per_3_weken:
+  nl: maal per 3 weken
+  en: times every 3 weeks  
+label_maal_per_4_weken:
   nl: maal per 4 weken
-  en: times a 4 weeks
-snippet_times_per_month:
+  en: times every 4 weeks
+label_maal_per_5_weken:
+  nl: maal per 5 weken
+  en: times every 5 weeks  
+label_maal_per_6_weken:
+  nl: maal per 6 weken
+  en: times every 6 weeks
+label_maal_per_8_weken:
+  nl: maal per 8 weken
+  en: times every 8 weeks
+label_maal_per_10_weken:
+  nl: maal per 10 weken
+  en: times every 10 weeks
+label_maal_per_12_weken:
+  nl: maal per 12 weken
+  en: times every 12 weeks
+label_maal_per_maand:
   nl: maal per maand
   en: times a month
-snippet_times_per_year:
+label_maal_per_2_maanden:
+  nl: maal per 2 maanden
+  en: times every 2 months
+label_maal_per_3_maanden:
+  nl: maal per 3 maanden
+  en: times every 3 months
+label_maal_per_4_maanden:
+  nl: maal per 4 maanden
+  en: times every 4 months
+label_maal_per_5_maanden:
+  nl: maal per 5 maanden
+  en: times every 5 months
+label_maal_per_6_maanden:
+  nl: maal per 6 maanden
+  en: times every 6 months      
+label_maal_per_jaar:
   nl: maal per jaar
   en: times a year
 
@@ -292,38 +340,38 @@ label_virusremmer:
   nl: Virusremmer
   en: Virus inhibitor
 
-label_registered_and_reimbursed:
+label_geregistreerd_en_vergoed:
   en: Registered and reimbursed
   nl: Geregistreerd en vergoed
-label_registered_and_not_reimbursed:
+label_geregistreerd_en_niet_vergoed:
   en: Registered and not reimbursed
   nl: Geregistreerd en niet vergoed
-label_registered:
+label_geregistreerd:
   en: Registered
   nl: Geregistreerd
-label_positive_chmp_opinion:
+label_positieve_chmp-opinie:
   en: Positive CHMP opinion
   nl: Positieve CHMP-opinie
-label_negative_chmp_opinion:
+label_negatieve_chmp-opinie:
   en: Negative CHMP opinion
   nl: Negatieve CHMP-opinie
-label_registration_application_pending:
+label_registratieaanvraag_in_behandeling:
   en: Registration application pending
   nl: Registratieaanvraag in behandeling
-label_clinical_studies:
+label_klinische_studies:
   en: Clinical trials
   nl: Klinische studies
-label_withdrawn:
+label_teruggetrokken:
   en: Withdrawn
   nl: Teruggetrokkenn
 
-label_national_cbg:
+label_nationaal_cbg_:
   nl: Nationaal (CBG)
   en: National (CBG)
-label_decentral:
+label_decentraal:
   nl: Decentraal
   en: Decentralised
-label_central_ema:
+label_centraal_ema_:
   nl: Centraal (EMA)
   en: Centralised (EMA)
 label_aerosol:
@@ -997,140 +1045,245 @@ label_intratympaan:
   nl: Intratympaan
   en: cornelis  
 
-label_bowel_diseases:
+label_darmziekten:
   nl: Darmziekten
   en: Bowel diseases
 label_diabetes:
   nl: Diabetes
   en: Diabetes
-label_heart_and_vascular_diseases:
+label_hart-_en_vaatziekten:
   nl: Hart- en vaatziekten
-  en: Heart and vascular diseases
-label_haemophilia:
+  en: Cardiovascular diseases
+label_hemofilie:
   nl: Hemofilie
   en: Haemophilia
-label_liver_diseases:
+label_leverziekten:
   nl: Leverziekten
   en: Liver diseases
-label_eye_disorders:
+label_oogaandoeningen:
   nl: Oogaandoeningen
   en: Eye disorders
-label_metabolic_diseases:
+label_stofwisselingsziekten:
   nl: Stofwisselingsziekten
   en: Metabolic diseases
+label_hormonale_aandoeningen:
+  nl: Hormonale aandoeningen
+  en: Hormonal disorders
+label_stofwisseling_en_endocrinologie_overig:
+  nl: Stofwisseling en Endocrinologie overig
+  en: Other metabolism and Endocrinology
 
-label_blood_clotting:
+label_antitrombotische_medicatie:
+  nl: Antitrombotische medicatie
+  en: Antithrombotic medications 
+label_bloedstolling:
   en: Blood clotting
   nl: Bloedstolling
-label_erectile_dysfunction:
+label_erectiestoornissen:
   en: Erectile dysfunction
   nl: Erectiestoornissen
-label_heart_failure:
+label_hartfalen:
   en: Heart failure
   nl: Hartfalen
-label_hemostasis:
+label_hemostase:
   en: Hemostasis
   nl: Hemostase
-label_thrombosis:
+label_hemostase_bevorderende_medicatie:
+  nl: Hemostase bevorderende medicatie
+  en: Hemostasis promoting medication  
+label_lipidenverlagende_medicatie: 
+  nl: Lipidenverlagende medicatie
+  en: Lipid-lowering medications 
+label_overige_medicatie_hart-en_vaatziekten:
+  nl: Overige medicatie hart-en vaatziekten
+  en: Other medication for cardiovascular diseases  
+label_overige_niet-oncologische_hematologische_medicatie:
+  nl: Overige niet-oncologische hematologische medicatie
+  en: Other non-oncological hematological medications
+label_trombose:
   en: Thrombosis
   nl: Trombose
 
-label_pancreatic_cancer:
+label_all:
+  nl: ALL
+  en: ALL
+label_alvleesklierkanker:
   nl: Alvleesklierkanker
   en: Pancreatic cancer
-label_bladder_cancer:
+label_aml_mds:
+  nl: AML/MDS
+  en: AML / MDS
+label_baarmoederhalskanker:
+  nl: Baarmoederhalskanker
+  en: Cervical cancer  
+label_blaaskanker:
   nl: Blaaskanker
   en: Bladder cancer
-label_breast_cancer:
+label_borstkanker:
   nl: Borstkanker
   en: Breast cancer
-label_pleural_cancer:
+label_borstvlieskanker:
   nl: Borstvlieskanker
   en: Mesothelioma
-label_colon_cancer:
+label_cll:
+  nl: CLL
+  en: CLL  
+label_darmkanker:
   nl: Darmkanker
   en: Colon cancer
-label_ovarian_cancer:
+label_eierstokkanker:
   nl: Eierstokkanker
   en: Ovarian cancer
-label_brain_cancer:
+label_graft_versus_host:
+  nl: Graft versus Host
+  en: Graft versus Host
+label_hematologie_overig:
+  nl: Hematologie overig
+  en: Hematology other    
+label_hersenkanker:
   nl: Hersenkanker
   en: Brain cancer
-label_head_and_neck_cancer:
+label_hodgkin_lymfoom:
+  nl: Hodgkin lymfoom
+  en: Hodgkin's lymphoma  
+label_hoofd-_en_halskanker:
   nl: Hoofd- en halskanker
   en: Head and neck cancer
-label_skin_cancer:
+label_huidkanker:
   nl: Huidkanker
   en: Skin cancer
-label_leukemia:
+label_leukemie:
   nl: Leukemie
   en: Leukemia
-label_liver_cancer:
+label_leverkanker:
   nl: Leverkanker
   en: Liver cancer
-label_lung_cancer:
+label_longkanker:
   nl: Longkanker
   en: Lung cancer
-label_lymph_node_cancer:
+label_lymfeklierkanker:
   nl: Lymfeklierkanker
   en: Lymphoma
-label_stomach_cancer:
+label_maagkanker:
   nl: Maagkanker
   en: Stomach cancer
-label_multiple_myeloma:
+label_myeloproliferatieve_aandoeningen:
+  nl: Myeloproliferatieve aandoeningen
+  en: Myeloproliferative disorders  
+label_multipel_myeloom:
   nl: Multipel Myeloma
   en: Multiple Myeloma
-label_neuroendocrine_cancer:
+label_neuro-endocriene_kanker:
   nl: Neuro-endocriene kanker
   en: Neuroendocrine cancer
-label_kidney_cancer:
+label_non-hodgkin_lymfoom_agressief:
+  nl: Non-hodgkin lymfoom agressief
+  en: Aggressive non-Hodgkin's lymphoma
+label_non-hodgkin_lymfoom_indolent:
+  nl: Non-hodgkin lymfoom indolent
+  en: Indolent non-Hodgkin's lymphoma  
+label_nierkanker:
   nl: Nierkanker
   en: Kidney cancer
-label_prostate_cancer:
+label_prostaatkanker:
   nl: Prostaatkanker
   en: Prostate cancer
+label_oncologie_overig:
+  nl: Oncologie overig
+  en: Other oncology
+label_schildklierkanker:
+  nl: Schildklierkanker
+  en: Thyroid cancer
+label_stamceltransplantaties:
+  nl: Stamceltransplantaties
+  en: Stem cell transplants
 
-label_dementia:
+label_aandoeningen_van_zintuigen_overig:
+  nl: Aandoeningen van zintuigen overig
+  en: Other disorders of the senses
+label_adhd:
+  nl: ADHD
+  en: ADHD
+label_als:
+  nl: ALS 
+  en: ALS
+label_bipolaire_stoornis:
+  nl: Bipolaire stoornis
+  en: Bipolar disorder   
+label_dementie:
   nl: Dementie
   en: Dementia
-label_headache:
+label_depressie:
+  nl: Depressie
+  en: Depression
+label_duchenne:
+  nl: Duchenne
+  en: Duchenne
+label_epilepsie:
+  nl: Epilepsie
+  en: Epilepsy
+label_gehooraandoeningen:
+  nl: Gehooraandoeningen
+  en: Hearing disorders  
+label_hoofdpijn:
   nl: Hoofdpijn
   en: Headache
-label_other_neurology:
+label_multiple_sclerose:
+  nl: Multiple sclerose
+  en: Multiple sclerosis  
+label_neurologie_overig:
   nl: Neurologie overig
   en: Other neurological disorders
-label_eye_disorders:
+label_oogaandoeningen:
   nl: Oogaandoeningen
   en: Eye disorders
-label_parkinsons:
+label_parkinson:
   nl: Parkinson
   en: Parkinson's
-label_psychiatry:
+label_pijn:
+  nl: Pijn
+  en: Pain 
+label_psychiatrie:
   nl: Psychiatrie
   en: Psychiatry
-label_sleep_disturbances:
+label_psychiatrie_overig:
+  nl: Psychiatrie overig
+  en: Other psychiatry
+label_slaapstoornissen:
   nl: Slaapstoornissen
   en: Sleep disorders
-label_muscular_diseases:
+label_schizofrenie_psychose:
+  nl: Schizofrenie, psychose
+  en: Schizophrenia, psychosis  
+label_sma:
+  nl: SMA
+  en: SMA   
+label_spierziekten:
   nl: Spierziekten
   en: Muscular diseases
+label_spierziekten_overig:
+  nl: Spierziekten overig
+  en: Other muscular diseases  
 
 label_copd:
   nl: COPD
   en: COPD
-label_cystic_fibrosis:
+label_taaislijmziekte:
   nl: Taaislijmziekte
   en: Cystic fibrosis
-label_asthma:
+label_astma:
   nl: Astma
   en: Asthma
-label_bacterial_infections:
+label_long_overig:
+  nl: Long overig
+  en: Other lung  
+label_bacteriele_infecties:
   nl: Bacteriele infecties
   en: Bacterial infections
-label_other_infectious_diseases:
+label_infectieziekten_overig:
   nl: Overige infectieziekten overig
   en: Other infectious diseases
-label_viral_infections:
+label_virale_infecties:
   nl: Virale infecties
   en: Viral infections
 label_other_information:
@@ -1157,15 +1310,18 @@ label_stofwisseling-en-endocrinologie:
 label_chronische-immuunziekten:
   nl: Chronische immuunziekten
   en: Chronic immune diseases
-label_skin_diseases:
+label_huidziekten:
   nl: Huidziekten
   en: Skin diseases
-label_rheumatism:
+label_reuma:
   nl: Reuma
   en: Rheumatism
-label_other_chronic_immune_diseases:
+label_chronische_immuunziekten_overig:
   nl: Chronische immuunziekten overig
   en: Other chronic immune diseases
+label_allergie:
+  nl: Allergie
+  en: Allergy  
 # Label should match the ldap workgroup  
 label_infectieziekten:
   nl: Infectieziekten
@@ -1183,13 +1339,13 @@ label_cardiovasculaire-aandoeningen:
   nl: Cardiovasculaire aandoeningen 
   en: Cardiovascular diseases
 
-label_potential_loss:
+label_mogelijke_minderwaarde:
   nl: Mogelijke minderwaarde
   en: Potential reduced value
-label_potential_equal_value:
+label_mogelijke_gelijke_waarde:
   nl: Mogelijke gelijke waarde
   en: Potential equal value
-label_potential_added_value:
+label_mogelijke_meerwaarde:
   nl: Mogelijke meerwaarde
   en: Potential added value
 label_additional_comments:
@@ -1207,10 +1363,10 @@ label_already_available_biosimilars_generics:
 label_current_brand_name:
   nl: Huidig specialité
   en: Current proprietary name
-label_yes:
+label_ja:
   nl: Ja
   en: 'Yes'
-label_no:
+label_nee:
   nl: Nee
   en: 'No'
 label_year:
@@ -1228,10 +1384,10 @@ label_maximum:
 label_brand_name:
   nl: Merknaam
   en: Proprietary name
-label_new_medicine_specialite:
+label_nieuw_middel_specialite_:
   nl: Nieuw middel (specialité)
   en: New medicine (specialité)
-label_generic_medicine:
+label_generiek_geneesmiddel:
   nl: Generiek middel
   en: Generic
 label_biosimilar:
@@ -1243,21 +1399,45 @@ label_current_treatment_options:
 label_therapeutical_value:
   nl: Therapeutische waarde
   en: Therapeutic value
-label_no_judgement:
+label_geen_oordeel:
   nl: Geen oordeel
   en: No judgement
+label_nog_geen_oordeel:
+  nl: Nog geen oordeel
+  en: No judgement yet
 label_substantiation:
   nl: Onderbouwing
   en: Substantiation
 label_duration_of_treatment:
   nl: Behandelduur
   en: Duration of treatment
-label_average:
+label_gemiddeld:
   nl: Gemiddeld
   en: Average
-label_median:
+label_mediaan:
   nl: Mediaan
   en: Median
+label_dag_dagen:
+  nl: dag/dagen
+  en: day / days
+label_week_weken:
+  nl: week/weken
+  en: week / weeks
+label_maand_maanden:
+  nl: maand/maanden
+  en: month / months
+label_jaar_jaren:
+  nl: jaar/jaren
+  en: year / years
+label_levenslang:
+  nl: levenslang
+  en: lifetime
+label_eenmalig:
+  nl: eenmalig
+  en: one-off
+label_doorlopend:
+  nl: doorlopend
+  en: continuous
 label_cost:
   nl: Kosten
   en: Cost
@@ -1623,7 +1803,7 @@ label_indication:
 label_extended_indication: 
   nl: Uitgebreide indicatie
   en: Extended indication
-label_indication_extension: 
+label_indicatieuitbreiding: 
   nl: Indicatieuitbreiding
   en: Indication extension
 label_indication_extensions: 
@@ -1668,10 +1848,10 @@ label_date_of_application:
 label_expected_registration:
   nl: Verwachte registratie
   en: Expected Registration
-label_regular_process:
+label_normaal_traject:
   nl: Normaal traject
   en: Normal trajectory
-label_accelerated_assesment:
+label_accelerated_assessment:
   nl: Versnelde beoordeling
   en: Accelerated assessment
 label_conditional_marketing_authorisation:
@@ -1680,45 +1860,49 @@ label_conditional_marketing_authorisation:
 label_adaptive_pathway:
   nl: Adaptief traject
   en: Adaptive pathways
+label_informed_consent_application:
+  nl: Informed consent application
+  en: Informed consent application
 label_orphan_drug:
   nl: Weesgeneesmiddel
   en: Orphan drug
-label_january:
+# Date labels are in numbers for backwards compatibility with existing data in hippo that cannot be migrated.
+label_01:
   nl: Januari
-  en: January
-label_february:
+  en: January  
+label_02:
   nl: Februari
-  en: February
-label_march:
+  en: February  
+label_03:
   nl: Maart
-  en: March
-label_april:
+  en: March  
+label_04:
   nl: April
-  en: April
-label_may:
+  en: April  
+label_05:
   nl: Mei
-  en: May
-label_june:
+  en: May  
+label_06:
   nl: Juni
-  en: June
-label_juli:
+  en: June  
+label_07:
   nl: Juli
-  en: July
-label_august:
+  en: July  
+label_08:
   nl: Augustus
-  en: August
-label_september:
+  en: August  
+label_09:
   nl: September
-  en: September
-label_october:
+  en: September  
+label_10:
   nl: Oktober
-  en: October
-label_november:
+  en: October  
+label_11:
   nl: November
-  en: November
-label_december:
+  en: November  
+label_12:
   nl: December
-  en: December
+  en: December  
 label_product:
   nl: Product
   en: Product
@@ -1761,6 +1945,9 @@ label_page_not_found:
 label_not_found:
   nl: Niet gevonden
   en: Not found
+label_niet_gevonden:
+  nl: Niet gevonden
+  en: Not found  
 label_main_menu:
   nl: Hoofdmenu
   en: Main menu
