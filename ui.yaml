@@ -412,7 +412,7 @@ label_klinische_studies:
   nl: Klinische studies
 label_teruggetrokken:
   en: Withdrawn
-  nl: Teruggetrokkenn
+  nl: Teruggetrokken
 
 label_nationaal_cbg_:
   nl: Nationaal (CBG)
@@ -954,7 +954,7 @@ label_inhalatie:
   en: Inhalation
 label_injectie_in_de_speekselklieren:
   nl: Injectie in de speekselklieren
-  en: cornelis
+  en: Injection into the salivary glands
 label_intra-arterieel:
   nl: Intra-arterieel
   en: Intra-arterial
@@ -972,7 +972,7 @@ label_intracaverneus:
   en: Intracavernous
 label_intracerebraal:
   nl: Intracerebraal
-  en: cornelis  
+  en: Intracerebral  
 label_intracoronair:
   nl: Intracoronair
   en: Intracoronary
@@ -1077,7 +1077,7 @@ label_submucosaal:
   en: Submucosal
 label_subretinaal:
   nl: Subretinaal
-  en: cornelis  
+  en: Subretinal  
 label_transdermaal:
   nl: Transdermaal
   en: Transdermal
@@ -1092,7 +1092,7 @@ label_voor_implantatie:
   en: For implantation
 label_intratympaan:
   nl: Intratympaan
-  en: cornelis  
+  en: intratympanic  
 
 label_darmziekten:
   nl: Darmziekten
