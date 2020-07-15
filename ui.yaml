@@ -2280,6 +2280,7 @@ share:
   en: You can give someone without a user account access to a copy of this document via a link sent by email. The recipient of the email will be able to edit the document, and the proposed changes will be reflected in the major version at a later time.
 share_shared: 
   nl:  '<a href="{0}">Een kopie van dit document</a> is gedeeld met <a href="{1}">{2}</a>. {2} kan deze kopie inzien en bewerken tot en met <strong>{3}</strong>.'
+  en:  '<a href="{0}">A copy of this document</a> was shared with <a href="{1}">{2}</a>. {2} may view and edit this copy up and until <strong>{3}</strong>.'
 share_change_accepted: 
   nl: "De aanpassing van Max Meijer is <strong>geaccepteerd</strong> en opgeslagen in uw werkdocument."
 share_change_rejected: 
