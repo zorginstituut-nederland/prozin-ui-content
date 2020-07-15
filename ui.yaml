@@ -2127,7 +2127,7 @@ message_currently_no_records_from_manufacturers:
   en: There are currently no new records from manufacturers.
 message_nothing_followed:
   nl: Momenteel volgt u geen documenten.
-  en: You are currently not following any documents.
+  en: You are not following any documents at this moment.
 
 message_no_info_registration:
   nl: Er is op dit moment niets bekend over registratie.
@@ -2269,6 +2269,9 @@ message_check_the_url:
 message_you_currently_dont_follow_objects:
   nl: U volgt op dit moment geen objecten.
   en: You are currently not following any objects.
+message_no_expert_inquiries:
+  nl: Op dit moment staan er geen vragen uit bij derden.
+  en: There are no expert inquiries pending at this moment.
 
 ## Historical
 
