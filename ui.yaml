@@ -1570,6 +1570,12 @@ label_new_by_manufacturers:
 label_edit:
   nl: Bewerk
   en: Edit
+label_all_latest_versions:
+  nl: Alle laatste versies
+  en: All latest versions 
+label_drafts_only:
+  nl: Alleen conceptversies
+  en: Drafts only  
 label_compact_view:
   nl: Compacte weergave
   en: Compact view
@@ -1701,7 +1707,7 @@ label_nieuwe_toedieningsvorm:
   nl: Nieuwe toedieningsvorm
   en: New therapeutical formulation
 label_application_frequency:
-  nl: Toedingsfrequentie
+  nl: Toedieningsfrequentie
   en: Frequency of administration
 label_funding_framework:
   nl: Bekostigingskader
@@ -1823,6 +1829,12 @@ label_recent:
 label_comments:
   nl: Reacties
   en: Comments
+label_leave_a_comment:
+  nl: Plaats je reactie
+  en: Leave a comment 
+label_post:
+  nl: Plaats
+  en: Post  
 label_remarks:
   nl: Opmerkingen
   en: Remarks
@@ -2064,7 +2076,10 @@ label_request_for_pipeline:
   en: Request for pipeline
 label_contact_not_selected:
   nl: Geen contact geselecteerd
-  en: No contact selected  
+  en: No contact selected
+label_last_modified_on:
+  nl: Laatst bewerkt op
+  en: Last modified on 
 
 # Messages
 
@@ -2269,6 +2284,9 @@ message_check_the_url:
 message_you_currently_dont_follow_objects:
   nl: U volgt op dit moment geen objecten.
   en: You are currently not following any objects.
+message_share:
+  nl: Deel dit document met iemand anders
+  en: Share this document with someone
 
 ## Historical
 
@@ -2277,6 +2295,7 @@ share:
   en: You can give someone without a user account access to a copy of this document via a link sent by email. The recipient of the email will be able to edit the document, and the proposed changes will be reflected in the major version at a later time.
 share_shared: 
   nl:  '<a href="{0}">Een kopie van dit document</a> is gedeeld met <a href="{1}">{2}</a>. {2} kan deze kopie inzien en bewerken tot en met <strong>{3}</strong>.'
+  en:  '<a href="{0}">A copy of this document</a> is shared with <a href="{1}">{2}</a>. {2} can view and edit this copy until <strong>{3}</strong>.'
 share_change_accepted: 
   nl: "De aanpassing van Max Meijer is <strong>geaccepteerd</strong> en opgeslagen in uw werkdocument."
 share_change_rejected: 
