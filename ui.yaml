@@ -1576,6 +1576,12 @@ label_new_by_manufacturers:
 label_edit:
   nl: Bewerk
   en: Edit
+label_all_latest_versions:
+  nl: Alle laatste versies
+  en: All latest versions 
+label_drafts_only:
+  nl: Alleen conceptversies
+  en: Drafts only  
 label_compact_view:
   nl: Compacte weergave
   en: Compact view
@@ -1707,7 +1713,7 @@ label_nieuwe_toedieningsvorm:
   nl: Nieuwe toedieningsvorm
   en: New therapeutical formulation
 label_application_frequency:
-  nl: Toedingsfrequentie
+  nl: Toedieningsfrequentie
   en: Frequency of administration
 label_funding_framework:
   nl: Bekostigingskader
@@ -1829,6 +1835,12 @@ label_recent:
 label_comments:
   nl: Reacties
   en: Comments
+label_leave_a_comment:
+  nl: Plaats je reactie
+  en: Leave a comment 
+label_post:
+  nl: Plaats
+  en: Post  
 label_remarks:
   nl: Opmerkingen
   en: Remarks
@@ -2070,7 +2082,10 @@ label_request_for_pipeline:
   en: Request for pipeline
 label_contact_not_selected:
   nl: Geen contact geselecteerd
-  en: No contact selected  
+  en: No contact selected
+label_last_modified_on:
+  nl: Laatst bewerkt op
+  en: Last modified on 
 
 # Messages
 
@@ -2278,6 +2293,9 @@ message_you_currently_dont_follow_objects:
 message_no_expert_inquiries:
   nl: Op dit moment staan er geen vragen uit bij derden.
   en: There are no expert inquiries pending at this moment.
+message_share:
+  nl: Deel dit document met iemand anders
+  en: Share this document with someone
 
 ## Historical
 
