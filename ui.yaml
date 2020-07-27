@@ -70,6 +70,12 @@ label_maal_per_jaar:
 
 # Labels
 
+label_download:
+  nl: Download
+  en: Download
+label_download_these_medicines_as_csv:
+  nl: Download deze geneesmiddelen als een CSV-bestand
+  en: Download these medicines as a CSV file
 label_expert_inquiries:
   nl: Navragen bij deskundigen
   en: Expert inquiries
