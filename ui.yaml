@@ -1670,7 +1670,7 @@ label_for_verification:
   nl: Ter beoordeling
   en: For verification
 label_for_review_by_manufacturer:
-  nl: Ter beoordling door fabrikant
+  nl: Ter beoordeling door fabrikant
   en: For verification by manufacturer
 label_verification_by_manufacturer:
   nl: Beoordeling door fabrikant
@@ -2269,7 +2269,7 @@ message_the_request_for_pipeline_was_sent_successfully:
   nl: De uitvraag is verstuurd.
   en: The request for pipeline was sent succesfully.
 message_this_is_an_unpublished_concept:
-  nl: Dit is een ogepubliceerd concept.
+  nl: Dit is een ongepubliceerd concept.
   en: This is an unpublished concept.
 message_changes_to_this_revision_are_visible_after_publication:
   nl: <strong>Wijzigingen in deze revisie</strong> zijn pas na publicatie 
