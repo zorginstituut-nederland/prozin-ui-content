@@ -214,6 +214,9 @@ label_aminozuur:
 label_anders_zie_opmerkingenveld:
   nl: Anders, zie opmerkingenveld
   en: Other, see general comments
+label_anestheticum:
+  nl: Anestheticum
+  en: Anesthetic
 label_angiogeneseremmer:
   nl: Angiogeneseremmer
   en: Angiogenesis inhibitor
@@ -331,6 +334,9 @@ label_interferonremmer:
 label_interleukineremmer:
   nl: Interleukineremmer
   en: Interleukin inhibitor
+label_ionkanaalblokker:
+  nl: Ionkanaalblokker
+  en: Ion channel blocker
 label_jak_tyrosine_kinaseremmer:
   nl: JAK tyrosine kinaseremmer
   en: JAK tyrosine kinase inhibitor
@@ -382,9 +388,15 @@ label_receptorantagonist:
 label_serine_threonine_kinaseremmer:
   nl: Serine/threonine kinaseremmer
   en: Serine / threonine kinase inhibitor
+label_small_interfering_rna_sirna_:
+  nl: Small interfering RNA (siRNA)
+  en: Small interfering RNA (siRNA)
 label_stollingsfactor:
   nl: Stollingsfactor
   en: Coagulant
+label_tnf-alfa-remmer:
+  nl: TNF-alfa-remmer
+  en: TNF-alpha inhibitor 
 label_trombineremmer:
   nl: Trombineremmer
   en: Thrombin inhibitor
@@ -395,6 +407,9 @@ label_virusremmer:
   nl: Virusremmer
   en: Virus inhibitor
 
+label_geen_registratie_verwacht:
+  nl: Geen registratie verwacht
+  en: No registration expected
 label_geregistreerd_en_vergoed:
   en: Registered and reimbursed
   nl: Geregistreerd en vergoed
