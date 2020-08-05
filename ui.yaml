@@ -1,7 +1,10 @@
 # Snippets
 
-# The following snippets are prefixed with 'label_' for historic reasons.
+snippet_search_results:
+  nl: zoekresultaten
+  en: search results
 
+# The following snippets are prefixed with 'label_' for historic reasons.
 label_maal_per_dag:
   nl: maal per dag
   en: times a day
@@ -71,6 +74,12 @@ label_maal_per_jaar:
 
 # Labels
 
+label_relevance: 
+  nl: Relevantie
+  en: Relevance
+label_sort_by_colon: 
+  nl: "Sorteren op:"
+  en: "Sort by:"
 label_contact_administrator:
   nl: Contact met beheerder
   en: Contact the site administrator
@@ -161,6 +170,12 @@ label_error_code:
 label_question_wrong_address:
   nl: Verkeerd adres?
   en: Wrong address?
+label_show_filters:
+  nl: Toon filters
+  en: Show filters
+label_hide_filters:
+  nl: Verberg filters
+  en: Hide filters
 label_to_search:
   nl: "Zoeken"
   en: "Search"
@@ -173,6 +188,9 @@ label_select:
 label_read_more:
   nl: Lees meer…
   en: Read more…
+label_lemma:
+  nl: Trefwoord
+  en: Search term
 label_step:
   nl: Stap
   en: Step
@@ -1759,6 +1777,9 @@ label_nieuwe_toedieningsvorm:
 label_application_frequency:
   nl: Toedieningsfrequentie
   en: Frequency of administration
+label_funding:
+  nl: Bekostiging
+  en: Funding
 label_funding_framework:
   nl: Bekostigingskader
   en: Budgetting framework
@@ -1843,9 +1864,24 @@ label_grouping:
 label_employee_position:
   nl: Functie
   en: Position
+label_all_document_types:
+  nl: Alle documentttypen
+  en: All document types
+label_all_indications:
+  nl: Alle indicaties
+  en: All indications
+label_news_article:
+  nl: Nieuwsbericht
+  en: News article
 label_more_news:
   nl: Meer nieuws
   en: More news
+label_type_of_document:
+  nl: Type document
+  en: Type of document
+label_document_type:
+  nl: Documenttype
+  en: Document type
 label_pdf_file:
   nl: PDF-document
   en: PDF file
@@ -1915,6 +1951,9 @@ label_new_password:
 label_repeat_new_password:
   nl: Herhaal nieuw wachtwoord
   en: Repeat new password
+label_medicine:
+  nl: Geneesmiddele
+  en: Medicine
 label_medicines:
   nl: Geneesmiddelen
   en: Medicines
@@ -1988,6 +2027,9 @@ label_registration_phase:
 label_type_of_process:
   nl: Type traject
   en: Type of trajectory
+label_date:
+  nl: Datum
+  en: Date
 label_date_of_application:
   nl: Indieningsdatum
   en: Submission date
