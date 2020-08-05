@@ -1883,9 +1883,18 @@ label_toc:
 label_logout:
   nl: Uitloggen
   en: Logout
-label_change_password:
+label_change_password_title:
   nl: Wachtwoord wijzigen
   en: Change password
+label_current_password:
+  nl: Huidig wachtwoord
+  en: Current password
+label_new_password:
+  nl: Nieuw wachtwoord
+  en: New password
+label_repeat_new_password:
+  nl: Herhaal nieuw wachtwoord
+  en: Repeat new password
 label_medicines:
   nl: Geneesmiddelen
   en: Medicines
