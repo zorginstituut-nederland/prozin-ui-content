@@ -1,21 +1,7 @@
 # Snippets
 
 # The following snippets are prefixed with 'label_' for historic reasons.
-label_weekly:
-  nl: Wekelijks
-  en: Weekly
-label_monthly:
-  nl: Maandelijks
-  en: Monthly
-label_dagelijks:
-  nl: Dagelijks
-  en: Daily
-label_digest_emails:
-  nl: Digest-e-mails
-  en: Digest e-mails
-label_no_digest_emails:
-  nl: Geen digest-e-mails
-  en: No digest e-mails
+
 label_maal_per_dag:
   nl: maal per dag
   en: times a day
@@ -85,6 +71,27 @@ label_maal_per_jaar:
 
 # Labels
 
+label_contact_administrator:
+  nl: Contact met beheerder
+  en: Contact the site administrator
+label_request_account:
+  nl: Account aanvragen
+  en: Request an account
+label_weekly:
+  nl: Wekelijks
+  en: Weekly
+label_monthly:
+  nl: Maandelijks
+  en: Monthly
+label_dagelijks:
+  nl: Dagelijks
+  en: Daily
+label_digest_emails:
+  nl: Digest-e-mails
+  en: Digest e-mails
+label_no_digest_emails:
+  nl: Geen digest-e-mails
+  en: No digest e-mails
 label_download:
   nl: Download
   en: Download
@@ -178,6 +185,9 @@ label_my_profile:
 label_change_password:
   nl: Wijzig wachtwoord
   en: Change password
+label_forgot_password:
+  nl: Wachtwoord vergeten
+  en: Forgot password
 label_preferences:
   nl: Voorkeuren
   en: Preferences
@@ -1560,6 +1570,10 @@ label_domain:
 label_reason_of_inclusion:
   en: Reason of inclusion in Horizonscan Geneesmiddelen
   nl: Reden van opname in Horizonscan Geneesmiddelen
+
+snippet_log_in_to: 
+  nl: Inloggen op
+  en: Log in to
 snippet_published_on:
   nl: Gepubliceerd op
   en: Published on
@@ -1850,6 +1864,9 @@ label_excel_file:
 label_login:
   nl: Inloggen
   en: Login
+label_log_in:
+  nl: Log in
+  en: Log in
 label_logged_in_as:
   nl: Ingelogd als
   en: Logged in as
@@ -1889,6 +1906,9 @@ label_change_password_title:
 label_current_password:
   nl: Huidig wachtwoord
   en: Current password
+label_password:
+  nl: Wachtwoord
+  en: Password
 label_new_password:
   nl: Nieuw wachtwoord
   en: New password
@@ -2338,6 +2358,9 @@ message_share:
 message_help_digest_emails:
   nl: "Digest e-mails bevatten een opsomming van alle pagina's die u volgt en die zijn bijgewerkt sinds de laatste keer dat u een digest e-mail ontvangen heeft of vanaf het moment dat u digests ingeschakeld heeft. Maandelijkse en wekelijkse digests worden altijd verzonden op vrijdag."
   en: "Digest e-mails contain a list of all the pages that follow which have been updated since the last time you received a digest e-mail or from the moment you turned digests on. Monthly and weekly digests are always sent on Fridays."
+message_login_screen_problems:
+  nl: Wilt u een nieuw wachtwoord aanvragen, uw gegevens wijzigen of een probleem melden, neem dan contact op met de beheerder. Heeft u nog geen account? Dan kunt u een account aanvragen.
+  en: If you want to request a new password, change your details or report a problem, please contact the administrator. Don't have an account yet? Then you can request an account.
 
 ## Historical
 
