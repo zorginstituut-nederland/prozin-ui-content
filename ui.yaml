@@ -1,6 +1,21 @@
 # Snippets
 
 # The following snippets are prefixed with 'label_' for historic reasons.
+label_weekly:
+  nl: Wekelijks
+  en: Weekly
+label_monthly:
+  nl: Maandelijks
+  en: Monthly
+label_dagelijks:
+  nl: Dagelijks
+  en: Daily
+label_digest_emails:
+  nl: Digest-e-mails
+  en: Digest e-mails
+label_no_digest_emails:
+  nl: Geen digest-e-mails
+  en: No digest e-mails
 label_maal_per_dag:
   nl: maal per dag
   en: times a day
@@ -2311,6 +2326,9 @@ message_no_expert_inquiries:
 message_share:
   nl: Deel dit document met iemand anders
   en: Share this document with someone
+message_help_digest_emails:
+  nl: "Digest e-mails bevatten een opsomming van alle pagina's die u volgt en die zijn bijgewerkt sinds de laatste keer dat u een digest e-mail ontvangen heeft of vanaf het moment dat u digests ingeschakeld heeft. Maandelijkse en wekelijkse digests worden altijd verzonden op vrijdag."
+  en: "Digest e-mails contain a list of all the pages that follow which have been updated since the last time you received a digest e-mail or from the moment you turned digests on. Monthly and weekly digests are always sent on Fridays."
 
 ## Historical
 
