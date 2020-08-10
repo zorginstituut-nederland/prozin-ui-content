@@ -74,6 +74,9 @@ label_maal_per_jaar:
 
 # Labels
 
+label_save_message: 
+  nl: Bewaarbericht
+  en: Save message
 label_compare_versions:
   nl: Versies vergelijken
   en: Compare historic versions
