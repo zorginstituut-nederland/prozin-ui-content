@@ -74,6 +74,9 @@ label_maal_per_jaar:
 
 # Labels
 
+label_compare_versions:
+  nl: Versies vergelijken
+  en: Compare historic versions
 label_field_name: 
   nl: Veldnaam
   en: Field name
