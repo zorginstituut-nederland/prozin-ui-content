@@ -74,6 +74,9 @@ label_maal_per_jaar:
 
 # Labels
 
+label_field_name: 
+  nl: Veldnaam
+  en: Field name
 label_relevance: 
   nl: Relevantie
   en: Relevance
