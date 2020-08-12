@@ -3,6 +3,9 @@
 snippet_search_results:
   nl: zoekresultaten
   en: search results
+snippet_total_cost_from_colon:
+  nl: 'Totale kosten per jaar vanaf:'
+  en: 'Total cost per year from:'
 
 # The following snippets are prefixed with 'label_' for historic reasons.
 label_maal_per_dag:
@@ -74,6 +77,12 @@ label_maal_per_jaar:
 
 # Labels
 
+label_higher_than: 
+  nl: Hoger dan
+  en: Higher than
+label_less_than: 
+  nl: Minder dan
+  en: Less than
 label_save_message: 
   nl: Bewaarbericht
   en: Save message
@@ -1482,6 +1491,9 @@ label_indications_off_label_use:
 label_already_available_biosimilars_generics:
   nl: Reeds beschikbare biosimilars/generieken
   en: Already available biosimilars / generics
+label_biosimilars_and_generics:
+  nl: Biosimilars/generieken
+  en: Biosimilars / generics
 label_current_brand_name:
   nl: Huidig specialité
   en: Current proprietary name
@@ -1582,6 +1594,9 @@ maximum_total_costs:
 label_possible_total_cost_per_year:
   nl: Mogelijke totale kosten per jaar
   en: Potential total cost per year
+label_possible_total_cost:
+  nl: Mogelijke totale kosten
+  en: Potential total cost
 label_expected_patient_volume_per_year:
   nl: Verwacht patiëntvolume per jaar
   en: Expected patient volume per year
@@ -1591,6 +1606,9 @@ label_expected_patient_volume:
 label_expected_cost_per_patient_per_year:
   nl: Verwachte kosten per patiënt per jaar
   en: Expected cost per patient per year
+label_cost_per_patient:
+  nl: Kosten per patiënt
+  en: Cost per patient
 label_domain:
   nl: Domein
   en: Domain
@@ -1758,6 +1776,9 @@ label_new_medicines:
 label_nieuw_geneesmiddel:
   nl: Nieuw geneesmiddel
   en: New medicine
+label_nieuw_geneesmiddelen:
+  nl: "Nieuwe geneesmiddelen (specialité’s)" 
+  en: New medicines
 label_nieuw_geneesmiddel_met_priority_medicines_prime_:
   nl: Nieuw geneesmiddel met Priority Medicines (PRIME)
   en: New medicine with Priority Medicines (PRIME)
