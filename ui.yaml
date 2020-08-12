@@ -138,8 +138,8 @@ label_new_deadline_for_submission:
   en: New deadline for submission
   nl: Nieuwe uiterste inleverdatum
 label_deadline_for_submission_is_set_to:
-  en: The deadline for submission is set to 
-  nl: De uiterste inleverdatum staat ingesteld op
+  en: The deadline for submission is set to {0}. 
+  nl: De uiterste inleverdatum staat ingesteld op {0}.
 label_change_expected_publication_month:
   en: Change the expected publication month
   nl: Verwachte publicatiemaand opnieuw instellen
@@ -150,8 +150,8 @@ label_new_expected_publication_date:
   nl: Nieuwe verwachte datum volgende publicatie
   en: New expected date of the next publication
 label_expected_next_publication_date_is_set_to:
-  nl: De verwachte publicatiedatum voor de volgende editie van Horizonscan Geneesmiddelen staat ingesteld op
-  en: The expected publication date for the next edition of Horizon Scan Medicines is set to
+  nl: De verwachte publicatiedatum voor de volgende editie van Horizonscan Geneesmiddelen staat ingesteld op {0}.
+  en: The expected publication date for the next edition of Horizon Scan Medicines is set to {0}.
 label_select_a_date:
   en: Select a date
   nl: Selecteer een datum
