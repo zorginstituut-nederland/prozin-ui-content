@@ -119,6 +119,9 @@ label_digest_emails:
 label_no_digest_emails:
   nl: Geen digest-e-mails
   en: No digest e-mails
+label_explanation:
+  nl: Uitleg
+  en: Explanatio
 label_download:
   nl: Download
   en: Download
@@ -1897,6 +1900,9 @@ label_employee_position:
 label_all_document_types:
   nl: Alle documentttypen
   en: All document types
+label_all_domains:
+  nl: Alle domeinen
+  en: All domains
 label_all_indications:
   nl: Alle indicaties
   en: All indications
@@ -1982,7 +1988,7 @@ label_repeat_new_password:
   nl: Herhaal nieuw wachtwoord
   en: Repeat new password
 label_medicine:
-  nl: Geneesmiddele
+  nl: Geneesmiddel
   en: Medicine
 label_medicines:
   nl: Geneesmiddelen
@@ -2434,11 +2440,11 @@ message_login_screen_problems:
   nl: Wilt u een nieuw wachtwoord aanvragen, uw gegevens wijzigen of een probleem melden, neem dan contact op met de beheerder. Heeft u nog geen account? Dan kunt u een account aanvragen.
   en: If you want to request a new password, change your details or report a problem, please contact the administrator. Don't have an account yet? Then you can request an account.
 message_next_publication:
-  nl: De volgende publicatie van Horizonscan Geneesmiddelen is gepland voor <strong>juni 2021</strong>.
-  en: The next publication of Horizonscan Geneesmiddelen is planned for <strong>June 2021</strong>.
+  nl: De volgende publicatie van Horizonscan Geneesmiddelen is gepland voor <strong>{0}</strong>.
+  en: The next publication of Horizonscan Geneesmiddelen is planned for <strong>{0}</strong>.
 message_enter_medicine_info_before_date:
-  nl: Voer vóór <strong>17 januari 2021</strong> informatie in over nieuwe geneesmiddelen of bestaande geneesmiddelen met indicatie-uitbreiding.
-  en: Please enter information of new medicines or existing medicines with an extension of indication into the system before <strong>17 January 2021</strong>.
+  nl: Voer vóór <strong>{0}</strong> informatie in over nieuwe geneesmiddelen of bestaande geneesmiddelen met indicatie-uitbreiding.
+  en: Please enter information of new medicines or existing medicines with an extension of indication into the system before <strong>{0}</strong>.
 
 ## Historical
 
