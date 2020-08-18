@@ -2434,11 +2434,11 @@ message_login_screen_problems:
   nl: Wilt u een nieuw wachtwoord aanvragen, uw gegevens wijzigen of een probleem melden, neem dan contact op met de beheerder. Heeft u nog geen account? Dan kunt u een account aanvragen.
   en: If you want to request a new password, change your details or report a problem, please contact the administrator. Don't have an account yet? Then you can request an account.
 message_next_publication:
-  nl: De volgende publicatie van Horizonscan Geneesmiddelen is gepland voor <strong>juni 2021</strong>.
-  en: The next publication of Horizonscan Geneesmiddelen is planned for <strong>June 2021</strong>.
+  nl: De volgende publicatie van Horizonscan Geneesmiddelen is gepland voor {0}.
+  en: The next publication of Horizonscan Geneesmiddelen is planned for {0}.
 message_enter_medicine_info_before_date:
-  nl: Voer vóór <strong>17 januari 2021</strong> informatie in over nieuwe geneesmiddelen of bestaande geneesmiddelen met indicatie-uitbreiding.
-  en: Please enter information of new medicines or existing medicines with an extension of indication into the system before <strong>17 January 2021</strong>.
+  nl: Voer vóór {0} informatie in over nieuwe geneesmiddelen of bestaande geneesmiddelen met indicatie-uitbreiding.
+  en: Please enter information of new medicines or existing medicines with an extension of indication into the system before {0}.
 
 ## Historical
 
