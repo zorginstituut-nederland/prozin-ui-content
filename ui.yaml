@@ -2454,11 +2454,6 @@ message_email_address_unknown:
 message_password_reset_email_sent:
   nl: Er is een e-mail verstuurd naar <strong>nicole@company.com</strong> met daarin een link waarmee u uw wachtwoord opnieuw in kunt stellen. Deze link blijft een uur geldig.
   en: An email has been sent to <strong>nicole@company.com</strong> containing a link to reset your password. This link will be valid for one hour.
-<<<<<<< HEAD
-message_password_forgotten:
-  nl: Bent u uw wachtwoord vergeten? Geen nood. Als u onderstaand uw e-mailadres invult, dan sturen wij u een wachtwoord-reset link toe. Daarmee kunt u zelf een nieuw wachtwoord aanmaken.
-  en: Did you forget your password? No worries. If you enter your email address below, we will send you a password reset link. You can use this to create a new password yourself.
-=======
 message_passwords_not_equal:
   nl: De wachtwoorden zijn niet aan elkaar gelijk.
   en: The passwords are not equal to each other.
@@ -2477,7 +2472,6 @@ message_password_successfully_changed:
 message_password_forgotten:
   nl: Hebt u uw wachtwoord vergeten? Geen nood. Als u onderstaand uw e-mailadres invult, dan sturen wij u een wachtwoord-reset link toe. Daarmee kunt u zelf een nieuw wachtwoord aanmaken.
   en: Have you forgotten your password? No worries. If you enter your email address below, we will send you a password reset link. You can use this to create a new password yourself.
->>>>>>> bc2e198998e227115e806e5bfd425a83fc8ea444
 
 ## Historical
 
