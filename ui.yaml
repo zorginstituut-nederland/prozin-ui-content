@@ -1671,6 +1671,9 @@ label_edit:
 label_all_latest_versions:
   nl: Alle laatste versies
   en: All latest versions 
+label_created:
+  nl: Aangemaakt
+  en: Created
 label_drafts_only:
   nl: Alleen conceptversies
   en: Drafts only  
@@ -2223,6 +2226,9 @@ label_contact_not_selected:
 label_last_modified_on:
   nl: Laatst bewerkt op
   en: Last modified on 
+label_shared_with_name:
+  nl: 'Gedeeld met <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
+  en: 'Shared with <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
 
 # Messages
 
