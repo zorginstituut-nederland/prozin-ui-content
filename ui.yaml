@@ -2286,7 +2286,9 @@ message_currently_no_records_from_manufacturers:
 message_nothing_followed:
   nl: Momenteel volgt u geen documenten.
   en: You are not following any documents at this moment.
-
+message_no_info:
+  nl: Er is op dit moment geen informatie.
+  en: There is currently no information available.
 message_no_info_registration:
   nl: Er is op dit moment niets bekend over registratie.
   en: There is currently nothing known about registration.
