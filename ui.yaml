@@ -2472,6 +2472,9 @@ message_password_successfully_changed:
 message_password_forgotten:
   nl: Hebt u uw wachtwoord vergeten? Geen nood. Als u onderstaand uw e-mailadres invult, dan sturen wij u een wachtwoord-reset link toe. Daarmee kunt u zelf een nieuw wachtwoord aanmaken.
   en: Have you forgotten your password? No worries. If you enter your email address below, we will send you a password reset link. You can use this to create a new password yourself.
+message_entered_wrong_password:
+  nl: U heeft geen geldige gebruikersnaam of wachtwoord ingevoerd. Probeer het nogmaals. Lukt het inloggen niet neem dan <a href="/contact">contact op met de beheerder</a>.
+  en: You have not entered a valid username or password. Please try again. If the login still fails then please <a href="/contact">contact the administrator</a>.
 
 ## Historical
 
