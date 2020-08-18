@@ -2447,7 +2447,7 @@ message_enter_medicine_info_before_date:
   en: Please enter information of new medicines or existing medicines with an extension of indication into the system before <strong>{0}</strong>.
 message_password_expired: 
   nl: Uw wachtwoord is verlopen omdat het meer dan 6 maanden oud is. 
-  enl: Your password has exet e-mailadres <strong>nicole@company.comm</strong> is niet bij ons bekend. Vult u alstublieft het e-mailadres in dat u eerder bij ons geregistreerd hebt.pired because it's more than 6 months old.
+  en: Your password has exepired because it's more than 6 months old.
 message_create_new_password:
   nl: Vul hieronder een nieuw wachtwoord in. Het wachtwoord mag niet gelijk zijn aan een eerder gebruikt wachtwoord. Verder moet het wachtwoord uit minimaal 8 karakters betaan, zowel hoofdletters als kleine letters en minimaal 1 cijfer of speciaal karakter bevatten.
   en: Enter a new password below. The password cannot be the same as a previously used password. Furthermore, the password must consist of at least 8 characters, contain both uppercase and lowercase letters and at least 1 number or special character.
