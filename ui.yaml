@@ -2483,6 +2483,9 @@ message_password_forgotten:
 message_entered_wrong_password:
   nl: U heeft geen geldige gebruikersnaam of wachtwoord ingevoerd. Probeer het nogmaals. Lukt het inloggen niet neem dan <a href="{0}">contact op met de beheerder</a>.
   en: You have not entered a valid username or password. Please try again. If the login still fails then please <a href="{0}">contact the administrator</a>.
+message_verification_requests_sent:
+  nl: De verificatieverzoeken zijn verstuurd.
+  en: The verification requests were successfully sent.
 
 ## Historical
 
