@@ -2139,6 +2139,9 @@ label_pregnancy:
 label_lactation: 
   nl: Lactatie
   en: Lactation
+label_prolongated: 
+  nl: Verlengd
+  en: Prolongated
 label_contraindications:
   nl: Contra-indicaties
   en: Contraindications
@@ -2229,6 +2232,9 @@ label_last_modified_on:
 label_shared_with_name:
   nl: 'Gedeeld met <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
   en: 'Shared with <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
+label_sharing_extended_for_name:
+  nl: 'Delen verlengd voor <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
+  en: 'Sharing extended for <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
 
 # Messages
 
