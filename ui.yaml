@@ -1831,6 +1831,9 @@ label_centre_of_expertise:
 label_draft:
   nl: Concept
   en: Draft
+label_notes:
+  nl: Notities
+  en: Notes
 label_version:
   nl: Versie
   en: Version
