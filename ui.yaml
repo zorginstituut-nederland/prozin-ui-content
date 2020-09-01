@@ -206,6 +206,12 @@ label_i_am_sure_publish_now:
 label_select:
   nl: Selecteer
   en: Select
+label_select_all:
+  nl: Selecteer alles
+  en: Select all
+label_deselect_all:
+  nl: Deselecteer alles
+  en: Deselect all   
 label_read_more:
   nl: Lees meer…
   en: Read more…
