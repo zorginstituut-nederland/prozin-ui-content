@@ -76,7 +76,12 @@ label_maal_per_jaar:
   en: times a year
 
 # Labels
-
+label_show_atmps_only:
+  nl: Toon alleen ATMP's
+  en: Show ATMPs only
+label_show_orphans_only:
+  nl: Laat alleen weesgeneesmiddelen zien
+  en: Show Orphan drugs only
 label_atmp:
   nl: ATMP
   en: ATMP
