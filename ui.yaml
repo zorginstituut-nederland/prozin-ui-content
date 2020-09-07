@@ -76,7 +76,15 @@ label_maal_per_jaar:
   en: times a year
 
 # Labels
-
+label_show_atmps_only:
+  nl: Toon alleen ATMP's
+  en: Show ATMPs only
+label_show_orphans_only:
+  nl: Laat alleen weesgeneesmiddelen zien
+  en: Show Orphan drugs only
+label_atmp:
+  nl: ATMP
+  en: ATMP
 label_higher_than: 
   nl: Hoger dan
   en: Higher than
@@ -2389,6 +2397,9 @@ message_session_expired:
   nl: U bent automatisch uitgelogd, omdat uw sessie verlopen is. U kunt hieronder opnieuw inloggen om verder te gaan.
   en: You were automatically logged out because your session was epxired. Please log in again below to continue.
 
+message_help_atmp:
+  nl: Vanaf 2007 bestaat er een apart gedefinieerde groep geneesmiddelen, namelijk de ‘Advanced Therapy Medicinal Products’ (ATMPs). Onder de ATMPs vallen producten voor en somatische celtherapie, gentherapie en weefselmanipulatie.
+  en: As of 2007 there is a separately defined group of medicines, namely the ‘Advanced Therapy Medicinal Products’ (ATMPs). ATMPs include products for somatic cell therapy, gene therapy and tissue engineering.
 message_help_active_subtance:
   nl: Schrijf een stofnaam altijd in onderkast.
   en: Always write the active substance in lowercase. 
