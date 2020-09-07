@@ -1972,6 +1972,9 @@ label_leave_a_comment:
 label_post:
   nl: Plaats
   en: Post  
+label_older_comments:
+  nl: Toon eerdere reacties
+  en: Show older comments  
 label_remarks:
   nl: Opmerkingen
   en: Remarks
