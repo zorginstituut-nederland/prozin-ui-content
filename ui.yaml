@@ -76,6 +76,12 @@ label_maal_per_jaar:
   en: times a year
 
 # Labels
+label_no_concepts_for_domain:
+  nl: Er zijn momenteel geen concepten voor dit domein.
+  en: There are currently no concepts for this domain.
+label_no_member_of_any_domain:
+  nl: U bent geen lid van een domein.
+  en: You are no member of any domain.
 label_show_atmps_only:
   nl: Toon alleen ATMP's
   en: Show ATMPs only
