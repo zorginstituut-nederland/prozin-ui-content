@@ -2521,6 +2521,9 @@ message_entered_wrong_password:
 message_verification_requests_sent:
   nl: De verificatieverzoeken zijn verstuurd.
   en: The verification requests were successfully sent.
+message_outdated_browser:
+  nl: U gebruikt een verouderde webbrowser. Hierdoor is sommige informatie mogelijk niet, of minder goed toegankelijk. Installeer een nieuwere browser om optimaal van deze site gebruik te kunnen blijven maken.
+  en: You are using an outdated web browser. As a result, some information might be less accessible to you or not accessible at all. Please install a newer browser in order to make optimal use of this site.
 
 ## Historical
 
