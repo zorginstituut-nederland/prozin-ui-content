@@ -1,0 +1,89 @@
+nicole:
+  first_name: Nicole
+  last_name: De Vries
+  email: nicole.de.vries@company.nl
+  role: scanner
+  follows: 
+    - Afamelanotide
+    - Alicaforsen
+    - Antihemophilic factor (recombinant) Pegylated
+    - Asfotase alfa
+    - Binimetinib
+    - Burosumab
+    - Cerliponase alfa
+    - Cholic acid
+    - Cinacalcet
+    - Dapagliflozine
+    - Daratumumab
+    - Empagliflozin
+    - Etirinotecan pegol
+    - Inotuzumab ozogamicin
+    - Lutetium-177
+    - Nivolumab
+    - Paclitaxel
+    - Remedium
+daisy:
+  first_name: Daisy
+  last_name: Duell
+  email: dduell@zinl.nl
+  role: scanner
+  follows: 
+    - Afamelanotide
+    - Alicaforsen
+    - Antihemophilic factor (recombinant) Pegylated
+    - Asfotase alfa
+    - Binimetinib
+    - Burosumab
+    - Cerliponase alfa
+    - Cholic acid
+    - Cinacalcet
+    - Dapagliflozine
+    - Daratumumab
+    - Empagliflozin
+    - Etirinotecan pegol
+    - Inotuzumab ozogamicin
+    - Lutetium-177
+    - Nivolumab
+    - Paclitaxel
+    - Remedium
+wytse:
+  first_name: Wytse
+  last_name: Bruinsma
+  email: wbruinsma@zinl.nl
+  role: scanner
+  follows: 
+    - Nivolumab
+    - Remedium
+devi:
+  first_name: Devi
+  last_name: Donders
+  email: devidonders@zinl.nl
+  role: workgroup-member
+  follows: 
+    - Nivolumab
+    - Remedium
+nikos:
+  first_name: Nikos
+  last_name: Papadopoulus
+  email: nikospapadopoulus@werkgroep.nl
+  role: workgroup-member
+  domain: Metabolism and Endocrinology
+astrid:
+  first_name: Astrid
+  last_name: Arend
+  email: astridarend@roche.nl
+  role: manufacturer
+riwka:
+  first_name: Riwka
+  last_name: Rubinstein
+  email: rrubinstein@zinl.nl
+  role: administrator
+achmed:
+  first_name: Achmed
+  last_name: Ali
+  email: achmedali@vws.nl
+  role: bystander
+  follows: 
+    - Afamelanotide
+    - Alicaforsen
+    - Antihemophilic factor (recombinant) Pegylated
