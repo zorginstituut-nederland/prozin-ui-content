@@ -1924,7 +1924,7 @@ label_employee_position:
   nl: Functie
   en: Position
 label_all_document_types:
-  nl: Alle documentttypen
+  nl: Alle documenttypen
   en: All document types
 label_all_domains:
   nl: Alle domeinen
