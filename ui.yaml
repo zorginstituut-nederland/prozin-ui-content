@@ -1,81 +1,23 @@
-# Snippets
-
-snippet_search_results:
-  nl: zoekresultaten
-  en: search results
-snippet_total_cost_from_colon:
-  nl: 'Totale kosten per jaar vanaf:'
-  en: 'Total cost per year from:'
-
-# The following snippets are prefixed with 'label_' for historic reasons.
-label_maal_per_dag:
-  nl: maal per dag
-  en: times a day
-label_maal_per_2_dagen:
-  nl: maal per 2 dagen
-  en: times every 2 days
-label_maal_per_3_dagen:
-  nl: maal per 3 dagen
-  en: times every 3 days   
-label_maal_per_4_dagen:
-  nl: maal per 4 dagen
-  en: times every 4 days
-label_maal_per_5_dagen:
-  nl: maal per 5 dagen
-  en: times every 5 days
-label_maal_per_6_dagen:
-  nl: maal per 6 dagen
-  en: times every 6 days
-label_maal_per_week:
-  nl: maal per week
-  en: times a week
-label_maal_per_2_weken:
-  nl: maal per 2 weken
-  en: times every 2 weeks
-label_maal_per_3_weken:
-  nl: maal per 3 weken
-  en: times every 3 weeks  
-label_maal_per_4_weken:
-  nl: maal per 4 weken
-  en: times every 4 weeks
-label_maal_per_5_weken:
-  nl: maal per 5 weken
-  en: times every 5 weeks  
-label_maal_per_6_weken:
-  nl: maal per 6 weken
-  en: times every 6 weeks
-label_maal_per_8_weken:
-  nl: maal per 8 weken
-  en: times every 8 weeks
-label_maal_per_10_weken:
-  nl: maal per 10 weken
-  en: times every 10 weeks
-label_maal_per_12_weken:
-  nl: maal per 12 weken
-  en: times every 12 weeks
-label_maal_per_maand:
-  nl: maal per maand
-  en: times a month
-label_maal_per_2_maanden:
-  nl: maal per 2 maanden
-  en: times every 2 months
-label_maal_per_3_maanden:
-  nl: maal per 3 maanden
-  en: times every 3 months
-label_maal_per_4_maanden:
-  nl: maal per 4 maanden
-  en: times every 4 months
-label_maal_per_5_maanden:
-  nl: maal per 5 maanden
-  en: times every 5 months
-label_maal_per_6_maanden:
-  nl: maal per 6 maanden
-  en: times every 6 months      
-label_maal_per_jaar:
-  nl: maal per jaar
-  en: times a year
-
 # Labels
+
+label_elders:
+  nl: "Ouderen"
+  en: "Elders"
+label_renal_impairment:
+  nl: "Nierfunctiestoornis"
+  en: "Renal impairment"
+label_liver_dysfunction:
+  nl: "Leverfunctiestoornis"
+  en: "Liver dysfunction"
+label_pregnancy:
+  nl: "Zwangerschap"
+  en: "Pregnancy"
+label_lactation:
+  nl: "Borstvoeding"
+  en: "Lactation"
+label_children:
+  nl: "Kinderen"
+  en: "Children"
 label_no_concepts_for_domain:
   nl: Er zijn momenteel geen concepten voor dit domein.
   en: There are currently no concepts for this domain.
@@ -2527,6 +2469,83 @@ message_outdated_browser:
 message_lesser_experience_no_javascript:
   nl: U gebruikt een verouderde webbrowser. Hierdoor heeft u niet de optimale servaring. Installeer een nieuwere browser om optimaal van deze site gebruik te kunnen blijven maken.
   en: You are using an outdated web browser. Because of this you won't have an optimal experience. Please install a newer browser in order to make optimal use of this site.
+# Snippets
+
+snippet_search_results:
+  nl: zoekresultaten
+  en: search results
+snippet_total_cost_from_colon:
+  nl: 'Totale kosten per jaar vanaf:'
+  en: 'Total cost per year from:'
+
+# The following snippets are prefixed with 'label_' for historic reasons.
+
+label_maal_per_dag:
+  nl: maal per dag
+  en: times a day
+label_maal_per_2_dagen:
+  nl: maal per 2 dagen
+  en: times every 2 days
+label_maal_per_3_dagen:
+  nl: maal per 3 dagen
+  en: times every 3 days   
+label_maal_per_4_dagen:
+  nl: maal per 4 dagen
+  en: times every 4 days
+label_maal_per_5_dagen:
+  nl: maal per 5 dagen
+  en: times every 5 days
+label_maal_per_6_dagen:
+  nl: maal per 6 dagen
+  en: times every 6 days
+label_maal_per_week:
+  nl: maal per week
+  en: times a week
+label_maal_per_2_weken:
+  nl: maal per 2 weken
+  en: times every 2 weeks
+label_maal_per_3_weken:
+  nl: maal per 3 weken
+  en: times every 3 weeks  
+label_maal_per_4_weken:
+  nl: maal per 4 weken
+  en: times every 4 weeks
+label_maal_per_5_weken:
+  nl: maal per 5 weken
+  en: times every 5 weeks  
+label_maal_per_6_weken:
+  nl: maal per 6 weken
+  en: times every 6 weeks
+label_maal_per_8_weken:
+  nl: maal per 8 weken
+  en: times every 8 weeks
+label_maal_per_10_weken:
+  nl: maal per 10 weken
+  en: times every 10 weeks
+label_maal_per_12_weken:
+  nl: maal per 12 weken
+  en: times every 12 weeks
+label_maal_per_maand:
+  nl: maal per maand
+  en: times a month
+label_maal_per_2_maanden:
+  nl: maal per 2 maanden
+  en: times every 2 months
+label_maal_per_3_maanden:
+  nl: maal per 3 maanden
+  en: times every 3 months
+label_maal_per_4_maanden:
+  nl: maal per 4 maanden
+  en: times every 4 months
+label_maal_per_5_maanden:
+  nl: maal per 5 maanden
+  en: times every 5 months
+label_maal_per_6_maanden:
+  nl: maal per 6 maanden
+  en: times every 6 months      
+label_maal_per_jaar:
+  nl: maal per jaar
+  en: times a year
 
 ## Historical
 
