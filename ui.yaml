@@ -1,5 +1,8 @@
 # Labels
 
+label_advanced:
+  nl: Geavanceerd
+  en: Advanced
 label_elders:
   nl: "Ouderen"
   en: "Elders"
