@@ -1,5 +1,11 @@
 # Labels
 
+label_composition: 
+  nl: Samenstelling
+  en: Composition
+label_understand_hide_message:
+  nl: Ik begrijp het, verberg dit bericht voortaan
+  en: I understand, please hide this message
 label_advanced:
   nl: Geavanceerd
   en: Advanced
@@ -2209,6 +2215,9 @@ label_sharing_extended_for_name:
 
 # Messages
 
+message_not_all_excipients_mentioned:
+  nl: 'Alleen de belangrijkste hulpstoffen worden genoemd. Raadpleeg altijd <a href="#">de productinformatie van CBG/EMA</a> voor een compleet overzicht van hulpstoffen. '
+  en: 'Only the most important excipients are mentioned. Please refer to <a href="#">the product information of CBG / EMA</a> for a complete overview of excipients.'
 message_contact_system_administrator:
   en: Please contact the system administrator if you think you should have permissions to view this page.
   nl: Neem contact op met de systeembeheerder als u meent dat u toegang zou moeten hebben tot deze pagina.
