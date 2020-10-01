@@ -1,3 +1,11 @@
+harry:
+  first_name: Harry
+  last_name: Hogeboom
+  email: harigeharry1982@hotmail.com
+  role: visitor
+  favourites: 
+    - Aambeien
+    - ACE-remmers
 nicole:
   first_name: Nicole
   last_name: De Vries
