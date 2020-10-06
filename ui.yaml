@@ -1,5 +1,8 @@
 # Labels
 
+label_username:
+  nl: Gebruikersnaam
+  en: Username
 label_favourites: 
   nl: Favorieten
   en: Favourites
@@ -2452,8 +2455,8 @@ message_email_address_unknown:
   nl: Het e-mailadres <strong>{0}</strong> is niet bij ons bekend. Vult u alstublieft het e-mailadres in dat u eerder bij ons geregistreerd hebt.
   en: The e-mail address <strong>{0}</strong> is not known to us. Please enter the email address that you have previously registered with us.
 message_password_reset_email_sent:
-  nl: Er is een e-mail verstuurd naar <strong>{0}</strong> met daarin een link waarmee u uw wachtwoord opnieuw in kunt stellen. Deze link blijft een uur geldig.
-  en: An email has been sent to <strong>{0}</strong> containing a link to reset your password. This link will be valid for one hour.
+  nl: Er is een e-mail verstuurd naar het e-mailadres behorende bij het gebruikersaccount <strong>{0}</strong> (Indien bij ons bekend). In de e-mail treft u een link aan waarmee u uw wachtwoord opnieuw in kunt stellen. Deze link blijft een uur geldig.
+  en: An email has been sent to the e-mail adress associated with username <strong>{0}</strong> (If known to us). The e-mail contains a link that you can use to reset your password. This link will be valid for one hour.
 message_passwords_not_equal:
   nl: De wachtwoorden zijn niet aan elkaar gelijk.
   en: The passwords are not equal to each other.
@@ -2470,8 +2473,8 @@ message_password_successfully_changed:
   nl: Uw wachtwoord is succesvol gewijzigd. 
   en: Your password was changed successfully.
 message_password_forgotten:
-  nl: Hebt u uw wachtwoord vergeten? Geen nood. Als u onderstaand uw e-mailadres invult, dan sturen wij u een wachtwoord-reset link toe. Daarmee kunt u zelf een nieuw wachtwoord aanmaken.
-  en: Have you forgotten your password? No worries. If you enter your email address below, we will send you a password reset link. You can use this to create a new password yourself.
+  nl: Hebt u uw wachtwoord vergeten? Geen nood. Als u onderstaand uw gebruikers invult, dan sturen wij u een wachtwoord-reset link toe. Daarmee kunt u zelf een nieuw wachtwoord aanmaken.
+  en: Have you forgotten your password? No worries. If you enter your user name below then we will send you a password reset link. You can use this to create a new password.
 message_password_already_used:
   nl: Het wachtwoord mag niet gelijk zijn aan een eerder gebruikt wachtwoord.
   en: The password cannot be the same as a previously used password.
