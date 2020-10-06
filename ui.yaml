@@ -2336,8 +2336,8 @@ message_bio_gen_prices:
   en: There are no known prices for biosimilar.
 
 message_contact_us_via_form:
-  nl: Neem via onderstaand formulier contact op met het Zorginstituut.
-  en: Use the form below to contact Zorginstituut.
+  nl: Neem via onderstaand formulier met ons contact op.
+  en: Use the form below to contact us.
 message_are_you_sure:
   nl: Weet u zeker dat u verder wilt gaan?
   en: Are you sure you want to continue?
