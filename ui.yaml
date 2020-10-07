@@ -2474,7 +2474,7 @@ message_password_successfully_changed:
   en: Your password was changed successfully.
 message_password_forgotten:
   nl: Hebt u uw wachtwoord vergeten? Geen nood. Als u onderstaand uw gebruikers invult, dan sturen wij u een wachtwoord-reset link toe. Daarmee kunt u zelf een nieuw wachtwoord aanmaken.
-  en: Have you forgotten your password? No worries. If you enter your user name below then we will send you a password reset link. You can use this to create a new password.
+  en: Have you forgotten your password? No worries. Please enter your user name below. We will then send you a password reset link. You can use this to create a new password.
 message_password_already_used:
   nl: Het wachtwoord mag niet gelijk zijn aan een eerder gebruikt wachtwoord.
   en: The password cannot be the same as a previously used password.
