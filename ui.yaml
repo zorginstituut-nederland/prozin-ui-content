@@ -2604,3 +2604,17 @@ extend_share:
 extend_share_explanation: 
   nl: 'U kunt de kopie op elk moment nog verder verlengen, of opheffen.'
   en: 'You may extend or cancel the copy at any time.'
+
+
+label_exit_compare:
+  nl: Vergelijken sluiten
+  en: Exit compare mode
+label_field_name:
+  nl: Veld naam
+  en: Field name
+label_unknown_user:
+  nl: Onbekende gebruiker
+  en: Unknown user
+
+
+
