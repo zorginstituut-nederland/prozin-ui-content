@@ -1792,10 +1792,13 @@ label_application_frequency:
   en: Frequency of administration
 label_funding:
   nl: Bekostiging
-  en: Funding
+  en: Budgetting
 label_funding_framework:
   nl: Bekostigingskader
   en: Budgetting framework
+label_any_funding_framework:
+  nl: Willekeurig bekostigingskader
+  en: Any budgetting framework
 label_intramuraal_msz_:
   nl: Intramuraal (MSZ)
   en: Intermural (MSZ)
@@ -2025,9 +2028,15 @@ label_indications:
 label_mechanism_of_action:
   nl: Werkingsmechanisme
   en: Mechanism of action
+label_any_mechanism_of_action:
+  nl: Willekeurig werkingsmechanisme
+  en: Any mechanism of action
 label_particularity:
   nl: Bijzonderheid
   en: Particularity
+label_any_particularity:
+  nl: Willekeurige bijzonderheid
+  en: Any particularity
 label_side_effects: 
   nl: Bijwerkingen
   en: Side effects
