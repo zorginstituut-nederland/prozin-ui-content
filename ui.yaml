@@ -1,5 +1,11 @@
 # Labels
 
+label_decimal_separator:
+  nl: ','
+  en: '.'
+label_field_separator_wide:
+  nl: ' - '
+  en: ' — '
 label_username:
   nl: Gebruikersnaam
   en: Username
