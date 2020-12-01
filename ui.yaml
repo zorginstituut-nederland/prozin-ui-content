@@ -1501,6 +1501,12 @@ label_minimum:
 label_maximum:
   nl: Maximum
   en: Maximum
+label_minimaal:
+  nl: Minimaal
+  en: Minimal
+label_maximaal:
+  nl: Maximaal
+  en: Maximal 
 label_brand_name:
   nl: Merknaam
   en: Proprietary name
