@@ -24,6 +24,9 @@ label_advanced:
 label_elders:
   nl: "Ouderen"
   en: "Elders"
+label_general:
+  nl: "Algemeen"
+  en: "General"
 label_renal_impairment:
   nl: "Nierfunctiestoornis"
   en: "Renal impairment"
@@ -33,6 +36,9 @@ label_liver_dysfunction:
 label_pregnancy:
   nl: "Zwangerschap"
   en: "Pregnancy"
+label_pregnancy-lactation:
+  nl: "Zwangerschap/lactatie"
+  en: "Pregnancy / lactation"
 label_lactation:
   nl: "Borstvoeding"
   en: "Lactation"
@@ -2137,9 +2143,6 @@ label_12:
 label_product:
   nl: Product
   en: Product
-label_pregnancy: 
-  nl: Zwangerschap
-  en: Pregnancy
 label_lactation: 
   nl: Lactatie
   en: Lactation
