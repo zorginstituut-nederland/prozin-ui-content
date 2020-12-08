@@ -2246,8 +2246,8 @@ label_sharing_extended_for_name:
 # Messages
 
 message_not_all_excipients_mentioned_refer_to_cbg:
-  nl: 'Alleen de belangrijkste hulpstoffen worden genoemd. Raadpleeg altijd <a href="{0}">de productinformatie van CBG/EMA</a> voor een compleet overzicht van hulpstoffen. '
-  en: 'Only the most important excipients are mentioned. Please refer to <a href="{0}">the product information of CBG / EMA</a> for a complete overview of excipients.'
+  nl: 'Alleen de belangrijkste hulpstoffen worden genoemd. Raadpleeg altijd <a href="{0}" target="_blank">de productinformatie van CBG/EMA</a> voor een compleet overzicht van hulpstoffen. '
+  en: 'Only the most important excipients are mentioned. Please refer to <a href="{0}" target="_blank">the product information of CBG / EMA</a> for a complete overview of excipients.'
 message_not_all_excipients_mentioned:
   nl: 'Alleen de belangrijkste hulpstoffen worden genoemd.'
   en: 'Only the most important excipients are mentioned.'
