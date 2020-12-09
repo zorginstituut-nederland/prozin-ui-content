@@ -103,8 +103,8 @@ label_no_digest_emails:
   nl: Geen digest-e-mails
   en: No digest e-mails
 label_explanation:
-  nl: Uitleg
-  en: Explanatio
+  nl: Toelichting
+  en: Explanation
 label_download:
   nl: Download
   en: Download
@@ -746,6 +746,9 @@ label_neusspray:
 label_neuszalf:
   nl: Neuszalf
   en: Nasal ointment
+label_applicability:
+  nl: Toepasbaarheid
+  en: Applicability
 label_niet_van_toepassing:
   nl: Niet van toepassing
   en: Not applicable
