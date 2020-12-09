@@ -69,6 +69,9 @@ label_less_than:
 label_save_message: 
   nl: Bewaarbericht
   en: Save message
+label_compare:
+  nl: Vergelijken
+  en: Compare
 label_compare_versions:
   nl: Versies vergelijken
   en: Compare historic versions
