@@ -1617,8 +1617,8 @@ label_domain:
   nl: Domein
   en: Domain
 label_reason_of_inclusion:
-  en: Reason of inclusion in Horizonscan Geneesmiddelen
-  nl: Reden van opname in Horizonscan Geneesmiddelen
+  en: Reason of inclusion
+  nl: Reden van opname
 
 snippet_log_in_to: 
   nl: Inloggen op
