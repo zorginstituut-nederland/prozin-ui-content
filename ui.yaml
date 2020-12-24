@@ -1421,9 +1421,6 @@ label_other_information:
 label_sources:
   nl: Bronnen
   en: References
-label_exptected_market_share:
-  nl: Verwacht marktaandeel
-  en: Expected market share
 label_dosage_per_administration:
   nl: Dosis per toediening
   en: Dosage per administration
@@ -1601,6 +1598,12 @@ label_possible_total_cost_per_year:
 label_possible_total_cost:
   nl: Mogelijke totale kosten
   en: Potential total cost
+label_exptected_market_share:
+  nl: Verwacht marktaandeel
+  en: Expected market share
+label_expected_market_share:
+  nl: Verwacht marktaandeel
+  en: Expected market share
 label_expected_patient_volume_per_year:
   nl: Verwacht patiëntvolume per jaar
   en: Expected patient volume per year
