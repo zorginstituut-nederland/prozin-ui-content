@@ -75,9 +75,6 @@ label_compare:
 label_compare_versions:
   nl: Versies vergelijken
   en: Compare historic versions
-label_compare_all_indications_of_super_indication:
-  nl: Vergelijk alle indiciaties van {0} onderling.
-  en: Compare all indications of {0} with each other.
 label_field_name: 
   nl: Veldnaam
   en: Field name
@@ -2257,6 +2254,12 @@ label_sharing_extended_for_name:
 
 # Messages
 
+message_compare_indication:
+  nl: Vergelijk <strong>{0}</strong> met een andere indicatie.
+  en: Compare <strong>{0}</strong> to another indication.
+message_compare_all_indications_of_super_indication:
+  nl: Vergelijk alle indiciaties van <strong>{0}</strong> onderling.
+  en: Compare all indications of <strong>{0}</strong> to each other.
 message_not_all_excipients_mentioned_refer_to_cbg:
   nl: 'Alleen de belangrijkste hulpstoffen worden genoemd. Raadpleeg altijd <a href="{0}" target="_blank">de productinformatie van CBG/EMA</a> voor een compleet overzicht van hulpstoffen. '
   en: 'Only the most important excipients are mentioned. Please refer to <a href="{0}" target="_blank">the product information of CBG / EMA</a> for a complete overview of excipients.'
