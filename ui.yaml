@@ -75,6 +75,9 @@ label_compare:
 label_compare_versions:
   nl: Versies vergelijken
   en: Compare historic versions
+label_compare_all_indications_of_super_indication:
+  nl: Vergelijk alle indiciaties van {0} onderling.
+  en: Compare all indications of {0} with each other.
 label_field_name: 
   nl: Veldnaam
   en: Field name
