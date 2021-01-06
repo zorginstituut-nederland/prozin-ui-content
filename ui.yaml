@@ -1,5 +1,14 @@
 # Labels
 
+label_page_layout:
+  nl: Paginavormgeving
+  en: Page layout
+label_classic:
+  nl: Klassiek
+  en: Classic
+label_compact:
+  nl: Compact
+  en: Compact
 label_decimal_separator:
   nl: ','
   en: '.'
