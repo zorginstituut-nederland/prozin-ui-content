@@ -1,7 +1,25 @@
 # Labels
 
+label_search:
+  nl: Zoeken
+  en: Search
+label_use_fuzzy_search:
+  nl: Gebruik fuzzy zoeken
+  en: Use fuzzy search
+label_layout:
+  nl: Indeling
+  en: Layout
+label_language:
+  nl: Taal
+  en: Language
+label_english_native:
+  nl: English (bèta)
+  en: English (bèta)
+label_dutch_native:
+  nl: Nederlands
+  en: Nederlands
 label_page_layout:
-  nl: Paginavormgeving
+  nl: Pagina-indeling
   en: Page layout
 label_classic:
   nl: Klassiek
