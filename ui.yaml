@@ -1,5 +1,14 @@
 # Labels
 
+label_statement_of_approval:
+  nl: Akkoordverklaring
+  en: Statement of approval 
+label_permission_user_survey:
+  nl: Ik geef Zorginstituut Nederland toestemming om mijn contactgegevens te gebruiken voor een tevredenheidsonderzoek.
+  en: I give the National Health Care Institute permission to use my contact details for a satisfaction survey. 
+label_agree_with_privacy_statement:
+  nl: Ik heb gelezen en begrepen <a href="{0}" target="new">wat er met mijn persoonsgegevens wordt gedaan</a>.
+  en: I have read and understood <a href="{0}" target="new">how my personal data will be processed</a>. 
 label_search:
   nl: Zoeken
   en: Search
