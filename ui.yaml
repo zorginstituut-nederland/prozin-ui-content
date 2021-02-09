@@ -2440,6 +2440,9 @@ message_use_filters_to_alter_view_of_tool_list_p3:
 message_session_expired:
   nl: U bent automatisch uitgelogd, omdat uw sessie verlopen is. U kunt hieronder opnieuw inloggen om verder te gaan.
   en: You were automatically logged out because your session was epxired. Please log in again below to continue.
+message_double_ip:
+  nl: U bent automatisch uitgelogd, omdat u ook op een andere locatie ingelogd bent, of omdat uw ip-adres tussentijds gewijzigd is. Neem bij twijfel over deze melding contact op met uw systeembeheerder.
+  en: You were automatically logged out because you are also logged in at a different location, or because your IP address has changed in the meantime. Please contact your system administrator if in doubt about this message. 
 
 message_help_atmp:
   nl: Vanaf 2007 bestaat er een apart gedefinieerde groep geneesmiddelen, namelijk de ‘Advanced Therapy Medicinal Products’ (ATMPs). Onder de ATMPs vallen producten voor en somatische celtherapie, gentherapie en weefselmanipulatie.
