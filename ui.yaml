@@ -2297,8 +2297,8 @@ message_compare_all_indications_of_super_indication:
   nl: Vergelijk alle indiciaties van <strong>{0}</strong> onderling.
   en: Compare all indications of <strong>{0}</strong> to each other.
 message_not_all_excipients_mentioned_refer_to_cbg:
-  nl: 'Zie voor hulpstoffen per product de <a href="{0}" target="_blank">de productinformatie van CBG/EMA</a> of raadpleeg een apotheker.'
-  en: 'Consult the <a href="{0}" target="_blank">the product information of CBG / EMA</a> for excipients per product or consult a pharmacist.'
+  nl: 'Zie voor hulpstoffen de <a href="{0}" target="_blank">de productinformatie van CBG/EMA</a> of raadpleeg een apotheker.'
+  en: 'For excipients, please refer to <a href="{0}" target="_blank"> the product information of CBG / EMA</a> or consult a pharmacist.'
 message_not_all_excipients_mentioned:
   nl: 'Alleen de belangrijkste hulpstoffen worden genoemd.'
   en: 'Only the most important excipients are mentioned.'
