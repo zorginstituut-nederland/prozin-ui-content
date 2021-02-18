@@ -2300,8 +2300,8 @@ message_not_all_excipients_mentioned_refer_to_cbg:
   nl: 'Zie voor hulpstoffen de <a href="{0}" target="_blank">de productinformatie van CBG/EMA</a> of raadpleeg een apotheker.'
   en: 'For excipients, please refer to <a href="{0}" target="_blank"> the product information of CBG / EMA</a> or consult a pharmacist.'
 message_not_all_excipients_mentioned:
-  nl: 'Niet alle hulpstoffen worden genoemd.'
-  en: 'Not all excipients are mentioned.'
+  nl: 'Raadpleeg voor hulpstoffen een apotheker.'
+  en: 'For excipients consult a pharmacist.'
 message_contact_system_administrator:
   en: Please contact the system administrator if you think you should have permissions to view this page.
   nl: Neem contact op met de systeembeheerder als u meent dat u toegang zou moeten hebben tot deze pagina.
