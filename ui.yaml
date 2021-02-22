@@ -2,10 +2,13 @@
 
 label_expand_sections_medicine_page:
   nl: Openklappen secties geneesmiddelpagina
-  en: Opening sections medicine page
+  en: Expanding sections medicine page
 label_keep_all_sections_expanded:
   nl: Houd alle secties opengeklapt
-  en: Keep all sections open
+  en: Keep all sections expanded
+label_expand_all_sections:
+  nl: Klap alle secties open
+  en: Expand all sections
 label_show_more:
   nl: Toon meer
   en: Show more
