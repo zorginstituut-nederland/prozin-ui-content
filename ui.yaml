@@ -2100,6 +2100,9 @@ label_particularity:
 label_any_particularity:
   nl: Willekeurige bijzonderheid
   en: Any particularity
+label_described_frequency_unknown:
+  nl: Beschreven, met onbekende frequentie
+  en: Described, with unknown frequency
 label_side_effects: 
   nl: Bijwerkingen
   en: Side effects
