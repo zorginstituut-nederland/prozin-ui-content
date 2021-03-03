@@ -2303,6 +2303,12 @@ label_sharing_extended_for_name:
   nl: 'Delen verlengd voor <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
   en: 'Sharing extended for <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
 
+# Labels for documenttypes in Bloomreach
+label_newscontentdocument:
+ nl: Nieuwsbericht
+ en: News article
+  
+
 # Messages
 
 message_compare_indication:
