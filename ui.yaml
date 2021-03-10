@@ -2134,6 +2134,27 @@ label_side_effects_frequency_4_percentage:
 label_side_effects_frequency_5_percentage:
   nl: 'In meer dan 10% van de gevallen'
   en: 'In more than 10% of cases'
+label_side_effects_frequency_0:
+  nl: '?'
+  en: '?'
+label_side_effects_frequency_1:
+  nl: Zeer zelden
+  en: Very rarely
+label_side_effects_frequency_1_2:
+  nl: Zelden of zeer zelden
+  en: Rarely or very rarely
+label_side_effects_frequency_2:
+  nl: Zelden
+  en: Rarely
+label_side_effects_frequency_3:
+  nl: Soms
+  en: Sometimes
+label_side_effects_frequency_4:
+  nl: Vaak
+  en: Often
+label_side_effects_frequency_5:
+  nl: Zeer vaak
+  en: Very often
 
 label_side_effects: 
   nl: Bijwerkingen
