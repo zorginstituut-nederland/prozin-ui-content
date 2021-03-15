@@ -2125,12 +2125,56 @@ label_particularity:
 label_any_particularity:
   nl: Willekeurige bijzonderheid
   en: Any particularity
-label_described_frequency_unknown:
-  nl: Beschreven, met onbekende frequentie
-  en: Described, with unknown frequency
+
 label_side_effects: 
   nl: Bijwerkingen
   en: Side effects
+label_described_frequency_unknown:
+  nl: Beschreven, met onbekende frequentie
+  en: Reported, with unknown frequency
+label_side_effects_not_reported:
+  nl: Niet beschreven
+  en: Not reported
+label_side_effects_frequency_0_percentage:
+  nl: Beschreven, met onbekende frequentie
+  en: Described, with unknown frequency
+label_side_effects_frequency_1_percentage:
+  nl: 'In minder dan 0,01% van de gevallen'
+  en: 'In less than 0.01% of cases'
+label_side_effects_frequency_2_percentage:
+  nl: 'Tussen de 0,01% en 0,1% van de gevallen'
+  en: 'Between 0.01% and 0.1% of cases'
+label_side_effects_frequency_3_percentage:
+  nl: 'Tussen de 0,1% en 1% van de gevallen'
+  en: 'Between 0.1% and 1% of cases'
+label_side_effects_frequency_4_percentage:
+  nl: 'Tussen de 1% en 10% van de gevallen'
+  en: 'Between 1% and 10% of cases'
+label_side_effects_frequency_5_percentage:
+  nl: 'In meer dan 10% van de gevallen'
+  en: 'In more than 10% of cases'
+label_side_effects_frequency_0:
+  nl: '?'
+  en: '?'
+label_side_effects_frequency_1:
+  nl: Zeer zelden
+  en: Very rarely
+label_side_effects_frequency_1_2:
+  nl: Zelden of zeer zelden
+  en: Rarely or very rarely
+label_side_effects_frequency_2:
+  nl: Zelden
+  en: Rarely
+label_side_effects_frequency_3:
+  nl: Soms
+  en: Sometimes
+label_side_effects_frequency_4:
+  nl: Vaak
+  en: Often
+label_side_effects_frequency_5:
+  nl: Zeer vaak
+  en: Very often
+
 label_interactions: 
   nl: Interacties
   en: Interactions
