@@ -2359,10 +2359,10 @@ message_compare_indication:
   nl: Vergelijk <strong>{0}</strong> met een andere indicatie.
   en: Compare <strong>{0}</strong> to another indication.
 message_compare_all_indications_of_super_indication:
-  nl: Vergelijk alle indiciaties van <strong>{0}</strong> onderling.
+  nl: Vergelijk alle indicaties van <strong>{0}</strong> onderling.
   en: Compare all indications of <strong>{0}</strong> to each other.
 message_not_all_excipients_mentioned_refer_to_cbg:
-  nl: 'Zie voor hulpstoffen de <a href="{0}" target="_blank">de productinformatie van CBG/EMA</a> of raadpleeg een apotheker.'
+  nl: 'Zie voor hulpstoffen <a href="{0}" target="_blank">de productinformatie van CBG/EMA</a> of raadpleeg een apotheker.'
   en: 'For excipients, please refer to <a href="{0}" target="_blank"> the product information of CBG / EMA</a> or consult a pharmacist.'
 message_not_all_excipients_mentioned:
   nl: 'Raadpleeg voor hulpstoffen een apotheker.'
