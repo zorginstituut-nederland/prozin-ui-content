@@ -1522,6 +1522,19 @@ label_mogelijke_gelijke_waarde:
 label_mogelijke_meerwaarde:
   nl: Mogelijke meerwaarde
   en: Potential added value
+label_nog_geen_inschatting_mogelijk:
+  nl: Nog geen inschatting mogelijk
+  en: No estimate possible yet
+label_mogelijke_meerwaarde_subgroep:
+  nl: Mogelijke meerwaarde voor een subgroep
+  en: Potential added value for a subgroup
+label_mogelijk_voordeel_toedieningsgemak:
+  nl: Mogelijke voordeel in toedieningsgemak
+  en: Possible advantage in ease of administration
+label_mogelijk_geen_plaats_in_behandeling:
+  nl: Mogelijk geen plaats in de behandeling
+  en: Potentially no place in the treatment
+
 label_additional_comments:
   nl: Aanvullende opmerkingen
   en: Additional comments
