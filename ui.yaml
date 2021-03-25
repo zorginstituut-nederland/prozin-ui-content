@@ -24,6 +24,9 @@ label_agree_with_privacy_statement:
 label_search:
   nl: Zoeken
   en: Search
+label_global_nav_search:
+  nl: Zoek 
+  en: Search  
 label_use_fuzzy_search:
   nl: Gebruik fuzzy zoeken
   en: Use fuzzy search
