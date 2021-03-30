@@ -1519,20 +1519,28 @@ label_cardiovasculaire-aandoeningen:
 label_mogelijke_minderwaarde:
   nl: Mogelijke minderwaarde
   en: Possible reduced value
+# NOTE: beide labels mogelijk en mogelijke gelijke waarde moeten blijven bestaan.   
 label_mogelijke_gelijke_waarde:
   nl: Mogelijke gelijke waarde
   en: Possible equal value
+label_mogelijk_gelijke_waarde:
+  nl: Mogelijk gelijke waarde
+  en: Possible equal value
+# NOTE: beide labels mogelijk en mogelijke meer waarde moeten blijven bestaan.     
 label_mogelijke_meerwaarde:
   nl: Mogelijke meerwaarde
+  en: Possible added value
+label_mogelijk_meerwaarde:
+  nl: Mogelijk meerwaarde
   en: Possible added value
 label_nog_geen_inschatting_mogelijk:
   nl: Nog geen inschatting mogelijk
   en: No estimate possible yet
-label_mogelijke_meerwaarde_subgroep:
-  nl: Mogelijke meerwaarde voor een subgroep
+label_mogelijk_meerwaarde_subgroep:
+  nl: Mogelijk meerwaarde voor een subgroep
   en: Possible added value for a subgroup
 label_mogelijk_voordeel_toedieningsgemak:
-  nl: Mogelijke voordeel in toedieningsgemak
+  nl: Mogelijk voordeel in toedieningsgemak
   en: Possible benefit in ease of use
 label_mogelijk_geen_plaats_in_behandeling:
   nl: Mogelijk geen plaats in de behandeling
