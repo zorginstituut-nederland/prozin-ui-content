@@ -90,6 +90,9 @@ label_pregnancy:
 label_pregnancy-lactation:
   nl: "Zwangerschap/lactatie"
   en: "Pregnancy / lactation"
+label_pregnant-lactation:
+  nl: "Zwanger/Lactatie"
+  en: "Pregnant/Lactation"
 label_lactation:
   nl: "Borstvoeding"
   en: "Lactation"
@@ -1068,6 +1071,9 @@ label_endocervicaal:
 label_endotracheopulmonair:
   nl: Endotracheopulmonair
   en: Endotracheal pulmonary
+label_endotracheaal:
+  nl: Endotracheaal
+  en: Endotracheal
 label_epiduraal:
   nl: Epiduraal
   en: Epidural
@@ -1131,6 +1137,9 @@ label_intraperitoneaal:
 label_intrapleuraal:
   nl: Intrapleuraal
   en: Intrapleural
+label_intrasynoviaal:
+  nl: Intrasynoviaal
+  en: Intrasynovial
 label_intrathecaal:
   nl: Intrathecaal
   en: Intrathecal
@@ -1176,6 +1185,9 @@ label_oromucosaal:
 label_parabulbair:
   nl: Parabulbair
   en: Parabulbar
+label_parenteraal:
+  nl: Parenteraal
+  en: Parenterally
 label_peri-articulair:
   nl: Peri-articulair
   en: Peri-articular
