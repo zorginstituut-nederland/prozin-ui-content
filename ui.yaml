@@ -1573,6 +1573,9 @@ label_nee:
 label_year:
   nl: Jaar
   en: Year
+snippet_year:
+  nl: jaar
+  en: year
 label_amount:
   nl: Aantal
   en: Amount
