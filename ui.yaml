@@ -150,7 +150,7 @@ label_weekly:
 label_monthly:
   nl: Maandelijks
   en: Monthly
-label_dagelijks:
+label_daily:
   nl: Dagelijks
   en: Daily
 label_digest_emails:
