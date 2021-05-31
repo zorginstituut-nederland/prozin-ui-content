@@ -1473,11 +1473,22 @@ label_bacteriele_infecties:
   nl: Bacteriele infecties
   en: Bacterial infections
 label_infectieziekten_overig:
-  nl: Overige infectieziekten overig
-  en: Other infectious diseases
+  nl: Infectieziekten overig
+  en: Infectious disease other
 label_virale_infecties:
-  nl: Virale infecties
-  en: Viral infections
+  nl: Virale infecties overig
+  en: Viral infections other
+
+label_hiv:
+  nl: Hiv
+  en: HIV
+label_fungal_infections:
+  nl: Fungale infecties
+  en: Fungal infections
+label_parasitic_infections:
+  nl: Parasitaire infecties
+  en: Parasitic infections
+
 label_other_information:
   nl: Overige informatie
   en: Other information
