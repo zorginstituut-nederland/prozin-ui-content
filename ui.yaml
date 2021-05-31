@@ -1262,7 +1262,7 @@ label_hormonale_aandoeningen:
   nl: Hormonale aandoeningen
   en: Hormonal disorders
 label_stofwisseling_en_endocrinologie_overig:
-  nl: Stofwisseling en Endocrinologie overig
+  nl: Stofwisseling en Endocrinologie, overig
   en: Other metabolism and Endocrinology
 
 label_antitrombotische_medicatie:
@@ -1330,8 +1330,8 @@ label_graft_versus_host:
   nl: Graft versus Host
   en: Graft versus Host
 label_hematologie_overig:
-  nl: Hematologie overig
-  en: Hematology other    
+  nl: Hematologie, overig
+  en: Other hematology    
 label_hersenkanker:
   nl: Hersenkanker
   en: Brain cancer
@@ -1381,7 +1381,7 @@ label_prostaatkanker:
   nl: Prostaatkanker
   en: Prostate cancer
 label_oncologie_overig:
-  nl: Oncologie overig
+  nl: Oncologie, overig
   en: Other oncology
 label_schildklierkanker:
   nl: Schildklierkanker
@@ -1391,7 +1391,7 @@ label_stamceltransplantaties:
   en: Stem cell transplants
 
 label_aandoeningen_van_zintuigen_overig:
-  nl: Aandoeningen van zintuigen overig
+  nl: Aandoeningen van zintuigen, overig
   en: Other disorders of the senses
 label_adhd:
   nl: ADHD
@@ -1424,7 +1424,7 @@ label_multiple_sclerose:
   nl: Multiple sclerose
   en: Multiple sclerosis  
 label_neurologie_overig:
-  nl: Neurologie overig
+  nl: Neurologie, overig
   en: Other neurological disorders
 label_oogaandoeningen:
   nl: Oogaandoeningen
@@ -1439,7 +1439,7 @@ label_psychiatrie:
   nl: Psychiatrie
   en: Psychiatry
 label_psychiatrie_overig:
-  nl: Psychiatrie overig
+  nl: Psychiatrie, overig
   en: Other psychiatry
 label_slaapstoornissen:
   nl: Slaapstoornissen
@@ -1454,7 +1454,7 @@ label_spierziekten:
   nl: Spierziekten
   en: Muscular diseases
 label_spierziekten_overig:
-  nl: Spierziekten overig
+  nl: Spierziekten, overig
   en: Other muscular diseases  
 
 label_copd:
@@ -1467,20 +1467,20 @@ label_astma:
   nl: Astma
   en: Asthma
 label_long_overig:
-  nl: Long overig
+  nl: Long, overig
   en: Other lung  
 label_bacteriele_infecties:
   nl: Bacteriele infecties
   en: Bacterial infections
 label_infectieziekten_overig:
-  nl: Infectieziekten overig
-  en: Infectious disease other
+  nl: Infectieziekten, overig
+  en: Other infectious diseases
 label_virale_infecties:
-  nl: Virale infecties overig
-  en: Viral infections other
+  nl: Virale infecties, overig
+  en: Other viral infections
 
 label_hiv:
-  nl: Hiv
+  nl: HIV
   en: HIV
 label_fungal_infections:
   nl: Fungale infecties
@@ -1517,7 +1517,7 @@ label_reuma:
   nl: Reuma
   en: Rheumatism
 label_chronische_immuunziekten_overig:
-  nl: Chronische immuunziekten overig
+  nl: Chronische immuunziekten, overig
   en: Other chronic immune diseases
 label_allergie:
   nl: Allergie
