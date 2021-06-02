@@ -1866,6 +1866,18 @@ label_change_requests:
 label_portfolio:
   nl: Portfolio
   en: Portfolio
+label_portfolio_holder:
+  nl: Portfoliohouder
+  en: Portfolio holder
+label_portfolio_holders:
+  nl: Portfoliohouders
+  en: Portfolio holders
+label_account:
+  nl: Account
+  en: Account
+label_accounts:
+  nl: Accounts
+  en: Accounts
 label_to_review:
   nl: Ter beoordeling
   en: For review
