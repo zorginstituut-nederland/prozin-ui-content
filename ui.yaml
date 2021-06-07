@@ -189,6 +189,9 @@ label_message_will_be_sent_to_x_manufacturers:
 label_new_deadline_for_submission:
   en: New deadline for submission
   nl: Nieuwe uiterste inleverdatum
+label_change_deadline:
+  en: Change deadline for submission
+  nl: Wijzig uiterste inleverdatum
 label_deadline_for_submission_is_set_to:
   en: The deadline for submission is set to {0}. 
   nl: De uiterste inleverdatum staat ingesteld op {0}.
@@ -1848,6 +1851,15 @@ label_start_pipeline_request:
 label_add_manufacturer:
   nl: Voeg fabrikant toe
   en: Add manufacturer
+label_add_portfolio_holder:
+  nl: Voeg portfoliohouder toe
+  en: Add portfolio holder
+label_edit_manufacturer:
+  nl: Bewerk fabrikant
+  en: Edit manufacturer
+label_edit_portfolio_holder:
+  nl: Bewerk portfoliohouder
+  en: Edit portfolio holder
 label_followed_pages:
   nl: Gevolgde pagina's
   en: Followed pages
@@ -2405,6 +2417,12 @@ label_request_for_pipeline:
 label_contact_not_selected:
   nl: Geen contact geselecteerd
   en: No contact selected
+label_administrator_not_selected:
+  nl: Geen beheerder geselecteerd
+  en: No administrator selected
+label_administrator:
+  nl: Beheerder
+  en: Administrator
 label_last_modified_on:
   nl: Laatst bewerkt op
   en: Last modified on 
