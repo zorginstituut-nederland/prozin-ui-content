@@ -2393,6 +2393,9 @@ label_share:
 label_duplicate:
   nl: Dupliceer
   en: Duplicate
+label_confirm_duplication:
+  nl: Bevestig dupliceren
+  en: Comfirm duplication
 label_verification_request:
   nl: Verificatieverzoek
   en: Verification request
