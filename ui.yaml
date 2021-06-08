@@ -246,6 +246,9 @@ label_to_search:
 label_delete:
   nl: "Verwijderen"
   en: "Delete"
+label_publish_confirm:
+  nl: Publiceren bevestigen
+  en: Publish confirm
 label_i_am_sure_publish_now:
   nl: "Ik weet het zeker, publiceer nu"
   en: "I'm sure, publish now"
