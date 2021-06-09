@@ -1,5 +1,54 @@
 # Labels
 
+label_january:
+  nl: Januari
+  en: January
+  de: Januar  
+label_february:
+  nl: Februari
+  en: February  
+  de: Februar
+label_march:
+  nl: Maart
+  en: March  
+  de: März
+label_april:
+  nl: April
+  en: April
+  de: April  
+label_may:
+  nl: Mei
+  en: May
+  de: Mai  
+label_june:
+  nl: Juni
+  en: June  
+  de: Juni
+label_july:
+  nl: Juli
+  en: July  
+  de: Juli
+label_august:
+  nl: Augustus
+  en: August  
+  de: August
+label_september:
+  nl: September
+  en: September
+  de: Septembers
+label_october:
+  nl: Oktober
+  en: October  
+  de: Oktober
+label_november:
+  nl: November
+  en: November  
+  de: November
+label_december:
+  nl: December
+  en: December
+  de: Dezember 
+
 label_expand_sections_medicine_page:
   nl: Openklappen secties geneesmiddelpagina
   en: Expanding sections medicine page
