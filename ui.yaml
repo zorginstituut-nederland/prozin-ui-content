@@ -1,5 +1,11 @@
 # Labels
 
+label_consultant:
+  nl: Consulent
+  en: Consultant
+label_organisation_type:
+  nl: Organisatietype
+  en: Type of organisation
 label_january:
   nl: Januari
   en: January
