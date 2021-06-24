@@ -1709,9 +1709,7 @@ label_domain:
 label_reason_of_inclusion:
   en: Reason of inclusion
   nl: Reden van opname
-label_dagelijks:
-  en: Daily
-  nl: Dagelijks
+
 snippet_log_in_to: 
   nl: Inloggen op
   en: Log in to
