@@ -1,5 +1,60 @@
 # Labels
 
+label_consultant:
+  nl: Consulent
+  en: Consultant
+label_organisation_type:
+  nl: Organisatietype
+  en: Type of organisation
+label_january:
+  nl: Januari
+  en: January
+  de: Januar  
+label_february:
+  nl: Februari
+  en: February  
+  de: Februar
+label_march:
+  nl: Maart
+  en: March  
+  de: März
+label_april:
+  nl: April
+  en: April
+  de: April  
+label_may:
+  nl: Mei
+  en: May
+  de: Mai  
+label_june:
+  nl: Juni
+  en: June  
+  de: Juni
+label_july:
+  nl: Juli
+  en: July  
+  de: Juli
+label_august:
+  nl: Augustus
+  en: August  
+  de: August
+label_september:
+  nl: September
+  en: September
+  de: Septembers
+label_october:
+  nl: Oktober
+  en: October  
+  de: Oktober
+label_november:
+  nl: November
+  en: November  
+  de: November
+label_december:
+  nl: December
+  en: December
+  de: Dezember 
+
 label_expand_sections_medicine_page:
   nl: Openklappen secties geneesmiddelpagina
   en: Expanding sections medicine page
@@ -189,6 +244,9 @@ label_message_will_be_sent_to_x_manufacturers:
 label_new_deadline_for_submission:
   en: New deadline for submission
   nl: Nieuwe uiterste inleverdatum
+label_change_deadline:
+  en: Change deadline for submission
+  nl: Wijzig uiterste inleverdatum
 label_deadline_for_submission_is_set_to:
   en: The deadline for submission is set to {0}. 
   nl: De uiterste inleverdatum staat ingesteld op {0}.
@@ -240,9 +298,18 @@ label_hide_filters:
 label_to_search:
   nl: "Zoeken"
   en: "Search"
+label_delete:
+  nl: "Verwijderen"
+  en: "Delete"
+label_publish_confirm:
+  nl: Publiceren bevestigen
+  en: Publish confirm
 label_i_am_sure_publish_now:
   nl: "Ik weet het zeker, publiceer nu"
   en: "I'm sure, publish now"
+label_i_am_sure_delete_now:
+  nl: "Ik weet het zeker, verwijder nu"
+  en: "I'm sure, delete now"
 label_select:
   nl: Selecteer
   en: Select
@@ -1262,7 +1329,7 @@ label_hormonale_aandoeningen:
   nl: Hormonale aandoeningen
   en: Hormonal disorders
 label_stofwisseling_en_endocrinologie_overig:
-  nl: Stofwisseling en Endocrinologie overig
+  nl: Stofwisseling en Endocrinologie, overig
   en: Other metabolism and Endocrinology
 
 label_antitrombotische_medicatie:
@@ -1330,8 +1397,8 @@ label_graft_versus_host:
   nl: Graft versus Host
   en: Graft versus Host
 label_hematologie_overig:
-  nl: Hematologie overig
-  en: Hematology other    
+  nl: Hematologie, overig
+  en: Other hematology    
 label_hersenkanker:
   nl: Hersenkanker
   en: Brain cancer
@@ -1381,7 +1448,7 @@ label_prostaatkanker:
   nl: Prostaatkanker
   en: Prostate cancer
 label_oncologie_overig:
-  nl: Oncologie overig
+  nl: Oncologie, overig
   en: Other oncology
 label_schildklierkanker:
   nl: Schildklierkanker
@@ -1391,7 +1458,7 @@ label_stamceltransplantaties:
   en: Stem cell transplants
 
 label_aandoeningen_van_zintuigen_overig:
-  nl: Aandoeningen van zintuigen overig
+  nl: Aandoeningen van zintuigen, overig
   en: Other disorders of the senses
 label_adhd:
   nl: ADHD
@@ -1424,7 +1491,7 @@ label_multiple_sclerose:
   nl: Multiple sclerose
   en: Multiple sclerosis  
 label_neurologie_overig:
-  nl: Neurologie overig
+  nl: Neurologie, overig
   en: Other neurological disorders
 label_oogaandoeningen:
   nl: Oogaandoeningen
@@ -1439,7 +1506,7 @@ label_psychiatrie:
   nl: Psychiatrie
   en: Psychiatry
 label_psychiatrie_overig:
-  nl: Psychiatrie overig
+  nl: Psychiatrie, overig
   en: Other psychiatry
 label_slaapstoornissen:
   nl: Slaapstoornissen
@@ -1454,7 +1521,7 @@ label_spierziekten:
   nl: Spierziekten
   en: Muscular diseases
 label_spierziekten_overig:
-  nl: Spierziekten overig
+  nl: Spierziekten, overig
   en: Other muscular diseases  
 
 label_copd:
@@ -1467,17 +1534,28 @@ label_astma:
   nl: Astma
   en: Asthma
 label_long_overig:
-  nl: Long overig
+  nl: Long, overig
   en: Other lung  
 label_bacteriele_infecties:
   nl: Bacteriele infecties
   en: Bacterial infections
 label_infectieziekten_overig:
-  nl: Overige infectieziekten overig
+  nl: Infectieziekten, overig
   en: Other infectious diseases
 label_virale_infecties:
-  nl: Virale infecties
-  en: Viral infections
+  nl: Virale infecties, overig
+  en: Other viral infections
+
+label_hiv:
+  nl: HIV
+  en: HIV
+label_fungal_infections:
+  nl: Fungale infecties
+  en: Fungal infections
+label_parasitic_infections:
+  nl: Parasitaire infecties
+  en: Parasitic infections
+
 label_other_information:
   nl: Overige informatie
   en: Other information
@@ -1506,7 +1584,7 @@ label_reuma:
   nl: Reuma
   en: Rheumatism
 label_chronische_immuunziekten_overig:
-  nl: Chronische immuunziekten overig
+  nl: Chronische immuunziekten, overig
   en: Other chronic immune diseases
 label_allergie:
   nl: Allergie
@@ -1831,6 +1909,15 @@ label_start_pipeline_request:
 label_add_manufacturer:
   nl: Voeg fabrikant toe
   en: Add manufacturer
+label_add_portfolio_holder:
+  nl: Voeg portfoliohouder toe
+  en: Add portfolio holder
+label_edit_manufacturer:
+  nl: Bewerk fabrikant
+  en: Edit manufacturer
+label_edit_portfolio_holder:
+  nl: Bewerk portfoliohouder
+  en: Edit portfolio holder
 label_followed_pages:
   nl: Gevolgde pagina's
   en: Followed pages
@@ -1855,6 +1942,18 @@ label_change_requests:
 label_portfolio:
   nl: Portfolio
   en: Portfolio
+label_portfolio_holder:
+  nl: Portfoliohouder
+  en: Portfolio holder
+label_portfolio_holders:
+  nl: Portfoliohouders
+  en: Portfolio holders
+label_account:
+  nl: Account
+  en: Account
+label_accounts:
+  nl: Accounts
+  en: Accounts
 label_to_review:
   nl: Ter beoordeling
   en: For review
@@ -2349,6 +2448,9 @@ label_share:
 label_duplicate:
   nl: Dupliceer
   en: Duplicate
+label_confirm_duplication:
+  nl: Bevestig dupliceren
+  en: Comfirm duplication
 label_verification_request:
   nl: Verificatieverzoek
   en: Verification request
@@ -2376,6 +2478,12 @@ label_request_for_pipeline:
 label_contact_not_selected:
   nl: Geen contact geselecteerd
   en: No contact selected
+label_administrator_not_selected:
+  nl: Geen beheerder geselecteerd
+  en: No administrator selected
+label_administrator:
+  nl: Beheerder
+  en: Administrator
 label_last_modified_on:
   nl: Laatst bewerkt op
   en: Last modified on 
@@ -2609,6 +2717,9 @@ message_changes_to_this_revision_are_visible_after_publication:
 message_batch_publish:
   nl: Als u verder gaat worden alle geselecteerde documenten gepubliceerd. Deze handeling is onomkeerbaar. Controleer het volgende.
   en: As you proceed, all selected documents will be published. This action is irreversible. Check the following.
+message_batch_delete:
+  nl: Als u verder gaat worden alle geselecteerde documenten verwijderd. Deze handeling is onomkeerbaar. 
+  en: As you proceed, all selected documents will be deleted. This action is irreversible.
 message_check_the_url:
   nl: Controleer het adres in de adresbalk. Soms gaat er iets mis bij het kopiëren van een link, bijvoorbeeld uit een e-mailbericht. U kunt de informatie die u zoekt mogelijk vinden via de zoekpagina.
   en: Please check the address in the address bar. Sometimes something goes wrong when copying a link, for example from an e-mail message. You might be able to find the information you are looking for through the search page.
