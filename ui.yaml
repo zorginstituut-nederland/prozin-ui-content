@@ -1902,6 +1902,12 @@ label_contact_person:
 label_email:
   nl: E-mail
   en: E-mail
+label_telephone_number:
+  nl: Telefoonnummer
+  en: Telephone number
+label_attachment:
+  nl: Bijlage
+  en: Attachment
 label_remove: 
   nl: Verwijder
   en: Remove
