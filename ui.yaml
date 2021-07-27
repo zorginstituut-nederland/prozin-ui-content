@@ -1,5 +1,8 @@
 # Labels
 
+label_information_model:
+  nl: Informatiemodel
+  en: Information model
 label_consultant:
   nl: Consulent
   en: Consultant
