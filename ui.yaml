@@ -1,5 +1,8 @@
 # Labels
 
+label_presentation:
+  nl: Presentatie
+  en: Presentation
 label_information_model:
   nl: Informatiemodel
   en: Information model
