@@ -2525,6 +2525,9 @@ label_sharing_extended_for_name:
 label_unsubscribed:
   nl: Uitgeschreven
   en: Unsubscribed
+label_subscribe:
+  nl: Abonneer
+  en: Subscribe
 
 # Labels for documenttypes in Bloomreach
 label_newscontentdocument:
