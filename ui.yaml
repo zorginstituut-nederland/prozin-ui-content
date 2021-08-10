@@ -1,5 +1,20 @@
 # Labels
 
+label_subscribe:
+  nl: Abonneer
+  en: Subscribe
+label_newsletter:
+  nl: Nieuwsbrief
+  en: Newsletter
+label_news_flash:
+  nl: Nieuwsflits
+  en: News flash
+label_subscribe_to_quarterly_newsletter:
+  nl: Abonneer op driemaandelijkse nieuwsbrief
+  en: Subscribe to quarterly newsletter
+label_subscribe_to_news_flashes:
+  nl: Abonneer op nieuwsflitsen
+  en: Subscribe to news flashes
 label_presentation:
   nl: Presentatie
   en: Presentation
@@ -98,8 +113,8 @@ label_language:
   nl: Taal
   en: Language
 label_english_native:
-  nl: English (bèta)
-  en: English (bèta)
+  nl: English
+  en: English
 label_dutch_native:
   nl: Nederlands
   en: Nederlands
