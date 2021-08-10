@@ -2522,6 +2522,9 @@ label_shared_with_name:
 label_sharing_extended_for_name:
   nl: 'Delen verlengd voor <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
   en: 'Sharing extended for <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
+label_unsubscribed:
+  nl: Uitgeschreven
+  en: Unsubscribed
 
 # Labels for documenttypes in Bloomreach
 label_newscontentdocument:
@@ -2531,6 +2534,15 @@ label_newscontentdocument:
 
 # Messages
 
+message_newsletter:
+  nl: Geef uw e-mail adres op en selecteer de nieuwsbrieven die u graag zou willen ontvangen.
+  en: Enter your e-mail address and select which newsletters you would like to receive.
+message_unsubscribed_newsletter:
+  nl: U bent nu uitgeschreven voor de volgende nieuwsbrief.
+  en: You are now unsubscribed for the following newsletter.
+message_subscribed_newsletters:
+  nl: U bent nu geabonneerd op de volgende nieuwsbrieven.
+  en: You are now subscribed to the following newsletters.
 message_compare_indication:
   nl: Vergelijk <strong>{0}</strong> met een andere indicatie.
   en: Compare <strong>{0}</strong> to another indication.
@@ -2829,6 +2841,9 @@ snippet_total_cost_from_colon:
 
 # The following snippets are prefixed with 'label_' for historic reasons.
 
+label_thank_you:
+  nl: Dank u wel
+  en: Thank you
 label_maal_per_dag:
   nl: maal per dag
   en: times a day
