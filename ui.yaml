@@ -1,4 +1,7 @@
 # Labels
+label_then_subscribe_to_our_newsletters:
+  nl: Abonneert u zich dan op onze nieuwsbrieven
+  en: Then please subscribe to our newsletters
 label_newsletter_archive:
   nl: Nieuwsbrievenarchief
   en: Newsletter archive
@@ -2539,6 +2542,12 @@ label_newscontentdocument:
 
 # Messages
 
+message_newsletter_archive:
+  nl: Dit is het archief van alle nieuwsbrieven die in het verleden door ons verstuurd zijn. 
+  en: This is the archive of all newsletters that we have sent in the past. 
+message_newsletter_keep_abreast:
+  nl: Wilt u ook via e-mail op de hoogte worden gehouden van het laatste nieuws?
+  en: Would you also like stay abreast with the latest news?
 message_newsletter:
   nl: Geef uw e-mail adres op en selecteer de nieuwsbrieven die u graag zou willen ontvangen.
   en: Enter your e-mail address and select which newsletters you would like to receive.
