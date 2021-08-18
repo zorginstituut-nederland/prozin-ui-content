@@ -1,5 +1,7 @@
 # Labels
-
+label_newsletter_archive:
+  nl: Nieuwsbrievenarchief
+  en: Newsletter archive
 label_subscribe:
   nl: Abonneer
   en: Subscribe
