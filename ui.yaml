@@ -1,4 +1,13 @@
 # Labels
+label_public_data:
+  nl: Openbare data
+  en: Public data
+label_indicators:
+  nl: Indicatoren
+  en: Indicators
+label_organisations:
+  nl: Organisaties
+  en: Organisations
 label_then_subscribe_to_our_newsletters:
   nl: Abonneert u zich dan op onze nieuwsbrieven
   en: Then please subscribe to our newsletters
