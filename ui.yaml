@@ -466,6 +466,12 @@ label_replace_photo:
 label_upload_photo:
   nl: Laad een foto op
   en: Upload a photo
+label_upload:
+  nl: Laad op
+  en: Upload
+label_upload_indicators:
+  nl: Opladen indicatoren
+  en: Upload indicators
 label_role_scanner:
   nl: Scanner
   en: Scanner
