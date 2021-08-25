@@ -229,6 +229,9 @@ label_field_separator_wide:
 label_username:
   nl: Gebruikersnaam
   en: Username
+label_users:
+  nl: Gebruikers
+  en: Users
 label_favourites: 
   nl: Favorieten
   en: Favourites
