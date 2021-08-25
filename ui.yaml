@@ -12,6 +12,9 @@ label_client_information:
 label_reading_guide:
   nl: Leeswijzer
   en: Reading Guide
+label_project_pages:
+  nl: Projectpagina’s
+  en: Project pages
 label_type_of_healthcare_provider:
   nl: Type zorgaanbieder
   en: Type of healthcare provider
