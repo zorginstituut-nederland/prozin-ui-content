@@ -1,16 +1,83 @@
 # Labels
+
+label_view_on_transparency_calendar: 
+  nl: Tonen op transparantiekalender  
+  en: View on transparency calendar
+label_reference_indicator_id:
+  nl: Referentie indicator-ID 
+  en: Reference indicator ID
+label_client_information:
+  nl: Cliëntinformatie
+  en: Client information
+label_reading_guide:
+  nl: Leeswijzer
+  en: Reading Guide
+label_type_of_healthcare_provider:
+  nl: Type zorgaanbieder
+  en: Type of healthcare provider
+label_subtype_healthcare_provider:
+  nl: Subtype zorgaanbieder
+  en: Healthcare provider subtype
+label_indicator_unit:
+  nl: Indicatoreenheid
+  en: Indicator unit
+label_reporting_level:
+  nl: Rapportageniveau
+  en: Reporting level
+label_valid_from:
+  nl: Geldig van  
+  en: Valid from
+label_valid_until:
+  nl: Geldig tot en met  
+  en: Valid until
+label_measure_period_start_date:
+  nl: Meetperiodebegindatum
+  en: Measurement period start date
+label_measure_period_end_date:
+  nl: Meetperiode-einddatum
+  en: Measurement period end date
+label_first_delivery_date:
+  nl: Eerste aanleverdatum
+  en: First delivery date
+label_indicator_type:
+  nl: Indicatortype
+  en: label_indicator_type
+label_delivery_frequency:
+  nl: Aanleverfrequentie
+  en: Delivery frequency
+label_internal_improvement_information:
+  nl: Interneverbeteringsinformatie
+  en: Internal improvement information
+label_supervisory_information:
+  nl: Toezichtinformatie
+  en: Supervisory information
+label_healthcare_procurement_information:
+  nl: Zorginkoopinformatie
+  en: Healthcare procurement information
+label_number:
+  nl: Nummer
+  en: Number
+label_theme:
+  nl: Thema
+  en: Theme
+label_choice_information:
+  nl: Keuzeinformatie
+  en: Choice information
+label_code:
+  nl: Code
+  en: Code
+label_order:
+  nl: Volgorde
+  en: Order
 label_project_page:
   nl: Projectpagina
   en: Project page
-label_indicator_set_code:
-  nl: Indicatorsetcode
-  en: Indicatorset code
-label_indicator_set_name:
-  nl: Indicatorsetnaam
-  en: Indicatorset name
 label_add_indicator_set: 
   nl: Voeg indicatorset toe
   en: Add indicator set
+label_add_indicator: 
+  nl: Voeg indicator toe
+  en: Add indicator
 label_public_data:
   nl: Openbare data
   en: Public data
@@ -252,6 +319,9 @@ label_weekly:
 label_monthly:
   nl: Maandelijks
   en: Monthly
+label_yearly:
+  nl: Jaarlijks
+  en: Yearly
 label_daily:
   nl: Dagelijks
   en: Daily
@@ -2109,6 +2179,12 @@ label_follow:
 label_unfollow:
   nl: Ontvolg
   en: Unfollow
+label_indicator_set:
+  nl: Indicatorset
+  en: Indicator set
+label_indicator_set_name:
+  nl: Indicatorsetnaam
+  en: Indicator set name
 label_organisation_name:
   nl: Zorginstituut Nederland
   en: National Health Care Institute
