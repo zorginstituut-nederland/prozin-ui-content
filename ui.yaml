@@ -1,4 +1,16 @@
 # Labels
+label_project_page:
+  nl: Projectpagina
+  en: Project page
+label_indicator_set_code:
+  nl: Indicatorsetcode
+  en: Indicatorset code
+label_indicator_set_name:
+  nl: Indicatorsetnaam
+  en: Indicatorset name
+label_add_indicator_set: 
+  nl: Voeg indicatorset toe
+  en: Add indicator set
 label_public_data:
   nl: Openbare data
   en: Public data
