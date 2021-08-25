@@ -415,7 +415,7 @@ label_hide_filters:
 label_to_search:
   nl: "Zoeken"
   en: "Search"
-label_delete:
+label_to_delete:
   nl: "Verwijderen"
   en: "Delete"
 label_publish_confirm:
