@@ -3077,4 +3077,7 @@ label_unknown_user:
   en: Unknown user
 
 
+fragment_pages:
+  nl: pagina's
+  en: pages
 
