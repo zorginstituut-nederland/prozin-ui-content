@@ -87,6 +87,9 @@ label_public_data:
 label_indicators:
   nl: Indicatoren
   en: Indicators
+label_indicator:
+  nl: Indicator
+  en: Indicator
 label_organisations:
   nl: Organisaties
   en: Organisations
