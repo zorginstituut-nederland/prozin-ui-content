@@ -1,5 +1,16 @@
 # Labels
-
+label_delete_user:
+  nl: Verwijder gebruiker
+  en: Delete user
+label_new_user: 
+  nl: Nieuwe gebruiker
+  en: New user
+label_delete_organisation:
+  nl: Verwijder organisatie
+  en: Delete organisation
+label_new_organisation: 
+  nl: Nieuwe organisatie
+  en: New organisation
 label_view_on_transparency_calendar: 
   nl: Tonen op transparantiekalender  
   en: View on transparency calendar
