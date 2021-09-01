@@ -1,4 +1,7 @@
 # Labels
+label_contact_person_not_selected:
+  nl: Geen contactpersoon geselecteerd
+  en: No contact person selected
 label_delete_user:
   nl: Verwijder gebruiker
   en: Delete user
