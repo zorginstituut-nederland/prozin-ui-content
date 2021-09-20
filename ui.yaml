@@ -5,6 +5,15 @@ label_contact_person_not_selected:
 label_delete_user:
   nl: Verwijder gebruiker
   en: Delete user
+label_deactivate_user:
+  nl: Deactiveer gebruikersaccount 
+  en: Deactivate user account
+label_deactivate:
+  nl: Deactiveer
+  en: Deactivate
+label_reactive_user:
+  nl: Heractiveer gebruiker
+  en: Reactivate user
 label_new_user: 
   nl: Nieuwe gebruiker
   en: New user
