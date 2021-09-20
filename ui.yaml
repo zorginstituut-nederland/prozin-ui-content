@@ -1,4 +1,7 @@
 # Labels
+label_upload_public_data:
+  nl: Openbare data opladen
+  en: Upload public data
 label_contact_person_not_selected:
   nl: Geen contactpersoon geselecteerd
   en: No contact person selected
