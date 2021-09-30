@@ -1,4 +1,13 @@
 # Labels
+label_approve_delivery:
+  nl: Aanlevering goedkeuren
+  en: Approve delivery
+label_approve:
+  nl: Keur goed
+  en: Approve
+label_description:
+  nl: Beschrijving
+  en: Description
 label_upload_public_data:
   nl: Openbare data opladen
   en: Upload public data
