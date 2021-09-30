@@ -2,6 +2,12 @@
 label_approve_delivery:
   nl: Aanlevering goedkeuren
   en: Approve delivery
+label_close:
+  nl: Sluit
+  en: Close
+label_validation_result:
+  nl: Validatieresultaat
+  en: Validation result
 label_approve:
   nl: Keur goed
   en: Approve
