@@ -10,7 +10,8 @@ nicole:
   first_name: Nicole
   last_name: De Vries
   email: nicole.de.vries@company.nl
-  role: scanner
+  role: Regular user
+  organisation: Zorginstituut Nederland
   follows: 
     - Afamelanotide
     - Alicaforsen
@@ -34,7 +35,8 @@ daisy:
   first_name: Daisy
   last_name: Duell
   email: dduell@zinl.nl
-  role: scanner
+  role: Regular user
+  organisation: Zorginstituut Nederland
   follows: 
     - Afamelanotide
     - Alicaforsen
@@ -58,7 +60,8 @@ wytse:
   first_name: Wytse
   last_name: Bruinsma
   email: wbruinsma@zinl.nl
-  role: scanner
+  role: Regular user
+  organisation: Zorginstituut Nederland
   follows: 
     - Nivolumab
     - Remedium
@@ -66,7 +69,8 @@ devi:
   first_name: Devi
   last_name: Donders
   email: devidonders@zinl.nl
-  role: workgroup-member
+  role: Regular user
+  organisation: Werkgroep Oncologie
   follows: 
     - Nivolumab
     - Remedium
@@ -74,23 +78,27 @@ nikos:
   first_name: Nikos
   last_name: Papadopoulus
   email: nikospapadopoulus@werkgroep.nl
-  role: workgroup-member
+  role: Regular user
   domain: Metabolism and Endocrinology
+  organisation: Zorginstituut Nederland
 astrid:
   first_name: Astrid
   last_name: Arend
   email: astridarend@roche.nl
-  role: manufacturer
+  role: Regular user
+  organisation: Zorginstituut Nederland
 riwka:
   first_name: Riwka
   last_name: Rubinstein
   email: rrubinstein@zinl.nl
-  role: administrator
+  role: Administrator
+  organisation: Zorginstituut Nederland
 achmed:
   first_name: Achmed
   last_name: Ali
   email: achmedali@vws.nl
-  role: bystander
+  role: Regular user
+  organisation: Zorginstituut Nederland
   follows: 
     - Afamelanotide
     - Alicaforsen

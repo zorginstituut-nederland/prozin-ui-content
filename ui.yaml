@@ -1,4 +1,9 @@
-# Labels
+label_regular_user:
+  nl: Normale gebruiker
+  en: Regular user
+label_organisation:
+  nl: Organisatie
+  en: Organisation
 label_approve_delivery:
   nl: Aanlevering goedkeuren
   en: Approve delivery
