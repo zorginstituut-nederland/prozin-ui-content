@@ -1,63 +1,123 @@
 - name: PPC Amsterdam
   type: Zorginstelling
+  place: Amsterdam
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: Psychiatrische Praktijk Westersingel
   type: Zorginstelling
+  place: Rotterdam
+  branch: 34576497542
+  kvk: 04532486
   administrator: John Doe
 - name: PPC Vught
   type: Zorginstelling
+  place: Vught
+  branch: 34576497542
+  kvk: 03928374
   administrator: John Doe
 - name: Mees & mcRooy Makelaars
   type: Gegevensmakelaar
   administrator: Sarai Santini
 - name: PPC Zwolle
   type: Zorginstelling
+  place: Zwolle
+  branch: 34576497542
+  kvk: 19283746
   administrator: John Doe
 - name: Stichting Zorgpartners Friesland
   type: Zorginstelling
+  place: Leeuwarden
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: Zorggroep Plantein
   type: Zorginstelling
+  place: Loon op Zand
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: Stichting Interzorg Groep
   type: Zorginstelling
+  place: Amsterdam
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: Stichting Zorg op Maat
   type: Zorginstelling
+  place: Loon op Zand
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: Stichting ZuidOostZorg
   type: Zorginstelling
+  place: Loon op Zand
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: Pi-groep Zorg B.V.
   type: Zorginstelling
+  place: Loon op Zand
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: Friese Staten
   type: Zorginstelling
+  place: Loon op Zand
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: Aardema Thuiszorg
   type: Zorginstelling
+  place: Loon op Zand
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: Zorggroep Pasana De Sionsberg
   type: Zorginstelling
+  place: Loon op Zand
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: Antonius Ziekenhuis
   type: Zorginstelling
+  place: Loon op Zand
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: Lentis
   type: Zorginstelling
+  place: Loon op Zand
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: Traject 58
   type: Zorginstelling
+  place: Loon op Zand
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: In hoofdzaken B.V.
   type: Zorginstelling
+  place: Loon op Zand
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: CarePool B.V.
   type: Zorginstelling
+  place: Loon op Zand
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: Stichting Zorgverlening De Friese Wouden
   type: Zorginstelling
+  place: Loon op Zand
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
 - name: Ommelander Ziekenhuis Groningen
   type: Zorginstelling
+  place: Loon op Zand
+  branch: 34576497542
+  kvk: 57697543
   administrator: John Doe
