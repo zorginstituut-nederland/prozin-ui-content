@@ -1,3 +1,9 @@
+label_transfer:
+  nl: Doorzetten
+  en: Transfer
+label_transfer_to_odb:
+  nl: Doorzetten naar ODB
+  en: Transfer to ODB
 label_average:
   nl: Gemiddelde
   en: Average
