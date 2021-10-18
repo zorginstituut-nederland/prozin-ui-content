@@ -1,3 +1,48 @@
+label_average:
+  nl: Gemiddelde
+  en: Average
+label_number:
+  nl: Getal
+  en: Number
+label_yes_no:
+  nl: Ja/Nee
+  en: Yes/No
+label_percentage:
+  nl: Percentage
+  en: Percentage
+label_text:
+  nl: Tekst
+  en: Text
+label_fraction:
+  nl: Breuk
+  en: Fraction
+label_stars_3:
+  nl: Sterren (3)
+  en: Stars (3)
+label_stars_5:
+  nl: Sterren (5)
+  en: Stars (5)
+label_amount:
+  nl: Aantal
+  en: Amount
+label_label:
+  nl: Label
+  en: Label
+label_time:
+  nl: Tijd
+  en: Time
+label_main_indicator:
+  nl: Hoofdindicator
+  en: Main indicator
+label_structure:
+  nl: Structuur
+  en: Structure
+label_process:
+  nl: Proces
+  en: Process
+label_outcome:
+  nl: Uitkomst
+  en: Outcome
 label_healthcare_institutions:
   nl: Zorginstellingen
   en: Healthcare institutions
@@ -76,6 +121,9 @@ label_subtype_healthcare_provider:
 label_indicator_unit:
   nl: Indicatoreenheid
   en: Indicator unit
+label_indicator_question:
+  nl: Vraag
+  en: Question
 label_reporting_level:
   nl: Rapportageniveau
   en: Reporting level
