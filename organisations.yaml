@@ -19,6 +19,33 @@
 - name: Mees & mcRooy Makelaars
   type: Gegevensmakelaar
   administrator: Sarai Santini
+- name: Zorginstituut
+  type: Beheerorganisatie
+  administrator: 
+- name: GGZ Dataportaal B.V. (Akwa)
+  type: Gegevensmakelaar
+  administrator: 
+- name: Perined
+  type: Gegevensmakelaar
+  administrator: 
+- name: MRDM Services B.V.
+  type: Gegevensmakelaar
+  administrator: 
+- name: MediQuest
+  type: Gegevensmakelaar
+  administrator: 
+- name: Dutch Hospital Data (DHD)
+  type: Gegevensmakelaar
+  administrator: 
+- name: Desan
+  type: Gegevensmakelaar
+  administrator: 
+- name: MRDM Services B.V.
+  type: Gegevensmakelaar
+  administrator: 
+- name: Dutch Hospital Data (DHD)
+  type: Gegevensmakelaar
+  administrator: Dorian Dolittle
 - name: PPC Zwolle
   type: Zorginstelling
   place: Zwolle
