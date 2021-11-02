@@ -1,3 +1,9 @@
+label_individual_components:
+  nl: Individuele components 
+  en: Individual components
+label_complete_package:
+  nl: Hele pakket
+  en: Complete package
 label_delete_data_set_delivery:
   nl: Verwijder data set-aanlevering
   en: Delete data set delivery
