@@ -2771,7 +2771,9 @@ label_newscontentdocument:
   
 
 # Messages
-
+message_error_file_upload_max_file_size:
+  nl: De maximale bestandsgrootte is {0} MB.
+  en: The maximum file size is {0} MB.
 message_newsletter_archive:
   nl: Dit is het archief van alle nieuwsbrieven die in het verleden door ons verstuurd zijn. 
   en: This is the archive of all newsletters that we have sent in the past. 
