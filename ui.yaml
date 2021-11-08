@@ -1819,6 +1819,12 @@ label_dosage_per_administration:
 label_oncologie-en-hematologie:
   nl: Oncologie en Hematologie
   en: Oncology and Hematology
+label_hematologie:
+  nl: Hematologie
+  en: Hematology
+label_oncologie:
+  nl: Oncologie
+  en: Oncology
 # Label should match the ldap workgroup
 label_stofwisseling-en-endocrinologie:
   nl: Stofwisseling en Endocrinologie
