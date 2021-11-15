@@ -2724,6 +2724,12 @@ label_duplicate:
 label_confirm_duplication:
   nl: Bevestig dupliceren
   en: Comfirm duplication
+label_confirm_account:
+  nl: Account bevestigen
+  en: Comfirm account
+label_confirm:
+  nl: Bevestig
+  en: Comfirm
 label_verification_request:
   nl: Verificatieverzoek
   en: Verification request
