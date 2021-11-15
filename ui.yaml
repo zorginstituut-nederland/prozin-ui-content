@@ -2164,6 +2164,9 @@ label_attachment:
 label_remove: 
   nl: Verwijder
   en: Remove
+label_remove_user: 
+  nl: Verwijder gebruiker
+  en: Remove user
 label_drafts:
   nl: Concepten
   en: Drafts
