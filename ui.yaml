@@ -1748,7 +1748,7 @@ label_multiple_sclerose:
   en: Multiple sclerosis  
 label_neurologie_overig:
   nl: Neurologie, overig
-  en: Other neurological disorders
+  en: Neurological disorders other
 label_oogaandoeningen:
   nl: Oogaandoeningen
   en: Eye disorders
@@ -1794,16 +1794,16 @@ label_astma:
   en: Asthma
 label_long_overig:
   nl: Long, overig
-  en: Other lung  
+  en: Lung other  
 label_bacteriele_infecties:
   nl: Bacteriele infecties
   en: Bacterial infections
 label_infectieziekten_overig:
   nl: Infectieziekten, overig
-  en: Other infectious diseases
+  en: Infectious diseases other
 label_virale_infecties:
   nl: Virale infecties, overig
-  en: Other viral infections
+  en: Viral infections other
 
 label_hiv:
   nl: HIV
