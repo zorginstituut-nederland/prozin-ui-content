@@ -2096,6 +2096,9 @@ label_delete:
 label_send:
   nl: Verstuur
   en: Send
+label_resend_invite:
+  nl: Uitnodiging opnieuw versturen
+  en: Resend invite
 label_therapeutical_value_and_treatment_scheme:
   nl: Therapeutische waarde en behandelschema
   en: Therapeutical value and treatment scheme
