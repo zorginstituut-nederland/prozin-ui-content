@@ -292,7 +292,12 @@ label_december:
   nl: December
   en: December
   de: Dezember 
-
+label_first_name:
+  nl: Voornaam
+  en: First name
+label_last_name:
+  nl: Achternaam
+  en: Last name
 label_expand_sections_medicine_page:
   nl: Openklappen secties geneesmiddelpagina
   en: Expanding sections medicine page
