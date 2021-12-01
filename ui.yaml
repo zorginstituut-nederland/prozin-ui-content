@@ -2017,6 +2017,9 @@ label_eenmalig:
 label_doorlopend:
   nl: doorlopend
   en: continuous
+label_current: 
+  nl: Lopend
+  en: Current
 label_cost:
   nl: Kosten
   en: Cost
