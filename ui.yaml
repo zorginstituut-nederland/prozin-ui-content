@@ -1,3 +1,9 @@
+message_no_archived_change_requests:
+  nl: U heeft op dit moment geen gearchiveerde wijzigingsverzoeken.
+  en: You currently have no archived change requests.
+label_current_change_requests:
+  nl: Lopende wijzigingsverzoeken
+  en: Current change requests
 label_archive:
   nl: Archief
   en: Archive
