@@ -1,3 +1,9 @@
+message_no_medicines_porfolio_holder_in_portfolio:
+  nl: Er zijn op dit moment geen geneesmiddelen bij u in beheer.
+  en: There are currently no medicines that maintained by you.
+label_i_participate:
+  nl: Ik doe mee!
+  en: I participate!
 message_no_archived_change_requests:
   nl: U heeft op dit moment geen gearchiveerde wijzigingsverzoeken.
   en: You currently have no archived change requests.
