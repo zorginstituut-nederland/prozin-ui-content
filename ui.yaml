@@ -1,6 +1,6 @@
-message_no_medicines_porfolio_holder_in_portfolio:
-  nl: Er zijn op dit moment geen geneesmiddelen bij u in beheer.
-  en: There are currently no medicines that maintained by you.
+message_promo:
+  nl: Help ons {0} te optimaliseren. Beantwoord enkele korte vragen.
+  en: Please help us optimise {0} by answering a few short questions.
 label_i_participate:
   nl: Ik doe mee!
   en: I participate!
