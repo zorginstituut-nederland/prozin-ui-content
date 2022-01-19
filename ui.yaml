@@ -1,6 +1,27 @@
-message_justification_price_day:
+message_justification_price_day_fraction:
   nl: Prijzen per dag zijn afgerond op hele centen. De prijs per dag is in dit geval gebaseerd op {0} deel van een {1}.
   en: Prices per day are rounded to whole cents. The price per day in this case is based on {0} part of a {1}.
+message_justification_price_week_fraction:
+  nl: Prijzen per week zijn afgerond op hele centen. De prijs per week is in dit geval gebaseerd op {0} deel van een {1}.
+  en: Prices per week are rounded to whole cents. The price per week in this case is based on {0} part of a {1}.
+message_justification_price_30_days_fraction:
+  nl: Prijzen per 30 dagen zijn afgerond op hele centen. De prijs per 30 dagen is in dit geval gebaseerd op {0} deel van een {1}.
+  en: Prices per 30 days are rounded to whole cents. The price per 30 days in this case is based on {0} part of a {1}.
+message_justification_price_90_days_fraction:
+  nl: Prijzen per 90 dagen zijn afgerond op hele centen. De prijs per 90 dagen is in dit geval gebaseerd op {0} deel van een {1}.
+  en: Prices per 90 days are rounded to whole cents. The price per 90 days in this case is based on {0} part of a {1}.
+message_justification_price_day:
+  nl: Prijzen per dag zijn afgerond op hele centen. De prijs per dag is in dit geval gebaseerd op {0} maal één {1}.
+  en: Prices per day are rounded to whole cents. The price per day in this case is based on {0} times one {1}.
+message_justification_price_week:
+  nl: Prijzen per week zijn afgerond op hele centen. De prijs per week is in dit geval gebaseerd op {0} maal één {1}.
+  en: Prices per week are rounded to whole cents. The price per week in this case is based on {0} times one {1}.
+message_justification_price_30_days:
+  nl: Prijzen per 30 dagen zijn afgerond op hele centen. De prijs per 30 dagen is in dit geval gebaseerd op {0} maal één {1}.
+  en: Prices per 30 days are rounded to whole cents. The price per 30 days in this case is based on {0} times one {1}.
+message_justification_price_90_days:
+  nl: Prijzen per 90 dagen zijn afgerond op hele centen. De prijs per 90 dagen is in dit geval gebaseerd op {0} maal één {1}.
+  en: Prices per 90 days are rounded to whole cents. The price per 90 days in this case is based on {0} times one {1}.
 message_promo:
   nl: Help ons {0} te optimaliseren. Beantwoord enkele korte vragen.
   en: Please help us optimise {0} by answering a few short questions.
