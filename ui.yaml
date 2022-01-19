@@ -1,3 +1,6 @@
+message_justification_price_day:
+  nl: Prijzen per dag zijn afgerond op hele centen. De prijs per dag is in dit geval gebaseerd op {0} deel van een {1}.
+  en: Prices per day are rounded to whole cents. The price per day in this case is based on {0} part of a {1}.
 message_promo:
   nl: Help ons {0} te optimaliseren. Beantwoord enkele korte vragen.
   en: Please help us optimise {0} by answering a few short questions.
