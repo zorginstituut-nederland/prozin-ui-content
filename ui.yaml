@@ -2424,6 +2424,9 @@ label_more_news:
 label_type_of_document:
   nl: Type document
   en: Type of document
+label_type:
+  nl: Type
+  en: Type
 label_document_type:
   nl: Documenttype
   en: Document type
