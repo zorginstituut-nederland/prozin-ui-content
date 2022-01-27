@@ -247,15 +247,36 @@ label_indicator:
 label_organisations:
   nl: Organisaties
   en: Organisations
+label_address:
+  nl: Adres
+  en: Address
+label_postal_code:
+  nl: Postcode
+  en: Postal code
+label_kvk:
+  nl: KvK
+  en: KvK
+label_location_number:
+  nl: Vestigingsnummer
+  en: Location number
+label_agb_code:
+  nl: AGB-code
+  en: AGB-code
+label_organisation_type_not_selected:
+  nl: Organisatie type niet geselecteerd
+  en: Organisation type not selected
+label_article_page:
+  nl: Artikel
+  en: Article
+label_release:
+  nl: Release
+  en: Release
 label_then_subscribe_to_our_newsletters:
   nl: Abonneert u zich dan op onze nieuwsbrieven
   en: Then please subscribe to our newsletters
 label_newsletter_archive:
   nl: Nieuwsbrievenarchief
   en: Newsletter archive
-label_subscribe:
-  nl: Abonneer
-  en: Subscribe
 label_newsletter:
   nl: Nieuwsbrief
   en: Newsletter
