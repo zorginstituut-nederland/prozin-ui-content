@@ -247,6 +247,9 @@ label_indicator:
 label_organisations:
   nl: Organisaties
   en: Organisations
+label_location_name:
+  nl: Locatienaam
+  en: Location name
 label_address:
   nl: Adres
   en: Address
