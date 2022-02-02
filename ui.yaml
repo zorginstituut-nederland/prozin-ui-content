@@ -31,10 +31,10 @@ label_ampoule:
 label_ampoules:                             
   en: Ampoules                              
   nl: Ampullen
-label_ampoule-set:                          
+label_ampoule_set:                          
   en: Ampoule set                           
   nl: Ampul-set
-label_ampoule-sets:                         
+label_ampoule_sets:                         
   en: Ampoule sets                          
   nl: Ampul-sets
 label_applicator:                           
@@ -49,16 +49,16 @@ label_capsule:
 label_capsules:                             
   en: Capsules                              
   nl: Capsules
-label_capsule-vaginal:                      
+label_capsule_vaginal:                      
   en: Capsule vaginal                       
   nl: Capsule vaginaal
-label_capsules-vaginal:                     
+label_capsules_vaginal:                     
   en: Capsules vaginal                      
   nl: Capsules vaginaal
-label_combination-packaging:                
+label_combination_packaging:                
   en: Combination packaging                 
   nl: Combinatie verpakking
-label_combination-packaging:                
+label_combination_packaging:                
   en: Combination packaging                 
   nl: Combinatieverpakkingen
 label_cup:                                  
@@ -73,10 +73,10 @@ label_diskus:
 label_discus:                               
   en: Discus                                
   nl: Diskussen
-label_dosing-pressure-packaging:            
+label_dosing_pressure_packaging:            
   en: Dosing pressure packaging             
   nl: Doseerdrukverpakking
-label_dosing-pressure-packaging:            
+label_dosing_pressure_packaging:            
   en: Dosing pressure packaging             
   nl: Doseerdrukverpakkingen
 label_dragee:                               
@@ -85,16 +85,16 @@ label_dragee:
 label_dragees:                              
   en: Dragees                               
   nl: Dragees
-label_pressure-packaging:                   
+label_pressure_packaging:                   
   en: Pressure packaging                    
   nl: Drukverpakking
-label_pressure-packaging:                   
+label_pressure_packaging:                   
   en: Pressure packaging                    
   nl: Drukverpakkingen
-label_drop-packaging:                       
+label_drop_packaging:                       
   en: Drop packaging                        
   nl: Druppelverpakking
-label_drip-packs:                           
+label_drip_packs:                           
   en: Drip packs                            
   nl: Druppelverpakkingen
 label_flacon:                               
@@ -121,40 +121,40 @@ label_implant:
 label_implants:                             
   en: Implants                              
   nl: Implantaten
-label_infusion-set:                         
+label_infusion_set:                         
   en: Infusion set                          
   nl: Infusie-set
-label_infusion-sets:                        
+label_infusion_sets:                        
   en: Infusion sets                         
   nl: Infusie-sets
-label_infusion-bottle:                      
+label_infusion_bottle:                      
   en: Infusion bottle                       
   nl: Infusieflacon
-label_infusion-vials:                       
+label_infusion_vials:                       
   en: Infusion vials                        
   nl: Infusieflacons
-label_infusion-bottle:                      
+label_infusion_bottle:                      
   en: Infusion bottle                       
   nl: Infusiefles
-label_infusion-bottles:                     
+label_infusion_bottles:                     
   en: Infusion bottles                      
   nl: Infusieflessen
-label_infusion-bag:                         
+label_infusion_bag:                         
   en: Infusion bag                          
   nl: Infusiezak
-label_infusion-bags:                        
+label_infusion_bags:                        
   en: Infusion bags                         
   nl: Infusiezakken
-label_infusion-bag+1p:                      
+label_infusion_bag_plus_1p:                      
   en: Infusion bag+1p                       
   nl: Infusiezak+1p
-label_infusion-bags+1p:                     
+label_infusion_bags_plus_1p:                     
   en: Infusion bags+1p                      
   nl: Infusiezakken+1p
-label_infusion-bag+2p:                      
+label_infusion_bag_plus_2p:                      
   en: Infusion bag+2p                       
   nl: Infusiezak+2p
-label_infusion-bags+2p:                     
+label_infusion_bags_plus_2p:                     
   en: Infusion bags+2p                      
   nl: Infusiezakken+2p
 label_vial:                                 
@@ -187,8 +187,8 @@ label_lyophilisate:
 label_lyophilisates:                        
   en: Lyophilisates                         
   nl: Lyophilisaten
-label_milliliters:                          
-  en: Milliliters                           
+label_milliliter:                          
+  en: Milliliter                           
   nl: Milliliter
 label_milliliters:                          
   en: Milliliters                           
@@ -199,10 +199,10 @@ label_minimum:
 label_minimums:                             
   en: Minimums                              
   nl: Minims
-label_eye-insert:                           
+label_eye_insert:                           
   en: Eye insert                            
   nl: Ooginsert
-label_eye-inserts:                          
+label_eye_inserts:                          
   en: Eye inserts                           
   nl: Ooginserts
 label_ovule:                                
@@ -259,7 +259,7 @@ label_marker:
 label_markers:                              
   en: Markers                               
   nl: Stiften
-label_comic-book:                           
+label_comic_book:                           
   en: Comic book                            
   nl: Strip
 label_comics:                               
@@ -277,10 +277,10 @@ label_tablet:
 label_tablets:                              
   en: Tablets                               
   nl: Tabletten
-label_tablet-vaginal:                       
+label_tablet_vaginal:                       
   en: Tablet vaginal                        
   nl: Tablet vaginaal
-label_tablets-vaginal:                      
+label_tablets_vaginal:                      
   en: Tablets vaginal                       
   nl: Tabletten vaginaal
 label_tube:                                 
@@ -289,10 +289,10 @@ label_tube:
 label_tubes:                                
   en: Tubes                                 
   nl: Tubes
-label_vaginal-system:                       
+label_vaginal_system:                       
   en: Vaginal system                        
   nl: Vaginaalsysteem
-label_vaginal-systems:                      
+label_vaginal_systems:                      
   en: Vaginal systems                       
   nl: Vaginaalsystemen
 label_packaging:                            
@@ -307,10 +307,10 @@ label_atomizer:
 label_atomizers:                            
   en: Atomizers                             
   nl: Verstuivers
-label_disposable-syringe:                   
+label_disposable_syringe:                   
   en: Disposable syringe                    
   nl: Wegwerpspuit
-label_disposable-syringes:                  
+label_disposable_syringes:                  
   en: Disposable syringes                   
   nl: Wegwerpspuiten
 label_zak:                                  
@@ -328,7 +328,7 @@ label_bags:
 label_suppository:                          
   en: Suppository                         
   nl: Zetpil
-label_suppositorieslabel:                   
+label_suppositories:                   
   en: Suppositoriesen                   
   nl: Zetpillen                      
 
