@@ -11,17 +11,329 @@ message_justification_price_90_days_fraction:
   nl: Prijzen per 90 dagen zijn afgerond op hele centen. De prijs per 90 dagen is in dit geval gebaseerd op {0} deel van een {1}.
   en: Prices per 90 days are rounded to whole cents. The price per 90 days in this case is based on {0} part of a {1}.
 message_justification_price_day:
-  nl: Prijzen per dag zijn afgerond op hele centen. De prijs per dag is in dit geval gebaseerd op {0} maal één {1}.
-  en: Prices per day are rounded to whole cents. The price per day in this case is based on {0} times one {1}.
+  nl: Prijzen per dag zijn afgerond op hele centen. De prijs per dag is in dit geval gebaseerd op {0} {1}.
+  en: Prices per day are rounded to whole cents. The price per day in this case is based on {0} {1}.
 message_justification_price_week:
-  nl: Prijzen per week zijn afgerond op hele centen. De prijs per week is in dit geval gebaseerd op {0} maal één {1}.
-  en: Prices per week are rounded to whole cents. The price per week in this case is based on {0} times one {1}.
+  nl: Prijzen per week zijn afgerond op hele centen. De prijs per week is in dit geval gebaseerd op {0} {1}.
+  en: Prices per week are rounded to whole cents. The price per week in this case is based on {0} {1}.
 message_justification_price_30_days:
-  nl: Prijzen per 30 dagen zijn afgerond op hele centen. De prijs per 30 dagen is in dit geval gebaseerd op {0} maal één {1}.
-  en: Prices per 30 days are rounded to whole cents. The price per 30 days in this case is based on {0} times one {1}.
+  nl: Prijzen per 30 dagen zijn afgerond op hele centen. De prijs per 30 dagen is in dit geval gebaseerd op {0} {1}.
+  en: Prices per 30 days are rounded to whole cents. The price per 30 days in this case is based on {0} {1}.
 message_justification_price_90_days:
-  nl: Prijzen per 90 dagen zijn afgerond op hele centen. De prijs per 90 dagen is in dit geval gebaseerd op {0} maal één {1}.
-  en: Prices per 90 days are rounded to whole cents. The price per 90 days in this case is based on {0} times one {1}.
+  nl: Prijzen per 90 dagen zijn afgerond op hele centen. De prijs per 90 dagen is in dit geval gebaseerd op {0} {1}.
+  en: Prices per 90 days are rounded to whole cents. The price per 90 days in this case is based on {0} {1}.
+
+# Start verpakkingsvorm
+
+label_ampoule:                              
+  en: Ampoule                               
+  nl: Ampul
+label_ampoules:                             
+  en: Ampoules                              
+  nl: Ampullen
+label_ampoule-set:                          
+  en: Ampoule set                           
+  nl: Ampul-set
+label_ampoule-sets:                         
+  en: Ampoule sets                          
+  nl: Ampul-sets
+label_applicator:                           
+  en: Applicator                            
+  nl: Applicator
+label_applicators:                          
+  en: Applicators                           
+  nl: Applicators
+label_capsule:                              
+  en: Capsule                               
+  nl: Capsule
+label_capsules:                             
+  en: Capsules                              
+  nl: Capsules
+label_capsule-vaginal:                      
+  en: Capsule vaginal                       
+  nl: Capsule vaginaal
+label_capsules-vaginal:                     
+  en: Capsules vaginal                      
+  nl: Capsules vaginaal
+label_combination-packaging:                
+  en: Combination packaging                 
+  nl: Combinatie verpakking
+label_combination-packaging:                
+  en: Combination packaging                 
+  nl: Combinatieverpakkingen
+label_cup:                                  
+  en: Cup                                   
+  nl: Cupje
+label_cups:                                 
+  en: Cups                                  
+  nl: Cupjes
+label_diskus:                               
+  en: Diskus                                
+  nl: Diskus
+label_discus:                               
+  en: Discus                                
+  nl: Diskussen
+label_dosing-pressure-packaging:            
+  en: Dosing pressure packaging             
+  nl: Doseerdrukverpakking
+label_dosing-pressure-packaging:            
+  en: Dosing pressure packaging             
+  nl: Doseerdrukverpakkingen
+label_dragee:                               
+  en: Dragee                                
+  nl: Dragee
+label_dragees:                              
+  en: Dragees                               
+  nl: Dragees
+label_pressure-packaging:                   
+  en: Pressure packaging                    
+  nl: Drukverpakking
+label_pressure-packaging:                   
+  en: Pressure packaging                    
+  nl: Drukverpakkingen
+label_drop-packaging:                       
+  en: Drop packaging                        
+  nl: Druppelverpakking
+label_drip-packs:                           
+  en: Drip packs                            
+  nl: Druppelverpakkingen
+label_flacon:                               
+  en: Flacon                                
+  nl: Flacon
+label_bottles:                              
+  en: Bottles                               
+  nl: Flacons
+label_bottle:                               
+  en: Bottle                                
+  nl: Fles
+label_bottles:                              
+  en: Bottles                               
+  nl: Flessen
+label_gram:                                 
+  en: Gram                                  
+  nl: Gram
+label_grams:                                
+  en: Grams                                 
+  nl: Grammen
+label_implant:                              
+  en: Implant                               
+  nl: Implantaat
+label_implants:                             
+  en: Implants                              
+  nl: Implantaten
+label_infusion-set:                         
+  en: Infusion set                          
+  nl: Infusie-set
+label_infusion-sets:                        
+  en: Infusion sets                         
+  nl: Infusie-sets
+label_infusion-bottle:                      
+  en: Infusion bottle                       
+  nl: Infusieflacon
+label_infusion-vials:                       
+  en: Infusion vials                        
+  nl: Infusieflacons
+label_infusion-bottle:                      
+  en: Infusion bottle                       
+  nl: Infusiefles
+label_infusion-bottles:                     
+  en: Infusion bottles                      
+  nl: Infusieflessen
+label_infusion-bag:                         
+  en: Infusion bag                          
+  nl: Infusiezak
+label_infusion-bags:                        
+  en: Infusion bags                         
+  nl: Infusiezakken
+label_infusion-bag+1p:                      
+  en: Infusion bag+1p                       
+  nl: Infusiezak+1p
+label_infusion-bags+1p:                     
+  en: Infusion bags+1p                      
+  nl: Infusiezakken+1p
+label_infusion-bag+2p:                      
+  en: Infusion bag+2p                       
+  nl: Infusiezak+2p
+label_infusion-bags+2p:                     
+  en: Infusion bags+2p                      
+  nl: Infusiezakken+2p
+label_vial:                                 
+  en: Vial                                  
+  nl: Injectieflacon
+label_vials:                                
+  en: Vials                                 
+  nl: Injectieflacons
+label_chewing-gum:                          
+  en: Chewing gum                           
+  nl: Kauwgom
+label_chewing-gum:                          
+  en: Chewing gum                           
+  nl: Kauwgom
+label_enema:                                
+  en: Enema                                 
+  nl: Klysma
+label_enema:                                
+  en: Enema                                 
+  nl: Klysmas
+label_enema-bottle:                         
+  en: Enema bottle                          
+  nl: Klysmaflacon
+label_enema-vials:                          
+  en: Enema vials                           
+  nl: Klysmaflacons
+label_lyophilisate:                         
+  en: Lyophilisate                          
+  nl: Lyophilisaat
+label_lyophilisates:                        
+  en: Lyophilisates                         
+  nl: Lyophilisaten
+label_milliliters:                          
+  en: Milliliters                           
+  nl: Milliliter
+label_milliliters:                          
+  en: Milliliters                           
+  nl: Milliliters
+label_minimum:                              
+  en: Minimum                               
+  nl: Minim
+label_minimums:                             
+  en: Minimums                              
+  nl: Minims
+label_eye-insert:                           
+  en: Eye insert                            
+  nl: Ooginsert
+label_eye-inserts:                          
+  en: Eye inserts                           
+  nl: Ooginserts
+label_ovule:                                
+  en: Ovule                                 
+  nl: Ovule
+label_ovules:                               
+  en: Ovules                                
+  nl: Ovules
+label_pastille:                             
+  en: Pastille                              
+  nl: Pastille
+label_pastilles:                            
+  en: Pastilles                             
+  nl: Pastilles
+label_pattern:                              
+  en: Pattern                               
+  nl: Patroon
+label_patterns:                             
+  en: Patterns                              
+  nl: Patronen
+label_plaster:                              
+  en: Plaster                               
+  nl: Pleister
+label_plasters:                             
+  en: Plasters                              
+  nl: Pleisters
+label_pot:                                  
+  en: Pot                                   
+  nl: Pot
+label_pots:                                 
+  en: Pots                                  
+  nl: Potten
+label_ring:                                 
+  en: Ring                                  
+  nl: Ring
+label_rings:                                
+  en: Rings                                 
+  nl: Ringen
+label_iud:                                  
+  en: IUD                                   
+  nl: Spiraaltje
+label_iuds:                                 
+  en: IUDs                                  
+  nl: Spiraaltjes
+label_stick:                                
+  en: Stick                                 
+  nl: Stick
+label_sticks:                               
+  en: Sticks                                
+  nl: Sticks
+label_marker:                               
+  en: Marker                                
+  nl: Stift
+label_markers:                              
+  en: Markers                               
+  nl: Stiften
+label_comic-book:                           
+  en: Comic book                            
+  nl: Strip
+label_comics:                               
+  en: Comics                                
+  nl: Strips
+label_piece:                                
+  en: Piece                                 
+  nl: Stuk
+label_pieces:                               
+  en: Pieces                                
+  nl: Stuks
+label_tablet:                               
+  en: Tablet                                
+  nl: Tablet
+label_tablets:                              
+  en: Tablets                               
+  nl: Tabletten
+label_tablet-vaginal:                       
+  en: Tablet vaginal                        
+  nl: Tablet vaginaal
+label_tablets-vaginal:                      
+  en: Tablets vaginal                       
+  nl: Tabletten vaginaal
+label_tube:                                 
+  en: Tube                                  
+  nl: Tube
+label_tubes:                                
+  en: Tubes                                 
+  nl: Tubes
+label_vaginal-system:                       
+  en: Vaginal system                        
+  nl: Vaginaalsysteem
+label_vaginal-systems:                      
+  en: Vaginal systems                       
+  nl: Vaginaalsystemen
+label_packaging:                            
+  en: Packaging                             
+  nl: Verpakking
+label_packaging:                            
+  en: Packaging                             
+  nl: Verpakkingen
+label_atomizer:                             
+  en: Atomizer                              
+  nl: Verstuiver
+label_atomizers:                            
+  en: Atomizers                             
+  nl: Verstuivers
+label_disposable-syringe:                   
+  en: Disposable syringe                    
+  nl: Wegwerpspuit
+label_disposable-syringes:                  
+  en: Disposable syringes                   
+  nl: Wegwerpspuiten
+label_zak:                                  
+  en: Zak                                   
+  nl: Zak
+label_bags:                                 
+  en: Bags                                  
+  nl: Zakken
+label_bag:                                  
+  en: Bag                                   
+  nl: Zakje
+label_bags:                                 
+  en: Bags                                  
+  nl: Zakjes
+label_suppository:                          
+  en: Suppository                         
+  nl: Zetpil
+label_suppositorieslabel:                   
+  en: Suppositoriesen                   
+  nl: Zetpillen                      
+
+# End verpakkingsvorm
+
 message_promo:
   nl: Help ons {0} te optimaliseren. Beantwoord enkele korte vragen.
   en: Please help us optimise {0} by answering a few short questions.
