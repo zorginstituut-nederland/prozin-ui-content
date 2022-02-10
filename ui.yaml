@@ -583,12 +583,9 @@ label_location_number:
 label_agb_code:
   nl: AGB-code
   en: AGB-code
-label_number_organisation_members_1:
-  nl: Aantal
-  en: Number of
-label_number_organisation_members_2:
-  nl: van
-  en: in
+label_organisation_members:
+  nl: Aantal <a href="{0}">gebruikers</a> van {1}
+  en: Number of <a href="{0}">users</a> in {1}
 label_organisation_type_not_selected:
   nl: Organisatie type niet geselecteerd
   en: Organisation type not selected
