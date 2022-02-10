@@ -559,6 +559,9 @@ label_indicator:
 label_organisations:
   nl: Organisaties
   en: Organisations
+label_type_of_organisation:
+  nl: Type organisatie
+  en: Type of organisation
 label_location_name:
   nl: Locatienaam
   en: Location name
@@ -568,6 +571,9 @@ label_address:
 label_postal_code:
   nl: Postcode
   en: Postal code
+label_city:
+  nl: Plaats
+  en: City
 label_kvk:
   nl: KvK
   en: KvK
@@ -577,6 +583,12 @@ label_location_number:
 label_agb_code:
   nl: AGB-code
   en: AGB-code
+label_number_organisation_members_1:
+  nl: Aantal
+  en: Number of
+label_number_organisation_members_2:
+  nl: van
+  en: in
 label_organisation_type_not_selected:
   nl: Organisatie type niet geselecteerd
   en: Organisation type not selected
