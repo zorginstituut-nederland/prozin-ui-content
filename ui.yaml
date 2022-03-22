@@ -334,6 +334,12 @@ label_suppositories:
 
 # End verpakkingsvorm
 
+label_loading:
+  nl: Laden
+  en: Loading
+label_rendering:
+  nl: Weergave
+  en: Rendering
 message_promo:
   nl: Help ons {0} te optimaliseren. Beantwoord enkele korte vragen.
   en: Please help us optimise {0} by answering a few short questions.
@@ -499,6 +505,9 @@ label_valid_from:
 label_valid_until:
   nl: Geldig tot en met  
   en: Valid until
+label_validity_end_date:
+  nl: Geldigheidseinddatum
+  en: Validity end date
 label_measure_period_start_date:
   nl: Meetperiodebegindatum
   en: Measurement period start date
@@ -553,6 +562,9 @@ label_public_data:
 label_indicators:
   nl: Indicatoren
   en: Indicators
+label_show_inactive_indicators:
+  nl: Toon inactieve indicatoren
+  en: Show inactive indicators
 label_indicator:
   nl: Indicator
   en: Indicator
@@ -919,6 +931,9 @@ label_error_code:
 label_question_wrong_address:
   nl: Verkeerd adres?
   en: Wrong address?
+label_filters:
+  nl: Filters
+  en: Filters
 label_show_filters:
   nl: Toon filters
   en: Show filters
@@ -926,11 +941,20 @@ label_hide_filters:
   nl: Verberg filters
   en: Hide filters
 label_to_search:
-  nl: "Zoeken"
-  en: "Search"
+  nl: Zoeken
+  en: Search
 label_to_delete:
-  nl: "Verwijderen"
-  en: "Delete"
+  nl: Verwijderen
+  en: Delete
+label_to_edit:
+  nl: Bewerken
+  en: Edit
+label_to_upload:
+  nl: Opladen
+  en: Upload
+label_to_download:
+  nl: Downloaden
+  en: Download
 label_publish_confirm:
   nl: Publiceren bevestigen
   en: Publish confirm
@@ -2733,6 +2757,12 @@ label_indicator_set:
 label_indicator_set_name:
   nl: Indicatorsetnaam
   en: Indicator set name
+label_inid:
+  nl: INID
+  en: INID
+label_nr:
+  nl: Nr
+  en: No
 label_organisation_name:
   nl: Zorginstituut Nederland
   en: National Health Care Institute
