@@ -580,6 +580,9 @@ label_kvk:
 label_location_number:
   nl: Vestigingsnummer
   en: Location number
+label_establishment:
+  nl: Vestiging
+  en: Location
 label_agb_code:
   nl: AGB-code
   en: AGB-code
