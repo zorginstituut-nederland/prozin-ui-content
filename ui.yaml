@@ -550,6 +550,15 @@ label_add_indicator:
 label_public_data:
   nl: Openbare data
   en: Public data
+label_isid:
+  nl: ISID
+  en: ISID
+label_year_published:
+  nl: Verslagjaar
+  en: Year published
+label_status:
+  nl: Status
+  en: State
 label_indicators:
   nl: Indicatoren
   en: Indicators
@@ -745,6 +754,9 @@ label_username:
 label_users:
   nl: Gebruikers
   en: Users
+label_user:
+  nl: Gebruiker
+  en: User
 label_favourites: 
   nl: Favorieten
   en: Favourites
