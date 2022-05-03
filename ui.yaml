@@ -4,6 +4,9 @@ label_ok:
 label_error:
   en: Error
   nl: Fout
+label_something_went_wrong:
+  nl: Er ging iets mis…
+  en: Something went wrong…
 
 message_justification_price_day_fraction:
   nl: Prijzen per dag zijn afgerond op hele centen. De prijs per dag is in dit geval gebaseerd op {0} deel van een {1}.
