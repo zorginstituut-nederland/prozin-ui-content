@@ -39,7 +39,7 @@ message_justification_price_90_days:
   nl: Prijzen per 90 dagen zijn afgerond op hele centen. De prijs per 90 dagen is in dit geval gebaseerd op {0} {1}.
   en: Prices per 90 days are rounded to whole cents. The price per 90 days in this case is based on {0} {1}.
 
-# Start verpakkingsvorm
+# Start aflevervorm
 
 label_ampoule:                              
   en: Ampoule                               
