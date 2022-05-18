@@ -380,6 +380,15 @@ label_transfer:
 label_transfer_to_odb:
   nl: Doorzetten naar ODB
   en: Transfer to ODB
+label_remove_from_odb:
+  nl: Verwijder uit ODB
+  en: Remove from ODB
+label_validation_errors_xml_structure:
+  nl: Validatiefouten in de structuur van het XML bestand
+  en: Validation errors in the structure of the XML file
+label_validation_errors_xml_data:
+  nl: Validatiefouten in de data van het XML bestand
+  en: Validation errors in the data of the XML file
 label_average:
   nl: Gemiddelde
   en: Average
@@ -3226,6 +3235,24 @@ label_newscontentdocument:
   
 
 # Messages
+message_transfer_to_odb:
+  nl: U gaat het bestand doorzetten naar de ODB.
+  en: You are about to transfer the file to the ODB.
+message_approve_data_set_delivery:
+  nl: U wilt het bestand aanbieden om op te nemen in de openbare database. Dit kunt u doen door te klikken op de knop 'Goedkeuren'.
+  en: You would like to submit the file for storage in the public database. You can do this by clicking the button ‘Approve’.
+message_data_set_lines_to_remove:
+  nl: aanleveringdataregels zullen worden verwijderd. Deze handeling is onomkeerbaar.
+  en: data set lines will be removed. This action is irreversible.
+message_no_errors_structure:
+  nl: Geen fouten gevonden in de structuur.
+  en: No errors found in the structure.
+message_no_errors_data:
+  nl: Geen fouten gevonden in de data.
+  en: No errors found in the data.
+message_remove_data_set:
+  nl: De aanlevering zal worden verwijderd. Deze handeling is onomkeerbaar.
+  en: The data set will be deleted. This action is irreversible.
 message_error_file_upload_max_file_size:
   nl: De maximale bestandsgrootte is {0} MB.
   en: The maximum file size is {0} MB.
