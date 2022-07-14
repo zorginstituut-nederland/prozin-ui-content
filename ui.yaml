@@ -389,6 +389,9 @@ label_validation_errors_xml_structure:
 label_validation_errors_xml_data:
   nl: Validatiefouten in de data van het XML bestand
   en: Validation errors in the data of the XML file
+label_landing_public_data:
+  nl: Hier vindt u de door zorgaanbieders aangeleverde kwaliteitsgegevens. De gegevens zijn onder andere bedoeld voor professionele gebruikers die deze beschikbaar maken voor hun cliënten.
+  en: Here you will find the quality data provided by healthcare providers. The data is intended, among other things, for professional users who make it available to their clients.
 label_average:
   nl: Gemiddelde
   en: Average
