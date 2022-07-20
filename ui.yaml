@@ -533,6 +533,9 @@ label_measure_period_start_date:
 label_measure_period_end_date:
   nl: Meetperiode-einddatum
   en: Measurement period end date
+label_validity_end_date:
+  nl: Geldigheidsdatum
+  en: Validity end date
 label_first_delivery_date:
   nl: Eerste aanleverdatum
   en: First delivery date
@@ -593,6 +596,9 @@ label_indicators:
 label_indicator:
   nl: Indicator
   en: Indicator
+label_show_inactive_indicators:
+  nl: Toon inactieve indicatoren
+  en: Show inactive indicators
 label_organisations:
   nl: Organisaties
   en: Organisations
@@ -962,6 +968,9 @@ label_error_code:
 label_question_wrong_address:
   nl: Verkeerd adres?
   en: Wrong address?
+label_filters:
+  nl: Filters
+  en: Filters
 label_show_filters:
   nl: Toon filters
   en: Show filters
@@ -974,6 +983,15 @@ label_to_search:
 label_to_delete:
   nl: "Verwijderen"
   en: "Delete"
+label_to_edit:
+  nl: Bewerken
+  en: Edit
+label_to_upload:
+  nl: Opladen
+  en: Upload
+label_to_download:
+  nl: Downloaden
+  en: Download
 label_publish_confirm:
   nl: Publiceren bevestigen
   en: Publish confirm
@@ -1028,6 +1046,9 @@ label_upload:
 label_upload_indicators:
   nl: Opladen indicatoren
   en: Upload indicators
+label_inid:
+  nl: INID
+  en: INID
 label_role_scanner:
   nl: Scanner
   en: Scanner
@@ -2531,6 +2552,12 @@ label_send:
 label_resend_invite:
   nl: Uitnodiging opnieuw versturen
   en: Resend invite
+label_loading:
+  nl: Laden
+  en: Loading
+label_rendering:
+  nl: Weergave
+  en: Rendering
 label_therapeutical_value_and_treatment_scheme:
   nl: Therapeutische waarde en behandelschema
   en: Therapeutical value and treatment scheme
@@ -2839,9 +2866,15 @@ label_type_of_document:
 label_type:
   nl: Type
   en: Type
+label_nr:
+  nl: false
+  en: Nr
 label_document_type:
   nl: Documenttype
   en: Document type
+label_file:
+  nl: Bestand
+  en: File
 label_pdf_file:
   nl: PDF-document
   en: PDF file
@@ -3244,6 +3277,9 @@ message_transfer_to_odb:
 message_approve_data_set_delivery:
   nl: U wilt het bestand aanbieden om op te nemen in de openbare database. Dit kunt u doen door te klikken op de knop 'Goedkeuren'.
   en: You would like to submit the file for storage in the public database. You can do this by clicking the button ‘Approve’.
+message_delete_data_set:
+  nl: De aanlevering zal worden verwijderd. Deze handeling is onomkeerbaar.
+  en: The data set will be deleted. This action is irreversible.
 message_data_set_lines_to_remove:
   nl: aanleveringdataregels zullen worden verwijderd. Deze handeling is onomkeerbaar.
   en: data set lines will be removed. This action is irreversible.
