@@ -2867,7 +2867,7 @@ label_type:
   nl: Type
   en: Type
 label_nr:
-  nl: false
+  nl: Nr
   en: Nr
 label_document_type:
   nl: Documenttype
