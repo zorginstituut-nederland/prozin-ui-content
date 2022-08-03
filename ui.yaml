@@ -428,6 +428,30 @@ label_time:
 label_main_indicator:
   nl: Hoofdindicator
   en: Main indicator
+label_sector:
+  nl: Sector
+  en: Sector
+label_data_brokers:
+  nl: Gegevensmakelaars
+  en: Data brokers
+label_select_data_brokers:
+  nl: Selecteer gegevensmakelaars die voor deze set gegevens mogen opladen
+  en: Select data brokers who are allowed to upload data for this set
+label_indicator_sets:
+  nl: Indicatorsets
+  en: Indicator sets
+label_healthcare_providers:
+  nl: Zorgaanbieders
+  en: Healthcare providers
+label_search_healthcare_providers:
+  nl: Zoek zorgaanbieders
+  en: Search healtcare providers
+label_search_indicators:
+  nl: Zoek indicatoren
+  en: Search indicators
+label_download_data_as_csv:
+  nl: Download deze data als CSV
+  en: Download this data as CSV
 label_structure:
   nl: Structuur
   en: Structure
