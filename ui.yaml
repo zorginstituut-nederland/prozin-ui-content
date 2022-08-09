@@ -42,7 +42,7 @@ message_justification_price_90_days:
   nl: Prijzen per 90 dagen zijn afgerond op hele centen. De prijs per 90 dagen is in dit geval gebaseerd op {0} {1}.
   en: Prices per 90 days are rounded to whole cents. The price per 90 days in this case is based on {0} {1}.
 
-# Start verpakkingsvorm
+# Start aflevervorm
 
 label_ampoule:                              
   en: Ampoule                               
@@ -383,6 +383,18 @@ label_transfer:
 label_transfer_to_odb:
   nl: Doorzetten naar ODB
   en: Transfer to ODB
+label_remove_from_odb:
+  nl: Verwijder uit ODB
+  en: Remove from ODB
+label_validation_errors_xml_structure:
+  nl: Validatiefouten in de structuur van het XML bestand
+  en: Validation errors in the structure of the XML file
+label_validation_errors_xml_data:
+  nl: Validatiefouten in de data van het XML bestand
+  en: Validation errors in the data of the XML file
+label_landing_public_data:
+  nl: Hier vindt u de door zorgaanbieders aangeleverde kwaliteitsgegevens. De gegevens zijn onder andere bedoeld voor professionele gebruikers die deze beschikbaar maken voor hun cliënten.
+  en: Here you will find the quality data provided by healthcare providers. The data is intended, among other things, for professional users who make it available to their clients.
 label_average:
   nl: Gemiddelde
   en: Average
@@ -419,6 +431,30 @@ label_time:
 label_main_indicator:
   nl: Hoofdindicator
   en: Main indicator
+label_sector:
+  nl: Sector
+  en: Sector
+label_data_brokers:
+  nl: Gegevensmakelaars
+  en: Data brokers
+label_select_data_brokers:
+  nl: Selecteer gegevensmakelaars die voor deze set gegevens mogen opladen
+  en: Select data brokers who are allowed to upload data for this set
+label_indicator_sets:
+  nl: Indicatorsets
+  en: Indicator sets
+label_healthcare_providers:
+  nl: Zorgaanbieders
+  en: Healthcare providers
+label_search_healthcare_providers:
+  nl: Zoek zorgaanbieders
+  en: Search healtcare providers
+label_search_indicators:
+  nl: Zoek indicatoren
+  en: Search indicators
+label_download_data_as_csv:
+  nl: Download deze data als CSV
+  en: Download this data as CSV
 label_structure:
   nl: Structuur
   en: Structure
@@ -524,6 +560,9 @@ label_measure_period_start_date:
 label_measure_period_end_date:
   nl: Meetperiode-einddatum
   en: Measurement period end date
+label_validity_end_date:
+  nl: Geldigheidsdatum
+  en: Validity end date
 label_first_delivery_date:
   nl: Eerste aanleverdatum
   en: First delivery date
@@ -584,6 +623,9 @@ label_indicators:
 label_indicator:
   nl: Indicator
   en: Indicator
+label_show_inactive_indicators:
+  nl: Toon inactieve indicatoren
+  en: Show inactive indicators
 label_organisations:
   nl: Organisaties
   en: Organisations
@@ -953,6 +995,9 @@ label_error_code:
 label_question_wrong_address:
   nl: Verkeerd adres?
   en: Wrong address?
+label_filters:
+  nl: Filters
+  en: Filters
 label_show_filters:
   nl: Toon filters
   en: Show filters
@@ -965,6 +1010,15 @@ label_to_search:
 label_to_delete:
   nl: "Verwijderen"
   en: "Delete"
+label_to_edit:
+  nl: Bewerken
+  en: Edit
+label_to_upload:
+  nl: Opladen
+  en: Upload
+label_to_download:
+  nl: Downloaden
+  en: Download
 label_publish_confirm:
   nl: Publiceren bevestigen
   en: Publish confirm
@@ -1019,6 +1073,9 @@ label_upload:
 label_upload_indicators:
   nl: Opladen indicatoren
   en: Upload indicators
+label_inid:
+  nl: INID
+  en: INID
 label_role_scanner:
   nl: Scanner
   en: Scanner
@@ -2522,6 +2579,12 @@ label_send:
 label_resend_invite:
   nl: Uitnodiging opnieuw versturen
   en: Resend invite
+label_loading:
+  nl: Laden
+  en: Loading
+label_rendering:
+  nl: Weergave
+  en: Rendering
 label_therapeutical_value_and_treatment_scheme:
   nl: Therapeutische waarde en behandelschema
   en: Therapeutical value and treatment scheme
@@ -2830,9 +2893,15 @@ label_type_of_document:
 label_type:
   nl: Type
   en: Type
+label_nr:
+  nl: Nr
+  en: Nr
 label_document_type:
   nl: Documenttype
   en: Document type
+label_file:
+  nl: Bestand
+  en: File
 label_pdf_file:
   nl: PDF-document
   en: PDF file
@@ -3229,6 +3298,27 @@ label_newscontentdocument:
   
 
 # Messages
+message_transfer_to_odb:
+  nl: U gaat het bestand doorzetten naar de ODB.
+  en: You are about to transfer the file to the ODB.
+message_approve_data_set_delivery:
+  nl: U wilt het bestand aanbieden om op te nemen in de openbare database. Dit kunt u doen door te klikken op de knop 'Goedkeuren'.
+  en: You would like to submit the file for storage in the public database. You can do this by clicking the button ‘Approve’.
+message_delete_data_set:
+  nl: De aanlevering zal worden verwijderd. Deze handeling is onomkeerbaar.
+  en: The data set will be deleted. This action is irreversible.
+message_data_set_lines_to_remove:
+  nl: aanleveringdataregels zullen worden verwijderd. Deze handeling is onomkeerbaar.
+  en: data set lines will be removed. This action is irreversible.
+message_no_errors_structure:
+  nl: Geen fouten gevonden in de structuur.
+  en: No errors found in the structure.
+message_no_errors_data:
+  nl: Geen fouten gevonden in de data.
+  en: No errors found in the data.
+message_remove_data_set:
+  nl: De aanlevering zal worden verwijderd. Deze handeling is onomkeerbaar.
+  en: The data set will be deleted. This action is irreversible.
 message_error_file_upload_max_file_size:
   nl: De maximale bestandsgrootte is {0} MB.
   en: The maximum file size is {0} MB.
