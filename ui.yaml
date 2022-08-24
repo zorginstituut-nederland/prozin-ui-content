@@ -3275,6 +3275,9 @@ label_administrator_not_selected:
 label_administrator:
   nl: Beheerder
   en: Administrator
+label_administrators:
+  nl: Beheerders
+  en: Administrators
 label_last_modified_on:
   nl: Laatst bewerkt op
   en: Last modified on 
