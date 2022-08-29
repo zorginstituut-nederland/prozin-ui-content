@@ -1,3 +1,8 @@
+
+
+label_site_update:
+  nl: Site-update
+  en: Site update
 message_minimum_search_characters:
   en: Enter at least 3 characters to be able to search.
   nl: Voer minimaal 3 karakters in om te kunnen zoeken.
