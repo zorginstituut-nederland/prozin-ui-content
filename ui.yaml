@@ -1,4 +1,6 @@
-
+label_role_within_this_application:
+  nl: Rol binnen deze applicatie
+  en: Role within this application
 
 label_site_update:
   nl: Site-update
