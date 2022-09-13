@@ -673,9 +673,9 @@ label_locations:
 label_load_next_location:
   nl: Laad de volgende locatie
   en: Load next location
-label_all_regios:
+label_all_regions:
   nl: Alle regio's
-  em: All regios
+  em: All regions
 label_article_page:
   nl: Artikel
   en: Article
