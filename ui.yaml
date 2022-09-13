@@ -667,6 +667,15 @@ label_organisation_members:
 label_organisation_type_not_selected:
   nl: Organisatie type niet geselecteerd
   en: Organisation type not selected
+label_locations:
+  nl: Locaties
+  em: Locations
+label_load_next_location:
+  nl: Laad de volgende locatie
+  en: Load next location
+label_all_regios:
+  nl: Alle regio's
+  em: All regios
 label_article_page:
   nl: Artikel
   en: Article
