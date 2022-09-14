@@ -671,13 +671,13 @@ label_organisation_type_not_selected:
   en: Organisation type not selected
 label_locations:
   nl: Locaties
-  em: Locations
+  en: Locations
 label_load_next_location:
   nl: Laad de volgende locatie
   en: Load next location
 label_all_regions:
   nl: Alle regio's
-  em: All regions
+  en: All regions
 label_article_page:
   nl: Artikel
   en: Article
@@ -909,6 +909,9 @@ label_field_name:
 label_relevance: 
   nl: Relevantie
   en: Relevance
+label_scores:
+  nl: Scores
+  en: Scores
 label_sort_by_colon: 
   nl: "Sorteren op:"
   en: "Sort by:"
