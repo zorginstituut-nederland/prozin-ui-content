@@ -917,7 +917,7 @@ label_relevance:
   en: Relevance
 label_scores:
   nl: Scores
-  en: Scores
+  en: Ratings
 label_sort_by_colon: 
   nl: "Sorteren op:"
   en: "Sort by:"
