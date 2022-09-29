@@ -614,6 +614,9 @@ label_address:
 label_postal_code:
   nl: Postcode
   en: Postal code
+label_mailing_address:
+  nl: Postadres
+  en: Mailing Address
 label_city:
   nl: Plaats
   en: City
@@ -629,6 +632,9 @@ label_establishment:
 label_agb_code:
   nl: AGB-code
   en: AGB-code
+label_vsv_name:
+  nl: VSV-naam
+  en: VSV-name
 label_organisation_members:
   nl: Aantal <a href="{0}">gebruikers</a> van {1}
   en: Number of <a href="{0}">users</a> in {1}
