@@ -1041,6 +1041,9 @@ label_to_download:
 label_publish_confirm:
   nl: Publiceren bevestigen
   en: Publish confirm
+label_publish_confirm_imp:
+  nl: Bevestig publiceren
+  en: Publish confirm
 label_i_am_sure_publish_now:
   nl: "Ik weet het zeker, publiceer nu"
   en: "I'm sure, publish now"
@@ -2826,6 +2829,9 @@ label_revert:
   nl: Herstel
   en: Revert
 label_publish:
+  nl: Publiceren
+  en: Publish
+label_publish_imp:
   nl: Publiceer
   en: Publish
 label_published:
