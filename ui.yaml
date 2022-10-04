@@ -2853,6 +2853,9 @@ label_revert:
 label_publish:
   nl: Publiceren
   en: Publish
+label_remove_reporting_year_imp:
+  nl: Verwijder verslagjaar
+  en: Remove reporting year
 label_publish_imp:
   nl: Publiceer
   en: Publish
