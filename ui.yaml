@@ -2853,6 +2853,9 @@ label_revert:
 label_publish:
   nl: Publiceren
   en: Publish
+message_publish_all_indicator_sets:
+  nl: Publiceer alle ongepubliceerde indicatorsets voor geselecteerde sectoren. 
+  en: Publish all unpublished indicator sets for selected sectors.
 label_remove_reporting_year_imp:
   nl: Verwijder verslagjaar
   en: Remove reporting year
