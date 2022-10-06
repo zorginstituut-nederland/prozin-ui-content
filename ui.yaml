@@ -670,6 +670,18 @@ label_location_name:
 label_address:
   nl: Adres
   en: Address
+label_street_name:
+  nl: Straatnaam
+  en: Street name
+label_house_number:
+  nl: Huisnummer
+  en: House name
+label_suffix:
+  nl: Toevoeging
+  en: Suffix
+label_suff:
+  nl: Toev.
+  en: Suff.
 label_postal_code:
   nl: Postcode
   en: Postal code
