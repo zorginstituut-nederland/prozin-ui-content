@@ -3109,6 +3109,12 @@ label_particularity:
 label_any_particularity:
   nl: Willekeurige bijzonderheid
   en: Any particularity
+label_voorwaarden:
+  nl: Voorwaarden
+  en: Terms and conditions
+label_reimbursed_under_conditions:
+  nl: Onder voorwaarden vergoed vanuit de basisverzekering
+  en: Reimbursed under conditions from basic insurance
 
 label_side_effects: 
   nl: Bijwerkingen
