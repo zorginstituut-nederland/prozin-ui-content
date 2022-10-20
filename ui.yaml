@@ -2347,6 +2347,9 @@ label_virale_infecties:
   nl: Virale infecties, overig
   en: Viral infections other
 
+label_hepatitis:
+  nl: Hepatitis
+  en: Hepatitis
 label_hiv:
   nl: HIV
   en: HIV
