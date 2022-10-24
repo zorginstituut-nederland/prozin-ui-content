@@ -1,3 +1,9 @@
+message_first_time_login_from_device:
+  en: You are logging in for the first time from this device. We've sent a verification code to your e-mail address. Please type or paste the code in the field below and click 'Continue'.
+  nl: U logt voor de eerste keer in vanaf dit apparaat. We hebben een verificatiecode naar uw e-mailadres gestuurd. Typ of plak de code in het onderstaande veld en klik op 'Verder'.
+  fr: Vous vous connectez pour la première fois à partir de cet appareil. Nous avons envoyé un code de vérification à votre adresse e-mail. Veuillez taper ou coller le code dans le champ ci-dessous et cliquer sur 'Continuer'.
+  de: Sie melden sich zum ersten Mal von diesem Gerät aus an. Wir haben einen Bestätigungscode an Ihre E-Mail-Adresse gesendet. Bitte geben Sie den Code in das Feld unten ein oder fügen Sie ihn ein und klicken Sie auf 'Weiter'.
+  
 label_quality_standards:
   nl: Kwaliteitsstandaarden
   en: Quality standards
@@ -3699,8 +3705,8 @@ message_password_general_error:
   nl: Het systeem is niet beschikbaar op dit moment. Probeer het later nog eens. 
   en: The system is unavailable at the moment. Please try again later. 
 message_entered_wrong_password:
-  nl: U heeft geen geldige gebruikersnaam of wachtwoord ingevoerd. Probeer het nogmaals. Lukt het inloggen niet neem dan <a class="pat-inject" href="{0}">contact op met de beheerder</a>.
-  en: You have not entered a valid username or password. Please try again. If the login still fails then please <a class="pat-inject" href="{0}">contact the administrator</a>.
+  nl: U heeft ongeldige inloggevens ingevoerd. Probeer het nogmaals. Lukt het inloggen niet neem dan <a class="pat-inject" href="{0}">contact op met de beheerder</a>.
+  en: You have entered invalid credentials. Please try again. If the login still fails then please <a class="pat-inject" href="{0}">contact the administrator</a>.
 message_verification_requests_sent:
   nl: De verificatieverzoeken zijn verstuurd.
   en: The verification requests were successfully sent.
