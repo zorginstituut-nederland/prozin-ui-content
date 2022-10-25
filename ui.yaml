@@ -1,8 +1,8 @@
 message_first_time_login_from_device:
-  en: You are logging in for the first time from this device. We've sent a verification code to your e-mail address. Please type or paste the code in the field below and click 'Continue'.
-  nl: U logt voor de eerste keer in vanaf dit apparaat. We hebben een verificatiecode naar uw e-mailadres gestuurd. Typ of plak de code in het onderstaande veld en klik op 'Verder'.
-  fr: Vous vous connectez pour la première fois à partir de cet appareil. Nous avons envoyé un code de vérification à votre adresse e-mail. Veuillez taper ou coller le code dans le champ ci-dessous et cliquer sur 'Continuer'.
-  de: Sie melden sich zum ersten Mal von diesem Gerät aus an. Wir haben einen Bestätigungscode an Ihre E-Mail-Adresse gesendet. Bitte geben Sie den Code in das Feld unten ein oder fügen Sie ihn ein und klicken Sie auf 'Weiter'.
+  en: You are logging in from an unknown device. We've sent a verification code to your e-mail address. Please type or paste the code in the field below and click 'Continue'.
+  nl: U logt in vanaf een onbekend apparaat. We hebben een verificatiecode naar uw e-mailadres gestuurd. Typ of plak de code in het onderstaande veld en klik op 'Verder'.
+  fr: Vous vous connectez depuis un appareil inconnu. Nous avons envoyé un code de vérification à votre adresse e-mail. Veuillez saisir ou coller le code dans le champ ci-dessous et cliquez sur "Continuer".
+  de: Sie melden sich von einem unbekannten Gerät aus an. Wir haben einen Bestätigungscode an Ihre E-Mail-Adresse gesendet. Bitte geben oder fügen Sie den Code in das Feld unten ein und klicken Sie auf „Weiter“.
 label_remember_device:
   nl: Onthoud dit apparaat
   en: Remember this device
