@@ -1059,9 +1059,15 @@ label_select_a_date:
 label_continue:
   en: Continue
   nl: Verder
+label_publication_date:
+  nl: Publicatiedatum
+  en: Publication date
 label_back:
   en: Back
   nl: Terug
+label_summary:
+  nl: Samenvatting
+  en: Summary
 label_deadline_new_data:
   en: Deadline for submission of new data
   nl: Uiterste inleverdatum nieuwe data
@@ -1074,6 +1080,12 @@ label_inssuficient_privileges:
 label_unauthorised:
   en: Unauthorised
   nl: Niet bevoegd
+label_author:
+  nl: Auteur
+  en: Author
+label_select_user:
+  nl: Selecteer een gebruiker
+  en: Select a user
 label_error_code:
   nl: Foutcode
   en: Error code
