@@ -711,6 +711,15 @@ label_location_number:
 label_establishment:
   nl: Vestiging
   en: Location
+label_establishments:
+  nl: Vestigingen
+  en: Locations
+message_establishments_with_public_data:
+  nl: Er is openbare data beschikbaar van de volgende vestigingen.
+  en: Public data is available for the following locations.
+message_compare_establishments_for_indicator_sets:
+  nl: U kunt de scores van bovengenoemde vestigingen ook onderling vergelijken voor de volgende indicatorset(s).
+  en: You can also compare the scores of the above locations with each other for the following indicator set(s).
 label_agb_code:
   nl: AGB-code
   en: AGB-code
