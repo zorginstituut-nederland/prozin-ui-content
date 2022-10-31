@@ -2900,6 +2900,9 @@ label_revert:
 label_publish:
   nl: Publiceren
   en: Publish
+label_publish_imp:
+  nl: Publiceer
+  en: Publish
 message_publish_all_indicator_sets:
   nl: Publiceer alle ongepubliceerde indicatorsets voor geselecteerde sectoren. 
   en: Publish all unpublished indicator sets for selected sectors.
