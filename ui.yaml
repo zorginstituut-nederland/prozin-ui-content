@@ -1,3 +1,6 @@
+label_quality_registrations:
+  en: Quality registrations
+  nl: Kwaliteitsregistraties
 message_first_time_login_from_device:
   en: You are logging in from an unknown device. We've sent a verification code to your e-mail address. Please type or paste the code in the field below and click 'Continue'.
   nl: U logt in vanaf een onbekend apparaat. We hebben een verificatiecode naar uw e-mailadres gestuurd. Typ of plak de code in het onderstaande veld en klik op 'Verder'.
