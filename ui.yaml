@@ -1,3 +1,15 @@
+label_hero_image:
+  en: Hero image
+  nl: Hoofdbeeld
+label_select_image_imp:
+  en: Select image
+  nl: Selecteer beeld
+label_select_from_image_bank_imp:
+  en: Select from image bank
+  nl: Selecteer uit beeldbank
+label_select_imp:
+  en: Select
+  nl: Selecteer
 label_editorial:
   en: Editorial
   nl: Redactioneel
