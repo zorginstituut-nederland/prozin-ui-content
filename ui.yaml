@@ -2954,6 +2954,9 @@ label_edit:
 label_new_revision:
   nl: Nieuwe revisie
   en: New revision
+label_new_version:
+  nl: Nieuwe versie
+  en: New version
 label_follow:
   nl: Volg
   en: Follow
