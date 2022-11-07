@@ -714,6 +714,9 @@ label_address:
 label_street_name:
   nl: Straatnaam
   en: Street name
+label_street_name_unknown:
+  nl: Straatnaam onbekend
+  en: Street name unknown
 label_house_number:
   nl: Huisnummer
   en: House name
