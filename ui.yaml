@@ -2695,6 +2695,9 @@ label_steal_lock:
   nl: Neem bewerken over
   en: Steal lock
 label_save:
+  nl: Bewaren
+  en: Save
+label_save_imp:
   nl: Bewaar
   en: Save
 label_save_as:
@@ -2704,6 +2707,9 @@ label_save_and_close:
   nl: Bewaar en sluit
   en: Save and close
 label_cancel:
+  nl: Annuleren
+  en: Cancel
+label_cancel_imp:
   nl: Annuleer
   en: Cancel
 label_delete:
