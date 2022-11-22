@@ -3653,6 +3653,9 @@ message_are_you_sure:
 message_thanks_for_response_we_will_contact_you:
   nl: Dankuwel voor uw reactie. Wij nemen zo spoedig mogelijk contact met u op.
   en: Thank you for your response. We will contact you as soon as possible.
+message_message_not_sent:
+  nl: Er is een fout opgetreden waardoor uw bericht niet verstuurd is. Probeert u het alstublieft later nog eens.
+  en: An error occurred and your message was not sent. Please try again later.
 message_information_location_alternative:
   nl: U kunt de informatie die u zoekt mogelijk vinden via een van de volgende paginaʼs.
   en: You may be able to find the information you are looking for through one of the following pages.
