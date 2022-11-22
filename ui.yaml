@@ -1,3 +1,9 @@
+label_image:
+  nl: Afbeelding
+  en: Image
+label_insert_imp:
+  nl: Voeg in
+  en: Insert
 message_warning_delete_image:
   nl: U staat op het punt de afbeelding ‘André van Gameren’ te verwijderen. Bestaande kopieën van de afbeelding die reeds gebruikt zijn in nieuwsberichten of anderszins, zullen blijven bestaan. Na verwijderen kan de afbeelding niet meer gebruikt worden in nieuwe contentobjecten. 
   en: You are about to delete the image 'André van Gameren'. Existing copies of the image that have already been used in news reports or otherwise will continue to exist. Once deleted, the image can no longer be used in new content objects.
