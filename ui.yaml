@@ -1,3 +1,9 @@
+label_archive_imp:
+  nl: Archiveer
+  en: Archive
+label_unarchive_imp:
+  nl: Dearchiveer
+  en: Unarchive
 label_remove_image_imp:
   nl: Verwijder beeld
   en: Remove image
@@ -2756,6 +2762,9 @@ label_new_by_manufacturers:
   nl: Nieuw van Fabrikanten
   en: New by manufacturers
 label_edit:
+  nl: Bewerken
+  en: Edit
+label_edit_imp:
   nl: Bewerk
   en: Edit
 label_all_latest_versions:
@@ -2825,6 +2834,9 @@ label_attachment:
   nl: Bijlage
   en: Attachment
 label_remove: 
+  nl: Verwijderen
+  en: Remove
+label_remove_imp: 
   nl: Verwijder
   en: Remove
 label_remove_user: 
