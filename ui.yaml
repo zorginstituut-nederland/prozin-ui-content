@@ -4,6 +4,9 @@ label_new_article:
 label_new_folder:
   nl: Nieuwe map
   en: New folder
+label_new_smart_folder:
+  nl: Nieuwe slimme map
+  en: New smart folder
 label_archive_imp:
   nl: Archiveer
   en: Archive
@@ -2851,6 +2854,15 @@ label_remove_user:
 label_drafts:
   nl: Concepten
   en: Drafts
+label_drafts_editorial:
+  nl: Concepten Redactioneel
+  en: Drafts Editorial
+label_drafts_news:
+  nl: Concepten Nieuws
+  en: Drafts News
+label_drafts_quality_registrations:
+  nl: Concepten Kwaliteitsregistraties
+  en: Drafts Quality registrations
 label_start_pipeline_request:
   nl: Start uitvraag
   en: Start request
