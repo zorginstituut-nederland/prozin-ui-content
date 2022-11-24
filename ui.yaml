@@ -1,3 +1,9 @@
+message_remove_indicator:
+  nl: U staat op het punt de indicator {0} te verwijderen. 
+  en: You are about to delete the indicator {0}.
+message_remove_indicator_irreversable:
+  nl: U staat op het punt de indicator {0} te verwijderen. Deze handeling is onomkeerbaar. This action is irreversible.
+  en: You are about to delete the indicator {0}.
 label_new_article:
   nl: Nieuwe artikelpagina
   en: New article
