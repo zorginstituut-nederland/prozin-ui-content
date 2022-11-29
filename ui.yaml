@@ -1,3 +1,22 @@
+label_description_link_text:
+  nl: Beschrijving van de pagina voor het optimaliseren van zoekresultaten (Optioneel)
+  en: Description of the page for optimisation of search results (Optional)
+label_link_text:
+  nl: Gekoppeld teksfragment
+  en: Linked text fragment
+label_page:
+  nl: Pagina
+  en: Page
+label_insert_imp:
+  nl: Voeg in
+  en: Insert
+  fr: Insérer
+  de: Einfügen
+label_hyperlink:
+  nl: Hyperlink
+  en: Hyperlink
+  de: Hyperlink
+  fr: Lien hypertexte
 message_no_indicator_sets_in_sector:
   nl: Er zijn geen indicatorsets voor deze sector.
   en: There are no indicator sets for this sector.
