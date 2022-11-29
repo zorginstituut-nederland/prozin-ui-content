@@ -1,15 +1,15 @@
 message_remove_indicator:
-  nl: U staat op het punt de indicator {0} te verwijderen. 
-  en: You are about to delete the indicator {0}.
+  nl: U staat op het punt de indicator '{0}' te verwijderen.
+  en: You are about to delete the indicator '{0}'.
 message_remove_indicator_irreversable:
-  nl: U staat op het punt de indicator {0} te verwijderen. Deze handeling is onomkeerbaar.
-  en: You are about to delete the indicator {0}. This action is irreversible.
+  nl: U staat op het punt de indicator '{0}' te verwijderen. Deze handeling is onomkeerbaar.
+  en: You are about to delete the indicator '{0}'. This action is irreversible.
 message_remove_indicator_failed_odb:
-  nl: De indicator ${0} kan niet worden verwijderd, vanwege bijbehorende aanleveringgegevens in de ODB.
-  en: The indicator ${0} cannot be deleted, because of associated publication data in the ODB.
+  nl: De indicator '{0}' kan niet worden verwijderd, vanwege bijbehorende aanleveringgegevens in de ODB.
+  en: The indicator '{0}' cannot be deleted, because of associated publication data in the ODB.
 message_new_reporting_year:
-  nl: Als u verder gaat, zal het verslagjaar ${0} aangemaakt worden. Dit verslagjaar zal een kopie bevatten van elke indicatorset van verslagjaar ${1}.
-  en: If you continue, the reporting year ${0} will be created. This reporting year will contain a copy of each indicatorset from reporting year ${1}.
+  nl: Als u verder gaat, zal het verslagjaar {0} aangemaakt worden. Dit verslagjaar zal een kopie bevatten van elke indicatorset van verslagjaar {1}.
+  en: If you continue, the reporting year {0} will be created. This reporting year will contain a copy of each indicatorset from reporting year {1}.
 label_new_article:
   nl: Nieuwe artikelpagina
   en: New article
