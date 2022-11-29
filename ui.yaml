@@ -3008,6 +3008,9 @@ label_notes:
 label_version:
   nl: Versie
   en: Version
+label_new:
+  nl: Nieuw
+  en: New
 label_options:
   nl: Opties
   en: Options
