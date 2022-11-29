@@ -1,3 +1,9 @@
+message_no_indicator_sets_in_sector:
+  nl: Er zijn geen indicatorsets voor deze sector.
+  en: There are no indicator sets for this sector.
+message_no_results_for_search_query:
+  nl: Er zijn geen resultaten die voldoen aan uw zoekopdracht.
+  en: There are no results matching your search.
 message_remove_indicator:
   nl: U staat op het punt de indicator {0} te verwijderen. 
   en: You are about to delete the indicator {0}.
