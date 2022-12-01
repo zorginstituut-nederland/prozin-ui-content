@@ -1,3 +1,9 @@
+label_new_image:
+  en: New image
+  nl: Nieuwe afbeelding
+label_pin_on_top_of_overviews:
+  nl: Zet dit document vast bovenaan de overzichten
+  en: Pin this item to the top of overviews
 label_pinning:
   nl: Vastzetten
   en: Pinning
@@ -871,6 +877,9 @@ label_newsletter_archive:
 label_newsletter:
   nl: Nieuwsbrief
   en: Newsletter
+label_include_in_periodical:
+  nl: Neem op in periodiek
+  en: Include in periodical
 label_news_flash:
   nl: Nieuwsflits
   en: News flash
@@ -2515,6 +2524,9 @@ label_other_information:
 label_sources:
   nl: Bronnen
   en: References
+label_source:
+  nl: Bron
+  en: Source
 label_dosage_per_administration:
   nl: Dosis per toediening
   en: Dosage per administration
