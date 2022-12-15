@@ -1,3 +1,21 @@
+label_remove_this_language:
+  en: Remove this language
+  nl: Verwijder deze taal
+  de: Diese Sprache entfernen
+  fr: Supprimer cette langue
+label_current_one:
+  en: Current
+  nl: Huidige
+message_remove_a_language:
+  en: You are about to remove the following version of this article.
+  nl: U staat op het punt om de volgende taalversie van dit artikel te verwijderen.
+  de: Sie sind im Begriff, die folgende Version dieses Artikels zu entfernen.
+  fr: Vous êtes sur le point de supprimer la version suivante de cet article.
+label_add_language:
+  en: Add a language
+  nl: Voeg een taal toe
+  de: Sprache hinzufügen
+  fr: Ajouter une langue
 label_new_image:
   en: New image
   nl: Nieuwe afbeelding
