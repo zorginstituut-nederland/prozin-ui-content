@@ -16,6 +16,9 @@ label_add_language:
   nl: Voeg een taal toe
   de: Sprache hinzufügen
   fr: Ajouter une langue
+label_add_a_document:
+  en: Add a document
+  nl: Voeg een document toe
 label_add_imp:
   en: Add
   nl: Voeg toe
