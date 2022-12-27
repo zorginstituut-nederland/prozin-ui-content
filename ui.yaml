@@ -1,3 +1,9 @@
+label_add_link_imp:
+  en: Add link
+  nl: Voeg koppeling toe
+label_general:
+  en: General
+  nl: Algemeen
 label_remove_this_language:
   en: Remove this language
   nl: Verwijder deze taal
@@ -3176,6 +3182,9 @@ label_all_indications:
 label_news_article:
   nl: Nieuwsbericht
   en: News article
+label_news_articles:
+  nl: Nieuwsberichten
+  en: News articles
 label_more_news:
   nl: Meer nieuws
   en: More news
@@ -3499,8 +3508,11 @@ label_see_also:
   nl: Zie ook
   en: See also
 label_external_links:
-  nl: Externe links
+  nl: Externe koppelingen
   en: External links
+label_external_link:
+  nl: Externe koppeling
+  en: External link
 label_contact:
   nl: Contact
   en: Contact
