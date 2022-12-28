@@ -676,8 +676,15 @@ label_approve_delivery:
   nl: Aanlevering goedkeuren
   en: Approve delivery
 label_close:
-  nl: Sluit
+  de: Schließen
   en: Close
+  fr: Fermer
+  nl: Sluiten
+label_close_imp:
+  de: Schließen
+  en: Close
+  fr: Fermer
+  nl: Sluit
 label_validation_result:
   nl: Validatieresultaat
   en: Validation result
