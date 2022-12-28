@@ -1,3 +1,6 @@
+message_all_is_in_review_or_published:
+  en: Everything is under review or published. 
+  nl: Alles is in beoordeling of gepubliceerd.    
 label_add_link_imp:
   en: Add link
   nl: Voeg koppeling toe
