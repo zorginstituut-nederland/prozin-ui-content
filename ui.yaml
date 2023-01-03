@@ -3031,6 +3031,9 @@ label_to_review:
 label_for_verification:
   nl: Ter beoordeling
   en: For verification
+label_for_review:
+  nl: Ter beoordeling
+  en: For review
 label_for_review_by_manufacturer:
   nl: Ter beoordeling door fabrikant
   en: For verification by manufacturer
