@@ -1,3 +1,6 @@
+label_submit_for_review_imp: 
+  nl: Dien in ter beoordeling
+  en: Submit for review
 message_nothing_for_review:
   nl: Er hoeft op dit moment niets beoordeeld te worden.
   en: There is nothing to review at this time.
@@ -647,6 +650,9 @@ label_indicator_sets:
 label_healthcare_providers:
   nl: Zorgaanbieders
   en: Healthcare providers
+label_healthcare_provider:
+  nl: Zorgaanbieder
+  en: Healthcare provider
 label_search_healthcare_providers:
   nl: Zoek zorgaanbieders
   en: Search healtcare providers
