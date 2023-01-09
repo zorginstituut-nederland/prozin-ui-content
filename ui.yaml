@@ -1,9 +1,15 @@
+label_caption:
+  en: Caption
+  nl: Onderschrift
 label_transcript:
   en: Transcript
   nl: Uitgeschreven tekst
-label_header_above_block:
-  nl: Een kop voor boven deze inhoud (optioneel)
-  en: A header to be displayed above this content (optional)
+message_caption_optional:
+  nl: Een onderschrift voor deze inhoud (optioneel).
+  en: A caption for this content (optional).
+message_header_above_block:
+  nl: Een kop voor boven deze inhoud (optioneel).
+  en: A header to be displayed above this content (optional).
 label_header:
   nl: Kop
   en: Header
