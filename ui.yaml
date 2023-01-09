@@ -1,3 +1,6 @@
+message_write_pate_video_transcript:
+ nl: Schrijf of plak het transcript van de video hier.
+ en: Write or paste the transcript of this video here.
 label_submit_for_review_imp: 
   nl: Dien in ter beoordeling
   en: Submit for review
@@ -111,9 +114,15 @@ label_unarchive_imp:
 label_remove_image_imp:
   nl: Verwijder beeld
   en: Remove image
+label_remove_video_imp:
+  nl: Verwijder video
+  en: Remove video
 label_image:
   nl: Afbeelding
   en: Image
+label_video:
+  nl: Video
+  en: Video
 label_insert_imp:
   nl: Voeg in
   en: Insert
