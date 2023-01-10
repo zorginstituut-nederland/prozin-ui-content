@@ -16,6 +16,12 @@ message_header_above_block:
 label_header:
   nl: Kop
   en: Header
+label_show_header:
+  nl: Toon kop
+  en: Show header
+label_edit_header:
+  nl: Bewerk kop
+  en: Edit header
 message_write_pate_video_transcript:
  nl: Schrijf of plak hier de uitgeschreven tekst van de video.
  en: Write or paste the transcript of this video here.
@@ -3308,6 +3314,9 @@ label_manufacturer:
 label_toc:
   nl: Inhoudsopgave
   en: Table of contents
+label_show_toc:
+  nl: Toon inhoudsopgave
+  en: Show table of contents
 label_logout:
   nl: Uitloggen
   en: Logout
