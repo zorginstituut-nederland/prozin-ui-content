@@ -1,6 +1,3 @@
-label_expand_all_sections:
-  nl: Vouw alle secties op
-  en: Expand all sections
 label_collapse_all_sections:
   nl: Vouw alle secties dicht
   en: Collapse all sections
@@ -1081,7 +1078,7 @@ label_keep_all_sections_expanded:
   nl: Houd alle secties opengeklapt
   en: Keep all sections expanded
 label_expand_all_sections:
-  nl: Klap alle secties open
+  nl: Vouw alle secties open
   en: Expand all sections
 label_show_more:
   nl: Toon meer
