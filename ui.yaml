@@ -1,3 +1,9 @@
+label_add_section_imp:
+  nl: Voeg sectie toe
+  en: Add section
+label_add_section:
+  nl: Sectie toevoegen
+  en: Add section
 label_rename_imp:
   nl: Hernoem
   en: Rename
