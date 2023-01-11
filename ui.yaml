@@ -1,3 +1,9 @@
+label_expand_all_sections:
+  nl: Vouw alle secties op
+  en: Expand all sections
+label_collapse_all_sections:
+  nl: Vouw alle secties dicht
+  en: Collapse all sections
 message_help_hero_image:
   nl: Zorg dat het hoofdbeeld voldoende groot is, liefst minimaal zo'n 1500 pixels breed. Een goed hoofdbeeld is puur fotografisch, niet samen gesteld uit meerdere beelden en heeft geen grafische elementen in zich zoals tekst. Zorg dat belangrijke onderdelen van het beeld, zoals gezichten, zich in het midden van het beeld bevinden. Dat voorkomt problemen bij automatische uitsnedes. 
   en: Make sure the main image is large enough. Preferably at least about 1500 pixels wide. A good main image is purely photographic, not composed of multiple images and has no graphic elements such as text. Make sure that important parts of the image, such as faces, are in the center of the frame. This prevents problems with automatic cropping.
