@@ -1,3 +1,9 @@
+label_apply_imp:
+  nl: Pas toe
+  en: Apply
+label_apply:
+  nl: Toepassen
+  en: Apply
 label_your_content_goes_here_ell:
   nl: Schrijf of plaats hier uw inhoud…
   en: Your content goes here…
@@ -9,6 +15,9 @@ label_collapse_all_sections:
   en: Collapse all sections
 label_arrange_sections_imp:
   nl: Orden secties
+  en: Arrange sections
+label_arrange_sections:
+  nl: Secties ordenen
   en: Arrange sections
 message_help_hero_image:
   nl: Zorg dat het hoofdbeeld voldoende groot is, liefst minimaal zo'n 1500 pixels breed. Een goed hoofdbeeld is puur fotografisch, niet samen gesteld uit meerdere beelden en heeft geen grafische elementen in zich zoals tekst. Zorg dat belangrijke onderdelen van het beeld, zoals gezichten, zich in het midden van het beeld bevinden. Dat voorkomt problemen bij automatische uitsnedes. 
