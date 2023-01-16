@@ -31,6 +31,12 @@ label_metadata:
 label_add_section_imp:
   nl: Voeg sectie toe
   en: Add section
+label_show_section_header:
+  nl: Toon sectienaam boven inhoud
+  en: Show section name above content
+label_section_name:
+  nl: Sectienaam
+  en: Section name
 label_add_section:
   nl: Sectie toevoegen
   en: Add section
