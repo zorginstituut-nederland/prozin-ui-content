@@ -99,6 +99,11 @@ message_nothing_for_review:
   en: There is nothing to review at this time.
   fr: Il n'y a rien à revoir pour le moment.
   it: Non c'è niente da rivedere in questo momento.
+message_nothing_for_revision:
+  nl: Er hoeft op dit moment niets herzien te worden.
+  en: There is nothing to revise at this time.
+  fr: Il n'y a rien à réviser pour le moment.
+  it: Non c'è nulla da rivedere in questo momento.
 message_all_is_in_review_or_published:
   en: Everything is under review or published. 
   nl: Alles is in beoordeling of gepubliceerd.    
