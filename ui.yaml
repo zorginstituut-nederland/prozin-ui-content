@@ -1467,9 +1467,15 @@ label_inid:
 label_role_scanner:
   nl: Scanner
   en: Scanner
+label_working_group: 
+  nl: Werkgroep
+  en: Workgroup
+label_working_groups: 
+  nl: Werkgroepen
+  en: Workgroups
 label_role_werkgroeplid:
   nl: Werkgroeplid
-  en: Workgroup member
+  en: Working group member
 label_role_lezer:
   nl: Lezer
   en: Bystander
