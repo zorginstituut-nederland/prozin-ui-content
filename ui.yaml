@@ -1,6 +1,6 @@
 label_x_stars:
-  nl: ${stars} Sterren
-  en: ${stars} Stars
+  nl: "{0} van {1} Sterren"
+  en: "{0} out of {1} Stars"
 label_for_revision:
   nl: Te herzien
   en: For revision
