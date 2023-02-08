@@ -1,3 +1,6 @@
+label_x_stars:
+  nl: ${stars} Sterren
+  en: ${stars} Stars
 label_for_revision:
   nl: Te herzien
   en: For revision
