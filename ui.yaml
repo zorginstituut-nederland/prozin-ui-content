@@ -990,6 +990,9 @@ label_kvk:
 label_location_number:
   nl: Vestigingsnummer
   en: Location number
+label_location_agb_code:
+  nl: Vestigings-AGB-code
+  en: Location AGB-code
 label_establishment:
   nl: Vestiging
   en: Location
@@ -1005,6 +1008,9 @@ message_compare_establishments_for_indicator_sets:
 label_agb_code:
   nl: AGB-code
   en: AGB-code
+label_agb_codes:
+  nl: AGB-code(s)
+  en: AGB-code(s)
 label_vsv_name:
   nl: VSV-naam
   en: VSV-name
