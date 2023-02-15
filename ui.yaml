@@ -5,8 +5,11 @@ label_for_revision:
   nl: Te herzien
   en: For revision
 label_bookmarked:
-  nl: Bladwijzers
+  nl: Met bladwijzer gemarkeerd
   en: Bookmarked
+label_bookmarks:
+  nl: Bladwijzers
+  en: Bookmarks
 label_apply_imp:
   nl: Pas toe
   en: Apply
