@@ -1,3 +1,6 @@
+label_personal_space:
+  nl: Persoonlijke ruimte
+  en: Personal space
 label_x_stars:
   nl: "{0} van {1} Sterren"
   en: "{0} out of {1} Stars"
@@ -154,6 +157,9 @@ label_pin_on_top_of_overviews:
 label_pinning:
   nl: Vastzetten
   en: Pinning
+label_dashboard: 
+  nl: Dashboard
+  en: Dashboard
 
 message_landing_quality_registration:
   nl: Dit is het Register Kwaliteitsregistraties. Dit register biedt een overzicht van kwaliteitsregistraties.
