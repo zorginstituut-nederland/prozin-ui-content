@@ -3783,7 +3783,7 @@ label_newscontentdocument:
 
 # Messages
 message_help_presentation_upload:
-  nl: De presentatie dient in HTML-formaat te zijn die is gecomprimeerd als ZIP-bestand. De indexpagina van de presentatie dient altijd ‘index.html’ te heten.
+  nl: De presentatie dient in HTML-formaat te zijn en gecomprimeerd te zijn als ZIP-bestand. De indexpagina van de presentatie dient altijd ‘index.html’ te heten.
   en: The presentation must be in HTML format and compressed as a ZIP file. The index page of the presentation should always be called ‘index.html’.
 message_transfer_to_odb:
   nl: U gaat het bestand doorzetten naar de ODB.
