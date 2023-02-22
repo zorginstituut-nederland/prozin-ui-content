@@ -225,6 +225,9 @@ label_remove_image_imp:
 label_remove_video_imp:
   nl: Verwijder video
   en: Remove video
+label_remove_presentation_imp:
+  nl: Verwijder presentatie
+  en: Remove presentation
 label_image:
   nl: Afbeelding
   en: Image
