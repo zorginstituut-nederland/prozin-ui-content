@@ -3765,6 +3765,12 @@ label_unsubscribed:
 label_subscribe:
   nl: Abonneer
   en: Subscribe
+label_optimal_width_in_pixels:
+  nl: Optimale breedte in pixels
+  en: Optimal width in pixels
+label_optimal_height_in_pixels:
+  nl: Optimale hoogte in pixels
+  en: Optimal height in pixels
 
 # Labels for documenttypes in Bloomreach
 label_newscontentdocument:
@@ -3773,6 +3779,9 @@ label_newscontentdocument:
   
 
 # Messages
+message_help_presentation_upload:
+  nl: De presentatie dient in HTML-formaat te zijn die is gecomprimeerd als ZIP-bestand. De indexpagina van de presentatie dient altijd ‘index.html’ te heten.
+  en: The presentation must be in HTML format and compressed as a ZIP file. The index page of the presentation should always be called ‘index.html’.
 message_transfer_to_odb:
   nl: U gaat het bestand doorzetten naar de ODB.
   en: You are about to transfer the file to the ODB.
