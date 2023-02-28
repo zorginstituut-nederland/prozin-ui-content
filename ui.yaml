@@ -341,6 +341,16 @@ label_all_news_for_this_sector:
   nl: Alle nieuws voor deze sector
   en: All news for this sector
 
+label_average_price_per_treatment:
+  nl: Gemiddelde prijs per behandeling
+  en: Average price per treatment
+snippet_per_treatment:
+  nl: per behandeling
+  en: per treatment
+snippet_per_pack:
+  nl: per verpakking
+  en: per pack
+
 message_justification_price_day_fraction:
   nl: Prijzen per dag zijn afgerond op hele centen. De prijs per dag is in dit geval gebaseerd op {0} deel van een {1}.
   en: Prices per day are rounded to whole cents. The price per day in this case is based on {0} part of a {1}.
