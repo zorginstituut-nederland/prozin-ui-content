@@ -3501,9 +3501,15 @@ label_any_particularity:
 label_voorwaarden:
   nl: Voorwaarden
   en: Terms and conditions
+snippet_conditions:
+  nl: voorwaarden
+  en: conditions
 label_reimbursed_under_conditions:
   nl: Onder voorwaarden vergoed vanuit de basisverzekering
   en: Reimbursed under conditions from basic insurance
+message_medicine_reimbursed_under_conditions:
+  nl: Dit middel wordt onder {0} vergoed door uw zorgverzekeraar.
+  en: This medicine is reimbursed by your health insurer under certain {0}.
 
 label_side_effects: 
   nl: Bijwerkingen
