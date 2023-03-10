@@ -3790,14 +3790,21 @@ label_optimal_width_in_pixels:
 label_optimal_height_in_pixels:
   nl: Optimale hoogte in pixels
   en: Optimal height in pixels
-
+label_latest_full_scan:
+  nl: Laatste volledige scan
+  en: Latest full scan
 # Labels for documenttypes in Bloomreach
 label_newscontentdocument:
  nl: Nieuwsbericht
  en: News article
-  
 
 # Messages
+message_latest_scan_overview:
+  nl: Overzicht van toekomstige innovatieve geneesmiddelen en verwachte indicatie-uitbreidingen voor alle domeinen.
+  en: Overview of future innovative medicines and expected indication extensions for all domains.
+message_about_horizonscan:
+  nl: Onze inhoudelijke werkgroepen spelen een belangrijke rol in het proces van de Horizonscan voor geneesmiddelen.
+  en: Our substantive working groups play an important role in the process of the Horizon Scan for Medicines.
 message_help_presentation_upload:
   nl: De presentatie dient in HTML-formaat te zijn en gecomprimeerd te zijn als ZIP-bestand. De indexpagina van de presentatie dient altijd ‘index.html’ te heten.
   en: The presentation must be in HTML format and compressed as a ZIP file. The index page of the presentation should always be called ‘index.html’.
