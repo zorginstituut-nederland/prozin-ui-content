@@ -1039,6 +1039,9 @@ label_vsv_name:
 label_organisation_members:
   nl: Aantal <a href="{0}">gebruikers</a> van {1}
   en: Number of <a href="{0}">users</a> in {1}
+label_organisation_members_0:
+  nl: Aantal gebruikers van {0}
+  en: Number users in {0}
 label_organisation_type_not_selected:
   nl: Organisatie type niet geselecteerd
   en: Organisation type not selected
@@ -3793,6 +3796,7 @@ label_optimal_height_in_pixels:
 label_latest_full_scan:
   nl: Laatste volledige scan
   en: Latest full scan
+
 # Labels for documenttypes in Bloomreach
 label_newscontentdocument:
  nl: Nieuwsbericht
