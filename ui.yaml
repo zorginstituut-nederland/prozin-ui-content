@@ -302,6 +302,12 @@ label_measuring_instruments:
 label_reporting_year:
   nl: Verslagjaar
   en: Reporting year
+label_selected_reports:
+  nl: Uitgelichte rapportages
+  en: Selected reports
+label_reports:
+  nl: Rapportages
+  en: Reports
 label_new_reporting_year:
   nl: Nieuw verslagjaar
   en: New reporting year
