@@ -1219,6 +1219,9 @@ label_users:
 label_user:
   nl: Gebruiker
   en: User
+label_faq:
+  nl: Veelgestelde vragen
+  en: FAQ
 label_favourites: 
   nl: Favorieten
   en: Favourites
