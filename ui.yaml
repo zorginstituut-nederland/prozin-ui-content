@@ -3796,6 +3796,9 @@ label_optimal_height_in_pixels:
 label_latest_full_scan:
   nl: Laatste volledige scan
   en: Latest full scan
+label_full_scans:
+  nl: Volledige scans
+  en: Full scans
 
 # Labels for documenttypes in Bloomreach
 label_newscontentdocument:
