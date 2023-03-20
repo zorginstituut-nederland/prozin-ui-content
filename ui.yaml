@@ -1,3 +1,21 @@
+label_glossary:
+  nl: Begrippenlijst
+  en: Glossary
+label_local_concepts:
+  nl: Lokale begrippen
+  en: Local concepts
+label_concepts:
+  nl: Begrippen
+  en: Concepts
+label_concept:
+  nl: Begrip
+  en: Concept
+label_new_concept:
+  nl: Nieuw begrip
+  en: New concept
+label_new_glossary:
+  nl: Nieuwe begrippenlijst
+  en: New glossary
 label_personal_space:
   nl: Persoonlijke ruimte
   en: Personal space
@@ -181,6 +199,9 @@ label_insert_imp:
   en: Insert
   fr: Insérer
   de: Einfügen
+label_settings:
+  nl: Instellingen
+  en: Settings
 label_hyperlink:
   nl: Koppeling
   en: Hyperlink
