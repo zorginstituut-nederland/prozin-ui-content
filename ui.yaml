@@ -37,6 +37,9 @@ label_for_revision:
 label_bookmarked:
   nl: Met bladwijzer gemarkeerd
   en: Bookmarked
+message_no_bookmarks:
+  nl: U heeft geen pagina's met een bladwijzer gemarkeerd.
+  en: U have not bookmarked any pages.
 label_bookmarks:
   nl: Bladwijzers
   en: Bookmarks
