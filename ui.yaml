@@ -1,6 +1,57 @@
+label_hospital:
+  nl: Ziekenhuis
+  en: Hospital
+label_hospitals:
+  nl: Ziekenhuizen
+  en: Hospitals
+label_chemist:
+  en: Chemist
+  nl: Apotheker
+label_chemists:
+  en: Chemists
+  nl: Apothekers
 label_featured:
   nl: Uitgelicht
   en: Featured
+label_gp_practice:
+  en: GP practice
+  nl: Huisartsenpraktijk
+label_gp_practices:
+  en: GP practices
+  nl: Huisartsenpraktijken
+label_general_practitioner:
+  en: General practitioner
+  nl: Huisarts
+label_general_practitioners:
+  en: General practitioners
+  nl: Huisartsen
+label_health_insurer:
+  en: Health insurer
+  nl: Zorgverzekeraar
+label_health_insurers:
+  en: Health insurers
+  nl: Zorgverzekeraars
+label_health_insurerance:
+  en: Health insurance
+  nl: Zorgverzekering
+label_zbo:
+  en: ZBO
+  nl: ZBO
+label_zbos:
+  en: ZBOs
+  nl: ZBOʼs
+label_care:
+  en: Care
+  nl: Zorg
+label_patient_organisation:
+  en: Patient organisation
+  nl: Patiëntorganisatie
+label_patient_organisations:
+  en: Patient organisations
+  nl: Patiëntorganisaties
+label_undefined:
+  nl: Ongedefinieerd
+  en: Undefined
 label_synonyms:
   nl: Synoniemen
   en: Synonyms
@@ -810,6 +861,12 @@ label_main_indicator:
 label_sector:
   nl: Sector
   en: Sector
+label_ministery:
+  nl: Ministerie
+  en: Ministery
+label_data_broker:
+  nl: Gegevensmakelaar
+  en: Data broker
 label_data_brokers:
   nl: Gegevensmakelaars
   en: Data brokers
@@ -2559,7 +2616,12 @@ label_overige_niet-oncologische_hematologische_medicatie:
 label_trombose:
   en: Thrombosis
   nl: Trombose
-
+label_all_noun:
+  nl: Alles
+  en: All
+label_all_adv:
+  nl: Alle
+  en: All
 label_all:
   nl: ALL
   en: ALL
@@ -2877,6 +2939,10 @@ label_biosimilars_and_generics:
 label_current_brand_name:
   nl: Huidig specialité
   en: Current proprietary name
+label_branch_organisation:
+  en: Branch organisation
+  nl: Branche-organisatie
+
 label_ja:
   nl: Ja
   en: 'Yes'
@@ -3056,6 +3122,9 @@ label_delete:
   nl: Verwijder
   en: Delete
 label_send:
+  nl: Versturen
+  en: Send
+label_send_imp:
   nl: Verstuur
   en: Send
 label_resend_invite:
@@ -3369,6 +3438,12 @@ label_mandatory_fields:
 label_send:
   nl: Verstuur
   en: Send
+label_management_organisation:
+  nl: Beheerorganisatie
+  en: Management organisation
+label_professional_organisation:
+  nl: Beroepsorganisatie
+  en: Professional organisation
 label_professional:
   nl: Beroepsmatig
   en: Professional
