@@ -1,3 +1,15 @@
+label_steal_lock_confirmative:
+  nl: Ja, neem bewerken over
+  en: Yes, steal lock
+label_steal_lock:
+  nl: Bewerken overnemen
+  en: Steal lock
+label_steal_lock_imp:
+  nl: Neem bewerken over
+  en: Steal lock
+message_steal_lock:
+  nl: Als u verder gaat wordt neemt u het bewerken van dit document over van {0}. Eventuele wijzigingen die {0} aangebracht, maar niet opgeslagen heeft, zullen verloren gaan. 
+  en: If you continue, you will take over the editing of this document from {0}. Any changes that {0} has made but not saved will be lost.
 label_hospital:
   nl: Ziekenhuis
   en: Hospital
@@ -4180,8 +4192,8 @@ message_help_additional_comments:
   nl: Zijn er nog overige algemene opmerkingen?
   en: Are there any other general comments?
 message_document_being_edited_by_other_user:
-  nl: 'Dit document wordt momenteel bewerkt door gebruiker &apos;<strong>maria065</strong>&apos;.'
-  en: 'This document is currently being edited by user &apos;<strong>maria065</strong>&apos;.'
+  nl: 'Dit document wordt momenteel bewerkt door gebruiker &apos;<strong>{0}</strong>&apos;.'
+  en: 'This document is currently being edited by user &apos;<strong>{0}</strong>&apos;.'
 message_the_request_for_pipeline_was_sent_successfully:
   nl: De uitvraag is verstuurd.
   en: The request for pipeline was sent succesfully.
