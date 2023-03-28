@@ -57,10 +57,10 @@ label_care:
   nl: Zorg
 label_patient_organisation:
   en: Patient organisation
-  nl: Patiëntorganisatie
+  nl: Patiëntenorganisatie
 label_patient_organisations:
   en: Patient organisations
-  nl: Patiëntorganisaties
+  nl: Patiëntenorganisaties
 label_undefined:
   nl: Ongedefinieerd
   en: Undefined
@@ -876,6 +876,9 @@ label_sector:
 label_ministery:
   nl: Ministerie
   en: Ministery
+label_ministeries:
+  nl: Ministeries
+  en: Ministeries
 label_data_broker:
   nl: Gegevensmakelaar
   en: Data broker
@@ -1201,6 +1204,9 @@ label_information_model:
 label_consultant:
   nl: Consulent
   en: Consultant
+label_consultants:
+  nl: Consulenten
+  en: Consultants
 label_organisation_type:
   nl: Organisatietype
   en: Type of organisation
@@ -3453,9 +3459,15 @@ label_send:
 label_management_organisation:
   nl: Beheerorganisatie
   en: Management organisation
+label_management_organisations:
+  nl: Beheerorganisaties
+  en: Management organisations
 label_professional_organisation:
   nl: Beroepsorganisatie
   en: Professional organisation
+label_professional_organisations:
+  nl: Beroepsorganisaties
+  en: Professional organisations
 label_professional:
   nl: Beroepsmatig
   en: Professional
