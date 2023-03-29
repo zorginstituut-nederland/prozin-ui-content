@@ -1,3 +1,18 @@
+message_nothing_for_this_workflow_state:
+  en: There are no documents with this workflow state.
+  nl: Er zijn geen documenten in deze werkstroomstaat.
+label_first_editorial:
+  en: First editorial
+  nl: Eerste redactie
+label_second_editorial:
+  en: Second editorial
+  nl: Tweede redactie
+label_editorial_office:
+  en: Editorial office
+  nl: Bureauredactie
+label_final_editing:
+  en: Final editing
+  nl: Eindredactie
 label_hospital:
   nl: Ziekenhuis
   en: Hospital
