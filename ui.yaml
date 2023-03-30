@@ -1192,6 +1192,9 @@ label_article_page:
 label_release:
   nl: Release
   en: Release
+label_releases:
+  nl: Releases
+  en: Releases
 label_then_subscribe_to_our_newsletters:
   nl: Abonneert u zich dan op onze nieuwsbrieven
   en: Then please subscribe to our newsletters
