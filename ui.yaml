@@ -14,7 +14,9 @@ label_editorial_office:
 label_final_editing:
   en: Final editing
   nl: Eindredactie
-
+label_interpretations:
+  nl: Duidingen
+  en: Interpretations
 label_steal_lock_confirmative:
   nl: Ja, neem bewerken over
   en: Yes, steal lock
