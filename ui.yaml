@@ -1,4 +1,18 @@
-
+label_all_bookmarks:
+  nl: Alle bookmarks
+  en: All bookmarks
+  de: Alle Lesezeichen
+  fr: Tous les signets
+label_to_bookmark:
+  nl: Bladwijzer toevoegen
+  en: Bookmark
+  de: Lesezeichen hinzufügen
+  fr: Ajouter un signet
+label_remove_bookmark:
+  nl: Bladwijzer verwijderen
+  en: Remove bookmark
+  de: Lesezeichen löschen
+  fr: Supprimer signet
 message_nothing_for_this_workflow_state:
   en: There are no documents with this workflow state.
   nl: Er zijn geen documenten in deze werkstroomstaat.
