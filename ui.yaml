@@ -1201,6 +1201,9 @@ label_newsletter_archive:
 label_newsletter:
   nl: Nieuwsbrief
   en: Newsletter
+label_newsletters:
+  nl: Nieuwsbrieven
+  en: Newsletters
 label_include_in_periodical:
   nl: Neem op in periodiek
   en: Include in periodical
