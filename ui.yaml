@@ -1,9 +1,151 @@
+label_all_bookmarks:
+  nl: Alle bookmarks
+  en: All bookmarks
+  de: Alle Lesezeichen
+  fr: Tous les signets
+label_to_bookmark:
+  nl: Bladwijzer toevoegen
+  en: Bookmark
+  de: Lesezeichen hinzufügen
+  fr: Ajouter un signet
+label_remove_bookmark:
+  nl: Bladwijzer verwijderen
+  en: Remove bookmark
+  de: Lesezeichen löschen
+  fr: Supprimer signet
+message_refine_search_result:
+  nl: Verfijn het zoekresultaat door te filteren op één documenttype.
+  en: Refine the search result by filtering on one document type.
+message_nothing_for_this_workflow_state:
+  en: There are no documents with this workflow state.
+  nl: Er zijn geen documenten in deze werkstroomstaat.
+label_first_editorial:
+  en: First editorial
+  nl: Eerste redactie
+label_second_editorial:
+  en: Second editorial
+  nl: Tweede redactie
+label_editorial_office:
+  en: Editorial office
+  nl: Bureauredactie
+label_final_editing:
+  en: Final editing
+  nl: Eindredactie
+label_interpretations:
+  nl: Duidingen
+  en: Interpretations
+label_steal_lock_confirmative:
+  nl: Ja, neem bewerken over
+  en: Yes, steal lock
+label_steal_lock:
+  nl: Bewerken overnemen
+  en: Steal lock
+label_steal_lock_imp:
+  nl: Neem bewerken over
+  en: Steal lock
+message_steal_lock:
+  nl: Als u verder gaat wordt neemt u het bewerken van dit document over van {0}. Eventuele wijzigingen die {0} aangebracht, maar niet opgeslagen heeft, zullen verloren gaan. 
+  en: If you continue, you will take over the editing of this document from {0}. Any changes that {0} has made but not saved will be lost.
+
+label_hospital:
+  nl: Ziekenhuis
+  en: Hospital
+label_hospitals:
+  nl: Ziekenhuizen
+  en: Hospitals
+label_chemist:
+  en: Chemist
+  nl: Apotheker
+label_chemists:
+  en: Chemists
+  nl: Apothekers
+label_featured:
+  nl: Uitgelicht
+  en: Featured
+label_gp_practice:
+  en: GP practice
+  nl: Huisartsenpraktijk
+label_gp_practices:
+  en: GP practices
+  nl: Huisartsenpraktijken
+label_general_practitioner:
+  en: General practitioner
+  nl: Huisarts
+label_general_practitioners:
+  en: General practitioners
+  nl: Huisartsen
+label_health_insurer:
+  en: Health insurer
+  nl: Zorgverzekeraar
+label_health_insurers:
+  en: Health insurers
+  nl: Zorgverzekeraars
+label_health_insurerance:
+  en: Health insurance
+  nl: Zorgverzekering
+label_zbo:
+  en: ZBO
+  nl: ZBO
+label_zbos:
+  en: ZBOs
+  nl: ZBOʼs
+label_care:
+  en: Care
+  nl: Zorg
+label_patient_organisation:
+  en: Patient organisation
+  nl: Patiëntenorganisatie
+label_patient_organisations:
+  en: Patient organisations
+  nl: Patiëntenorganisaties
+label_undefined:
+  nl: Ongedefinieerd
+  en: Undefined
+label_synonyms:
+  nl: Synoniemen
+  en: Synonyms
+label_synonym:
+  nl: Synoniem
+  en: Synonym
+label_definition:
+  nl: Definitie
+  en: Definition
+label_glossary:
+  nl: Begrippenlijst
+  en: Glossary
+label_local_concepts:
+  nl: Lokale begrippen
+  en: Local concepts
+label_concepts:
+  nl: Begrippen
+  en: Concepts
+label_concept:
+  nl: Begrip
+  en: Concept
+label_new_concept:
+  nl: Nieuw begrip
+  en: New concept
+label_new_glossary:
+  nl: Nieuwe begrippenlijst
+  en: New glossary
+label_personal_space:
+  nl: Persoonlijke ruimte
+  en: Personal space
+label_x_stars:
+  nl: "{0} van {1} Sterren"
+  en: "{0} out of {1} Stars"
 label_for_revision:
   nl: Te herzien
   en: For revision
 label_bookmarked:
-  nl: Bladwijzers
+  nl: Met bladwijzer gemarkeerd
   en: Bookmarked
+message_no_bookmarks:
+  nl: U heeft geen pagina's met een bladwijzer gemarkeerd.
+  en: U have not bookmarked any pages.
+label_bookmarks:
+  nl: Bladwijzers
+  en: Bookmarks
 label_apply_imp:
   nl: Pas toe
   en: Apply
@@ -105,8 +247,8 @@ message_nothing_for_revision:
   fr: Il n'y a rien à réviser pour le moment.
   it: Non c'è nulla da rivedere in questo momento.
 message_all_is_in_review_or_published:
-  en: Everything is under review or published. 
-  nl: Alles is in beoordeling of gepubliceerd.    
+  en: Everything has been published, or is still under review.
+  nl: Alles is gepubliceerd, of nog in beoordeling.    
 label_add_link_imp:
   en: Add link
   nl: Voeg koppeling toe
@@ -148,6 +290,9 @@ label_pin_on_top_of_overviews:
 label_pinning:
   nl: Vastzetten
   en: Pinning
+label_dashboard: 
+  nl: Dashboard
+  en: Dashboard
 
 message_landing_quality_registration:
   nl: Dit is het Register Kwaliteitsregistraties. Dit register biedt een overzicht van kwaliteitsregistraties.
@@ -169,6 +314,9 @@ label_insert_imp:
   en: Insert
   fr: Insérer
   de: Einfügen
+label_settings:
+  nl: Instellingen
+  en: Settings
 label_hyperlink:
   nl: Koppeling
   en: Hyperlink
@@ -213,6 +361,9 @@ label_remove_image_imp:
 label_remove_video_imp:
   nl: Verwijder video
   en: Remove video
+label_remove_presentation_imp:
+  nl: Verwijder presentatie
+  en: Remove presentation
 label_image:
   nl: Afbeelding
   en: Image
@@ -287,6 +438,12 @@ label_measuring_instruments:
 label_reporting_year:
   nl: Verslagjaar
   en: Reporting year
+label_selected_reports:
+  nl: Uitgelichte rapportages
+  en: Selected reports
+label_reports:
+  nl: Rapportages
+  en: Reports
 label_new_reporting_year:
   nl: Nieuw verslagjaar
   en: New reporting year
@@ -325,6 +482,16 @@ label_guide:
 label_all_news_for_this_sector:
   nl: Alle nieuws voor deze sector
   en: All news for this sector
+
+label_average_price_per_treatment:
+  nl: Gemiddelde prijs per behandeling
+  en: Average price per treatment
+snippet_per_treatment:
+  nl: per behandeling
+  en: per treatment
+snippet_per_pack:
+  nl: per verpakking
+  en: per pack
 
 message_justification_price_day_fraction:
   nl: Prijzen per dag zijn afgerond op hele centen. De prijs per dag is in dit geval gebaseerd op {0} deel van een {1}.
@@ -743,6 +910,15 @@ label_main_indicator:
 label_sector:
   nl: Sector
   en: Sector
+label_ministery:
+  nl: Ministerie
+  en: Ministery
+label_ministeries:
+  nl: Ministeries
+  en: Ministeries
+label_data_broker:
+  nl: Gegevensmakelaar
+  en: Data broker
 label_data_brokers:
   nl: Gegevensmakelaars
   en: Data brokers
@@ -1014,6 +1190,9 @@ label_vsv_name:
 label_organisation_members:
   nl: Aantal <a href="{0}">gebruikers</a> van {1}
   en: Number of <a href="{0}">users</a> in {1}
+label_organisation_members_0:
+  nl: Aantal gebruikers van {0}
+  en: Number users in {0}
 label_organisation_type_not_selected:
   nl: Organisatie type niet geselecteerd
   en: Organisation type not selected
@@ -1032,6 +1211,9 @@ label_article_page:
 label_release:
   nl: Release
   en: Release
+label_releases:
+  nl: Releases
+  en: Releases
 label_then_subscribe_to_our_newsletters:
   nl: Abonneert u zich dan op onze nieuwsbrieven
   en: Then please subscribe to our newsletters
@@ -1041,6 +1223,9 @@ label_newsletter_archive:
 label_newsletter:
   nl: Nieuwsbrief
   en: Newsletter
+label_newsletters:
+  nl: Nieuwsbrieven
+  en: Newsletters
 label_include_in_periodical:
   nl: Neem op in periodiek
   en: Include in periodical
@@ -1062,6 +1247,9 @@ label_information_model:
 label_consultant:
   nl: Consulent
   en: Consultant
+label_consultants:
+  nl: Consulenten
+  en: Consultants
 label_organisation_type:
   nl: Organisatietype
   en: Type of organisation
@@ -1185,6 +1373,9 @@ label_users:
 label_user:
   nl: Gebruiker
   en: User
+label_faq:
+  nl: Veelgestelde vragen
+  en: FAQ
 label_favourites: 
   nl: Favorieten
   en: Favourites
@@ -1277,6 +1468,9 @@ label_compare:
   en: Compare
 label_compare_versions:
   nl: Versies vergelijken
+  en: Compare historic versions
+label_compare_versions_imp:
+  nl: Vergelijk versies
   en: Compare historic versions
 label_field_name: 
   nl: Veldnaam
@@ -1449,6 +1643,9 @@ label_deselect_all:
 label_read_more:
   nl: Lees meer…
   en: Read more…
+label_read_more_ell:
+  nl: Lees meer…
+  en: Read more…
 label_lemma:
   nl: Trefwoord
   en: Search term
@@ -1488,9 +1685,15 @@ label_inid:
 label_role_scanner:
   nl: Scanner
   en: Scanner
+label_working_group: 
+  nl: Werkgroep
+  en: Workgroup
+label_working_groups: 
+  nl: Werkgroepen
+  en: Workgroups
 label_role_werkgroeplid:
   nl: Werkgroeplid
-  en: Workgroup member
+  en: Working group member
 label_role_lezer:
   nl: Lezer
   en: Bystander
@@ -2498,7 +2701,12 @@ label_overige_niet-oncologische_hematologische_medicatie:
 label_trombose:
   en: Thrombosis
   nl: Trombose
-
+label_all_noun:
+  nl: Alles
+  en: All
+label_all_adv:
+  nl: Alle
+  en: All
 label_all:
   nl: ALL
   en: ALL
@@ -2816,6 +3024,10 @@ label_biosimilars_and_generics:
 label_current_brand_name:
   nl: Huidig specialité
   en: Current proprietary name
+label_branch_organisation:
+  en: Branch organisation
+  nl: Branche-organisatie
+
 label_ja:
   nl: Ja
   en: 'Yes'
@@ -2995,6 +3207,9 @@ label_delete:
   nl: Verwijder
   en: Delete
 label_send:
+  nl: Versturen
+  en: Send
+label_send_imp:
   nl: Verstuur
   en: Send
 label_resend_invite:
@@ -3311,6 +3526,18 @@ label_mandatory_fields:
 label_send:
   nl: Verstuur
   en: Send
+label_management_organisation:
+  nl: Beheerorganisatie
+  en: Management organisation
+label_management_organisations:
+  nl: Beheerorganisaties
+  en: Management organisations
+label_professional_organisation:
+  nl: Beroepsorganisatie
+  en: Professional organisation
+label_professional_organisations:
+  nl: Beroepsorganisaties
+  en: Professional organisations
 label_professional:
   nl: Beroepsmatig
   en: Professional
@@ -3504,9 +3731,15 @@ label_any_particularity:
 label_voorwaarden:
   nl: Voorwaarden
   en: Terms and conditions
+snippet_conditions:
+  nl: voorwaarden
+  en: conditions
 label_reimbursed_under_conditions:
   nl: Onder voorwaarden vergoed vanuit de basisverzekering
   en: Reimbursed under conditions from basic insurance
+message_medicine_reimbursed_under_conditions:
+  nl: Dit middel wordt onder {0} vergoed door uw zorgverzekeraar.
+  en: This medicine is reimbursed by your health insurer under certain {0}.
 
 label_side_effects: 
   nl: Bijwerkingen
@@ -3771,14 +4004,34 @@ label_unsubscribed:
 label_subscribe:
   nl: Abonneer
   en: Subscribe
+label_optimal_width_in_pixels:
+  nl: Optimale breedte in pixels
+  en: Optimal width in pixels
+label_optimal_height_in_pixels:
+  nl: Optimale hoogte in pixels
+  en: Optimal height in pixels
+label_latest_full_scan:
+  nl: Laatste volledige scan
+  en: Latest full scan
+label_full_scans:
+  nl: Volledige scans
+  en: Full scans
 
 # Labels for documenttypes in Bloomreach
 label_newscontentdocument:
  nl: Nieuwsbericht
  en: News article
-  
 
 # Messages
+message_latest_scan_overview:
+  nl: Overzicht van toekomstige innovatieve geneesmiddelen en verwachte indicatie-uitbreidingen voor alle domeinen.
+  en: Overview of future innovative medicines and expected indication extensions for all domains.
+message_about_horizonscan:
+  nl: Onze inhoudelijke werkgroepen spelen een belangrijke rol in het proces van de Horizonscan voor geneesmiddelen.
+  en: Our substantive working groups play an important role in the process of the Horizon Scan for Medicines.
+message_help_presentation_upload:
+  nl: De presentatie dient in HTML-formaat te zijn en gecomprimeerd te zijn als ZIP-bestand. De indexpagina van de presentatie dient altijd ‘index.html’ te heten.
+  en: The presentation must be in HTML format and compressed as a ZIP file. The index page of the presentation should always be called ‘index.html’.
 message_transfer_to_odb:
   nl: U gaat het bestand doorzetten naar de ODB.
   en: You are about to transfer the file to the ODB.
@@ -4021,8 +4274,8 @@ message_help_additional_comments:
   nl: Zijn er nog overige algemene opmerkingen?
   en: Are there any other general comments?
 message_document_being_edited_by_other_user:
-  nl: 'Dit document wordt momenteel bewerkt door gebruiker &apos;<strong>maria065</strong>&apos;.'
-  en: 'This document is currently being edited by user &apos;<strong>maria065</strong>&apos;.'
+  nl: 'Dit document wordt momenteel bewerkt door gebruiker &apos;<strong>{0}</strong>&apos;.'
+  en: 'This document is currently being edited by user &apos;<strong>{0}</strong>&apos;.'
 message_the_request_for_pipeline_was_sent_successfully:
   nl: De uitvraag is verstuurd.
   en: The request for pipeline was sent succesfully.
