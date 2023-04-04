@@ -1203,6 +1203,30 @@ label_elders:
 label_general:
   nl: "Algemeen"
   en: "General"
+label_purpose:
+  nl: "Doel"
+  en: "Purpose"
+label_client_population:
+  nl: "Cliëntenpopulatie"
+  en: "Client population"
+label_persons_subject_to_registration:
+  nl: "Registratieplichtingen"
+  en: "Persons subject tot registration"
+label_personal_data:
+  nl: "(Persoons)gegevens"
+  en: "(Personal) data"
+label_quality_registration_standard:
+  nl: "Kwaliteitsregistratiestandaard"
+  en: "Quality registration standard"
+label_included_in_register:
+  nl: "Opgenomen in het register"
+  en: "Included in the register"
+label_revision_date:
+  nl: "Herzieningsdatum"
+  en: "Revision date"
+label_website_quality_registration:
+  nl: "Website kwaliteitsregistratie"
+  en: "Website quality registration"
 label_renal_impairment:
   nl: "Nierfunctiestoornis"
   en: "Renal impairment"
@@ -3064,7 +3088,10 @@ label_telephone_number:
 label_attachment:
   nl: Bijlage
   en: Attachment
-label_remove: 
+label_attachments:
+  nl: Bijlagen
+  en: Attachments
+label_remove:
   nl: Verwijderen
   en: Remove
 label_remove_imp: 
