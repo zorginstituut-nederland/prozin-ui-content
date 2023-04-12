@@ -1,3 +1,9 @@
+message_help_show_summaries:
+  nl: Wanneer deze optie ingeschakeld is wordt er, waar beschikbaar, een samenvatting boven de inhoud getoond. Deze optie heeft uitsluitend invloed op Geneesmiddelpagina's, Geneesmiddelgroeppagina's en Indicatiepagina's.
+  en: When this option is enabled, a summary will be shown above the content where available. This option only affects Medicine pages, Medicine group pages and Indication pages.
+label_show_summaries:
+  nl: Toon samenvattingen
+  en: Show summaries  
 label_search_globally: 
   nl: Doorzoek de hele site
   en: Search globally
