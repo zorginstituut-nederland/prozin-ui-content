@@ -37,6 +37,9 @@ label_first_editorial:
 label_second_editorial:
   en: Second editorial
   nl: Tweede redactie
+label_third_editorial:
+  en: Third editorial
+  nl: Derde redactie
 label_editorial_office:
   en: Editorial office
   nl: Bureauredactie
