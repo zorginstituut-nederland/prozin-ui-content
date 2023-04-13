@@ -1427,6 +1427,15 @@ label_quality_registration_standard:
 label_included_in_register:
   nl: "Opgenomen in het register"
   en: "Included in the register"
+label_on_long_term_agenda:
+  nl: Op Meerjarenagenda
+  en: On Longe term agenda
+label_prio_wegiz:
+  nl: Geprioriteerd voor Wegiz
+  en: Prioritised for Wegiz
+label_amvb_wegiz:
+  nl: Aangwezen in AMvB onder Wegiz
+  en: Appointed in AMvB under Wegiz
 label_revision_date:
   nl: "Herzieningsdatum"
   en: "Revision date"
