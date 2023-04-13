@@ -1256,6 +1256,9 @@ label_presentation:
 label_information_model:
   nl: Informatiemodel
   en: Information model
+label_information:
+  nl: Informatie
+  en: Information
 label_consultant:
   nl: Consulent
   en: Consultant
