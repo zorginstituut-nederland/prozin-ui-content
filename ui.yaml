@@ -925,6 +925,9 @@ label_main_indicator:
 label_sector:
   nl: Sector
   en: Sector
+message_help_sector:
+  nl: Dit veld bepaalt voor welke sectoren deze pagina van toepassing is. Er kunnen meerdere sectoren gekozen worden.
+  en: This field determines which sectors this page applies to. Multiple sectors can be selected.
 label_ministery:
   nl: Ministerie
   en: Ministery
