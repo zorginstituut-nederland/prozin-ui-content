@@ -1435,7 +1435,10 @@ label_included_in_register:
   en: "Included in the register"
 label_on_long_term_agenda:
   nl: Op Meerjarenagenda
-  en: On Longe term agenda
+  en: On Long term agenda
+label_long_term_agenda:
+  nl: Meerjarenagenda
+  en: Long term agenda
 label_prio_wegiz:
   nl: Geprioriteerd voor Wegiz
   en: Prioritised for Wegiz
@@ -1983,7 +1986,15 @@ label_klinische_studies:
 label_teruggetrokken:
   en: Withdrawn
   nl: Teruggetrokken
-
+label_register:
+  nl: Register
+  en: Register
+label_wegiz:
+  nl: Wegiz
+  en: Wegiz
+label_amvb:
+  nl: AMvB
+  en: AMvB
 label_nationaal_cbg_:
   nl: Nationaal (CBG)
   en: National (CBG)
