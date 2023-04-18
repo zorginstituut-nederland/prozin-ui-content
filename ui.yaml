@@ -1446,8 +1446,8 @@ label_revision_date:
   nl: "Herzieningsdatum"
   en: "Revision date"
 message_help_revision_date:
-  nl: De datum waarop externe partijen de registratie moeten herzien. Herzieninging houdt in dat het toetsingsproces opnieuw doorlopen wordt.
-  en: The date by which third parties must review the registration. Revision means that the assessment process is repeated.
+  nl: De datum waarop externe partijen de registratie moeten herzien. Herzieninging houdt in dat het toetsingsproces opnieuw doorlopen wordt. Enige tijd voor het verlopen van de herzieningsdatum zal dit contentobject verschijnen in het portlet 'Te herzien' op het dashboard.
+  en: The date by which third parties must review the registration. Revision means that the assessment process is repeated. Some time before the review date expires, this content object will appear in the 'For revision' portlet on the dashboard.
 label_website_quality_registration:
   nl: "Website kwaliteitsregistratie"
   en: "Website quality registration"
