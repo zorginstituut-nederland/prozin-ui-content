@@ -1,3 +1,9 @@
+label_registrered:
+  nl: Geregistreerd
+  en: Registered
+message_help_registered:
+  nl: De datum waarop het bestuur bekrachtigd heeft dat deze standaard in het register (deze website) opgenomen zal worden.
+  en: The date on which the board has confirmed that this standard will be included in the register (this website). 
 message_help_show_summaries:
   nl: Wanneer deze optie ingeschakeld is wordt er, waar beschikbaar, een samenvatting boven de inhoud getoond. Deze optie heeft uitsluitend invloed op Geneesmiddelpagina's, Geneesmiddelgroeppagina's en Indicatiepagina's.
   en: When this option is enabled, a summary will be shown above the content where available. This option only affects Medicine pages, Medicine group pages and Indication pages.
