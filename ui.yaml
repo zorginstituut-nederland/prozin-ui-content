@@ -1,3 +1,6 @@
+message_quality_instrument_in_development: 
+  nl: Dit kwaliteitsproduct is in (door-)ontwikkeling.
+  en: This quality product is in development.
 message_no_content_for_tag:
   nl: Er is geen inhoud gemarkeerd met deze tag.
   en: There is no content marked with this tag.
