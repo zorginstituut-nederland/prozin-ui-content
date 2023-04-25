@@ -1,3 +1,6 @@
+message_no_content_for_tag:
+  nl: Er is geen inhoud gemarkeerd met deze tag.
+  en: There is no content marked with this tag.
 message_summary_long_term_agenda:
   nl: Prioriteitenlijst van te ontwikkelen kwaliteitsproducten.
   en: Prioritised of to be developed quality products.
