@@ -1463,6 +1463,9 @@ label_on_long_term_agenda:
 label_long_term_agenda:
   nl: Meerjarenagenda
   en: Long term agenda
+message_help_long_term_agenda:
+  nl: De uiterste datum oplevering van dit kwaliteitsproduct door externe partijen aan Zorginstituut Nederland.
+  en: The final date of delivery of this quality product by external parties to Zorginstituut Nederland.
 label_prio_wegiz:
   nl: Geprioriteerd voor Wegiz
   en: Prioritised for Wegiz
