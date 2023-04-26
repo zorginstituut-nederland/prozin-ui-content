@@ -25,6 +25,9 @@ label_development_tool:
 label_new_development_tool:
   en: New development tool
   nl: Nieuwe ontwikkeltool
+label_new_measuring_instrument:
+  en: New measuring instrument
+  nl: Nieuw meetinstrument
 message_quality_instrument_in_development: 
   nl: Dit kwaliteitsproduct is in (door-)ontwikkeling.
   en: This quality product is in development.
