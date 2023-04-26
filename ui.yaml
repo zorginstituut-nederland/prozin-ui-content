@@ -1349,6 +1349,12 @@ label_english_native:
 label_dutch_native:
   nl: Nederlands
   en: Nederlands
+label_tags:
+  nl: Tags
+  en: Tags
+label_title:
+  nl: Titel
+  en: Title
 label_page_layout:
   nl: Pagina-indeling
   en: Page layout
@@ -3905,6 +3911,12 @@ label_cost:
 label_see_also:
   nl: Zie ook
   en: See also
+label_internal_links:
+  nl: Interne koppelingen
+  en: Internal links
+label_internal_link:
+  nl: Interne koppeling
+  en: Internal link
 label_external_links:
   nl: Externe koppelingen
   en: External links
@@ -3946,13 +3958,16 @@ label_duplicate:
   en: Duplicate
 label_confirm_duplication:
   nl: Bevestig dupliceren
-  en: Comfirm duplication
+  en: Confirm duplication
 label_confirm_account:
   nl: Account bevestigen
-  en: Comfirm account
+  en: Confirm account
 label_confirm:
   nl: Bevestig
-  en: Comfirm
+  en: Confirm
+label_confirm_delete:
+  nl: Verwijderen bevestigen
+  en: Confirm delete
 label_verification_request:
   nl: Verificatieverzoek
   en: Verification request
