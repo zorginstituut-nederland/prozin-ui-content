@@ -1,3 +1,12 @@
+label_development_tools:
+  en: Development tools
+  nl: Ontwikkeltools
+label_development_tool:
+  en: Development tool
+  nl: Ontwikkeltool
+label_new_development_tool:
+  en: New development tool
+  nl: Nieuwe ontwikkeltool
 message_quality_instrument_in_development: 
   nl: Dit kwaliteitsproduct is in (door-)ontwikkeling.
   en: This quality product is in development.
