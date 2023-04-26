@@ -1,3 +1,15 @@
+label_registration_date:
+  nl: Registratiedatum
+  en: Registration date
+label_healthcare_area:
+  nl: Zorggebied
+  en: Healthcare area
+label_quality_instruments:
+  nl: Kwaliteitsinstrumenten
+  en: Quality instruments
+label_quality_instrument:
+  nl: Kwaliteitsinstrument
+  en: Quality instrument
 label_development_tools:
   en: Development tools
   nl: Ontwikkeltools
