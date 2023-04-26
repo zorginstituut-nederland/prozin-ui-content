@@ -1,3 +1,33 @@
+message_quality_instrument_in_development: 
+  nl: Dit kwaliteitsproduct is in (door-)ontwikkeling.
+  en: This quality product is in development.
+message_no_content_for_tag:
+  nl: Er is geen inhoud gemarkeerd met deze tag.
+  en: There is no content marked with this tag.
+message_summary_long_term_agenda:
+  nl: Prioriteitenlijst van te ontwikkelen kwaliteitsproducten.
+  en: Prioritised of to be developed quality products.
+label_quality_products:
+  nl: Kwaliteitsproducten
+  en: Quality products
+label_registrered:
+  nl: Geregistreerd
+  en: Registered
+message_help_registered:
+  nl: De datum waarop het bestuur bekrachtigd heeft dat deze standaard in het register (deze website) opgenomen zal worden.
+  en: The date on which the board has confirmed that this standard will be included in the register (this website). 
+message_help_show_summaries:
+  nl: Wanneer deze optie ingeschakeld is wordt er, waar beschikbaar, een samenvatting boven de inhoud getoond. Deze optie heeft uitsluitend invloed op Geneesmiddelpagina's, Geneesmiddelgroeppagina's en Indicatiepagina's.
+  en: When this option is enabled, a summary will be shown above the content where available. This option only affects Medicine pages, Medicine group pages and Indication pages.
+label_show_summaries:
+  nl: Toon samenvattingen
+  en: Show summaries  
+label_search_globally: 
+  nl: Doorzoek de hele site
+  en: Search globally
+message_x_found_on_page:
+  nl: '{0} Keer op pagina gevonden.'
+  en: '{0} Found on page.'
 label_all_bookmarks:
   nl: Alle bookmarks
   en: All bookmarks
@@ -25,6 +55,9 @@ label_first_editorial:
 label_second_editorial:
   en: Second editorial
   nl: Tweede redactie
+label_third_editorial:
+  en: Third editorial
+  nl: Derde redactie
 label_editorial_office:
   en: Editorial office
   nl: Bureauredactie
@@ -910,6 +943,9 @@ label_main_indicator:
 label_sector:
   nl: Sector
   en: Sector
+message_help_sector:
+  nl: Dit veld bepaalt voor welke sectoren deze pagina van toepassing is. Er kunnen meerdere sectoren gekozen worden.
+  en: This field determines which sectors this page applies to. Multiple sectors can be selected.
 label_ministery:
   nl: Ministerie
   en: Ministery
@@ -1244,6 +1280,9 @@ label_presentation:
 label_information_model:
   nl: Informatiemodel
   en: Information model
+label_information:
+  nl: Informatie
+  en: Information
 label_consultant:
   nl: Consulent
   en: Consultant
@@ -1337,6 +1376,12 @@ label_global_nav_search:
 label_use_fuzzy_search:
   nl: Gebruik fuzzy zoeken
   en: Use fuzzy search
+label_load_more_results:
+  nl: Meer resultaten laden...
+  en: Load more results...
+label_keyword:
+  nl: Trefwoord
+  en: Keyword
 label_layout:
   nl: Indeling
   en: Layout
@@ -1418,9 +1463,27 @@ label_quality_registration_standard:
 label_included_in_register:
   nl: "Opgenomen in het register"
   en: "Included in the register"
+label_on_long_term_agenda:
+  nl: Op Meerjarenagenda
+  en: On Long term agenda
+label_long_term_agenda:
+  nl: Meerjarenagenda
+  en: Long term agenda
+message_help_long_term_agenda:
+  nl: De uiterste datum voor oplevering van dit kwaliteitsproduct door externe partijen aan Zorginstituut Nederland. Deze datum zal getoond worden op de meerjarenagenda.
+  en: The final date of delivery of this quality product by external parties to Zorginstituut Nederland. This date will be shown on the long term agenda.
+label_prio_wegiz:
+  nl: Geprioriteerd voor Wegiz
+  en: Prioritised for Wegiz
+label_amvb_wegiz:
+  nl: Aangewezen in AMvB onder Wegiz
+  en: Appointed in AMvB under Wegiz
 label_revision_date:
   nl: "Herzieningsdatum"
   en: "Revision date"
+message_help_revision_date:
+  nl: De datum waarop externe partijen de registratie moeten herzien. Herzieninging houdt in dat het toetsingsproces opnieuw doorlopen wordt. Enige tijd voor het verlopen van de herzieningsdatum zal dit contentobject verschijnen in het portlet 'Te herzien' op het dashboard.
+  en: The date by which third parties must review the registration. Revision means that the assessment process is repeated. Some time before the review date expires, this content object will appear in the 'For revision' portlet on the dashboard.
 label_website_quality_registration:
   nl: "Website kwaliteitsregistratie"
   en: "Website quality registration"
@@ -1544,6 +1607,9 @@ label_message_will_be_sent_to_x_manufacturers:
 label_new_deadline_for_submission:
   en: New deadline for submission
   nl: Nieuwe uiterste inleverdatum
+label_deadline_delivery_date:
+  en: Deadline delivery date
+  nl: Uiterste opleverdatum
 label_change_deadline:
   en: Change deadline for submission
   nl: Wijzig uiterste inleverdatum
@@ -1956,7 +2022,15 @@ label_klinische_studies:
 label_teruggetrokken:
   en: Withdrawn
   nl: Teruggetrokken
-
+label_register:
+  nl: Register
+  en: Register
+label_wegiz:
+  nl: Wegiz
+  en: Wegiz
+label_amvb:
+  nl: AMvB
+  en: AMvB
 label_nationaal_cbg_:
   nl: Nationaal (CBG)
   en: National (CBG)
