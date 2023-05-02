@@ -1,2 +1,16 @@
+# - name: Aanbiedingsformulier
+- name: Bijlage
+- name: Brief
+- name: Cliëntenversie
+- name: Implementatieplan
+- name: Module
+- name: Onderhoudsplan
+- name: Ontwikkeltool
+- name: Persbericht
+- name: Procesbeschrijving
+- name: Protocol
+- name: Publicatie
 - name: Rapport
+- name: Samenvatting
 - name: Verslag
+- name: Vragenlijst
