@@ -179,6 +179,12 @@ label_glossary:
 label_local_concepts:
   nl: Lokale begrippen
   en: Local concepts
+label_local:
+  nl: Lokaal
+  en: Local
+label_remote:
+  nl: Op afstand
+  en: Remote
 label_concepts:
   nl: Begrippen
   en: Concepts
@@ -4151,9 +4157,12 @@ message_latest_scan_overview:
 message_about_horizonscan:
   nl: Onze inhoudelijke werkgroepen spelen een belangrijke rol in het proces van de Horizonscan voor geneesmiddelen.
   en: Our substantive working groups play an important role in the process of the Horizon Scan for Medicines.
+message_help_presentation_url:
+  nl: Als alternatief voor het opladen van een presentatie kunt u ook verwijzen naar een presentatie die elders gehost is. 
+  en: As an alternative to uploading a presentation, you can also refer to a presentation hosted elsewhere.
 message_help_presentation_upload:
-  nl: De presentatie dient in HTML-formaat te zijn en gecomprimeerd te zijn als ZIP-bestand. De indexpagina van de presentatie dient altijd ‘index.html’ te heten.
-  en: The presentation must be in HTML format and compressed as a ZIP file. The index page of the presentation should always be called ‘index.html’.
+  nl: Als u een presentatie oplaadt dan dient de presentatie in HTML-formaat te zijn en gecomprimeerd te zijn als ZIP-bestand. De indexpagina van de presentatie dient altijd ‘index.html’ te heten. 
+  en: In case you upload a presentation then the presentation must be in HTML format and compressed as a ZIP file. The index page of the presentation should always be called ‘index.html’. 
 message_transfer_to_odb:
   nl: U gaat het bestand doorzetten naar de ODB.
   en: You are about to transfer the file to the ODB.
