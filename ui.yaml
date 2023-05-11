@@ -113,9 +113,8 @@ label_steal_lock_imp:
   nl: Neem bewerken over
   en: Steal lock
 message_steal_lock:
-  nl: Als u verder gaat wordt neemt u het bewerken van dit document over van {0}. Eventuele wijzigingen die {0} aangebracht, maar niet opgeslagen heeft, zullen verloren gaan. 
+  nl: Als u verder gaat, neemt u het bewerken van dit document over van {0}. Eventuele wijzigingen die {0} aangebracht, maar niet opgeslagen heeft, zullen verloren gaan. 
   en: If you continue, you will take over the editing of this document from {0}. Any changes that {0} has made but not saved will be lost.
-
 label_hospital:
   nl: Ziekenhuis
   en: Hospital
