@@ -1096,6 +1096,9 @@ label_new_organisation:
 label_view_on_transparency_calendar: 
   nl: Tonen op transparantiekalender  
   en: View on transparency calendar
+label_transparency_calendar:
+  nl: Transparantie Kalender
+  en: Transparency Calendar
 label_reference_indicator_id:
   nl: Referentie indicator-ID 
   en: Reference indicator ID
@@ -4156,6 +4159,12 @@ label_newscontentdocument:
  en: News article
 
 # Messages
+message_development_tools_description:
+  nl: Hulpmiddelen voor de ontwikkeling van kwaliteitsstandaarden, meetinstrumenten, informatiestandaarden en onderliggende producten.
+  en: Tools for the development of quality standards, measurement tools, information standards and underlying products.
+message_transparency_calendar_description:
+  nl: Overzicht van wanneer welke kwaliteitsgegevens over verleende zorg aangeleverd worden.
+  en: Overview of when what quality data on care provided will be delivered.
 message_latest_scan_overview:
   nl: Overzicht van toekomstige innovatieve geneesmiddelen en verwachte indicatie-uitbreidingen voor alle domeinen.
   en: Overview of future innovative medicines and expected indication extensions for all domains.
