@@ -3734,6 +3734,36 @@ label_word_file:
 label_excel_file:
   nl: Excel-document
   en: Excel file
+label_file_jpeg:
+  nl: JPEG-afbeelding
+  en: JPEG image
+label_file_gif:
+  nl: GIF-afbeelding
+  en: GIF image
+label_file_open_text:
+  nl: OpenDocument tekstdocument
+  en: OpenDocument text file
+label_file_open_spreadsheet:
+  nl: OpenDocument spreadsheet
+  en: OpenDocument spreadsheet
+label_file_open_presentation:
+  nl: OpenDocument presentatie
+  en: OpenDocument presentation
+label_file_csv:
+  nl: CSV-bestand
+  en: CSV file
+label_file_xml:
+  nl: XML-schema
+  en: XML schema
+label_file_7zip:
+  nl: 7-Zip-archiefbestand
+  en: 7-Zip archive
+label_file_mp3:
+  nl: MP3-audiobestand
+  en: MP3 audio file
+label_file_mp4:
+  nl: MP4-videobestand
+  en: MP4 audio file
 label_login:
   nl: Inloggen
   en: Login
