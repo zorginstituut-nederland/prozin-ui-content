@@ -4159,6 +4159,10 @@ label_newscontentdocument:
  en: News article
 
 # Messages
+
+message_help_file_upload:
+  nl: De volgende bestandsformaten zijn volgens Rijksoverheid toegestaan: PDF, CSV, ODT, XML en MP3.
+  en: The following file formats are permitted according to the government: PDF, CSV, ODT, XML and MP3.
 message_development_tools_description:
   nl: Hulpmiddelen voor de ontwikkeling van kwaliteitsstandaarden, meetinstrumenten, informatiestandaarden en onderliggende producten.
   en: Tools for the development of quality standards, measurement tools, information standards and underlying products.
