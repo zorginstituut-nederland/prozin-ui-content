@@ -1,6 +1,12 @@
 label_show_overview_imp:
   nl: Toon overzicht
   en: Show overview
+label_secretariat:
+  nl: Penvoerder
+  en: Secretariat
+label_secretaries:
+  nl: Penvoerders
+  en: Secretaries
 label_subclass:
   nl: Subklasse
   en: Subclass
@@ -110,9 +116,8 @@ label_steal_lock_imp:
   nl: Neem bewerken over
   en: Steal lock
 message_steal_lock:
-  nl: Als u verder gaat wordt neemt u het bewerken van dit document over van {0}. Eventuele wijzigingen die {0} aangebracht, maar niet opgeslagen heeft, zullen verloren gaan. 
+  nl: Als u verder gaat, neemt u het bewerken van dit document over van {0}. Eventuele wijzigingen die {0} aangebracht, maar niet opgeslagen heeft, zullen verloren gaan. 
   en: If you continue, you will take over the editing of this document from {0}. Any changes that {0} has made but not saved will be lost.
-
 label_hospital:
   nl: Ziekenhuis
   en: Hospital
@@ -1094,6 +1099,9 @@ label_new_organisation:
 label_view_on_transparency_calendar: 
   nl: Tonen op transparantiekalender  
   en: View on transparency calendar
+label_transparency_calendar:
+  nl: Transparantie Kalender
+  en: Transparency Calendar
 label_reference_indicator_id:
   nl: Referentie indicator-ID 
   en: Reference indicator ID
@@ -3729,6 +3737,36 @@ label_word_file:
 label_excel_file:
   nl: Excel-document
   en: Excel file
+label_file_jpeg:
+  nl: JPEG-afbeelding
+  en: JPEG image
+label_file_gif:
+  nl: GIF-afbeelding
+  en: GIF image
+label_file_open_text:
+  nl: OpenDocument tekstdocument
+  en: OpenDocument text file
+label_file_open_spreadsheet:
+  nl: OpenDocument spreadsheet
+  en: OpenDocument spreadsheet
+label_file_open_presentation:
+  nl: OpenDocument presentatie
+  en: OpenDocument presentation
+label_file_csv:
+  nl: CSV-bestand
+  en: CSV file
+label_file_xml:
+  nl: XML-schema
+  en: XML schema
+label_file_7zip:
+  nl: 7-Zip-archiefbestand
+  en: 7-Zip archive
+label_file_mp3:
+  nl: MP3-audiobestand
+  en: MP3 audio file
+label_file_mp4:
+  nl: MP4-videobestand
+  en: MP4 audio file
 label_login:
   nl: Inloggen
   en: Login
@@ -4154,6 +4192,16 @@ label_newscontentdocument:
  en: News article
 
 # Messages
+
+message_help_file_upload:
+  nl: "De volgende bestandsformaten zijn toegestaan volgens de richtlijnen van Rijksoverheid: PDF, CSV, ODT, XML en MP3."
+  en: "The following file formats are allowed according to the guidelines of the Dutch government: PDF, CSV, ODT, XML and MP3."
+message_development_tools_description:
+  nl: Hulpmiddelen voor de ontwikkeling van kwaliteitsstandaarden, meetinstrumenten, informatiestandaarden en onderliggende producten.
+  en: Tools for the development of quality standards, measurement tools, information standards and underlying products.
+message_transparency_calendar_description:
+  nl: Overzicht van wanneer welke kwaliteitsgegevens over verleende zorg aangeleverd worden.
+  en: Overview of when what quality data on care provided will be delivered.
 message_latest_scan_overview:
   nl: Overzicht van toekomstige innovatieve geneesmiddelen en verwachte indicatie-uitbreidingen voor alle domeinen.
   en: Overview of future innovative medicines and expected indication extensions for all domains.
