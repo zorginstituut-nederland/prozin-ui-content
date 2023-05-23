@@ -2,8 +2,8 @@ message_help_patient_volume_additional_comments:
   nl: Deze inschatting van het patiëntvolume betreft niet het maximale risico en doet dus geen uitspraak over de aantallen die worden meegenomen in een eventuele sluisanalyse 
   en: The estimate of the patient volume does not concern the maximum risk and therefore does not make any statement about the numbers that will be included in a possible lock analysis.
 message_help_comments:  
-  nl: Reacties zijn alleen zichtbaar voor gebruikers binnen uw eigen organisatie.
-  en: Comments are only visible to members of your own organisation.
+  nl: Reacties zijn alleen zichtbaar voor redacteuren en worden niet gepubliceerd.
+  en: Comments are only visible to editors and won't be published.
 label_show_overview_imp:
   nl: Toon overzicht
   en: Show overview
