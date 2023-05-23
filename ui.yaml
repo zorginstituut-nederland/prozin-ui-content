@@ -118,6 +118,9 @@ label_steal_lock_imp:
 message_steal_lock:
   nl: Als u verder gaat, neemt u het bewerken van dit document over van {0}. Eventuele wijzigingen die {0} aangebracht, maar niet opgeslagen heeft, zullen verloren gaan. 
   en: If you continue, you will take over the editing of this document from {0}. Any changes that {0} has made but not saved will be lost.
+message_publish:
+  nl: Als u verder gaat, wordt dit document gepubliceerd. De vorige versie blijft voor u toegankelijk, maar zal voor het publiek niet meer zichtbaar zijn.
+  en: If you continue, this document will be published. The previous version will remain accessible to you, but will no longer be visible to the public.
 label_hospital:
   nl: Ziekenhuis
   en: Hospital
@@ -1492,9 +1495,9 @@ label_advanced:
 label_elders:
   nl: "Ouderen"
   en: "Elders"
-label_general:
-  nl: "Algemeen"
-  en: "General"
+label_sample_sheet:
+  nl: Staalkaart
+  en: Sample sheet
 label_purpose:
   nl: "Doel"
   en: "Purpose"
