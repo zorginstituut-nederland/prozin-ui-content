@@ -1,3 +1,66 @@
+label_show_overview_imp:
+  nl: Toon overzicht
+  en: Show overview
+label_secretariat:
+  nl: Penvoerder
+  en: Secretariat
+label_secretaries:
+  nl: Penvoerders
+  en: Secretaries
+label_subclass:
+  nl: Subklasse
+  en: Subclass
+label_in_development:
+  nl: In ontwikkeling
+  en: In development
+label_registration_date:
+  nl: Registratiedatum
+  en: Registration date
+label_healthcare_area:
+  nl: Zorggebied
+  en: Healthcare area
+label_quality_instruments:
+  nl: Kwaliteitsinstrumenten
+  en: Quality instruments
+label_quality_instrument:
+  nl: Kwaliteitsinstrument
+  en: Quality instrument
+label_development_tools:
+  en: Development tools
+  nl: Ontwikkeltools
+label_development_tool:
+  en: Development tool
+  nl: Ontwikkeltool
+label_new_development_tool:
+  en: New development tool
+  nl: Nieuwe ontwikkeltool
+label_new_measuring_instrument:
+  en: New measuring instrument
+  nl: Nieuw meetinstrument
+message_quality_instrument_in_development: 
+  nl: Dit kwaliteitsproduct is in (door-)ontwikkeling.
+  en: This quality product is in development.
+message_no_content_for_tag:
+  nl: Er is geen inhoud gemarkeerd met deze tag.
+  en: There is no content marked with this tag.
+message_summary_long_term_agenda:
+  nl: Prioriteitenlijst van te ontwikkelen kwaliteitsproducten.
+  en: Prioritised of to be developed quality products.
+label_quality_products:
+  nl: Kwaliteitsproducten
+  en: Quality products
+label_registrered:
+  nl: Geregistreerd
+  en: Registered
+message_help_registered:
+  nl: De datum waarop het bestuur bekrachtigd heeft dat deze standaard in het register (deze website) opgenomen zal worden.
+  en: The date on which the board has confirmed that this standard will be included in the register (this website). 
+message_help_show_summaries:
+  nl: Wanneer deze optie ingeschakeld is wordt er, waar beschikbaar, een samenvatting boven de inhoud getoond. Deze optie heeft uitsluitend invloed op Geneesmiddelpagina's, Geneesmiddelgroeppagina's en Indicatiepagina's.
+  en: When this option is enabled, a summary will be shown above the content where available. This option only affects Medicine pages, Medicine group pages and Indication pages.
+label_show_summaries:
+  nl: Toon samenvattingen
+  en: Show summaries  
 label_search_globally: 
   nl: Doorzoek de hele site
   en: Search globally
@@ -31,6 +94,9 @@ label_first_editorial:
 label_second_editorial:
   en: Second editorial
   nl: Tweede redactie
+label_third_editorial:
+  en: Third editorial
+  nl: Derde redactie
 label_editorial_office:
   en: Editorial office
   nl: Bureauredactie
@@ -50,9 +116,11 @@ label_steal_lock_imp:
   nl: Neem bewerken over
   en: Steal lock
 message_steal_lock:
-  nl: Als u verder gaat wordt neemt u het bewerken van dit document over van {0}. Eventuele wijzigingen die {0} aangebracht, maar niet opgeslagen heeft, zullen verloren gaan. 
+  nl: Als u verder gaat, neemt u het bewerken van dit document over van {0}. Eventuele wijzigingen die {0} aangebracht, maar niet opgeslagen heeft, zullen verloren gaan. 
   en: If you continue, you will take over the editing of this document from {0}. Any changes that {0} has made but not saved will be lost.
-
+message_publish:
+  nl: Als u verder gaat, wordt dit document gepubliceerd. De vorige versie blijft voor u toegankelijk, maar zal voor het publiek niet meer zichtbaar zijn.
+  en: If you continue, this document will be published. The previous version will remain accessible to you, but will no longer be visible to the public.
 label_hospital:
   nl: Ziekenhuis
   en: Hospital
@@ -122,6 +190,12 @@ label_glossary:
 label_local_concepts:
   nl: Lokale begrippen
   en: Local concepts
+label_local:
+  nl: Lokaal
+  en: Local
+label_remote:
+  nl: Op afstand
+  en: Remote
 label_concepts:
   nl: Begrippen
   en: Concepts
@@ -424,6 +498,9 @@ label_new_quality_registration:
 label_quality_registrations:
   en: Quality registrations
   nl: Kwaliteitsregistraties
+label_quality_registration:
+  en: Quality registration
+  nl: Kwaliteitsregistratie
 message_first_time_login_from_device:
   en: You are logging in from an unknown device. We've sent a verification code to your e-mail address. Please type or paste the code in the field below and click 'Continue'.
   nl: U logt in vanaf een onbekend apparaat. We hebben een verificatiecode naar uw e-mailadres gestuurd. Typ of plak de code in het onderstaande veld en klik op 'Verder'.
@@ -916,6 +993,9 @@ label_main_indicator:
 label_sector:
   nl: Sector
   en: Sector
+message_help_sector:
+  nl: Dit veld bepaalt voor welke sectoren deze pagina van toepassing is. Er kunnen meerdere sectoren gekozen worden.
+  en: This field determines which sectors this page applies to. Multiple sectors can be selected.
 label_ministery:
   nl: Ministerie
   en: Ministery
@@ -1022,6 +1102,9 @@ label_new_organisation:
 label_view_on_transparency_calendar: 
   nl: Tonen op transparantiekalender  
   en: View on transparency calendar
+label_transparency_calendar:
+  nl: Transparantie Kalender
+  en: Transparency Calendar
 label_reference_indicator_id:
   nl: Referentie indicator-ID 
   en: Reference indicator ID
@@ -1250,6 +1333,9 @@ label_presentation:
 label_information_model:
   nl: Informatiemodel
   en: Information model
+label_information:
+  nl: Informatie
+  en: Information
 label_consultant:
   nl: Consulent
   en: Consultant
@@ -1343,6 +1429,12 @@ label_global_nav_search:
 label_use_fuzzy_search:
   nl: Gebruik fuzzy zoeken
   en: Use fuzzy search
+label_load_more_results:
+  nl: Meer resultaten laden...
+  en: Load more results...
+label_keyword:
+  nl: Trefwoord
+  en: Keyword
 label_layout:
   nl: Indeling
   en: Layout
@@ -1355,6 +1447,12 @@ label_english_native:
 label_dutch_native:
   nl: Nederlands
   en: Nederlands
+label_tags:
+  nl: Tags
+  en: Tags
+label_title:
+  nl: Titel
+  en: Title
 label_page_layout:
   nl: Pagina-indeling
   en: Page layout
@@ -1397,9 +1495,9 @@ label_advanced:
 label_elders:
   nl: "Ouderen"
   en: "Elders"
-label_general:
-  nl: "Algemeen"
-  en: "General"
+label_sample_sheet:
+  nl: Staalkaart
+  en: Sample sheet
 label_purpose:
   nl: "Doel"
   en: "Purpose"
@@ -1418,9 +1516,27 @@ label_quality_registration_standard:
 label_included_in_register:
   nl: "Opgenomen in het register"
   en: "Included in the register"
+label_on_long_term_agenda:
+  nl: Op Meerjarenagenda
+  en: On Long term agenda
+label_long_term_agenda:
+  nl: Meerjarenagenda
+  en: Long term agenda
+message_help_long_term_agenda:
+  nl: De uiterste datum voor oplevering van dit kwaliteitsproduct door externe partijen aan Zorginstituut Nederland. Deze datum zal getoond worden op de meerjarenagenda.
+  en: The final date of delivery of this quality product by external parties to Zorginstituut Nederland. This date will be shown on the long term agenda.
+label_prio_wegiz:
+  nl: Geprioriteerd voor Wegiz
+  en: Prioritised for Wegiz
+label_amvb_wegiz:
+  nl: Aangewezen in AMvB onder Wegiz
+  en: Appointed in AMvB under Wegiz
 label_revision_date:
   nl: "Herzieningsdatum"
   en: "Revision date"
+message_help_revision_date:
+  nl: De datum waarop externe partijen de registratie moeten herzien. Herzieninging houdt in dat het toetsingsproces opnieuw doorlopen wordt. Enige tijd voor het verlopen van de herzieningsdatum zal dit contentobject verschijnen in het portlet 'Te herzien' op het dashboard.
+  en: The date by which third parties must review the registration. Revision means that the assessment process is repeated. Some time before the review date expires, this content object will appear in the 'For revision' portlet on the dashboard.
 label_website_quality_registration:
   nl: "Website kwaliteitsregistratie"
   en: "Website quality registration"
@@ -1544,6 +1660,9 @@ label_message_will_be_sent_to_x_manufacturers:
 label_new_deadline_for_submission:
   en: New deadline for submission
   nl: Nieuwe uiterste inleverdatum
+label_deadline_delivery_date:
+  en: Deadline delivery date
+  nl: Uiterste opleverdatum
 label_change_deadline:
   en: Change deadline for submission
   nl: Wijzig uiterste inleverdatum
@@ -1956,7 +2075,15 @@ label_klinische_studies:
 label_teruggetrokken:
   en: Withdrawn
   nl: Teruggetrokken
-
+label_register:
+  nl: Register
+  en: Register
+label_wegiz:
+  nl: Wegiz
+  en: Wegiz
+label_amvb:
+  nl: AMvB
+  en: AMvB
 label_nationaal_cbg_:
   nl: Nationaal (CBG)
   en: National (CBG)
@@ -3613,6 +3740,36 @@ label_word_file:
 label_excel_file:
   nl: Excel-document
   en: Excel file
+label_file_jpeg:
+  nl: JPEG-afbeelding
+  en: JPEG image
+label_file_gif:
+  nl: GIF-afbeelding
+  en: GIF image
+label_file_open_text:
+  nl: OpenDocument tekstdocument
+  en: OpenDocument text file
+label_file_open_spreadsheet:
+  nl: OpenDocument spreadsheet
+  en: OpenDocument spreadsheet
+label_file_open_presentation:
+  nl: OpenDocument presentatie
+  en: OpenDocument presentation
+label_file_csv:
+  nl: CSV-bestand
+  en: CSV file
+label_file_xml:
+  nl: XML-schema
+  en: XML schema
+label_file_7zip:
+  nl: 7-Zip-archiefbestand
+  en: 7-Zip archive
+label_file_mp3:
+  nl: MP3-audiobestand
+  en: MP3 audio file
+label_file_mp4:
+  nl: MP4-videobestand
+  en: MP4 audio file
 label_login:
   nl: Inloggen
   en: Login
@@ -3911,6 +4068,12 @@ label_cost:
 label_see_also:
   nl: Zie ook
   en: See also
+label_internal_links:
+  nl: Interne koppelingen
+  en: Internal links
+label_internal_link:
+  nl: Interne koppeling
+  en: Internal link
 label_external_links:
   nl: Externe koppelingen
   en: External links
@@ -3952,13 +4115,16 @@ label_duplicate:
   en: Duplicate
 label_confirm_duplication:
   nl: Bevestig dupliceren
-  en: Comfirm duplication
+  en: Confirm duplication
 label_confirm_account:
   nl: Account bevestigen
-  en: Comfirm account
+  en: Confirm account
 label_confirm:
   nl: Bevestig
-  en: Comfirm
+  en: Confirm
+label_confirm_delete:
+  nl: Verwijderen bevestigen
+  en: Confirm delete
 label_verification_request:
   nl: Verificatieverzoek
   en: Verification request
@@ -4029,15 +4195,28 @@ label_newscontentdocument:
  en: News article
 
 # Messages
+
+message_help_file_upload:
+  nl: "De volgende bestandsformaten zijn toegestaan volgens de richtlijnen van Rijksoverheid: PDF, CSV, ODT, XML en MP3."
+  en: "The following file formats are allowed according to the guidelines of the Dutch government: PDF, CSV, ODT, XML and MP3."
+message_development_tools_description:
+  nl: Hulpmiddelen voor de ontwikkeling van kwaliteitsstandaarden, meetinstrumenten, informatiestandaarden en onderliggende producten.
+  en: Tools for the development of quality standards, measurement tools, information standards and underlying products.
+message_transparency_calendar_description:
+  nl: Overzicht van wanneer welke kwaliteitsgegevens over verleende zorg aangeleverd worden.
+  en: Overview of when what quality data on care provided will be delivered.
 message_latest_scan_overview:
   nl: Overzicht van toekomstige innovatieve geneesmiddelen en verwachte indicatie-uitbreidingen voor alle domeinen.
   en: Overview of future innovative medicines and expected indication extensions for all domains.
 message_about_horizonscan:
   nl: Onze inhoudelijke werkgroepen spelen een belangrijke rol in het proces van de Horizonscan voor geneesmiddelen.
   en: Our substantive working groups play an important role in the process of the Horizon Scan for Medicines.
+message_help_presentation_url:
+  nl: Als alternatief voor het opladen van een presentatie kunt u ook verwijzen naar een presentatie die elders gehost is. 
+  en: As an alternative to uploading a presentation, you can also refer to a presentation hosted elsewhere.
 message_help_presentation_upload:
-  nl: De presentatie dient in HTML-formaat te zijn en gecomprimeerd te zijn als ZIP-bestand. De indexpagina van de presentatie dient altijd ‘index.html’ te heten.
-  en: The presentation must be in HTML format and compressed as a ZIP file. The index page of the presentation should always be called ‘index.html’.
+  nl: Als u een presentatie oplaadt dan dient de presentatie in HTML-formaat te zijn en gecomprimeerd te zijn als ZIP-bestand. De indexpagina van de presentatie dient altijd ‘index.html’ te heten. 
+  en: In case you upload a presentation then the presentation must be in HTML format and compressed as a ZIP file. The index page of the presentation should always be called ‘index.html’. 
 message_transfer_to_odb:
   nl: U gaat het bestand doorzetten naar de ODB.
   en: You are about to transfer the file to the ODB.
