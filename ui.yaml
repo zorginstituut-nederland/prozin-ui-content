@@ -1,6 +1,9 @@
 message_help_patient_volume_additional_comments:  
   nl: Deze inschatting van het patiëntvolume betreft niet het maximale risico en doet dus geen uitspraak over de aantallen die worden meegenomen in een eventuele sluisanalyse 
   en: The estimate of the patient volume does not concern the maximum risk and therefore does not make any statement about the numbers that will be included in a possible lock analysis.
+message_help_comments:  
+  nl: Reacties zijn alleen zichtbaar voor gebruikers binnen uw eigen organisatie.
+  en: Comments are only visible to members of your own organisation.
 label_show_overview_imp:
   nl: Toon overzicht
   en: Show overview
@@ -3144,7 +3147,7 @@ label_mogelijk_geen_plaats_in_behandeling:
 
 label_additional_comments:
   nl: Aanvullende opmerkingen
-  en: Additional comments
+  en: Additional remakrs
 label_off_label_use:
   nl: Off-label gebruik
   en: Off label use
