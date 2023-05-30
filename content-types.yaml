@@ -1,12 +1,18 @@
-- name: Nieuwsartikel
-  i18n: label_news_item
-  collection: 
-    - name: news
-      i18n: label_news
-      url: /news
 - name: Algemeen artikel
   i18n: label_general_article
   collection: 
     - name: general
       i18n: label_general
       url: /general
+- name: Begrip
+  i18n: label_concept
+  collection: 
+    - name: concepts
+      i18n: label_concepts
+      url: /concepts
+- name: Nieuwsartikel
+  i18n: label_news_item
+  collection: 
+    - name: news
+      i18n: label_news
+      url: /news
