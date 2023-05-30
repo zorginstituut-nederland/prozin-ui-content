@@ -3,16 +3,16 @@
   collection: 
     - name: general
       i18n: label_general
-      url: /general
+      url: /dialogues/cms/general
 - name: Begrip
   i18n: label_concept
   collection: 
     - name: concepts
       i18n: label_concepts
-      url: /concepts
+      url: /dialogues/cms/glossary
 - name: Nieuwsartikel
   i18n: label_news_item
   collection: 
     - name: news
       i18n: label_news
-      url: /news
+      url: /dialogues/cms/news
