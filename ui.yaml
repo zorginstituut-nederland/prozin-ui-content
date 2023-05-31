@@ -590,6 +590,9 @@ label_information_standards:
 label_measuring_instruments:
   nl: Meetinstrumenten
   en: Measuring instruments
+label_measuring_instrument:
+  nl: Meetinstrument
+  en: Measuring instrument
 label_reporting_year:
   nl: Verslagjaar
   en: Reporting year
@@ -1198,6 +1201,9 @@ label_subtype_healthcare_provider:
 label_indicator_unit:
   nl: Indicatoreenheid
   en: Indicator unit
+label_indicator:
+  nl: Indicator
+  en: Indicator
 label_indicator_question:
   nl: Vraag
   en: Question
