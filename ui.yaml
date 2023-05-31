@@ -1,3 +1,33 @@
+label_letter:
+  nl: Brief
+  en: Letter
+label_client_version:
+  nl: Cliëntenversie
+  en: Client Version
+label_implementation_plan:
+  nl: Implementatieplan
+  en: Implementation Plan
+label_module:
+  nl: Module
+  en: Module
+label_maintenance_plan:
+  nl: Onderhoudsplan
+  en: Maintenance Plan
+label_press_release:
+  nl: Persbericht
+  en: Press Release
+label_process_description:
+  nl: Procesbeschrijving
+  en: Process Description
+label_protocol:
+  nl: Protocol
+  en: Protocol
+label_report:
+  nl: Rapport
+  en: Report
+label_questionnaire:
+  nl: Vragenlijst
+  en: Questionnaire
 label_all_publications:
   nl: Alle publicaties
   en: All publications
@@ -444,6 +474,15 @@ message_new_reporting_year:
 label_new_article:
   nl: Nieuwe artikelpagina
   en: New article
+label_article:
+  nl: Artikelpagina
+  en: Article
+label_general_article:
+  nl: Algemeen artikel
+  en: General article
+label_new_general_article:
+  nl: Nieuw algemeen artikel
+  en: New general article
 label_new_folder:
   nl: Nieuwe map
   en: New folder
@@ -516,6 +555,9 @@ label_editorial:
 label_image_bank:
   en: Image bank
   nl: Beeldbank
+label_news_item:
+  en: News item
+  nl: Nieuwsbericht
 label_new_news_item:
   en: New news item
   nl: Nieuw nieuwsbericht
