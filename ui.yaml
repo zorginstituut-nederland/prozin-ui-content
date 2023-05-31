@@ -1,7 +1,7 @@
 label_all_publications:
   nl: Alle publicaties
   en: All publications
-message_help_all_publications:
+message_help_document_type:
   nl: U kunt hier een specifiek type publicatie kiezen, zoals brochures of jaarverslagen.
   en: Here you can choose a specific type of publication, such as brochures or annual reports.
 message_help_patient_volume_additional_comments:  
