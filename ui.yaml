@@ -61,6 +61,15 @@ label_registrered:
 message_help_registered:
   nl: De datum waarop het bestuur bekrachtigd heeft dat deze standaard in het register (deze website) opgenomen zal worden.
   en: The date on which the board has confirmed that this standard will be included in the register (this website). 
+message_help_register:
+  nl: Het Register is een digitaal overzicht van kwaliteitsstandaarden en meetinstrumenten dat voor iedereen toegankelijk en kosteloos te gebruiken is. Met het Register zorgt het Zorginstituut ervoor dat iedereen in Nederland kan zien wat wordt verstaan onder goede zorg en hoe je goede zorg meet. Zo helpen we mee om de zorg in Nederland steeds verder te verbeteren.
+  en: The Register is a digital overview of quality standards and measuring instruments that is accessible to everyone and can be used free of charge. With the Register, the Zorginstituut ensures that everyone in the Netherlands can see what is meant by good care and how to measure good care. In this way we help to continue to improve healthcare in the Netherlands.
+message_help_quality_instrument_long_term_agenda:
+  nl: Prioriteitenlijst van te ontwikkelen kwaliteitsinstrumenten. Waar wordt een kwaliteitsinstrument voor ontwikkeld en wanneer moet het af zijn.
+  en: Priority list of quality instruments to be developed. What is a quality instrument developed for and when should it be finished?
+message_help_wegiz:
+  nl: Het voorstel regelt dat zorgverleners kunnen worden verplicht om bepaalde gegevens (ten minste) elektronisch uit te wisselen, zolang daarvoor een grondslag bestaat (zoals toestemming van de patiënt). Ook kunnen eisen worden gesteld aan de taal die bij de gegevensuitwisseling wordt gebruikt, zodat zorgverleners elkaar meteen kunnen begrijpen. Ten slotte kunnen eisen worden gesteld aan de techniek waarmee gegevens worden uitgewisseld, zodat de gegevensuitwisseling niet wordt bemoeilijkt doordat zorgaanbieders verschillende informatiesystemen gebruiken.
+  en: The proposal provides that healthcare providers can be obliged to exchange certain data (at least) electronically, as long as there is a basis for doing so (such as the patient's consent). Requirements can also be set for the language used for data exchange, so that care providers can immediately understand each other. Finally, requirements can be set for the technology with which data is exchanged, so that the data exchange is not made more difficult by the fact that healthcare providers use different information systems.
 message_help_show_summaries:
   nl: Wanneer deze optie ingeschakeld is wordt er, waar beschikbaar, een samenvatting boven de inhoud getoond. Deze optie heeft uitsluitend invloed op Geneesmiddelpagina's, Geneesmiddelgroeppagina's en Indicatiepagina's.
   en: When this option is enabled, a summary will be shown above the content where available. This option only affects Medicine pages, Medicine group pages and Indication pages.
@@ -477,6 +486,12 @@ label_registration_holder:
 label_involved_parties:
   en: Involved parties
   nl: Betrokken partijen
+label_current_version:
+  en: Current version
+  nl: Actuele versie
+label_beoordeling:
+  en: Assessment
+  nl: Beoordeling
 label_hero_image:
   en: Hero image
   nl: Hoofdbeeld
@@ -518,6 +533,9 @@ label_remember_device:
 label_quality_standards:
   nl: Kwaliteitsstandaarden
   en: Quality standards
+label_quality_standard:
+  nl: Kwaliteitsstandaard
+  en: Quality standard
 label_information_standards:
   nl: Informatiestandaarden
   en: Information standards
