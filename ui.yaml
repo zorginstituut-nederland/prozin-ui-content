@@ -47,8 +47,8 @@ message_help_document_type:
   nl: U kunt hier een specifiek type publicatie kiezen, zoals brochures of jaarverslagen.
   en: Here you can choose a specific type of publication, such as brochures or annual reports.
 message_delete_draft:
-  nl: U staat op het punt om de conceptversie van dit document te verwijderen. Deze handeling is onomkeerbaar.
-  en: You are about to delete the draft version of this document. This action is irreversible.
+  nl: U staat op het punt om de conceptversie van dit document te verwijderen. Eventuele oudere, reeds gepubliceerde versies van dit document, blijven wel bestaan. Deze handeling is onomkeerbaar.
+  en: You are about to delete the draft version of this document. Any older versions of this document that have already been published will remain. This action is irreversible.
 label_delete_draft:
   nl: Concept verwijderen
   en: Delete draft
