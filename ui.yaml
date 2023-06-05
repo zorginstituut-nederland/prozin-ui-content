@@ -590,6 +590,9 @@ message_first_time_login_from_device:
 label_remember_device:
   nl: Onthoud dit apparaat
   en: Remember this device
+label_new_quality_standard:
+  en: New quality standard
+  nl: Nieuwe kwaliteitsstandaard
 label_quality_standards:
   nl: Kwaliteitsstandaarden
   en: Quality standards
