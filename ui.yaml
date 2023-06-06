@@ -1,3 +1,6 @@
+label_indicator_set_id:
+  nl: Indicatorset-ID
+  en: Indicator set ID
 message_quality_instrument_current_version:
   nl: De actuele versie is niet opgenomen in het Register.
   en: The current version is not included in the Register.
