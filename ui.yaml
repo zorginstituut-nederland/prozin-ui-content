@@ -1,6 +1,36 @@
-label_indicator_set_id:
-  nl: Indicatorset-ID
-  en: Indicator set ID
+label_medicine_sluice:
+  nl: Geneesmiddelensluis
+  en: Medicine sluice
+label_meets_sluice_criteria:
+  nl: Voldoet aan sluiscriteria
+  en: Meets sluice criteria
+  fr: Remplit les critères de l'écluse
+  de: Erfüllt Schleusenkriterien
+
+message_help_sluice_criteria:
+  nl: "Voldoet aan sluiscriteria: indien >10 miljoen/>50k pppj of >40 miljoen. Sluiskandidaat: indien opgenomen in de sluiskandidatenbrief. Opgenomen in de sluis: indien in de sluis. Uit de sluis: indien uit de sluis."
+  en: "Meets sluice criteria: innovative drugs will be put in ‘the sluice’ if annual treatment costs per patient exceed €50,000 or total annual budget impact exceeds €40,000,000. Sluice candidate: if included in the sluice candidate letter. Included in the sluice: if in the sluice. Out of the sluice: if out of the sluice."
+  fr: "Répond aux critères de l'écluse: si >10 millions/>50k pppj ou >40 millions. Candidat à l'écluse: si inclus dans la lettre de candidature à l'écluse. Inclus dans l'écluse: si dans l'écluse. Hors de l'écluse: si hors de l'écluse."
+  de: "Erfüllt die Schleusenkriterien: wenn >10 Millionen/>50k pppj oder >40 Millionen. Schleusenkandidat: wenn im Schleusenkandidatenbrief aufgeführt. In der Schleuse aufgenommen: wenn in der Schleuse. Aus der Schleuse: wenn aus der Schleuse."
+
+label_sluice_candidate:
+  nl: Sluiskandidaat
+  en: Sluice candidate
+  fr: Candidat à l'écluse
+  de: Schleusenkandidat
+
+label_included_in_sluice:
+  nl: Opgenomen in de sluis
+  en: Included in the sluice
+  fr: Inclus dans l'écluse
+  de: In der Schleuse enthalten
+
+label_out_of_sluice:
+  nl: Uit de sluis
+  en: Out of the sluice
+  fr: Sorti de l'écluse
+  de: Aus der Schleuse heraus
+
 message_quality_instrument_current_version:
   nl: De actuele versie is niet opgenomen in het Register.
   en: The current version is not included in the Register.
@@ -2174,6 +2204,21 @@ label_negatieve_chmp-opinie:
 label_registratieaanvraag_in_behandeling:
   en: Registration application pending
   nl: Registratieaanvraag in behandeling
+label_advice_healthcare_institute: 
+  nl: Advies Zorginstituut
+  en: Advice Healthcare Institute
+label_reimbursed_from_basic_package:
+  en: Reimbursed from the basic package
+  fr: Remboursé à partir du forfait de base
+  de: Erstattet aus dem Basispaket
+  he: מוחזר מהחבילה הבסיסית
+  nl: Vergoed uit het basispakket
+label_reimbursement:
+  nl: Vergoeding
+  en: Reimbursement
+label_excluded_from_basic_package:
+  en: Excluded from the basic package
+  nl: Uitgesloten van het basispakket
 label_klinische_studies:
   en: Clinical trials
   nl: Klinische studies
