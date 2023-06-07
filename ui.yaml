@@ -31,6 +31,33 @@ label_out_of_sluice:
   fr: Sorti de l'écluse
   de: Aus der Schleuse heraus
 
+label_copublication:
+  en: Co-publication
+  fr: Co-publication
+  de: Co-Publikation
+  he: שיתוף פרסום
+
+message_workflow_transition_publish:
+  en: If you proceed, this document will be published. The previous version remains accessible to you, but will no longer be visible to the public.
+  fr: Si vous continuez, ce document sera publié. La version précédente reste accessible pour vous, mais ne sera plus visible pour le public.
+  de: Wenn Sie fortfahren, wird dieses Dokument veröffentlicht. Die vorherige Version bleibt für Sie zugänglich, ist aber für die Öffentlichkeit nicht mehr sichtbar.
+  he: אם תמשיך, מסמך זה יפורסם. הגרסה הקודמת תישאר נגישה לך, אך לא תהיה נראית לציבור.
+
+message_copublication:
+  en: It is possible to publish this item on multiple products by using co-publication.
+  fr: Il est possible de publier cet article sur plusieurs produits en utilisant la co-publication.
+  de: Es ist möglich, diesen Artikel mit Co-Publikation auf mehreren Produkten zu veröffentlichen.
+  he: ניתן לפרסם פריט זה במספר מוצרים באמצעות שיתוף פרסום.
+
+message_copublication_conditions:
+  en: Co-publication can also be undone afterwards, or later. The original object can only be edited via this product.
+  fr: La co-publication peut également être annulée par la suite, ou plus tard. L'objet original ne peut être modifié que via ce produit.
+  de: Die Co-Publikation kann auch nachträglich oder später rückgängig gemacht werden. Das Originalobjekt kann nur über dieses Produkt bearbeitet werden.
+  he: שיתוף פרסום יכול גם להיבטל לאחר מכן, או במועד מאוחר יותר. האובייקט המקורי ניתן לעריכה רק דרך מוצר זה.
+
+label_indicator_set_id:
+  nl: Indicatorset-ID
+  en: Indicator set ID
 message_quality_instrument_current_version:
   nl: De actuele versie is niet opgenomen in het Register.
   en: The current version is not included in the Register.

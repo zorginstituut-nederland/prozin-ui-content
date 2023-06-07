@@ -1,0 +1,16 @@
+- name: Farmacotherapeutisch Kompas
+  code: FK
+- name: GIPdatabank.nl
+  code: GIP
+- name: Horizonscan Geneesmiddelen
+  code: HOR
+- name: iStandaarden
+  code: IST
+- name: Medicijnkosten.nl
+  code: MED
+- name: ProZIN
+  code: PRO
+- name: Zorgcijfersdatabank
+  code: ZOR
+- name: Zorginzicht
+  code: ZIZ
