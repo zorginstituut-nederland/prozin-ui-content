@@ -32,28 +32,29 @@ label_out_of_sluice:
   de: Aus der Schleuse heraus
 
 label_copublication:
+  nl: Co-publicatie
   en: Co-publication
   fr: Co-publication
   de: Co-Publikation
   he: שיתוף פרסום
 
 message_workflow_transition_publish:
+  nl: Als u verder gaat wordt dit document gepubliceerd. De vorige versie blijft voor u toegankelijk, maar zal voor het publiek niet meer zichtbaar zijn.
   en: If you proceed, this document will be published. The previous version remains accessible to you, but will no longer be visible to the public.
   fr: Si vous continuez, ce document sera publié. La version précédente reste accessible pour vous, mais ne sera plus visible pour le public.
   de: Wenn Sie fortfahren, wird dieses Dokument veröffentlicht. Die vorherige Version bleibt für Sie zugänglich, ist aber für die Öffentlichkeit nicht mehr sichtbar.
   he: אם תמשיך, מסמך זה יפורסם. הגרסה הקודמת תישאר נגישה לך, אך לא תהיה נראית לציבור.
 
 message_copublication:
-  en: It is possible to publish this item on multiple products by using co-publication.
+  nl: Het is mogelijk dit item op meerdere producten te publiceren door gebruik te maken van co-publicatie. 
+  en: It is possible to publish this item across multiple products by using co-publication.
   fr: Il est possible de publier cet article sur plusieurs produits en utilisant la co-publication.
   de: Es ist möglich, diesen Artikel mit Co-Publikation auf mehreren Produkten zu veröffentlichen.
   he: ניתן לפרסם פריט זה במספר מוצרים באמצעות שיתוף פרסום.
 
 message_copublication_conditions:
-  en: Co-publication can also be undone afterwards, or later. The original object can only be edited via this product.
-  fr: La co-publication peut également être annulée par la suite, ou plus tard. L'objet original ne peut être modifié que via ce produit.
-  de: Die Co-Publikation kann auch nachträglich oder später rückgängig gemacht werden. Das Originalobjekt kann nur über dieses Produkt bearbeitet werden.
-  he: שיתוף פרסום יכול גם להיבטל לאחר מכן, או במועד מאוחר יותר. האובייקט המקורי ניתן לעריכה רק דרך מוצר זה.
+  en: Co-publication can also be set up afterwards, or undone.
+  nl: Co-publicatie kan ook achteraf worden ingesteld, of ongedaan gemaakt worden.
 
 label_indicator_set_id:
   nl: Indicatorset-ID
@@ -172,6 +173,9 @@ message_summary_long_term_agenda:
 label_quality_products:
   nl: Kwaliteitsproducten
   en: Quality products
+label_products:
+  nl: Producten
+  en: Products
 label_registrered:
   nl: Geregistreerd
   en: Registered
