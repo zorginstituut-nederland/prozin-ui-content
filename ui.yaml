@@ -1,3 +1,30 @@
+label_components:
+  nl: Componenten
+  en: Components
+label_page_types:
+  nl: Pagina-typen
+  en: Page types
+label_dialogues:
+  nl: Dialogen
+  en: Dialogues
+label_personas:
+  nl: Personæ
+  en: Personas
+
+message_components:
+  nl: Componenten die op pagina's geplaatst kunnen worden.
+  en: Components which may be used to be placed on pages.
+message_page_types:
+  nl: Diverse paginatypen, elk met een eigen doel.
+  en: Various page types, each with its own purpose.
+message_dialogues:
+  nl: Complete sets van pagina’s die als geheel toegepast kunnen worden.
+  en: Entire sets of pages which may be used as a whole.
+message_personas:
+  nl: De set van personæ die gebruikt wordt om het weblandschap te ontwerpen en te testen.
+  en: The set of personas that is used to design and test the web landscape. 
+
+
 label_medicine_sluice:
   nl: Geneesmiddelensluis
   en: Medicine sluice
