@@ -1,9 +1,15 @@
 label_persmissions:
   nl: Bevoegdheden
   en: Permissions
-label_role:
-  nl: Rol
-  en: Role
+label_persmission_profile:
+  nl: Permissieprofiel
+  en: Permission profile
+label_function:
+  nl: Functie
+  en: Function
+label_position_in_org:
+  nl: Functie
+  en: Position
 label_components:
   nl: Componenten
   en: Components
