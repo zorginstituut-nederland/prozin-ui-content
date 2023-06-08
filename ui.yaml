@@ -81,11 +81,16 @@ label_copublication:
   he: שיתוף פרסום
 
 message_workflow_transition_publish:
-  nl: Als u verder gaat wordt dit document gepubliceerd. De vorige versie blijft voor u toegankelijk, maar zal voor het publiek niet meer zichtbaar zijn.
-  en: If you proceed, this document will be published. The previous version remains accessible to you, but will no longer be visible to the public.
-  fr: Si vous continuez, ce document sera publié. La version précédente reste accessible pour vous, mais ne sera plus visible pour le public.
-  de: Wenn Sie fortfahren, wird dieses Dokument veröffentlicht. Die vorherige Version bleibt für Sie zugänglich, ist aber für die Öffentlichkeit nicht mehr sichtbar.
-  he: אם תמשיך, מסמך זה יפורסם. הגרסה הקודמת תישאר נגישה לך, אך לא תהיה נראית לציבור.
+  nl: Als u verder gaat wordt dit document gepubliceerd. 
+  en: If you proceed, this document will be published. 
+  fr: Si vous continuez, ce document sera publié. 
+  de: Wenn Sie fortfahren, wird dieses Dokument veröffentlicht. 
+
+message_workflow_transition_publish_previous_version:
+  nl: De vorige versie blijft voor u toegankelijk, maar zal voor het publiek niet meer zichtbaar zijn.
+  en: The previous version remains accessible to you, but will no longer be visible to the public.
+  fr: La version précédente reste accessible pour vous, mais ne sera plus visible pour le public.
+  de: Die vorherige Version bleibt für Sie zugänglich, ist aber für die Öffentlichkeit nicht mehr sichtbar.
 
 message_copublication:
   nl: Het is mogelijk dit item op meerdere producten te publiceren door gebruik te maken van co-publicatie. 
