@@ -1,3 +1,24 @@
+label_survey_url:
+  nl: Enquete-url
+  en: Survey URL
+label_swimlanes:
+  nl: Zwembanen
+  en: Swim lanes
+label_homepage:
+  nl: Thuispagina
+  en: Homepage
+label_swimlane_hero:
+  nl: Hero-zwembaan
+  en: Swim lane Hero
+label_breaking_news:
+  nl: Belangrijk nieuws 
+  en: Breaking news
+message_help_breaking_news:
+  nl: Gebruik deze functie uitsluitend voor uiterst kritische berichten en nooit voor langere tijd achtereen.
+  en: Use this function only for highly critical messages and never for extended periods of time.
+label_no_breaking_news:
+  nl: Geen belangrijk nieuws 
+  en: No breaking news
 label_photo:
   nl: Foto
   en: Photo
@@ -463,6 +484,9 @@ label_document:
 label_promotion:
   nl: Aanbeveling
   en: Promotion
+message_help_promo_url:
+  nl: Gebruik deze URL alleen voor tijdelijke enquetes. Zodra u een URL invult zal het promotieblokje verschijnen op de voorpagina.
+  en: Use this URL only to direct to a temporary survey. As soon as you enter a URL, the promotion block will appear on the front page.
 label_metadata:
   nl: Metadata
   en: Metadata
@@ -1666,9 +1690,27 @@ label_keyword:
 label_layout:
   nl: Indeling
   en: Layout
+
 label_language:
   nl: Taal
   en: Language
+
+label_languages:
+  nl: Talen
+  en: Languages
+
+label_supported_languages:
+  nl: Ondersteunde talen
+  en: Supported languages
+
+label_default_language:
+  nl: Standaardtaal
+  en: Default language
+  de: Standardsprache
+  fr: Langue par défaut
+  da: Standard sprog
+  he: שפת ברירת מחדל
+  
 label_english_native:
   nl: English
   en: English
