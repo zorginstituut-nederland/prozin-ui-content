@@ -1,69 +1,171 @@
+label_fallback:
+  de: Rückfall
+  en: Fallback
+  fr: Secours
+  he: נסיגה
+  nl: Terugval
+
+label_show_objects_in_alternate_language:
+  de: Zeigen Sie in Übersichten Inhaltsobjekte in einer alternativen Sprache an, wenn verfügbar.
+  en: Show content objects in an alternative language in overviews when available.
+  fr: Afficher dans les aperçus les objets de contenu dans une langue alternative lorsque disponible.
+  he: הצג אובייקטים של תוכן בשפה אלטרנטיבית בסקירות כאשר זמינים.
+  nl: Toon in overzichten contentobjecten in een alternatieve taal wanneer beschikbaar. 
+
+label_hide_objects_in_alternate_language:
+  de: Zeigen Sie in Übersichten nur Inhaltsobjekte in der von Benutzer ausgewählten Sprache an.
+  en: In overviews, only show content objects in the language selected by the user.
+  fr: Dans les aperçus, n'afficher que les objets de contenu dans la langue sélectionnée par l'utilisateur.
+  he: בסקירות, הצג רק אובייקטים של תוכן בשפה שנבחרה על ידי המשתמש.
+  nl: Toon in overzichten alleen contentobjecten in de taal die de gebruiker geselecteerd heeft
+
 label_survey_url:
-  nl: Enquete-url
+  de: Umfrage-URL
   en: Survey URL
+  fr: URL du sondage
+  he: URL של הסקר
+  nl: Enquete-url
+
 label_swimlanes:
-  nl: Zwembanen
+  de: Schwimmbahnen
   en: Swim lanes
+  fr: Voies de natation
+  he: מסילות שחייה
+  nl: Zwembanen
+
 label_homepage:
-  nl: Thuispagina
+  de: Startseite
   en: Homepage
+  fr: Page d'accueil
+  he: דף הבית
+  nl: Thuispagina
+
 label_swimlane_hero:
-  nl: Hero-zwembaan
+  de: Schwimmbahn-Held
   en: Swim lane Hero
+  fr: Héros de la voie de natation
+  he: גיבור מסילת השחייה
+  nl: Hero-zwembaan
+
 label_breaking_news:
-  nl: Uiterst belangrijk nieuws 
+  de: Eilmeldung
   en: Breaking news
+  fr: Dernières nouvelles
+  he: חדשות חמות
+  nl: Uiterst belangrijk nieuws 
+
 message_help_breaking_news:
-  nl: Gebruik deze functie uitsluitend voor uiterst kritische berichten en nooit voor langere tijd achtereen.
+  de: Verwenden Sie diese Funktion nur für hochkritische Nachrichten und niemals für längere Zeiträume.
   en: Use this function only for highly critical messages and never for extended periods of time.
+  fr: N'utilisez cette fonction que pour des messages très critiques et jamais sur de longues périodes.
+  he: השתמש בתכונה זו רק להודעות ביקורתיות מאוד ולעולם לא לתקופות ממושכות.
+  nl: Gebruik deze functie uitsluitend voor uiterst kritische berichten en nooit voor langere tijd achtereen.
+
 label_no_breaking_news:
-  nl: Geen uiterst belangrijk nieuws 
+  de: Keine Eilmeldung
   en: No breaking news
+  fr: Pas de dernières nouvelles
+  he: אין חדשות חמות
+  nl: Geen uiterst belangrijk nieuws 
+
 label_photo:
-  nl: Foto
+  de: Foto
   en: Photo
+  fr: Photo
+  he: תמונה
+  nl: Foto
+
 label_persmissions:
-  nl: Bevoegdheden
+  de: Berechtigungen
   en: Permissions
+  fr: Autorisations
+  he: הרשאות
+  nl: Bevoegdheden
+
 label_persmission_profile:
-  nl: Permissieprofiel
+  de: Berechtigungsprofil
   en: Permission profile
+  fr: Profil d'autorisation
+  he: פרופיל הרשאה
+  nl: Permissieprofiel
+
 label_function:
-  nl: Functie
+  de: Funktion
   en: Function
-label_position_in_org:
+  fr: Fonction
+  he: פונקציה
   nl: Functie
+
+label_position_in_org:
+  de: Position
   en: Position
+  fr: Position
+  he: מיקום
+  nl: Functie
+
 label_components:
-  nl: Componenten
+  de: Komponenten
   en: Components
+  fr: Composants
+  he: רכיבים
+  nl: Componenten
+
 label_page_types:
-  nl: Pagina-typen
+  de: Seitentypen
   en: Page types
+  fr: Types de pages
+  he: סוגי דפים
+  nl: Pagina-typen
+
 label_dialogues:
-  nl: Dialogen
+  de: Dialoge
   en: Dialogues
+  fr: Dialogues
+  he: שיחות
+  nl: Dialogen
+
 label_personas:
-  nl: Personas
+  de: Personas
   en: Personas
+  fr: Personas
+  he: דמויות
+  nl: Personas
 
 message_components:
-  nl: Componenten die op pagina's geplaatst kunnen worden.
+  de: Komponenten, die auf Seiten platziert werden können.
   en: Components which may be used to be placed on pages.
-message_page_types:
-  nl: Diverse paginatypen, elk met een eigen doel.
-  en: Various page types, each with its own purpose.
-message_dialogues:
-  nl: Complete sets van pagina’s die als geheel toegepast kunnen worden.
-  en: Entire sets of pages which may be used as a whole.
-message_personas:
-  nl: De set van personæ die gebruikt wordt om het weblandschap te ontwerpen en te testen.
-  en: The set of personas that is used to design and test the web landscape. 
+  fr: Composants qui peuvent être placés sur des pages.
+  he: רכיבים שניתן להשתמש בהם למקום על דפים.
+  nl: Componenten die op pagina's geplaatst kunnen worden.
 
+message_page_types:
+  de: Verschiedene Seitentypen, jeder mit einem eigenen Zweck.
+  en: Various page types, each with its own purpose.
+  fr: Différents types de pages, chacun avec son propre but.
+  he: סוגים שונים של דפים, כל אחד עם מטרה משלו.
+  nl: Diverse paginatypen, elk met een eigen doel.
+
+message_dialogues:
+  de: Komplette Sets von Seiten, die als Ganzes verwendet werden können.
+  en: Entire sets of pages which may be used as a whole.
+  fr: Ensembles complets de pages qui peuvent être utilisés dans leur intégralité.
+  he: סטים שלמים של דפים שניתן להשתמש בהם כשלמים.
+  nl: Complete sets van pagina’s die als geheel toegepast kunnen worden.
+
+message_personas:
+  de: Der Satz von Personas, der verwendet wird, um die Web-Landschaft zu entwerfen und zu testen.
+  en: The set of personas that is used to design and test the web landscape. 
+  fr: L'ensemble des personas utilisées pour concevoir et tester le paysage web.
+  he: הסט של הדמויות שמשמש לעיצוב ובדיקת הנוף של האינטרנט.
+  nl: De set van personæ die gebruikt wordt om het weblandschap te ontwerpen en te testen.
 
 label_medicine_sluice:
-  nl: Geneesmiddelensluis
+  de: Medikamentenschleuse
   en: Medicine sluice
+  fr: Écluse de médicaments
+  he: סילון תרופות
+  nl: Geneesmiddelensluis
+
 label_meets_sluice_criteria:
   nl: Voldoet aan sluiscriteria
   en: Meets sluice criteria
