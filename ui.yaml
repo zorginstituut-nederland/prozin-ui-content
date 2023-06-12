@@ -6,17 +6,17 @@ label_fallback:
   nl: Terugval
 
 label_show_objects_in_alternate_language:
-  de: Zeigen Sie in Übersichten Inhaltsobjekte in einer alternativen Sprache an, wenn verfügbar.
-  en: Show content objects in an alternative language in overviews when available.
-  fr: Afficher dans les aperçus les objets de contenu dans une langue alternative lorsque disponible.
-  he: הצג אובייקטים של תוכן בשפה אלטרנטיבית בסקירות כאשר זמינים.
-  nl: Toon in overzichten contentobjecten in een alternatieve taal wanneer beschikbaar. 
+  de: Zeigen Sie in Übersichten Inhaltsobjekte in einer alternativen Sprache an, wenn verfügbar
+  en: Show content objects in an alternative language in overviews when available
+  fr: Afficher dans les aperçus les objets de contenu dans une langue alternative lorsque disponible
+  he: הצג אובייקטים של תוכן בשפה אלטרנטיבית בסקירות כאשר זמינים
+  nl: Toon in overzichten contentobjecten in een alternatieve taal wanneer beschikbaar
 
 label_hide_objects_in_alternate_language:
-  de: Zeigen Sie in Übersichten nur Inhaltsobjekte in der von Benutzer ausgewählten Sprache an.
-  en: In overviews, only show content objects in the language selected by the user.
-  fr: Dans les aperçus, n'afficher que les objets de contenu dans la langue sélectionnée par l'utilisateur.
-  he: בסקירות, הצג רק אובייקטים של תוכן בשפה שנבחרה על ידי המשתמש.
+  de: Zeigen Sie in Übersichten nur Inhaltsobjekte in der von Benutzer ausgewählten Sprache an
+  en: In overviews, only show content objects in the language selected by the user
+  fr: Dans les aperçus, n'afficher que les objets de contenu dans la langue sélectionnée par l'utilisateur
+  he: בסקירות, הצג רק אובייקטים של תוכן בשפה שנבחרה על ידי המשתמש
   nl: Toon in overzichten alleen contentobjecten in de taal die de gebruiker geselecteerd heeft
 
 label_survey_url:
