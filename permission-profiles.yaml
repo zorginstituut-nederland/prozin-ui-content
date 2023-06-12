@@ -1,6 +1,6 @@
-- name: Geen account
+- name: Publieke toegang
 - name: Lid
 - name: Redacteur
-- name: Eindredacteur
 - name: Bureauredacteur
+- name: Eindredacteur
 - name: Beheerder

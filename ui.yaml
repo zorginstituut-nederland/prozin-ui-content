@@ -3751,6 +3751,9 @@ label_portfolio_holder:
 label_portfolio_holders:
   nl: Portfoliohouders
   en: Portfolio holders
+label_has_zin_account:
+  nl: Heeft een ZIN-account
+  en: Has a ZIN account
 label_account:
   nl: Account
   en: Account
