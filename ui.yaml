@@ -23,7 +23,7 @@ label_dialogues:
   nl: Dialogen
   en: Dialogues
 label_personas:
-  nl: Personæ
+  nl: Personas
   en: Personas
 
 message_components:
@@ -205,6 +205,18 @@ label_development_tool:
 label_new_development_tool:
   en: New development tool
   nl: Nieuwe ontwikkeltool
+label_new_dialogue:
+  en: New dialogue
+  nl: Nieuwe dialoog
+label_new_component:
+  en: New component
+  nl: Nieuw component
+label_new_page_type:
+  en: New page type
+  nl: Nieuw paginatype
+label_new_persona:
+  en: New persona
+  nl: Nieuwe persona
 label_new_measuring_instrument:
   en: New measuring instrument
   nl: Nieuw meetinstrument
