@@ -1272,6 +1272,9 @@ label_regular_user:
 label_organisation:
   nl: Organisatie
   en: Organisation
+label_organisation_types:
+  nl: Organisatietypen
+  en: Organisation types
 label_approve_delivery:
   nl: Aanlevering goedkeuren
   en: Approve delivery
