@@ -11,13 +11,13 @@ label_swimlane_hero:
   nl: Hero-zwembaan
   en: Swim lane Hero
 label_breaking_news:
-  nl: Belangrijk nieuws 
+  nl: Uiterst belangrijk nieuws 
   en: Breaking news
 message_help_breaking_news:
   nl: Gebruik deze functie uitsluitend voor uiterst kritische berichten en nooit voor langere tijd achtereen.
   en: Use this function only for highly critical messages and never for extended periods of time.
 label_no_breaking_news:
-  nl: Geen belangrijk nieuws 
+  nl: Geen uiterst belangrijk nieuws 
   en: No breaking news
 label_photo:
   nl: Foto
