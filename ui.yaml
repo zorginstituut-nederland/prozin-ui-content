@@ -1,3 +1,12 @@
+label_product_specific_information:
+  nl: Productspecifieke informatie
+  en: Product specific information
+label_product_specific_documentation:
+  nl: Productspecifieke documentatie
+  en: Product specific documentation
+label_documentation_per_product:
+  nl: Documentatie per product
+  en: Documentation per product
 message_help_directly_to:
   de: Direkt zu
   en: Directly to
