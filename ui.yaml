@@ -1661,6 +1661,9 @@ label_load_next_location:
 label_all_regions:
   nl: Alle regio's
   en: All regions
+label_all_prozin_products:
+  nl: Alle ProZIN-producten
+  en: All ProZIN products
 label_article_page:
   nl: Artikel
   en: Article
