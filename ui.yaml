@@ -1,3 +1,17 @@
+message_help_directly_to:
+  de: Direkt zu
+  en: Directly to
+  fr: Directement à
+  he: ישירות אל
+  nl: Direct naar
+
+message_help_directly_to:
+  de: "Die 'Direkt zu'-Funktion ist für die Top-Aufgaben der Benutzer gedacht. Das Feld kann leer gelassen oder mit bis zu 5 Verweisen gefüllt werden."
+  en: "The 'Directly to' is intended for the top tasks of users at the moment. The field may be left empty or filled with up to 5 references."
+  fr: "Le 'Directement à' est destiné aux tâches principales des utilisateurs du moment. Le champ peut être laissé vide ou rempli avec un maximum de 5 références."
+  he: "'ישירות אל' מיועד למשימות העיקריות של המשתמשים ברגע זה. אפשר להשאיר את השדה ריק או למלא אותו עם עד 5 הפניות."
+  nl: "De 'Direct naar' is bedoeld voor de toptaken van gebruikers van het moment. Het veld mag leeggelaten worden of gevuld worden met maximaal 5 verwijzingen."
+
 label_fallback:
   de: Rückfall
   en: Fallback
