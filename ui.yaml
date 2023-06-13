@@ -55,11 +55,10 @@ label_homepage:
   nl: Thuispagina
 
 label_swimlane_hero:
-  de: Schwimmbahn-Held
+  de: Hauptschwimmbahn
   en: Swim lane Hero
-  fr: Héros de la voie de natation
-  he: גיבור מסילת השחייה
-  nl: Hero-zwembaan
+  fr: Couloir de nage principal
+  nl: Hoofdzwembaan
 
 label_breaking_news:
   de: Eilmeldung
