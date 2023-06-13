@@ -4254,9 +4254,63 @@ label_medicine_group:
 label_medicine_groups:
   nl: Geneesmiddelgroepen
   en: Medicine groups
+
 label_product_fk:
   nl: Farmacotherapeutisch Kompas
   en: Pharmacotherapeutical Compass
+message_description_product_fk: 
+  nl: Het Farmacotherapeutisch Kompas (FK) is hét hulpmiddel voor artsen bij het voorschrijven van medicijnen aan patiënten. Het FK bevat deskundige, onafhankelijke en actuele informatie over alle medicijnen die in Nederland verkrijgbaar zijn. De website wordt vooral gebruikt door artsen, verpleegkundigen en apothekers, maar ook door patiënten die meer willen weten.
+  en: Het Farmacotherapeutisch Kompas (FK) is hét hulpmiddel voor artsen bij het voorschrijven van medicijnen aan patiënten. Het FK bevat deskundige, onafhankelijke en actuele informatie over alle medicijnen die in Nederland verkrijgbaar zijn. De website wordt vooral gebruikt door artsen, verpleegkundigen en apothekers, maar ook door patiënten die meer willen weten.
+
+label_product_gip:
+  nl: GIPdatabank.nl
+  en: GIPdatabank.nl
+message_description_product_gip: 
+  nl: De GIPdatabank bevat informatie over het gebruik van geneesmiddelen en hulpmiddelen in Nederland over een periode van 5 jaar. De informatie op deze website is vooral relevant voor beleidsmakers, zorgverzekeraars en zorgprofessionals.
+  en: De GIPdatabank bevat informatie over het gebruik van geneesmiddelen en hulpmiddelen in Nederland over een periode van 5 jaar. De informatie op deze website is vooral relevant voor beleidsmakers, zorgverzekeraars en zorgprofessionals.
+
+label_product_hor:
+  nl: Horizonscan geneesmiddelen
+  en: Horizonscan geneesmiddelen
+message_description_product_hor: 
+  nl: Horizonscan Geneesmiddelen biedt een volledig, openbaar en objectief overzicht van geneesmiddelen die op de markt verwacht worden. De website bevat informatie voor behandelaars, ziekenhuizen, zorgverzekeraars, overheidsorganen en patiënten.
+  en: Horizonscan Geneesmiddelen biedt een volledig, openbaar en objectief overzicht van geneesmiddelen die op de markt verwacht worden. De website bevat informatie voor behandelaars, ziekenhuizen, zorgverzekeraars, overheidsorganen en patiënten.
+
+label_product_med:
+  nl: Medicijnkosten.nl
+  en: Medicijnkosten.nl
+message_description_product_med: 
+  nl: Op deze website kunnen patiënten en zorgverleners informatie zoeken over de hoogte van de vergoeding en de vergoedingsstatus van geneesmiddelen in Nederland, op grond van de Zorgverzekeringswet (Zvw). De gegevens worden aan het begin van iedere maand geactualiseerd.
+  en: Op deze website kunnen patiënten en zorgverleners informatie zoeken over de hoogte van de vergoeding en de vergoedingsstatus van geneesmiddelen in Nederland, op grond van de Zorgverzekeringswet (Zvw). De gegevens worden aan het begin van iedere maand geactualiseerd.
+
+label_product_pro:
+  nl: ProZIN
+  en: ProZIN
+message_description_product_pro: 
+  nl: Het platform bestaande uit een CMS en een verzameling unversele bouwstenen waar de meeste digitale ZIN-producten op draaien.
+  en: The platform consisting of a CMS and a collection of universal building blocks on which most digital ZIN products run.
+
+label_product_ist:
+  nl: iStandaarden
+  en: iStandards
+message_description_product_ist: 
+  nl: "iStandaarden is het portaal voor 5 informatiestandaarden voor zorg en ondersteuning: iWlz, iWmo, iJw, iPgb en iEB. Elk van deze standaarden is een verzameling regels en afspraken die ervoor zorgen dat cliëntgegevens gestandaardiseerd, kwalitatief en veilig worden uitgewisseld. De informatie op deze website is belangrijk voor uitvoeringsorganisaties, zorgorganisaties, de Vereniging Nederlandse Gemeenten (VNG), Zorgverzekeraars Nederland (ZN) en de Nederlandse Zorgautoriteit (NZa)."
+  en: "iStandaarden is het portaal voor 5 informatiestandaarden voor zorg en ondersteuning: iWlz, iWmo, iJw, iPgb en iEB. Elk van deze standaarden is een verzameling regels en afspraken die ervoor zorgen dat cliëntgegevens gestandaardiseerd, kwalitatief en veilig worden uitgewisseld. De informatie op deze website is belangrijk voor uitvoeringsorganisaties, zorgorganisaties, de Vereniging Nederlandse Gemeenten (VNG), Zorgverzekeraars Nederland (ZN) en de Nederlandse Zorgautoriteit (NZa)."
+
+label_product_ziz:
+  nl: Zorginzicht
+  en: Zorginzicht
+message_description_product_ziz: 
+  nl: "Zorginzicht.nl is er voor iedereen die zich bezighoudt met het verbeteren van de kwaliteit van zorg. Naast een overzicht van landelijke afspraken over goede zorg vindt u hier ook ontwikkeltools om zelf een kwaliteitsinstrument te maken. Zorginzicht.nl is een initiatief van Zorginstituut Nederland."
+  en: "Zorginzicht.nl is for everyone who is concerned with improving the quality of health care. The website provides an overview of national agreements about good health care. You will also find development tools here to make your own quality instrument. Zorginzicht.nl is an initiative of Zorginstituut Nederland."
+
+label_product_zor:
+  nl: Zorgcijfersdatabank.nl
+  en: Zorgcijfersdatabank.nl
+message_description_product_zor: 
+  nl: De website Zorginzicht geeft een overzicht van landelijke afspraken over goede zorg. Die afspraken zijn beschreven in kwaliteitsstandaarden, meetinstrumenten en informatiestandaarden. Zorginzicht is er voor iedereen die zich bezighoudt met het verbeteren van de kwaliteit van zorg.
+  en: De website Zorginzicht geeft een overzicht van landelijke afspraken over goede zorg. Die afspraken zijn beschreven in kwaliteitsstandaarden, meetinstrumenten en informatiestandaarden. Zorginzicht is er voor iedereen die zich bezighoudt met het verbeteren van de kwaliteit van zorg.
+
 label_composition: 
   nl: Samenstelling
   en: Composition
