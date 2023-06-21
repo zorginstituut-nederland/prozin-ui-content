@@ -2,8 +2,8 @@ label_sluice_medicines:
   nl: Sluismedicijen
   en: Sluice medicines
 message_sluice_medicines:
-  nl: Nieuwe geneesmiddelen die in het ziekenhuis worden gebruikt (intramurale geneesmiddelen), worden meestal zonder bijzondere (prijs)afspraken toegelaten tot het basispakket. De minister van Volksgezondheid, Welzijn en Sport (VWS) kan besluiten om nieuwe middelen toch tijdelijk uit het basispakket te houden vanwege de hoge prijs. In de tussentijd kan het Zorginstituut een advies uitbrengen over wel of geen opname in het basispakket. En kan de minister met de fabrikant onderhandelen over de prijs. Op basis van de gegevens uit de Horizonscan Geneesmiddelen adviseert het Zorginstituut aan de minister welke middelen in de sluis moeten worden geplaatst.
-  en: New medicines that are used in the hospital (inpatient medicines) are usually admitted to the basic package without special (price) agreements. The Minister of Health, Welfare and Sport (VWS) may decide to temporarily exclude new drugs from the basic package because of the high price. In the meantime, the Zorginstituut can issue an advice on whether or not to include it in the basic package. And the minister can negotiate the price with the manufacturer. Based on the data from Medicines Horizon Scan, the Healthcare Institute advises the minister which medicines should be placed in the sluice.
+  nl: Nieuwe dure geneesmiddelen in ziekenhuizen worden normaal zonder prijsafspraken toegelaten. De minister kan ze tijdelijk uitsluiten van het basispakket vanwege hoge kosten. Het Zorginstituut adviseert over opname, de minister onderhandelt met fabrikanten. Sluis is voor kostbare behandelingen bij specialistische zorg in ziekenhuizen.
+  en: New hospital medicines, without price agreements, may be temporarily excluded from the basic package due to high prices. The Zorginstituut advises on inclusion, and the minister negotiates prices with the manufacturer. The Zorginstituut uses data from the Medicines Horizon Scan to recommend medicines for the sluice, which is for high-cost treatments in medical-specialist care within hospitals.
 label_sluice_medicine:
   nl: Sluismedicijn
   en: Sluice medicine
