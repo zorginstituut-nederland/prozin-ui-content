@@ -206,6 +206,31 @@ label_meets_sluice_criteria:
   fr: Remplit les critères de l'écluse
   de: Erfüllt Schleusenkriterien
 
+message_meets_sluice_criteria:
+  de: Wenn mehr als 10.000.000 € / mehr als 50.000 € pro Patient pro Jahr oder insgesamt mehr als 40.000.000 €.
+  en: If more than € 10,000,000 / more than € 50,000 per patient per year or more than € 40,000,000 in total.
+  fr: Si plus de 10 000 000 € / plus de 50 000 € par patient par an ou plus de 40 000 000 € au total.
+  he: אם יותר מ-€ 10,000,000 / יותר מ-€ 50,000 לפטיינט בשנה או יותר מ-€ 40,000,000 בסך הכל.
+  nl: Indien meer dan € 10.000.000/meer dan € 50.000 per patient per jaar of meer dan € 40.000.000 in totaal.
+message_sluice_candidate:
+  de: Wenn in den Schleusenkandidatenbrief aufgenommen.
+  en: If included in the sluice candidate letter.
+  fr: Si inclus dans la lettre de candidature à lʼécluse.
+  he: אם כלול במכתב המועמדים לתא.
+  nl: Indien opgenomen in de sluiskandidatenbrief.
+message_included_in_sluice:
+  de: Wenn in der Schleuse.
+  en: If in the sluice.
+  fr: Si dans lʼécluse.
+  he: אם בתא.
+  nl: Indien in de sluis.
+message_out_of_sluice:
+  de: Wenn aus der Schleuse.
+  en: If out of the sluice.
+  fr: Si hors de lʼécluse.
+  he: אם מחוץ לתא.
+  nl: Indien uit de sluis.
+
 message_help_sluice_criteria:
   nl: "Voldoet aan sluiscriteria: indien >10 miljoen/>50k pppj of >40 miljoen. Sluiskandidaat: indien opgenomen in de sluiskandidatenbrief. Opgenomen in de sluis: indien in de sluis. Uit de sluis: indien uit de sluis."
   en: "Meets sluice criteria: innovative drugs will be put in ‘the sluice’ if annual treatment costs per patient exceed €50,000 or total annual budget impact exceeds €40,000,000. Sluice candidate: if included in the sluice candidate letter. Included in the sluice: if in the sluice. Out of the sluice: if out of the sluice."
