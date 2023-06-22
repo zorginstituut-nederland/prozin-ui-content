@@ -78,11 +78,27 @@ label_homepage:
   he: דף הבית
   nl: Thuispagina
 
-label_swimlane_hero:
+label_swim_lane_hero:
   de: Hauptschwimmbahn
   en: Swim lane Hero
   fr: Couloir de nage principal
   nl: Hoofdzwembaan
+
+label_swim_lane_general_articles:
+  en: General articles
+  nl: Algemene artikelen
+
+label_swim_lane_browse:
+  en: Browse lane
+  nl: Bladerbaan
+
+label_help_see_also:
+  nl: Zie ook van de helpfunctie
+  en: Help 'See also'
+
+label_swim_lane_news:
+  en: News
+  nl: Nieuws
 
 label_breaking_news:
   de: Eilmeldung
