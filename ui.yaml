@@ -64,7 +64,7 @@ label_survey_url:
   he: URL של הסקר
   nl: Enquete-url
 
-label_swimlanes:
+label_swim_lanes:
   de: Schwimmbahnen
   en: Swim lanes
   fr: Voies de natation
@@ -85,11 +85,11 @@ label_swim_lane_hero:
   nl: Hoofdzwembaan
 
 label_swim_lane_general_articles:
-  en: General articles
-  nl: Algemene artikelen
+  en: Swim lane General articles
+  nl: Algemene artikelen-zwembaan
 
 label_swim_lane_browse:
-  en: Browse lane
+  en: Swim lane browse
   nl: Bladerbaan
 
 label_help_see_also:
@@ -97,8 +97,8 @@ label_help_see_also:
   en: Help 'See also'
 
 label_swim_lane_news:
-  en: News
-  nl: Nieuws
+  en: Swim lane News
+  nl: Nieuwszwembaan
 
 label_breaking_news:
   de: Eilmeldung
