@@ -236,19 +236,19 @@ message_sluice_candidate:
   en: If included in the sluice candidate letter.
   fr: Si inclus dans la lettre de candidature à lʼécluse.
   he: אם כלול במכתב המועמדים לתא.
-  nl: Indien opgenomen in de sluiskandidatenbrief.
+  nl: Deze geneesmiddelen zijn nog in het proces van goedkeuring. Deze geneesmiddelen zijn opgenomen in de sluiskandidatenbrief.
 message_included_in_sluice:
   de: Wenn in der Schleuse.
   en: If in the sluice.
   fr: Si dans lʼécluse.
   he: אם בתא.
-  nl: Indien in de sluis.
+  nl: Geneesmiddelen die in de sluis opgenomen zijn wordt over onderhandeld tussen de minister en de fabrikant. Zodra het geneesmiddel uit de sluis is is duidelijk of en met welke prijs het geneesmiddel vergoed wordt.
 message_out_of_sluice:
   de: Wenn aus der Schleuse.
   en: If out of the sluice.
   fr: Si hors de lʼécluse.
   he: אם מחוץ לתא.
-  nl: Indien uit de sluis.
+  nl: Deze geneesmiddelen zaten in de vorige scan nog in de sluis. Intussen is er een overeenkomst met de fabrikant gekomen, het komt in de basisverzekering en is geregistreerd of vergoed.
 
 message_help_sluice_criteria:
   nl: "Voldoet aan sluiscriteria: indien >10 miljoen/>50k pppj of >40 miljoen. Sluiskandidaat: indien opgenomen in de sluiskandidatenbrief. Opgenomen in de sluis: indien in de sluis. Uit de sluis: indien uit de sluis."
