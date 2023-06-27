@@ -1,3 +1,7 @@
+label_field_above_temporary_value:
+  nl: Bovenstaand volume is een voorlopige rekenwaarde.
+  en: The above volume is a provisional calculation value.
+
 label_body_text:
   nl: Broodtekst
   en: Body text
@@ -3729,6 +3733,12 @@ label_total_cost:
 label_patient_volume:
   nl: Patiëntvolume
   en: Patient volume
+label_max_patient_volume:
+  nl: Maximaal patiëntvolume
+  en: Maximum patient volume
+message_help_max_patient_volume:
+  nl: Gebruik deze waarde voor sluisgeneesmiddelenkandidaten.
+  en: Use this value for sluice medicine candidates.
 minimum_total_costs:
   nl: Minimale totale kosten
   en: Minimum total cost
@@ -4975,8 +4985,8 @@ message_help_sources:
   nl: "Dit betreft bronnen buiten de expertopinie."
   en: "This concerns sources outside the expert opinion."
 message_help_patient_volume:
-  nl: "Als er een exact aantal bekend is voor het patiëntvolume, vul dit aantal dan in beide velden in. In de weergave zal dit aantal maar één keer getoond worden."
-  en: "If an exact number is known for the patient volume, enter this number in both fields. The display will show this number only once."
+  nl: "Als er een exact aantal bekend is voor het patiëntvolume, vul dit aantal dan in beide velden in. In de weergave zal dit aantal maar één keer getoond worden. Vink 'Bovenstaand volume is een voorlopige rekenwaarde' aan als u al met het volume wilt rekenen voor een sluiskandidaatschap, maar deze waarde nog niet in de weergave wilt tonen."
+  en: "If an exact number is known for the patient volume, enter this number in both fields. The display will show this number only once. Tick 'The above volume is a provisional calculation value' if you already want to calculate the volume for a sluice candidacy, but do not want to show this value in the display yet."
 message_help_cost:
   nl: "Als er een exact bedrag bekend is voor de kosten, vul dit bedrag dan in beide velden in. In de weergave zal dit bedrag maar één keer getoond worden."
   en: If an exact amount is known for the costs, enter this amount in both fields. In the display this amount will only be shown once.
