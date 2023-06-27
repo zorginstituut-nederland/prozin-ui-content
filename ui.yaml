@@ -1,6 +1,6 @@
 label_field_above_temporary_value:
-  nl: Bovenstaand volume is een voorlopige rekenwaarde.
-  en: The above volume is a provisional calculation value.
+  nl: Bovenstaand waarde is een voorlopige rekenwaarde.
+  en: The above value is a provisional calculation value.
 
 label_body_text:
   nl: Broodtekst
@@ -9,7 +9,7 @@ label_sluice_candidates:
   nl: Sluiskandidaten
   en: Sluice candidates
 label_sluice_medicines:
-  nl: Sluismedicijen
+  nl: Sluismedicijnen
   en: Sluice medicines
 message_sluice_medicines:
   nl: Nieuwe dure geneesmiddelen in ziekenhuizen worden normaal zonder prijsafspraken toegelaten. De minister kan ze tijdelijk uitsluiten van het basispakket vanwege hoge kosten. Het Zorginstituut adviseert over opname, de minister onderhandelt met fabrikanten. Sluis is voor kostbare behandelingen bij specialistische zorg in ziekenhuizen.
@@ -3736,9 +3736,12 @@ label_patient_volume:
 label_max_patient_volume:
   nl: Maximaal patiëntvolume
   en: Maximum patient volume
+label_sluice_patient_volume:
+  nl: Maximaal patiëntvolume voor sluis
+  en: Maximum patient volume for sluice
 message_help_max_patient_volume:
-  nl: Gebruik deze waarde voor sluisgeneesmiddelenkandidaten.
-  en: Use this value for sluice medicine candidates.
+  nl: Deze waarde wordt gebruikt voor het berekenen van sluisgeneesmiddelenkandidaten en wordt nooit getoond aan fabrikanten.
+  en: This value is used for calculating sluice medicine candidates and is never shown to manufacturers.
 minimum_total_costs:
   nl: Minimale totale kosten
   en: Minimum total cost
