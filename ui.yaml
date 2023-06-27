@@ -3740,8 +3740,8 @@ label_sluice_patient_volume:
   nl: Maximaal patiëntvolume voor sluis
   en: Maximum patient volume for sluice
 message_help_max_patient_volume:
-  nl: Deze waarde wordt gebruikt voor het berekenen van sluisgeneesmiddelenkandidaten en wordt nooit getoond aan fabrikanten.
-  en: This value is used for calculating sluice medicine candidates and is never shown to manufacturers.
+  nl: Deze waarde wordt gebruikt voor het berekenen van sluisgeneesmiddelkandidaten en wordt verborgen voor fabrikanten.
+  en: This value is used for calculating sluice medicine candidates and is hidden to manufacturers.
 minimum_total_costs:
   nl: Minimale totale kosten
   en: Minimum total cost
