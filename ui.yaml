@@ -2285,6 +2285,12 @@ label_working_groups:
 label_role_werkgroeplid:
   nl: Werkgroeplid
   en: Working group member
+label_group_by_medicine_group:
+  nl: Groepeer op geneesmiddelgroep
+  en: Group by medicine group
+label_group_alphabetically:
+  nl: Groepeer alfabetisch
+  en: Group alphabetically
 label_role_lezer:
   nl: Lezer
   en: Bystander
