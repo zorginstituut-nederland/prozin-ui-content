@@ -599,6 +599,9 @@ label_remote:
 label_concepts:
   nl: Begrippen
   en: Concepts
+message_concepts:
+  nl: Overzicht van termen en begrippen die op deze site gehanteerd worden.
+  en: Overview of terms and concepts that are used on this site.
 label_concept:
   nl: Begrip
   en: Concept
