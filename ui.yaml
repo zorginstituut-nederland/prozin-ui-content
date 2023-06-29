@@ -600,8 +600,8 @@ label_concepts:
   nl: Begrippen
   en: Concepts
 message_concepts:
-  nl: Overzicht van termen en begrippen die op deze site gehanteerd worden.
-  en: Overview of terms and concepts that are used on this site.
+  nl: Een overzicht van belangrijke termen en begrippen die op deze site gehanteerd worden.
+  en: An overview of important terms and concepts that are used throughout this site.
 label_concept:
   nl: Begrip
   en: Concept
@@ -1613,6 +1613,9 @@ label_theme:
 label_themes:
   nl: Themata
   en: Topics
+message_themes:
+  nl: In deze sectie vindt u geneesmiddelen, geneesmiddelgroepen en indicaties ingedeeld op thema.
+  en: In this section you will find medicines, medicine groups and indications classified by theme.
 label_choice_information:
   nl: Keuzeinformatie
   en: Choice information
