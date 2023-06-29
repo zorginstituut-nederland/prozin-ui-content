@@ -455,6 +455,9 @@ message_help_quality_instrument_long_term_agenda:
 message_help_wegiz:
   nl: Het voorstel regelt dat zorgverleners kunnen worden verplicht om bepaalde gegevens (ten minste) elektronisch uit te wisselen, zolang daarvoor een grondslag bestaat (zoals toestemming van de patiënt). Ook kunnen eisen worden gesteld aan de taal die bij de gegevensuitwisseling wordt gebruikt, zodat zorgverleners elkaar meteen kunnen begrijpen. Ten slotte kunnen eisen worden gesteld aan de techniek waarmee gegevens worden uitgewisseld, zodat de gegevensuitwisseling niet wordt bemoeilijkt doordat zorgaanbieders verschillende informatiesystemen gebruiken.
   en: The proposal provides that healthcare providers can be obliged to exchange certain data (at least) electronically, as long as there is a basis for doing so (such as the patient's consent). Requirements can also be set for the language used for data exchange, so that care providers can immediately understand each other. Finally, requirements can be set for the technology with which data is exchanged, so that the data exchange is not made more difficult by the fact that healthcare providers use different information systems.
+label_price_agreement_in_place:
+  nl: Voor dit geneesmiddel bestaat een financieel arrangement
+  en: For this medicine a price agreement is in place
 message_help_show_summaries:
   nl: Wanneer deze optie ingeschakeld is wordt er, waar beschikbaar, een samenvatting boven de inhoud getoond. Deze optie heeft uitsluitend invloed op Geneesmiddelpagina's, Geneesmiddelgroeppagina's en Indicatiepagina's.
   en: When this option is enabled, a summary will be shown above the content where available. This option only affects Medicine pages, Medicine group pages and Indication pages.
