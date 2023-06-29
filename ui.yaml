@@ -2291,6 +2291,12 @@ label_group_by_medicine_group:
 label_group_alphabetically:
   nl: Groepeer alfabetisch
   en: Group alphabetically
+label_group_thematically:
+  nl: Groepeer op thema
+  en: Group thematically
+label_group_by_indication:
+  nl: Groepeer op indicatie
+  en: Group by indication
 label_role_lezer:
   nl: Lezer
   en: Bystander
