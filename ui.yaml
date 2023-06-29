@@ -1607,6 +1607,9 @@ label_number:
 label_theme:
   nl: Thema
   en: Theme
+label_themes:
+  nl: Thema's
+  en: Topics
 label_choice_information:
   nl: Keuzeinformatie
   en: Choice information
