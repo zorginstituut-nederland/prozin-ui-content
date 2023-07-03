@@ -223,6 +223,10 @@ label_medicine_sluice:
   he: סילון תרופות
   nl: Geneesmiddelensluis
 
+label_any_sluice_statue:
+  nl: Willekeurige sluisstatus
+  en: Any sluice status
+
 label_meets_sluice_criteria:
   nl: Voldoet aan sluiscriteria
   en: Meets sluice criteria
@@ -491,6 +495,9 @@ message_refine_search_result:
 message_nothing_for_this_workflow_state:
   en: There are no documents with this workflow state.
   nl: Er zijn geen documenten in deze werkstroomstaat.
+label_workflow_state:
+  en: Workflow state
+  nl: Werkstroomstaat
 label_first_editorial:
   en: First editorial
   nl: Eerste redactie
