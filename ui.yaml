@@ -223,7 +223,7 @@ label_medicine_sluice:
   he: סילון תרופות
   nl: Geneesmiddelensluis
 
-label_any_sluice_statue:
+label_any_sluice_status:
   nl: Willekeurige sluisstatus
   en: Any sluice status
 
@@ -2295,18 +2295,6 @@ label_working_groups:
 label_role_werkgroeplid:
   nl: Werkgroeplid
   en: Working group member
-label_group_by_medicine_group:
-  nl: Groepeer op geneesmiddelgroep
-  en: Group by medicine group
-label_group_alphabetically:
-  nl: Groepeer alfabetisch
-  en: Group alphabetically
-label_group_thematically:
-  nl: Groepeer op thema
-  en: Group thematically
-label_group_by_indication:
-  nl: Groepeer op indicatie
-  en: Group by indication
 label_role_lezer:
   nl: Lezer
   en: Bystander
@@ -3933,6 +3921,21 @@ label_grouped_by_particularity:
 label_grouped_by_registration_phase: 
   nl: Ingedeeld op registratiefase
   en: Grouped by registration phase  
+label_group_by_medicine_group:
+  nl: Ingedeeld op geneesmiddelgroep
+  en: Group by medicine group
+label_group_alphabetically:
+  nl: Ingedeeld alfabetisch
+  en: Group alphabetically
+label_group_thematically:
+  nl: Ingedeeld op thema
+  en: Group thematically
+label_group_by_indication:
+  nl: Ingedeeld op indicatie
+  en: Group by indication
+label_grouped_by_sluice_status:
+  nl: Ingedeeld op sluisstatus
+  en: Group by sluice status
 label_ungrouped:
   nl: Zonder indeling
   en: Ungrouped
