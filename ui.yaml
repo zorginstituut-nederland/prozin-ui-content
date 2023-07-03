@@ -3738,6 +3738,9 @@ label_cost:
 label_total_cost:
   nl: Totale kosten
   en: Total cost
+label_total_cost_for_sluice:
+  nl: Totale kosten voor sluis
+  en: Total cost for sluice
 label_patient_volume:
   nl: Patiëntvolume
   en: Patient volume
