@@ -1,7 +1,9 @@
 label_field_above_temporary_value:
   nl: Bovenstaand waarde is een voorlopige rekenwaarde.
   en: The above value is a provisional calculation value.
-
+label_field_above_temporary_values:
+  nl: Bovenstaand waarden zijn voorlopige rekenwaarden.
+  en: The above values are provisional calculation values.
 label_body_text:
   nl: Broodtekst
   en: Body text
