@@ -1,3 +1,9 @@
+label_folder_name:
+  nl: Mapnaam
+  en: Folder name
+label_topic_lanes:
+  nl: Onderwerpbanen
+  en: Topic lanes
 label_field_above_temporary_value:
   nl: Bovenstaand waarde is een voorlopige rekenwaarde.
   en: The above value is a provisional calculation value.
@@ -833,6 +839,18 @@ label_new_article:
 label_article:
   nl: Artikelpagina
   en: Article
+label_visible:
+  nl: Zichtbaar
+  en: Visible
+label_visible_from_outside:
+  nl: Van buitenaf zichtbaar
+  en: Visible from the outside
+label_visibility:
+  nl: Zichtbaarheid
+  en: Visibility
+message_help_visibility:
+  nl: "Bepaal of de folder publiekelijk zichtbaar moet zijn in de vorm van een landingspagina. Let op: gepubliceerde contentobjecten in een onzichtbare map kunnen door bezoekers nog steeds benaderbaar zijn via bijvoorbeeld de zoekfunctie."
+  en: "Determine whether the folder should be publicly visible in the form of a landing page. Please note: content objects published in an invisible folder may still be accessible to visitors via, for example, the search function."
 label_general_article:
   nl: Algemeen artikel
   en: General article
@@ -842,6 +860,9 @@ label_new_general_article:
 label_new_folder:
   nl: Nieuwe map
   en: New folder
+label_edit_folder:
+  nl: Map bewerken
+  en: Edit folder
 label_new_smart_folder:
   nl: Nieuwe slimme map
   en: New smart folder
@@ -1887,7 +1908,12 @@ label_keyword:
 label_layout:
   nl: Indeling
   en: Layout
-
+message_help_landing_layout:
+  nl: Lorem ipsum dolor sit amet consectetur.
+  en: Lorem ipsum dolor sit amet consectetur.
+message_help_folder_summary:
+  nl: Lorem ipsum dolor sit amet consectetur.
+  en: Lorem ipsum dolor sit amet consectetur.
 label_language:
   nl: Taal
   en: Language
