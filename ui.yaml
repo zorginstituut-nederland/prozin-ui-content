@@ -408,6 +408,12 @@ label_quality_instrument:
 label_development_tools:
   en: Development tools
   nl: Ontwikkeltools
+message_development_tools:
+  nl: Voor de ontwikkeling van kwaliteitsstandaarden, meetinstrumenten, informatiestandaarden en onderliggende producten (cliënteninformatie bijvoorbeeld) zijn er ontwikkeltools. De tools beslaan het hele proces van totstandkoming en implementatie.
+  en: There are development tools for the development of quality standards, measuring instruments, information standards and underlying products (client information, for example). The tools cover the entire process of creation and implementation.
+message_development_tools_description:
+  nl: Hulpmiddelen voor de ontwikkeling van kwaliteitsstandaarden, meetinstrumenten, informatiestandaarden en onderliggende producten.
+  en: Tools for the development of quality standards, measurement tools, information standards and underlying products.
 label_development_tool:
   en: Development tool
   nl: Ontwikkeltool
@@ -4800,9 +4806,6 @@ label_newscontentdocument:
 message_help_file_upload:
   nl: "De volgende bestandsformaten zijn toegestaan volgens de richtlijnen van Rijksoverheid: PDF, CSV, ODT, XML en MP3."
   en: "The following file formats are allowed according to the guidelines of the Dutch government: PDF, CSV, ODT, XML and MP3."
-message_development_tools_description:
-  nl: Hulpmiddelen voor de ontwikkeling van kwaliteitsstandaarden, meetinstrumenten, informatiestandaarden en onderliggende producten.
-  en: Tools for the development of quality standards, measurement tools, information standards and underlying products.
 message_transparency_calendar_description:
   nl: Overzicht van wanneer welke kwaliteitsgegevens over verleende zorg aangeleverd worden.
   en: Overview of when what quality data on care provided will be delivered.
