@@ -1,3 +1,9 @@
+label_quote:
+  nl: Citaat
+  en: Quote
+label_swim_lane_quote:
+  nl: Zwembaan citaat
+  en: Swim lane quote
 label_list:
   nl: Lijst
   en: List
