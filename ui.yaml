@@ -4617,6 +4617,9 @@ label_conditional_marketing_authorisation:
 label_conditions:
   nl: Voorwaarden
   en: Conditions
+label_conditions_with_ell:
+  nl: Voorwaarden bij …
+  en: Conditions for …
 label_adaptive_pathway:
   nl: Adaptief traject
   en: Adaptive pathways
