@@ -1,3 +1,18 @@
+message_help_medicine_for_conditions:
+  de: Wählen Sie das Medikament aus, zu dem diese Bedingungen gehören. Dieses Medikament erscheint automatisch im Abschnitt "Siehe auch" am Ende der Seite.
+  en: Select the medicine these conditions belong to. This medicine will after saving automatically appear in the 'See also section' at the bottom of the page.
+  fr: Sélectionnez le médicament auquel ces conditions appartiennent. Ce médicament apparaîtra automatiquement dans la section 'Voir aussi' en bas de page.
+  he: בחר את התרופה שאלה תנאים שייכים לה. התרופה תופיע אוטומטית בסעיף 'ראה גם' בתחתית הדף.
+  nl: Selecteer het geneesmiddel waar deze voorwaarden bij horen. Dit geneesmiddel verschijnt na opslaan automatisch in de 'Zie ook-sectie' onderaan de pagina.
+
+message_help_conditions_for_medicine:
+  de: Diese Bedingungen werden dem Overlay 'Bedingungen' des Medikaments hinzugefügt.
+  en: These conditions will be added to the medicine's 'Conditions' overlay.
+  fr: Ces conditions seront ajoutées à la superposition 'Conditions' du médicament.
+  he: התנאים האלה יתווספו לשכבה של 'תנאים' של התרופה.
+  nl: Deze voorwaarden worden toegevoegd aan de overlay 'Voorwaarden' van het geneesmiddel.
+
+  
 label_quote:
   nl: Citaat
   en: Quote
