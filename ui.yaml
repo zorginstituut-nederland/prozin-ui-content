@@ -435,6 +435,12 @@ label_new_dialogue:
 label_new_component:
   en: New component
   nl: Nieuw component
+label_new_conditions:
+  en: New conditions
+  nl: Nieuwe voorwaarden
+label_new_condition_set:
+  en: New set of conditions
+  nl: Nieuwe set van voorwaarden
 label_new_page_type:
   en: New page type
   nl: Nieuw paginatype
@@ -4608,6 +4614,9 @@ label_accelerated_assessment:
 label_conditional_marketing_authorisation:
   nl: Conditional marketing authorisation
   en: Conditional marketing authorisation
+label_conditions:
+  nl: Voorwaarden
+  en: Conditions
 label_adaptive_pathway:
   nl: Adaptief traject
   en: Adaptive pathways
