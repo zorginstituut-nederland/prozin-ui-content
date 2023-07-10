@@ -6,13 +6,9 @@ message_help_medicine_for_conditions:
   nl: Selecteer het geneesmiddel waar deze voorwaarden bij horen. Dit geneesmiddel verschijnt na opslaan automatisch in de 'Zie ook-sectie' onderaan de pagina.
 
 message_help_conditions_for_medicine:
-  de: Diese Bedingungen werden dem Overlay 'Bedingungen' des Medikaments hinzugefügt.
-  en: These conditions will be added to the medicine's 'Conditions' overlay.
-  fr: Ces conditions seront ajoutées à la superposition 'Conditions' du médicament.
-  he: התנאים האלה יתווספו לשכבה של 'תנאים' של התרופה.
-  nl: Deze voorwaarden worden toegevoegd aan de overlay 'Voorwaarden' van het geneesmiddel.
+  en: These terms are displayed as an introduction on the terms and conditions page of the medicine.
+  nl: Deze voorwaarden worden weergegeven als introductie op de voorwaardenpagina van het geneesmiddel.
 
-  
 label_quote:
   nl: Citaat
   en: Quote
