@@ -1,3 +1,11 @@
+message_help_image_upload:
+  nl: Afbeeldingen dienen in JPG, SVG of PNG-formaat te zijn. JPG is het meest geschikt voor fotografie. SVG is meer geschikt voor vectorafbeeldingen en PNG is het meest geschikt voor schermafdrukken. Verklein of converteer afbeeldingen niet zelf, maar laad bij voorkeur het origineel op. Kleinere versies worden automatisch door de server aangemaakt. De maximaal toegestane bestandsgrootte is 50 Megabyte. 
+  en: Images must be in JPG, SVG or PNG format. JPG is best suited for photography. SVG is more suitable for vector graphics and PNG is best for screen printing. Do not resize or convert images yourself, but preferably upload the original. Smaller versions are created automatically by the server. The maximum allowed file size is 50 Megabytes.
+
+message_help_alt_text:
+  nl: De alternatieve tekst beschrijft wat er op de afbeelding te zien, ongeacht de context waarin de afbeelding mogelijk gebruikt zal worden. Wees accuraat. Focus op het beschrijven van de afbeelding. Wees beknopt. Lange alternatieve teksten zijn vervelend voor degenen die schermlezers gebruiken. Gebruik zo min mogelijk woorden. Richtlijn is maximaal 100 tekens. Vermijd ‘keyword stuffing’. Dit is niet de plaats om zoveel mogelijk zoekwoorden te plaatsen. Vermijd te melden dat het een afbeelding is. Het is niet nodig om “Afbeelding van …” of “Foto van …” in beschrijvingen op te nemen. Zowel Google als schermlezers kunnen dat zelf bepalen.
+  en: The alt text describes what can be seen in the image, regardless of the context in which the image may be used. Be accurate. Focus on describing the image. Be concise. Long alt texts are annoying for those who use screen readers. Use as few words as possible. Guideline is a maximum of 100 characters. Avoid keyword stuffing. This is not the place to put as many keywords as possible. Avoid saying it's an image. There is no need to include “Picture of…” or “Photo of…” in descriptions. Both Google and screen readers can determine that for themselves.
+
 message_help_medicine_for_conditions:
   de: Wählen Sie das Medikament aus, zu dem diese Bedingungen gehören. Dieses Medikament erscheint automatisch im Abschnitt "Siehe auch" am Ende der Seite.
   en: Select the medicine these conditions belong to. This medicine will after saving automatically appear in the 'See also section' at the bottom of the page.
