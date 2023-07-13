@@ -888,6 +888,11 @@ label_visible:
 label_visible_from_outside:
   nl: Van buitenaf zichtbaar
   en: Visible from the outside
+
+label_visible_from_outside_as_landing_page:
+  nl: Van buitenaf zichtbaar als landingspagina
+  en: Visible from the outside as landing page
+
 label_visibility:
   nl: Zichtbaarheid
   en: Visibility
