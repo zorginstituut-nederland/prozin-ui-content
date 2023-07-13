@@ -4418,10 +4418,15 @@ label_medicines:
 label_medicine_group:
   nl: Geneesmiddelgroep
   en: Medicine group
+label_medicine_information:
+  nl: Geneesmiddelinformatie
+  en: Medicine information
 label_medicine_groups:
   nl: Geneesmiddelgroepen
   en: Medicine groups
-
+label_new_medicine_information:
+  nl: Nieuwe geneesmiddelinformatie
+  en: New medicine information
 label_product_fk:
   nl: Farmacotherapeutisch Kompas
   en: Pharmacotherapeutical Compass
