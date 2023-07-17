@@ -432,6 +432,12 @@ message_delete_draft:
 label_delete_draft:
   nl: Concept verwijderen
   en: Delete draft
+label_delete_folder:
+  nl: Map verwijderen
+  en: Delete folder
+label_delete_folder_imp:
+  nl: Verwijder map
+  en: Delete folder
 label_delete_draft_imp:
   nl: Verwijder concept
   en: Delete draft
@@ -4211,6 +4217,9 @@ label_centre_of_expertise:
 label_draft:
   nl: Concept
   en: Draft
+label_new_draft:
+  nl: Nieuw concept
+  en: New draft
 label_notes:
   nl: Notities
   en: Notes
@@ -4856,6 +4865,9 @@ label_administrators:
 label_last_modified_on:
   nl: Laatst bewerkt op
   en: Last modified on 
+label_last_modified:
+  nl: Laatst bewerkt
+  en: Last modified
 label_shared_with_name:
   nl: 'Gedeeld met <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
   en: 'Shared with <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
