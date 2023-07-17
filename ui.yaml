@@ -41,6 +41,10 @@ message_help_alt_text:
   nl: De alternatieve tekst beschrijft wat er op de afbeelding te zien, ongeacht de context waarin de afbeelding mogelijk gebruikt zal worden. Wees accuraat. Focus op het beschrijven van de afbeelding. Wees beknopt. Lange alternatieve teksten zijn vervelend voor degenen die schermlezers gebruiken. Gebruik zo min mogelijk woorden. Richtlijn is maximaal 100 tekens. Vermijd ‘keyword stuffing’. Dit is niet de plaats om zoveel mogelijk zoekwoorden te plaatsen. Vermijd te melden dat het een afbeelding is. Het is niet nodig om “Afbeelding van …” of “Foto van …” in beschrijvingen op te nemen. Zowel Google als schermlezers kunnen dat zelf bepalen.
   en: The alt text describes what can be seen in the image, regardless of the context in which the image may be used. Be accurate. Focus on describing the image. Be concise. Long alt texts are annoying for those who use screen readers. Use as few words as possible. Guideline is a maximum of 100 characters. Avoid keyword stuffing. This is not the place to put as many keywords as possible. Avoid saying it's an image. There is no need to include “Picture of…” or “Photo of…” in descriptions. Both Google and screen readers can determine that for themselves.
 
+message_overwrite_by_uploading_new_image:
+  nl: U kunt dit beeld overschrijven door een nieuwe versie op te laden.
+  en: You can overwrite this image by uploading a new version.
+
 message_help_medicine_for_conditions:
   de: Wählen Sie das Medikament aus, zu dem diese Bedingungen gehören. Dieses Medikament erscheint automatisch im Abschnitt "Siehe auch" am Ende der Seite.
   en: Select the medicine these conditions belong to. This medicine will after saving automatically appear in the 'See also section' at the bottom of the page.
