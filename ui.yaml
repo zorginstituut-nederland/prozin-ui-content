@@ -1,3 +1,38 @@
+label_image_type:
+  en: Image type
+  nl: Afbeeldingstype
+label_copyright:
+  en: Copyright
+  nl: Auteursrecht
+label_grouped_by_registration_phase:
+  en: Grouped by registration phase
+  nl: Gegroepeerd op registratiefase
+label_grouped_by_collection:
+  en: Grouped by collection
+  nl: Gegroepeerd op collectie
+label_grouped_by_workflowstate:
+  en: Grouped by workflow state
+  nl: Gegroepeerd op workflowstatus
+label_grouped_by_tag:
+  en: Grouped by tag
+  nl: Gegroepeerd op tag
+label_grouped_by_image_type:
+  en: Grouped by image type
+  nl: Gegroepeerd op afbeeldingstype
+label_image_bank_ungrouped:
+  en: Ungrouped
+  nl: Niet gegroepeerd
+label_sort_by_date:
+  en: Sort by date
+  nl: Sorteer op datum
+label_sort_by_name:
+  en: Sort by name
+  nl: Sorteer op naam
+label_sort_by_popularity:
+  en: Sort by popularity
+  nl: Sorteer op populariteit
+
+
 message_help_image_upload:
   nl: Afbeeldingen dienen in JPG, SVG of PNG-formaat te zijn. JPG is het meest geschikt voor fotografie. SVG is meer geschikt voor vectorafbeeldingen en PNG is het meest geschikt voor schermafdrukken. Verklein of converteer afbeeldingen niet zelf, maar laad bij voorkeur het origineel op. Kleinere versies worden automatisch door de server aangemaakt. De maximaal toegestane bestandsgrootte is 50 Megabyte. 
   en: Images must be in JPG, SVG or PNG format. JPG is best suited for photography. SVG is more suitable for vector graphics and PNG is best for screen printing. Do not resize or convert images yourself, but preferably upload the original. Smaller versions are created automatically by the server. The maximum allowed file size is 50 Megabytes.
