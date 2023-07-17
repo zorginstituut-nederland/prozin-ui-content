@@ -836,6 +836,9 @@ label_add_link_imp:
 label_general:
   en: General
   nl: Algemeen
+label_archived:
+  en: Archived
+  nl: Gearchiveerd
 label_remove_this_language:
   en: Remove this language
   nl: Verwijder deze taal
