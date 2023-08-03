@@ -697,6 +697,9 @@ label_concepts:
 message_concepts:
   nl: Een overzicht van belangrijke termen en begrippen die op deze site gehanteerd worden.
   en: An overview of important terms and concepts that are used throughout this site.
+message_glossary:
+  nl: Een overzicht van belangrijke termen en begrippen die op deze site gehanteerd worden.
+  en: An overview of important terms and concepts that are used throughout this site.
 label_concept:
   nl: Begrip
   en: Concept
