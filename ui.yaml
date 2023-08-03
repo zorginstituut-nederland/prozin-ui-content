@@ -406,6 +406,12 @@ label_implementation_plan:
 label_module:
   nl: Module
   en: Module
+label_modules:
+  nl: Modules
+  en: Modules
+message_ist_modules:
+  nl: Lorem ipsum dolor sit amet consectetur
+  en: Lorem ipsum dolor sit amet consectetur
 label_maintenance_plan:
   nl: Onderhoudsplan
   en: Maintenance Plan
@@ -1902,6 +1908,9 @@ label_presentation:
 label_information_model:
   nl: Informatiemodel
   en: Information model
+message_information_model: 
+  nl: In het Informatiemodel iStandaarden liggen de specificaties voor alle iStandaarden vast. Het model biedt een totaaloverzicht van lopende releases van iWlz, iWmo, iJw, iEb en iPgb. Ook ziet u welke releases in ontwikkeling zijn, wat vorige releases waren en er is een archief.
+  en: The iStandaarden Information Model contains the specifications for all iStandards. The model provides a total overview of current releases of iWlz, iWmo, iJw, iEb and iPgb. You can also see which releases are in development, what previous releases were and there is an archive.
 label_information:
   nl: Informatie
   en: Information
