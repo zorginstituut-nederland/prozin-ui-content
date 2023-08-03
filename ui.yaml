@@ -410,8 +410,8 @@ label_modules:
   nl: Modules
   en: Modules
 message_ist_modules:
-  nl: Lorem ipsum dolor sit amet consectetur
-  en: Lorem ipsum dolor sit amet consectetur
+  nl: Hulpmiddelen voor gebruikers van iStandaarden en softwareontwikkelaars.
+  en: Tools for iStandaarden users and software developers.
 label_maintenance_plan:
   nl: Onderhoudsplan
   en: Maintenance Plan
