@@ -1,3 +1,15 @@
+label_typical_side_effects:
+  nl: Typerende bijwerkingen
+  en: Typical side effects
+label_mechanism:
+  en: Mechanism
+  nl: Werking
+label_attributions:
+  en: Attributions
+  nl: Bronvermeldingen
+label_source_reference:
+  en: Source reference
+  nl: Bronvermelding
 label_image_type:
   en: Image type
   nl: Beeldtype
@@ -3671,7 +3683,10 @@ label_sources:
   en: References
 label_source:
   nl: Bron
-  en: Source
+  en: Reference
+label_attribution:
+  nl: Bronvermelding
+  en: Attribution
 label_dosage_per_administration:
   nl: Dosis per toediening
   en: Dosage per administration
