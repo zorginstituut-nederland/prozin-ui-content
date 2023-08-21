@@ -7,6 +7,12 @@ label_mechanism:
 label_attributions:
   en: Attributions
   nl: Bronvermeldingen
+label_background:
+  en: Background
+  nl: Achtergrond
+label_treatment_plan:
+  en: Treatment plan
+  nl: Behandelplan
 label_source_reference:
   en: Source reference
   nl: Bronvermelding
