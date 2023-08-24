@@ -1128,6 +1128,9 @@ label_site_update:
 message_minimum_search_characters:
   en: Enter at least 3 characters to be able to search.
   nl: Voer minimaal 3 karakters in om te kunnen zoeken.
+message_search_help:
+  en: Enter a keyword or use any of the filters...
+  nl: Voer een trefwoord in of gebruik een van de filters...
 label_ok:
   en: Okay
   nl: Oké
