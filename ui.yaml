@@ -1122,6 +1122,14 @@ label_role_within_this_application:
   nl: Rol binnen deze applicatie
   en: Role within this application
 
+label_data_exchange:
+  nl: Gegevensuitwisseling
+  en: Data exchange
+
+message_data_exchange:
+  nl: Overzicht van standaarden die een verplicht component hebben vanwege de Wet elektronische gegevensuitwisseling in de zorg (Wegiz).
+  en: Overview of standards that have a mandatory component due to the Electronic Data Exchange in Healthcare Act (Wegiz).
+
 label_site_update:
   nl: Site-update
   en: Site update
