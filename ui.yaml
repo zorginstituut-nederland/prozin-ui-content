@@ -1558,6 +1558,9 @@ label_percentage:
 label_text:
   nl: Tekst
   en: Text
+label_rich_text:
+  nl: label_rich_text=Text with formatting
+  en: label_rich_text=Tekst met opmaak
 label_fraction:
   nl: Breuk
   en: Fraction
