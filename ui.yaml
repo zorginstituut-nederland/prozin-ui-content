@@ -1558,6 +1558,9 @@ label_percentage:
 label_text:
   nl: Tekst
   en: Text
+label_rich_text:
+  nl: label_rich_text=Text with formatting
+  en: label_rich_text=Tekst met opmaak
 label_fraction:
   nl: Breuk
   en: Fraction
@@ -2163,10 +2166,10 @@ label_amvb_wegiz:
   en: Appointed in AMvB under Wegiz
 
 message_prio_wegiz:
-  nl: Lorem ipsum dolor sit amet consectetur bla bla bla.
+  nl: Lorem ipsum Kathalijne levert hier nog een geweldig stukje tekst voor aan dolor sit amet consectetur bla bla bla.
   en: Lorem ipsum dolor sit amet consectetur bla bla bla.
 message_amvb_wegiz:
-  nl: Lorem ipsum dolor sit amet consectetur bla bla bla.
+  nl: Lorem en ook hier levert Kathalijne nog een puik stukje tekst voro aan ipsum dolor sit amet consectetur bla bla bla.
   en: Lorem ipsum dolor sit amet consectetur bla bla bla.
 
 label_revision_date:
