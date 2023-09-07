@@ -1558,9 +1558,6 @@ label_percentage:
 label_text:
   nl: Tekst
   en: Text
-label_rich_text:
-  nl: label_rich_text=Text with formatting
-  en: label_rich_text=Tekst met opmaak
 label_fraction:
   nl: Breuk
   en: Fraction
@@ -2049,11 +2046,11 @@ label_layout:
   nl: Indeling
   en: Layout
 message_help_landing_layout:
-  nl: Lorem ipsum dolor sit amet consectetur.
-  en: Lorem ipsum dolor sit amet consectetur.
+  nl: Selecteer een lay-out voor de landingspagina. De lay-out is zichtbaar op de publieke kant van de website. Gebruik de voorbeeldknop op de werkbalk om het resultaat van uw keuze te bekijken.
+  en: Select a layout for the landing page. The layout is visible on the public side of the website. Use the preview button on the toolbar to see the result of your selection.
 message_help_folder_summary:
-  nl: Lorem ipsum dolor sit amet consectetur.
-  en: Lorem ipsum dolor sit amet consectetur.
+  nl: De samenvatting van de map wordt getoond bovenaan landingspagina's, in zoekresultaten op deze site en wordt gebruikt voor indexering door zoekmachines. 
+  en: The folder summary is displayed at the top of landing pages, in search results on this site, and is used by search engine for indexing.
 label_language:
   nl: Taal
   en: Language
