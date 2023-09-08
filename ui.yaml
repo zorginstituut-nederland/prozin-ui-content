@@ -763,6 +763,9 @@ label_your_content_goes_here_ell:
 label_preview:
   nl: Voorvertoning
   en: Preview
+label_all_sectors:
+  nl: Alle sectoren
+  en: All sectors
 label_collapse_all_sections:
   nl: Vouw alle secties dicht
   en: Collapse all sections
