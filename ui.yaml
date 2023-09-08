@@ -757,6 +757,9 @@ label_apply_imp:
 label_apply:
   nl: Toepassen
   en: Apply
+label_information_per_sector:
+  nl: Informatie per sector
+  en: Information per sector
 label_your_content_goes_here_ell:
   nl: Schrijf of plaats hier uw inhoud…
   en: Your content goes here…
