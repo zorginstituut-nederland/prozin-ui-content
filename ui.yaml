@@ -757,6 +757,9 @@ label_apply_imp:
 label_apply:
   nl: Toepassen
   en: Apply
+label_cross_sectoral:
+  nl: Sectoroverstijgend
+  en: Across sectors
 label_information_per_sector:
   nl: Informatie per sector
   en: Information per sector
