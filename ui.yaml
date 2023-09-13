@@ -189,15 +189,12 @@ message_overwrite_by_uploading_new_image:
   en: You can overwrite this image by uploading a new version.
 
 message_help_medicine_for_conditions:
-  de: Wählen Sie das Medikament aus, zu dem diese Bedingungen gehören. Dieses Medikament erscheint automatisch im Abschnitt "Siehe auch" am Ende der Seite.
-  en: Select the medicine these conditions belong to. This medicine will after saving automatically appear in the 'See also section' at the bottom of the page.
-  fr: Sélectionnez le médicament auquel ces conditions appartiennent. Ce médicament apparaîtra automatiquement dans la section 'Voir aussi' en bas de page.
-  he: בחר את התרופה שאלה תנאים שייכים לה. התרופה תופיע אוטומטית בסעיף 'ראה גם' בתחתית הדף.
-  nl: Selecteer het geneesmiddel waar deze voorwaarden bij horen. Dit geneesmiddel verschijnt na opslaan automatisch in de 'Zie ook-sectie' onderaan de pagina.
+  en: Select the medicine the information below belongs to. 
+  nl: Selecteer het geneesmiddel waar onderstaande informatie bij hoort.
 
 message_help_conditions_for_medicine:
-  en: These terms are displayed as an introduction on the terms and conditions page of the medicine.
-  nl: Deze voorwaarden worden weergegeven als introductie op de voorwaardenpagina van het geneesmiddel.
+  en: These terms are displayed as an introduction in the terms and conditions section of the medicine.
+  nl: Deze voorwaarden worden weergegeven als introductie in de voorwaardensectie van het geneesmiddel.
 
 label_quote:
   nl: Citaat
