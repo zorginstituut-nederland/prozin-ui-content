@@ -1106,8 +1106,8 @@ message_help_visibility:
   nl: "Bepaal of de folder publiekelijk zichtbaar moet zijn in de vorm van een landingspagina. Let op: gepubliceerde contentobjecten in een onzichtbare map kunnen door bezoekers nog steeds benaderbaar zijn via bijvoorbeeld de zoekfunctie."
   en: "Determine whether the folder should be publicly visible in the form of a landing page. Please note: content objects published in an invisible folder may still be accessible to visitors via, for example, the search function."
 label_general_article:
-  nl: Algemeen artikel
-  en: General article
+  nl: Artikel
+  en: Article
 label_new_general_article:
   nl: Nieuw algemeen artikel
   en: New general article
