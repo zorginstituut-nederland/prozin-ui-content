@@ -2,6 +2,10 @@ label_see_object:
   nl: Zie {0}
   en: See {0}
 
+label_see:
+  nl: Zie
+  en: See
+
 label_basic_data_set_care_bgz:
   nl: "Basisgegevensset Zorg (BgZ)"
   en: "Basic Data Set Care (BgZ)"
