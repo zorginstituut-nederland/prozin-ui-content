@@ -5579,3 +5579,10 @@ fragment_pages:
   nl: pagina's
   en: pages
 
+label_gvs:
+  nl: GVS
+  en: GVS
+
+message_help_gvs:
+  nl: Deze link wordt getoond bij de prijs van een geneesmiddel dat deels vergoed wordt.
+  en: For a medicine that is partially reimbursed, this link will be shown with the price.
