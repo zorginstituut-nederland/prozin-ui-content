@@ -5602,3 +5602,7 @@ label_basic_insurance:
 label_insurance:
   nl: Verzekering
   en: Insurance 
+
+label_insurer:
+  nl: Verzekeraar
+  en: Insurer
