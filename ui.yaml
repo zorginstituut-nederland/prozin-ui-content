@@ -5594,3 +5594,11 @@ label_gvs:
 message_help_gvs:
   nl: Deze link wordt getoond bij de prijs van een geneesmiddel dat deels vergoed wordt.
   en: For a medicine that is partially reimbursed, this link will be shown with the price.
+
+label_basic_insurance:
+  nl: Basisverzekering
+  en: Basic insurance
+
+label_insurance:
+  nl: Verzekering
+  en: Insurance 
