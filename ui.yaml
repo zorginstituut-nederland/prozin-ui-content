@@ -5715,7 +5715,7 @@ label_eu_number:
   nl: EU-nummer
   en: EU number
 
-message_:
+message_preference_policy_help:
   nl: Zorgverzekeraars hebben bij een aantal geneesmiddelen de mogelijkheid om alleen bepaalde varianten (bijvoorbeeld op grond van hun prijsstelling of prijsafspraken tussen zorgverzekeraar en geneesmiddelenfabrikant) te vergoeden. Dit noemen we preferentiebeleid. Als uw zorgverzekeraar voor één of meer middelen een preferentiebeleid voert, staat dat in uw verzekeringspolis. Indien een medische noodzaak bestaat om toch een duurdere variant van het middel toe te passen, kan uw zorgverzekeraar van het preferentiebeleid afwijken.
     De manier waarop zorgverzekeraars het preferentiebeleid uitvoeren verschilt per zorgverzekeraar. Raadpleeg voor meer informatie daarom uw verzekeringspolis of neem contact op met uw zorgverzekeraar.
   en: Health insurers have the option for a number of drugs to reimburse only certain variants (e.g., based on their pricing or price agreements between health insurer and drug manufacturer). We call this preference policy. If your health insurer has a preference policy for one or more drugs, it is stated in your insurance policy. If there is a medical necessity to use a more expensive variant of the drug anyway, your health insurer may deviate from the preference policy.
