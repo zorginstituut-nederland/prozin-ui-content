@@ -5540,6 +5540,50 @@ label_maal_per_jaar:
   nl: maal per jaar
   en: times a year
 
+label_average_price_per_day:
+  nl: Gemiddelde prijs per dag
+  en: Average price per day
+label_average_price_per_week:
+  nl: Gemiddelde prijs per week
+  en: Average price per week
+label_average_price_per_30_days:
+  nl: Gemiddelde prijs per 30 dagen
+  en: Average price per 30 days
+label_average_price_per_90_days:
+  nl: Gemiddelde prijs per 90 dagen
+  en: Average price per 90 days
+label_average_price_per_six_months:
+  nl: Gemiddelde prijs per half jaar
+  en: Average price per six months
+label_average_price_per_piece:
+  nl: Gemiddelde prijs per stuk
+  en: Average price per piece
+label_average_price_per_package:
+  nl: Gemiddelde prijs per verpakking
+  en: Average price per package
+
+label_per_day:
+  nl: per dag
+  en: per day
+label_per_week:
+  nl: per week
+  en: per week
+label_per_30_days:
+  nl: per 30 dagen
+  en: per 30 days
+label_per_90_days:
+  nl: per 90 dagen
+  en: per 90 days
+label_per_six_months:
+  nl: per half jaar
+  en: per six months
+label_per_piece:
+  nl: per stuk
+  en: per piece
+label_per_package:
+  nl: per verpakking
+  en: per package
+
 ## Historical
 
 share: 
@@ -5601,8 +5645,86 @@ label_basic_insurance:
 
 label_insurance:
   nl: Verzekering
-  en: Insurance 
+  en: Insurance
 
 label_insurer:
   nl: Verzekeraar
   en: Insurer
+
+label_excluding_delivery_costs:
+  nl: exclusief afleverkosten.
+  en: excluding delivery costs.
+
+message_fully_reimbursed:
+  nl: Dit middel wordt volledig vergoed door uw zorgverzekeraar.
+  en: This drug is fully reimbursed by your health insurance company.
+
+message_partially_reimbursed:
+  nl: U dient zelf {0} bij te betalen
+  en: You must pay an additional {0} yourself
+
+message_not_reimbursed:
+  nl: Dit middel wordt niet vergoed door uw zorgverzekeraar.
+  en: This drug is not covered by your health insurance company.
+
+label_own_risc:
+  nl: Eigen risico
+  en: Own risk
+
+message_no_charged_deductable:
+  nl: Er komt niets voor rekening van uw eigen risico.
+  en: Nothing will be charged to your deductible.
+
+message_partially_charged_deductable:
+  nl: Dit is het bedrag dat {0} ten laste van uw eigen risico komt.
+  en: This is the amount charged to your deductible {0}.
+
+label_strength:
+  nl: Sterkte
+  en: Strength
+
+label_supplier:
+  nl: Leverancier
+  en: Supplier
+
+label_available_outside_pharmacies:
+  nl: Verkrijgbaar buiten de apotheek
+  en: Available outside pharmacies
+
+message_medicine_by_prescription:
+  nl: Dit geneesmiddel is alleen op recept verkrijgbaar.
+  en: This medicine is available by prescription only.
+
+message_medicine_without_prescription:
+  nl: Dit geneesmiddel is zonder recept verkrijgbaar.
+  en: This medicine is available without a prescription.
+
+message_imported_from_another_country:
+  nl: Dit geneesmiddel wordt geïmporteerd uit een ander EU-land.
+  en: This medicine is imported from another EU country.
+
+message_imported_from:
+  nl: Dit geneesmiddel wordt geïmporteerd uit {0}.
+  en: This drug is imported from {0).
+
+label_rvg_number:
+  nl: RVG-nummer
+  en: RVG number
+
+label_eu_number:
+  nl: EU-nummer
+  en: EU number
+
+message_:
+  nl: Zorgverzekeraars hebben bij een aantal geneesmiddelen de mogelijkheid om alleen bepaalde varianten (bijvoorbeeld op grond van hun prijsstelling of prijsafspraken tussen zorgverzekeraar en geneesmiddelenfabrikant) te vergoeden. Dit noemen we preferentiebeleid. Als uw zorgverzekeraar voor één of meer middelen een preferentiebeleid voert, staat dat in uw verzekeringspolis. Indien een medische noodzaak bestaat om toch een duurdere variant van het middel toe te passen, kan uw zorgverzekeraar van het preferentiebeleid afwijken.
+    De manier waarop zorgverzekeraars het preferentiebeleid uitvoeren verschilt per zorgverzekeraar. Raadpleeg voor meer informatie daarom uw verzekeringspolis of neem contact op met uw zorgverzekeraar.
+  en: Health insurers have the option for a number of drugs to reimburse only certain variants (e.g., based on their pricing or price agreements between health insurer and drug manufacturer). We call this preference policy. If your health insurer has a preference policy for one or more drugs, it is stated in your insurance policy. If there is a medical necessity to use a more expensive variant of the drug anyway, your health insurer may deviate from the preference policy.
+    The way in which health insurers implement the preference policy varies from one health insurer to another. Therefore, for more information, consult your insurance policy or contact your health insurer.
+
+label_variants:
+  nl: Varianten
+  en: Variants
+
+label_alternatives:
+  nl: Alternatieven
+  en: Alternatives
