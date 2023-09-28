@@ -5728,3 +5728,7 @@ label_variants:
 label_alternatives:
   nl: Alternatieven
   en: Alternatives
+
+message_extra_information_pharmacy_website:
+  nl: Informatie over {0} op Apotheek.nl
+  en: Information about {0} on Apotheek.nl
