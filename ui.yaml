@@ -5594,3 +5594,30 @@ label_gvs:
 message_help_gvs:
   nl: Deze link wordt getoond bij de prijs van een geneesmiddel dat deels vergoed wordt.
   en: For a medicine that is partially reimbursed, this link will be shown with the price.
+
+label_tag_imp:
+  en: "Tag"
+  bg: "Етикет"
+  cs: "Štítek"
+  da: "Mærke"
+  de: "Markieren"
+  et: "Silt"
+  el: "Ετικέτα"
+  es: "Etiqueta"
+  fi: "Tunniste"
+  fr: "Étiqueter"
+  ga: "Clib"
+  hr: "Oznaka"
+  hu: "Címke"
+  it: "Etichetta"
+  lt: "Žymė"
+  lv: "Atzīme"
+  mt: "Tikketta"
+  nl: "Tag"
+  pl: "Etykieta"
+  pt: "Etiqueta"
+  ro: "Etichetă"
+  sk: "Štítok"
+  sl: "Oznaka"
+  sv: "Tagg"
+  he: "תגית"
