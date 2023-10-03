@@ -1698,8 +1698,8 @@ label_text:
   nl: Tekst
   en: Text
 label_rich_text:
-  nl: Text with formatting
-  en: Tekst met opmaak
+  en: Rich text
+  nl: Tekst met opmaak
 label_fraction:
   nl: Breuk
   en: Fraction
