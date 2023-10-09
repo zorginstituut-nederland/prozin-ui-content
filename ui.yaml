@@ -518,6 +518,10 @@ message_workflow_transition_publish:
   fr: Si vous continuez, ce document sera publié. 
   de: Wenn Sie fortfahren, wird dieses Dokument veröffentlicht. 
 
+message_workflow_transition_publish_batch:
+  nl: Als u verder gaat worden geselecteerde die in concept zijn gepubliceerd. 
+  en: If you proceed, then selected documents that are in draft will be published.
+
 message_workflow_transition_publish_previous_version:
   nl: De vorige versie blijft voor u toegankelijk, maar zal voor het publiek niet meer zichtbaar zijn.
   en: The previous version remains accessible to you, but will no longer be visible to the public.
