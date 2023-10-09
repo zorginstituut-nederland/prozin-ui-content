@@ -520,13 +520,17 @@ message_workflow_transition_publish:
 
 message_workflow_transition_publish_batch:
   nl: Als u verder gaat worden geselecteerde die in concept zijn gepubliceerd. 
-  en: If you proceed, then selected documents that are in draft will be published.
+  en: If you proceed then selected documents that are in draft will be published.
 
 message_workflow_transition_publish_previous_version:
   nl: De vorige versie blijft voor u toegankelijk, maar zal voor het publiek niet meer zichtbaar zijn.
   en: The previous version remains accessible to you, but will no longer be visible to the public.
   fr: La version précédente reste accessible pour vous, mais ne sera plus visible pour le public.
   de: Die vorherige Version bleibt für Sie zugänglich, ist aber für die Öffentlichkeit nicht mehr sichtbar.
+
+message_tag_batch:
+  nl: Maak of selecteer tags. De tags zullen worden toegepast op geselecteerde documenten. Eventuele bestaande tags op documenten worden behouden.
+  en: Create or select tags. The tags will be applied to selected documents. Any existing tags on documents are retained.
 
 message_copublication:
   nl: Het is mogelijk dit item op meerdere producten te publiceren door gebruik te maken van co-publicatie. 
