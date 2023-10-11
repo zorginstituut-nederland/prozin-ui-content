@@ -16,3 +16,9 @@
     - name: news
       i18n: label_news
       url: /dialogues/cms/news
+- name: Nieuwsbrief
+  i18n: label_newsletter
+  collection: 
+    - name: newsletters
+      i18n: label_newsletters
+      url: /dialogues/cms/newsletters
