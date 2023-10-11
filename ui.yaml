@@ -4168,6 +4168,9 @@ label_delete:
 label_send:
   nl: Versturen
   en: Send
+label_sent:
+  nl: Verstuurd
+  en: Sent
 label_send_imp:
   nl: Verstuur
   en: Send
