@@ -5802,3 +5802,26 @@ message_help_mailing_list_registrations:
 label_email_addressess:
   nl: E-mailadressen
   en: E-mail addressess
+
+label_newsletter_form:
+  nl: Nieuwsbriefformulier
+  en: Newsletter form
+
+label_allow_opt_in_mailing_list:
+  en: Allow users to subscribe to this mailing list
+  nl: Sta gebruikers toe om zich in te schrijven op deze verzendlijst
+  fr: Autoriser l'inscription à la liste de diffusion
+  de: Anmeldung zur Mailingliste zulassen
+  he: אפשר הרשמה לרשימת תפוצה
+
+
+label_ticked_by_default:
+  en: Ticked by default
+  nl: Standaard aangevinkt
+  fr: Coché par défaut
+  de: Standardmäßig angekreuzt
+  he: מסומן כברירת מחדל
+
+message_help_news_letter_form:
+  nl: Als u “Sta gebruikers toe om zich in te schrijven op deze verzendlijst” aanvinkt, dan zal deze verzendlijst vermeldt worden op het nieuwsbriefformulier op de publieke website.
+  en: If you tick “Allow users to subscribe to this mailing list”, this mailing list will be listed on the newsletter form on the public website.
