@@ -5774,3 +5774,31 @@ message_extra_information_pharmacy_website:
   nl: Informatie over {0} op Apotheek.nl.
   en: Information about {0} on Apotheek.nl.
 
+label_registrations:
+  nl: Aanmeldingen
+  en: Registrations
+
+label_user_groups:
+  nl: Gebruikersgroepen
+  en: User groups
+
+label_user_group:
+  nl: Gebruikersgroep
+  en: User group
+
+label_mailing_list:
+  nl: Verzendlijst
+  en: Mailing list
+
+
+message_help_mailing_list_organisations:
+  nl: Organisaties waarvan de gebruikers indirect tot deze verzendlijst behoren.
+  en: Organizations whose users indirectly belong to this mailing list.
+
+message_help_mailing_list_registrations:
+  nl: E-mailadressen van gebruikers die zich hebben opgegeven voor deze verzendlijst. Dit betreft zowel gebruikers met een ZIN-account als volstrekt anonieme gebruikers.
+  en: E-mail addresses of users who have signed up for this mailing list. This concerns both users with a ZIN account and completely anonymous users.
+
+label_email_addressess:
+  nl: E-mailadressen
+  en: E-mail addressess
