@@ -1228,6 +1228,9 @@ label_image_bank:
 label_news_item:
   en: News item
   nl: Nieuwsbericht
+label_news_items:
+  en: News items
+  nl: Nieuwsberichten
 label_new_news_item:
   en: New news item
   nl: Nieuw nieuwsbericht
@@ -2603,6 +2606,9 @@ label_change_password:
 label_forgot_password:
   nl: Wachtwoord vergeten
   en: Forgot password
+label_footer:
+  nl: Voettekst
+  en: Footer
 label_preferences:
   nl: Voorkeuren
   en: Preferences
