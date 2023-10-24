@@ -2609,6 +2609,9 @@ label_forgot_password:
 label_footer:
   nl: Voettekst
   en: Footer
+label_show_news_item_in_overviews:
+  nl: Toon nieuwsbericht in overzichten
+  en: Show news item in overviews
 label_preferences:
   nl: Voorkeuren
   en: Preferences
