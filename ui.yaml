@@ -4185,12 +4185,27 @@ label_cancel_imp:
 label_delete:
   nl: Verwijder
   en: Delete
+label_content:
+  nl: Inhoud
+  en: Content
+message_help_news_flash_content:
+  nl: Inhoud volgt…
+  en: Inhoud volgt…
 label_send:
   nl: Versturen
   en: Send
 label_sent:
   nl: Verstuurd
   en: Sent
+label_not_sent_yet:
+  nl: Nog niet verstuurd
+  en: Not sent yet
+label_show_images:
+  nl: Toon afbeeldingen
+  en: Show images
+label_template:
+  nl: Sjabloon
+  en: Template
 label_send_imp:
   nl: Verstuur
   en: Send
