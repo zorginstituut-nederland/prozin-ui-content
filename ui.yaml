@@ -191,6 +191,13 @@ label_sort_by_popularity:
   en: Sort by popularity
   nl: Sorteer op populariteit
 
+message_user_no_longer_active:
+  nl: Deze gebruiker is niet langer actief.
+  en: This user is no longer active.
+
+label_user_no_longer_active:
+  nl: Deze gebruiker is niet langer actief
+  en: This user is no longer active
 
 message_help_image_upload:
   nl: Afbeeldingen dienen in JPG, SVG of PNG-formaat te zijn. JPG is het meest geschikt voor fotografie. SVG is meer geschikt voor vectorafbeeldingen en PNG is het meest geschikt voor schermafdrukken. Verklein of converteer afbeeldingen niet zelf, maar laad bij voorkeur het origineel op. Kleinere versies worden automatisch door de server aangemaakt. De maximaal toegestane bestandsgrootte is 50 Megabyte. 
