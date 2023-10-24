@@ -932,7 +932,7 @@ message_help_hero_image:
   en: Make sure the main image is large enough. Preferably at least about 1500 pixels wide. A good main image is purely photographic, not composed of multiple images and has no graphic elements such as text. Make sure that important parts of the image, such as faces, are in the center of the frame. This prevents problems with automatic cropping.
 message_help_administrator:
   nl: Beheerders hebben meer rechten dan gewone leden. Zo kunnen beheerders onder andere extra leden aan de organisatie toevoegen. 
-  en: Administrators have more rights than regular members. For example, administrators can add additional members to the organization.
+  en: Administrators have more rights than regular members. For example, administrators can add additional members to the organisation.
 message_help_logo_upload:
   nl: Zorg ervoor dat het logo in SVG of PNG formaat is. In het geval van SVG, mag de SVG uitsluitend vectorinformatie bevatten. In het geval van PNG dient de minimale hoogte 150 pixels. De achtergrond moet transparent zijn.
   en: Make sure the logo is in SVG or PNG format. In the case of SVG, the SVG must only contain vector information. In the case of PNG, the minimum height must be 150 pixels. The background must be transparent.
@@ -3974,7 +3974,9 @@ label_current_brand_name:
 label_branch_organisation:
   en: Branch organisation
   nl: Branche-organisatie
-
+label_branch_organisations:
+  en: Branch organisations
+  nl: Branche-organisaties
 label_ja:
   nl: Ja
   en: 'Yes'
@@ -5790,10 +5792,17 @@ label_mailing_list:
   nl: Verzendlijst
   en: Mailing list
 
+label_recipients:
+  nl: Ontvangers
+  en: Recipients
+
+message_help_mailing_list_organisation_types:
+  nl: Organisatietypen waarvan de gebruikers indirect tot deze verzendlijst behoren.
+  en: Organisation types whose users indirectly belong to this mailing list.
 
 message_help_mailing_list_organisations:
   nl: Organisaties waarvan de gebruikers indirect tot deze verzendlijst behoren.
-  en: Organizations whose users indirectly belong to this mailing list.
+  en: Organisations whose users indirectly belong to this mailing list.
 
 message_help_mailing_list_registrations:
   nl: E-mailadressen van gebruikers die zich hebben opgegeven voor deze verzendlijst. Dit betreft zowel gebruikers met een ZIN-account als volstrekt anonieme gebruikers.
