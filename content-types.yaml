@@ -16,9 +16,15 @@
     - name: news
       i18n: label_news
       url: /dialogues/cms/news
-- name: Nieuwsbrief
-  i18n: label_newsletter
+- name: Nieuwsflits
+  i18n: label_news_flash
   collection: 
-    - name: newsletters
-      i18n: label_newsletters
+    - name: news-flashes
+      i18n: label_news_flashes
+      url: /dialogues/cms/newsletters
+- name: Periodiek
+  i18n: label_periodical
+  collection: 
+    - name: periodicals
+      i18n: label_periodicals
       url: /dialogues/cms/newsletters
