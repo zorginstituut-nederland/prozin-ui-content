@@ -5825,3 +5825,15 @@ label_ticked_by_default:
 message_help_news_letter_form:
   nl: Als u “Sta gebruikers toe om zich in te schrijven op deze verzendlijst” aanvinkt, dan zal deze verzendlijst vermeldt worden op het nieuwsbriefformulier op de publieke website.
   en: If you tick “Allow users to subscribe to this mailing list”, this mailing list will be listed on the newsletter form on the public website.
+
+label_fullscreen:
+  nl: Bekijk fullscreen
+  en: Watch fullscreen
+
+label_hosting:
+  nl: Hosting
+  en: Hosting
+
+label_delete_presentation:
+  nl: Verwijder presentatie
+  en: Delete presentation
