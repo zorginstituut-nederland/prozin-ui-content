@@ -2615,6 +2615,9 @@ label_show_news_item_in_overviews:
 label_preferences:
   nl: Voorkeuren
   en: Preferences
+label_approved:
+  nl: Goedgekeurd
+  en: Approved
 label_replace_photo:
   nl: Vervang foto
   en: Replace photo
