@@ -1008,6 +1008,9 @@ label_show_header:
 label_edit_header:
   nl: Bewerk kop
   en: Edit header
+label_mailing_lists:
+  nl: Verzendlijsten
+  en: Mailing lists
 message_write_pate_video_transcript:
  nl: Schrijf of plak hier de uitgeschreven tekst van de video.
  en: Write or paste the transcript of this video here.
@@ -2570,6 +2573,13 @@ label_publish_confirm_imp:
 label_i_am_sure_publish_now:
   nl: "Ik weet het zeker, publiceer nu"
   en: "I'm sure, publish now"
+label_send_news_flash:
+  nl: Nieuwsflits versturen
+  en: Send news flash
+
+label_i_am_sure_send_now:
+  nl: "Ik weet het zeker, verzend nu"
+  en: "I'm sure, send now"
 label_i_am_sure_delete_now:
   nl: "Ik weet het zeker, verwijder nu"
   en: "I'm sure, delete now"
@@ -5346,10 +5356,15 @@ footnote_total_cost:
 message_bio_gen_prices:
   nl: Er zijn geen prijzen bekend van bio similars.
   en: There are no known prices for biosimilar.
-
+message_warning_send_news_flash:
+  nl: Als u verder gaat wordt deze mailling verstuurd naar bovenstaand geselecteerde verzendlijsten. Het verzenden van een nieuwsflits kan eenmalig en is onomkeerbaar.
+  en: If you continue, this mailing will be sent to the mailing lists selected above. A news flash can only be sent once and sending is irreversible.
 message_contact_us_via_form:
   nl: Neem via onderstaand formulier met ons contact op.
   en: Please use the form below to contact us.
+label_approve_imp:
+  nl: Keur goed
+  en: Approve
 message_are_you_sure:
   nl: Weet u zeker dat u verder wilt gaan?
   en: Are you sure you want to continue?
