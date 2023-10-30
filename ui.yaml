@@ -4515,6 +4515,9 @@ label_new:
 label_options:
   nl: Opties
   en: Options
+label_unpublish_imp:
+  nl: Depubliceer
+  en: Unpublisih
 label_revert:
   nl: Herstel
   en: Revert
