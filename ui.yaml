@@ -3901,6 +3901,9 @@ label_covid_19:
 label_other_information:
   nl: Overige informatie
   en: Other information
+label_other_versions:
+  nl: Andere versies
+  en: Other versions
 label_sources:
   nl: Bronnen
   en: References
@@ -5906,3 +5909,7 @@ label_hosting:
 label_delete_presentation_imp:
   nl: Verwijder presentatie
   en: Delete presentation
+
+label_back_to_var:
+  nl: Terug naar #{0}
+  en: Back to #{0}
