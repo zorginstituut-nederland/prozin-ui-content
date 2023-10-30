@@ -5911,5 +5911,13 @@ label_delete_presentation_imp:
   en: Delete presentation
 
 label_back_to_var:
-  nl: Terug naar #{0}
-  en: Back to #{0}
+  nl: Terug naar {0}
+  en: Back to {0}
+
+label_all_versions:
+  nl: Alle versies
+  en: All versions
+
+label_authorised_for_publication:
+  nl: Geautoriseerd om te publiceren
+  en: Authorised for publication
