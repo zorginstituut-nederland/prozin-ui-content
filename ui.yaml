@@ -5928,6 +5928,10 @@ label_authorised_for_publication:
   nl: Geautoriseerd om te publiceren
   en: Authorised for publication
 
+label_authorised_for_sending:
+  nl: Geautoriseerd om te verzenden
+  en: Authorised for sending
+
 label_authorised_for_approval:
   nl: Geautoriseerd om goed te keuren
   en: Authorised for approval
