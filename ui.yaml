@@ -5670,9 +5670,9 @@ share:
   nl: U kunt iemand zonder gebruikersaccount via een link die per e-mail wordt verstuurd toegang geven tot een kopie van dit document. De ontvanger van de e-mail zal het document kunnen bewerken en de voorgestelde wijzigingen kunnen op een later moment overgenomen in de hoofdversie.
   en: You can give someone without a user account access to a copy of this document via a link sent by email. The recipient of the email will be able to edit the document, and the proposed changes will be reflected in the major version at a later time.
 
-share_shared: 
-  nl:  '<a href="{0}">Een kopie van dit document</a> is gedeeld met <a href="{1}">{2}</a>. {2} kan deze kopie inzien en bewerken tot en met <strong>{3}</strong>.'
-  en:  '<a href="{0}">A copy of this document</a> was shared with <a href="{1}">{2}</a>. {2} may view and edit this copy up and until <strong>{3}</strong>.'
+message_share_shared: 
+  nl: '<a href="{0}">Een kopie van dit document</a> is gedeeld met <a href="{1}">{2}</a>. {2} kan deze kopie inzien en bewerken tot en met <strong>{3}</strong>.'
+  en: '<a href="{0}">A copy of this document</a> was shared with <a href="{1}">{2}</a>. {2} may view and edit this copy up and until <strong>{3}</strong>.'
 
 message_share_public:
   nl: 'Klik bovenaan de pagina op de knop ‘Bewerk’ om dit document te bewerken. Door u aangebrachte wijzigingen zullen publiekelijk zichtbaar zijn zodra <a href="mailto:{0}">{1}</a> of een andere redacteur uw inhoud geaccepteerd en gepubliceerd heeft. U kan deze kopie inzien en bewerken tot en met <strong>{2}</strong>.'
