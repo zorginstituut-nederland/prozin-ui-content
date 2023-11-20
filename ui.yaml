@@ -3885,6 +3885,9 @@ label_infectieziekten_overig:
 label_virale_infecties:
   nl: Virale infecties, overig
   en: Viral infections other
+message_404_intro:
+  nl: De pagina die u wilde zien of het bestand dat u wilde bekijken is niet gevonden. Controleer de URL.
+  en: The page you wanted to see or the file you wanted to view was not found. Check the URL.
 
 label_hepatitis:
   nl: Hepatitis
