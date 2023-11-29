@@ -5500,7 +5500,7 @@ message_enter_medicine_info_before_date:
   nl: Voer vóór <strong>{0}</strong> informatie in over nieuwe of bestaande geneesmiddelen.
   en: Please enter information for new or existing medicines before <strong>{0}</strong>.
 message_password_expired: 
-  nl: Uw wachtwoord is verlopen omdat het meer dan 6 maanden oud is. 
+  nl: Uw wachtwoord is verlopen, omdat het meer dan 6 maanden oud is. 
   en: Your password has exepired because it's more than 6 months old.
 message_email_address_unknown:
   nl: Het e-mailadres <strong>{0}</strong> is niet bij ons bekend. Vult u alstublieft het e-mailadres in dat u eerder bij ons geregistreerd hebt.
