@@ -4773,6 +4773,12 @@ label_medicine_groups:
 label_new_medicine_information:
   nl: Nieuwe geneesmiddelinformatie
   en: New medicine information
+label_new_periodical:
+  nl: Nieuwe periodiek
+  en: New periodical
+label_new_newsflash:
+  nl: Nieuwe nieuwsflits
+  en: New newsflash
 label_product_fk:
   nl: Farmacotherapeutisch Kompas
   en: Pharmacotherapeutical Compass
@@ -5157,6 +5163,9 @@ label_last_modified_on:
 label_last_modified:
   nl: Laatst bewerkt
   en: Last modified
+label_last_sent:
+  nl: Laatst verzonden
+  en: Last sent
 label_shared_with_name:
   nl: 'Gedeeld met <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
   en: 'Shared with <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
