@@ -5166,6 +5166,42 @@ label_last_modified:
 label_last_sent:
   nl: Laatst verzonden
   en: Last sent
+
+message_help_periodical_tags:
+  nl: Volgt…
+  en: Volgt…
+
+label_frequency: 
+  nl: Frequentie
+  en: Frequency
+
+label_starting_date:
+  en: "Starting Date"
+  bg: "Начална дата"
+  cs: "Datum zahájení"
+  da: "Startdato"
+  de: "Startdatum"
+  et: "Alguskuupäev"
+  el: "Ημερομηνία έναρξης"
+  es: "Fecha de inicio"
+  fi: "Aloituspäivämäärä"
+  fr: "Date de début"
+  ga: "Dáta tosaithe"
+  hr: "Datum početka"
+  hu: "Kezdő dátum"
+  it: "Data di inizio"
+  lt: "Pradžios data"
+  lv: "Sākuma datums"
+  mt: "Data tal-bidu"
+  nl: "Startdatum"
+  pl: "Data rozpoczęcia"
+  pt: "Data de início"
+  ro: "Data de începere"
+  sk: "Dátum začiatku"
+  sl: "Začetni datum"
+  sv: "Startdatum"
+  he: "תאריך התחלה"
+
 label_shared_with_name:
   nl: 'Gedeeld met <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
   en: 'Shared with <a href="mailto:maxmeijer@company.nl">Max Meijer</a>'
