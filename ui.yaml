@@ -14,6 +14,10 @@ label_see:
   nl: Zie
   en: See
 
+label_content_updates:
+  nl: Inhoud bijwerken
+  en: Content uddates
+
 label_basic_data_set_care_bgz:
   nl: "Basisgegevensset Zorg (BgZ)"
   en: "Basic Data Set Care (BgZ)"
