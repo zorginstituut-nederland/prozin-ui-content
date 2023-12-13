@@ -1,3 +1,11 @@
+message_help_about_this_site:
+  nl: Items die hier gekozen worden verschijnen als deeplinks in de kolom 'Over deze site'.
+  en: Items chosen here will appear as deep links in the 'About this site' column.
+
+message_help_service:
+  nl: Items die hier gekozen worden verschijnen als deeplinks in de kolom 'Service'.
+  en: Items chosen here will appear as deep links in the 'Service' column.
+
 message_see_concepts_for_wegiz:
   nl: Zie de begrippenlijst voor een {0}.
   en: Consult the glossary for an {0}.
