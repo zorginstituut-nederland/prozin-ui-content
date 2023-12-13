@@ -1,10 +1,10 @@
 message_help_about_this_site:
-  nl: Items die hier gekozen worden verschijnen als deeplinks in de kolom 'Over deze site'.
-  en: Items chosen here will appear as deep links in the 'About this site' column.
+  nl: Artikelpagina's die hier gekozen worden verschijnen als deeplinks in de kolom 'Over deze site'. Pagina's die al direct op de homepage zichtbaar zijn zijn niet selecteerbaar. 
+  en: Article pages chosen here will appear as deep links in the 'About this site' column. Pages that are already visible directly on the homepage are not selectable.
 
 message_help_service:
-  nl: Items die hier gekozen worden verschijnen als deeplinks in de kolom 'Service'.
-  en: Items chosen here will appear as deep links in the 'Service' column.
+  nl: Items die hier gekozen worden verschijnen als deeplinks in de kolom 'Service'. Pagina's die al direct op de homepage zichtbaar zijn zijn niet selecteerbaar. 
+  en: Items chosen here will appear as deep links in the 'Service' column. Pages that are already visible directly on the homepage are not selectable.
 
 message_see_concepts_for_wegiz:
   nl: Zie de begrippenlijst voor een {0}.
@@ -251,6 +251,9 @@ label_list:
 label_cards:
   nl: Kaarten
   en: Cards
+label_tiles:
+  nl: Tegels
+  en: Tiles
 label_folder_name:
   nl: Mapnaam
   en: Folder name
