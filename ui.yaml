@@ -1,3 +1,7 @@
+message_help_video_transcript:
+  nl: Het is verplicht om een transcript van alle gesproken tekst die in de video voor komt op te nemen, ten bate van mensen met een beperking.
+  en: It is mandatory to include a transcript of all spoken text appearing in the video for the benefit of people with disabilities.
+
 message_help_about_this_site:
   nl: Artikelpagina's die hier gekozen worden verschijnen als deeplinks in de kolom 'Over deze site'. Pagina's die al direct op de homepage zichtbaar zijn zijn niet selecteerbaar. 
   en: Article pages chosen here will appear as deep links in the 'About this site' column. Pages that are already visible directly on the homepage are not selectable.
