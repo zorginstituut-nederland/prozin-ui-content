@@ -1,3 +1,7 @@
+label_release_date:
+  nl: Releasedatum
+  en: Release date
+
 message_help_video_transcript:
   nl: Het is verplicht om een transcript van alle gesproken tekst die in de video voor komt op te nemen, ten bate van mensen met een beperking.
   en: It is mandatory to include a transcript of all spoken text appearing in the video for the benefit of people with disabilities.
