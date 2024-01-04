@@ -5449,6 +5449,9 @@ message_contact_us_via_form:
 label_approve_imp:
   nl: Keur goed
   en: Approve
+label_apps:
+  nl: Apps
+  en: Apps
 message_are_you_sure:
   nl: Weet u zeker dat u verder wilt gaan?
   en: Are you sure you want to continue?
