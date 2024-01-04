@@ -12,8 +12,8 @@ harry:
     - ACE-remmers
 nicole:
   first_name: Nicole
-  last_name: De Vries
-  email: nicole.de.vries@company.nl
+  last_name: Van Reemst
+  email: nicole.van.reemst@company.nl
   role: Member
   organisation: Zorginstituut Nederland
   follows: 
