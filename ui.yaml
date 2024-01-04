@@ -5452,6 +5452,12 @@ label_approve_imp:
 label_apps:
   nl: Apps
   en: Apps
+label_pdocs:
+  nl: pDocs
+  en: pDocs
+label_user_management:
+  nl: Gebruikersbeheer
+  en: User management
 message_are_you_sure:
   nl: Weet u zeker dat u verder wilt gaan?
   en: Are you sure you want to continue?
