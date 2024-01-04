@@ -990,6 +990,9 @@ label_logo:
 label_document:
   nl: Document
   en: Document
+label_documents:
+  nl: Documenten
+  en: Documents
 label_promotion:
   nl: Aanbeveling
   en: Promotion
