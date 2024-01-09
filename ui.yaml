@@ -636,6 +636,9 @@ label_report:
 label_questionnaire:
   nl: Vragenlijst
   en: Questionnaire
+label_help_desk:
+  nl: Helpdesk
+  en: Help desk
 label_all_publications:
   nl: Alle publicaties
   en: All publications
