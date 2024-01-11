@@ -6029,3 +6029,28 @@ label_authorised_for_sending:
 label_authorised_for_approval:
   nl: Geautoriseerd om goed te keuren
   en: Authorised for approval
+
+label_suitable_care:
+  nl: Passende zorg
+  en: Suitable care
+
+label_insured_care:
+  nl: Verzekerde zorg
+  en: Insured care
+
+label_work_agenda:
+  nl: Werkagenda
+  en: Work agenda
+
+label_financing:
+  nl: Financiering
+  en: Financing
+
+label_about_us:
+  nl: Over ons
+  en: About us
+
+label_publications:
+  nl: Publicaties
+  en: Publications
+
