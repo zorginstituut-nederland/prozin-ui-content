@@ -4253,8 +4253,8 @@ label_content:
   nl: Inhoud
   en: Content
 message_help_news_flash_content:
-  nl: Inhoud volgt…
-  en: Inhoud volgt…
+  nl: Selecteer één of meer nieuwberichten om op te nemen in deze nieuwsflits. Nieuwsberichten worden alleen opgenomen in de nieuwsflits als ze gepupubliceerd zijn op het moment van het verzenden van de nieuwsflits.
+  en: Select one or more news items to include in this news flash. News items are only included in the news flash if they have been published when the news flash is being sent.
 label_send:
   nl: Versturen
   en: Send
