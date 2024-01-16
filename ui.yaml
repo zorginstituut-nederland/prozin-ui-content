@@ -2152,6 +2152,12 @@ label_subscribe_to_quarterly_newsletter:
 label_subscribe_to_news_flashes:
   nl: Abonneer op nieuwsflitsen
   en: Subscribe to news flashes
+label_full_content_articles:
+  nl: Volledige inhoud van nieuwsberichten
+  en: Full content of news articles
+label_summary_articles_with_links:
+  nl: Samenvattingen van nieuwsberichten met links
+  en: Summaries of news articles with links
 label_presentation:
   nl: Presentatie
   en: Presentation
