@@ -2137,6 +2137,9 @@ label_newsletters:
 label_include_in_periodical:
   nl: Neem op in periodiek
   en: Include in periodical
+label_social_media:
+  nl: Sociale media
+  en: Social media
 label_news_flash:
   nl: Nieuwsflits
   en: News flash
