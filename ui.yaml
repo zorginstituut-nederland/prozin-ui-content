@@ -5787,6 +5787,16 @@ message_revision_of_copy:
   nl: Dit is een revisie van een kopie dat gedeeld is met en bewerkt werd door Max Meijer.
   en: This is a revision of a copy which is shared with and edited by Max Meijer.
 
+message_suggested_by:
+  nl: 'Voorgesteld door <a href="mailto:{0}">{1}</a>: '
+  en: 'Suggested by <a href="mailto:{0}">{1}</a>: '
+label_accept_impl:
+  nl: Accepteer
+  en: Accept
+label_reject_impl:
+  nl: Verwerp
+  en: Reject
+
 edit_copy: 
   nl: 'Klik bovenaan de pagina op de knop ‘Bewerk’ om dit document te bewerken. Door u aangebrachte wijzigingen zullen publiekelijk zichtbaar zijn zodra <a href="mailto: nicole@vanreemst.nl">Nicole Van Reemst</a> of een andere redacteur uw inhoud geaccepteerd en gepubliceerd heeft.'
   en: 'Klik bovenaan de pagina op de knop ‘Bewerk’ om dit document te bewerken. Door u aangebrachte wijzigingen zullen publiekelijk zichtbaar zijn zodra <a href="mailto: nicole@vanreemst.nl">Nicole Van Reemst</a> of een andere redacteur uw inhoud geaccepteerd en gepubliceerd heeft.'
