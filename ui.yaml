@@ -6079,3 +6079,6 @@ label_publications:
   nl: Publicaties
   en: Publications
 
+message_warning_no_drafts_in_news_flash:
+  nl: Let op, de volgende nieuwsartikelen worden niet in de nieuwsflits opgenomen, omdat ze niet gepubliceerd zijn.
+  en: Please note, the following news articles are not included in the news flash because they have not been published.
