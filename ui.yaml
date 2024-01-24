@@ -6080,5 +6080,5 @@ label_publications:
   en: Publications
 
 message_warning_no_drafts_in_news_flash:
-  nl: Let op, de volgende nieuwsartikelen worden niet in de nieuwsflits opgenomen, omdat ze niet gepubliceerd zijn.
-  en: Please note, the following news articles are not included in the news flash because they have not been published.
+  nl: Let op, de volgende nieuwsartikelen worden niet in de nieuwsflits opgenomen, omdat ze niet gepubliceerd zijn. Als er van een nieuwsbericht een oudere, reeds gepubliceerde, versie bestaat, dan wordt deze versie opgenomen. 
+  en: Please note, the following news articles are not included in the news flash because they have not been published. If there is an older, already published version of a news item, then this version will be included instead.
