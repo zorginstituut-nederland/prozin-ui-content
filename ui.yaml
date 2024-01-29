@@ -6082,5 +6082,9 @@ label_publications:
   en: Publications
 
 message_warning_no_drafts_in_news_flash:
-  nl: Let op, de volgende nieuwsartikelen worden niet in de nieuwsflits opgenomen, omdat ze niet gepubliceerd zijn. Als er van een nieuwsbericht een oudere, reeds gepubliceerde, versie bestaat, dan wordt deze versie opgenomen. 
-  en: Please note, the following news articles are not included in the news flash because they have not been published. If there is an older, already published version of a news item, then this version will be included instead.
+  nl: Let op, de volgende nieuwsartikelen worden niet in de nieuwsflits opgenomen, omdat ze gearchifeerd of niet gepubliceerd zijn. Als er van een nieuwsbericht een oudere, reeds gepubliceerde, versie bestaat, dan wordt deze versie opgenomen. 
+  en: Please note, the following news articles are not included in the news flash because they are either archived or unpublished. If there's an older, already published version of a news item, then this version will be included instead.
+
+message_help_send_news_flash_confirm:
+  nl: Als u klikt op ‘Ik weet het zeker, verzend nu’, wordt deze nieuwsflits verzonden naar alle in de gelecteerde verzendlijsten opgenomen e-mailadressen. 
+  en: If you click on ‘I'm sure, send now’, this newsflash will be sent to all email addresses included in the selected mailing lists.
