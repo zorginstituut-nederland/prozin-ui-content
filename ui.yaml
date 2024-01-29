@@ -2152,6 +2152,12 @@ label_news_flash:
 label_news_flashes:
   nl: Nieuwsflitsen
   en: News flashes
+label_periodical:
+  nl: Periodiek
+  en: Periodical
+label_periodicals:
+  nl: Periodieken
+  en: Periodicals
 label_subscribe_to_quarterly_newsletter:
   nl: Abonneer op driemaandelijkse nieuwsbrief
   en: Subscribe to quarterly newsletter
