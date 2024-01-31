@@ -6088,7 +6088,7 @@ label_publications:
   en: Publications
 
 message_warning_no_drafts_in_news_flash:
-  nl: Let op, de volgende nieuwsartikelen worden niet in de nieuwsflits opgenomen, omdat ze gearchifeerd of niet gepubliceerd zijn. Als er van een nieuwsbericht een oudere, reeds gepubliceerde, versie bestaat, dan wordt deze versie opgenomen. 
+  nl: Let op, de volgende nieuwsartikelen worden niet in de nieuwsflits opgenomen, omdat ze gearchiveerd of niet gepubliceerd zijn. Als er van een nieuwsbericht een oudere, reeds gepubliceerde, versie bestaat, dan wordt deze versie opgenomen. 
   en: Please note, the following news articles are not included in the news flash because they are either archived or unpublished. If there's an older, already published version of a news item, then this version will be included instead.
 
 message_help_send_news_flash_confirm:
