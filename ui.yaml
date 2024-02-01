@@ -5786,8 +5786,8 @@ message_share_shared:
   en: '<a href="{0}">A copy of this document</a> was shared with <a href="{1}">{2}</a>. {2} may view and edit this copy up and until <strong>{3}</strong>.'
 
 message_share_public:
-  nl: 'Klik bovenaan de pagina op de knop ‘Bewerk’ om dit document te bewerken. Door u aangebrachte wijzigingen zullen publiekelijk zichtbaar zijn zodra <a href="mailto:{0}">{1}</a> of een andere redacteur uw inhoud geaccepteerd en gepubliceerd heeft. U kan deze kopie inzien en bewerken tot en met <strong>{2}</strong>.'
-  en: 'Click the ‘Edit‘ button at the top of the page to edit this document. Changes you make will be publicly visible once <a href="mailto:{0}">{1}</a> or another editor has accepted and published your content. You may view and edit this copy up and until <strong>{2}</strong>.'
+  nl: 'Klik bovenaan de pagina op de knop ‘Bewerk’ om dit document te bewerken. Door u aangebrachte wijzigingen zullen publiekelijk zichtbaar zijn zodra <a href="mailto:{0}">{1}</a> of een andere redacteur uw inhoud geaccepteerd en gepubliceerd heeft. U kunt deze kopie inzien en bewerken tot en met <strong>{2}</strong>. Daarna behoudt u nog steeds de mogelijk om deze kopie in te zien.'
+  en: 'Click the ‘Edit‘ button at the top of the page to edit this document. Changes you make will be publicly visible once <a href="mailto:{0}">{1}</a> or another editor has accepted and published your content. You may view and edit this copy up and until <strong>{2}</strong>. Afterwards, you still retain the ability to view this copy.'
 
 share_change_accepted: 
   nl: "De aanpassing van {0} is <strong>geaccepteerd</strong> en opgeslagen in uw werkdocument."
