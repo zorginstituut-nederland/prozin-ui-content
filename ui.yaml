@@ -2023,6 +2023,20 @@ label_year_published:
 label_status:
   nl: Status
   en: State
+
+
+label_major:
+  nl: Majeur
+  en: Major
+
+label_minor:
+  nl: Mineur
+  en: Minor
+
+label_patch:
+  nl: Stoplap
+  en: Patch
+
 label_indicators:
   nl: Indicatoren
   en: Indicators
