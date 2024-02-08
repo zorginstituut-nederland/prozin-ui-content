@@ -6125,4 +6125,6 @@ summary_ieb:
   nl: De nieuwe iStandaard voor informatie-uitwisseling over het Wmo-abonnementstarief tussen gemeenten en het CAK.
   en: The new iStandard for exchanging information about the Wmo subscription rate between municipalities and the CAK.
 
-
+message_help_file_upload_title:
+  nl: Kies een titel die compact is (Bij voorkeur op 1 regel passend) en de inhoud van het document beschrijft. Namen van bijlagen beginnen altijd met een hoofdletter en bevatten meestal geen punten. Gebruik nooit termen als 'Download' of 'Klik hier' in titels. 
+  en: Choose a title that is compact (preferably on 1 line) and describes the content of the document. Attachment names always start with a capital letter and usually do not contain periods. Never use terms like 'Download' or 'Click here' in titles.
