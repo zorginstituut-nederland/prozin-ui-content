@@ -6128,3 +6128,7 @@ summary_ieb:
 message_help_file_upload_title:
   nl: Kies een titel die compact is (Bij voorkeur op 1 regel passend) en de inhoud van het document beschrijft. Namen van bijlagen beginnen altijd met een hoofdletter en bevatten meestal geen punten. Gebruik nooit termen als 'Download' of 'Klik hier' in titels. 
   en: Choose a title that is compact (preferably on 1 line) and describes the content of the document. Attachment names always start with a capital letter and usually do not contain periods. Never use terms like 'Download' or 'Click here' in titles.
+
+message_max_5_pages:
+  nl: Selecteer maximaal 5 paginaʼs
+  en: Select a maximum of 5 pages
