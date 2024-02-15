@@ -5157,6 +5157,18 @@ label_share:
 label_duplicate:
   nl: Dupliceer
   en: Duplicate
+label_category:
+  nl: Categorie
+  en: Category
+label_table_or_report:
+  nl: Tabel of rapportage
+  en: Table or report
+label_specification:
+  nl: Specificatie
+  en: Specification
+label_data_type:
+  nl: Gegevenssoort
+  en: Data type
 label_confirm_duplication:
   nl: Bevestig dupliceren
   en: Confirm duplication
