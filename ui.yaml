@@ -2142,6 +2142,9 @@ label_release:
 label_releases:
   nl: Releases
   en: Releases
+label_new_release:
+  nl: Nieuwe release
+  en: New release
 label_then_subscribe_to_our_newsletters:
   nl: Abonneert u zich dan op onze nieuwsbrieven
   en: Then please subscribe to our newsletters
