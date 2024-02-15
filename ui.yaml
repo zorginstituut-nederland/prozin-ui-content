@@ -2023,6 +2023,20 @@ label_year_published:
 label_status:
   nl: Status
   en: State
+
+
+label_major:
+  nl: Majeur
+  en: Major
+
+label_minor:
+  nl: Mineur
+  en: Minor
+
+label_patch:
+  nl: Stoplap
+  en: Patch
+
 label_indicators:
   nl: Indicatoren
   en: Indicators
@@ -2152,6 +2166,12 @@ label_news_flash:
 label_news_flashes:
   nl: Nieuwsflitsen
   en: News flashes
+label_periodical:
+  nl: Periodiek
+  en: Periodical
+label_periodicals:
+  nl: Periodieken
+  en: Periodicals
 label_subscribe_to_quarterly_newsletter:
   nl: Abonneer op driemaandelijkse nieuwsbrief
   en: Subscribe to quarterly newsletter
@@ -5792,8 +5812,8 @@ message_share_shared:
   en: '<a href="{0}">A copy of this document</a> was shared with <a href="{1}">{2}</a>. {2} may view and edit this copy up and until <strong>{3}</strong>.'
 
 message_share_public:
-  nl: 'Klik bovenaan de pagina op de knop ‘Bewerk’ om dit document te bewerken. Door u aangebrachte wijzigingen zullen publiekelijk zichtbaar zijn zodra <a href="mailto:{0}">{1}</a> of een andere redacteur uw inhoud geaccepteerd en gepubliceerd heeft. U kan deze kopie inzien en bewerken tot en met <strong>{2}</strong>.'
-  en: 'Click the ‘Edit‘ button at the top of the page to edit this document. Changes you make will be publicly visible once <a href="mailto:{0}">{1}</a> or another editor has accepted and published your content. You may view and edit this copy up and until <strong>{2}</strong>.'
+  nl: 'Klik bovenaan de pagina op de knop ‘Bewerk’ om dit document te bewerken. Door u aangebrachte wijzigingen zullen publiekelijk zichtbaar zijn zodra <a href="mailto:{0}">{1}</a> of een andere redacteur uw inhoud geaccepteerd en gepubliceerd heeft. U kunt deze kopie inzien en bewerken tot en met <strong>{2}</strong>. Daarna behoudt u nog steeds de mogelijk om deze kopie in te zien.'
+  en: 'Click the ‘Edit‘ button at the top of the page to edit this document. Changes you make will be publicly visible once <a href="mailto:{0}">{1}</a> or another editor has accepted and published your content. You may view and edit this copy up and until <strong>{2}</strong>. Afterwards, you still retain the ability to view this copy.'
 
 share_change_accepted: 
   nl: "De aanpassing van {0} is <strong>geaccepteerd</strong> en opgeslagen in uw werkdocument."
@@ -6094,9 +6114,33 @@ label_publications:
   en: Publications
 
 message_warning_no_drafts_in_news_flash:
-  nl: Let op, de volgende nieuwsartikelen worden niet in de nieuwsflits opgenomen, omdat ze gearchifeerd of niet gepubliceerd zijn. Als er van een nieuwsbericht een oudere, reeds gepubliceerde, versie bestaat, dan wordt deze versie opgenomen. 
+  nl: Let op, de volgende nieuwsartikelen worden niet in de nieuwsflits opgenomen, omdat ze gearchiveerd of niet gepubliceerd zijn. Als er van een nieuwsbericht een oudere, reeds gepubliceerde, versie bestaat, dan wordt deze versie opgenomen. 
   en: Please note, the following news articles are not included in the news flash because they are either archived or unpublished. If there's an older, already published version of a news item, then this version will be included instead.
 
 message_help_send_news_flash_confirm:
   nl: Als u klikt op ‘Ik weet het zeker, verzend nu’, wordt deze nieuwsflits verzonden naar alle in de gelecteerde verzendlijsten opgenomen e-mailadressen. 
   en: If you click on ‘I'm sure, send now’, this newsflash will be sent to all email addresses included in the selected mailing lists.
+
+summary_iwlz: 
+  nl: De iStandaard om cliënten in alle fasen van de Wlz-keten te volgen.
+  en: The iStandard to follow clients in all phases of the Wlz chain.
+summary_iwmo: 
+  nl: Inzicht in de informatiestromen binnen de Wmo tussen gemeenten en zorgaanbieders.
+  en: Insight into the information flows within the Wmo between municipalities and healthcare providers.
+summary_ijw: 
+  nl: iJw biedt inzicht in de informatiestromen binnen de Jeugdwet tussen gemeenten en zorgaanbieders.
+  en: iJw provides insight into the information flows within the Youth Act between municipalities and healthcare providers.
+summary_ipgb: 
+  nl: Inzicht in de gegevensuitwisseling op het gebied van het trekkingsrecht pgb tussen gemeenten, zorgkantoren en de Sociale Verzekeringsbank (SVB).
+  en: Insight into the data exchange in the field of the PGB drawing right between municipalities, healthcare offices and the Social Insurance Bank (SVB).
+summary_ieb: 
+  nl: De nieuwe iStandaard voor informatie-uitwisseling over het Wmo-abonnementstarief tussen gemeenten en het CAK.
+  en: The new iStandard for exchanging information about the Wmo subscription rate between municipalities and the CAK.
+
+message_help_file_upload_title:
+  nl: Kies een titel die compact is (Bij voorkeur op 1 regel passend) en de inhoud van het document beschrijft. Namen van bijlagen beginnen altijd met een hoofdletter en bevatten meestal geen punten. Gebruik nooit termen als 'Download' of 'Klik hier' in titels. 
+  en: Choose a title that is compact (preferably on 1 line) and describes the content of the document. Attachment names always start with a capital letter and usually do not contain periods. Never use terms like 'Download' or 'Click here' in titles.
+
+message_max_5_pages:
+  nl: Selecteer maximaal 5 paginaʼs
+  en: Select a maximum of 5 pages
