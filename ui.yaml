@@ -4646,6 +4646,9 @@ label_about_this_site:
 label_name:
   nl: Naam
   en: Name
+label_value:
+  nl: Waarde
+  en: Value
 label_your_response:
   nl: Uw reactie
   en: Your response
