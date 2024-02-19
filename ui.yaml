@@ -4787,6 +4787,9 @@ label_warnings:
 label_recent:
   nl: Recent
   en: Recent
+label_rule:
+  nl: Regel
+  en: Rule
 label_comments:
   nl: Reacties
   en: Comments
