@@ -2137,6 +2137,9 @@ label_all_regions:
 label_all_prozin_products:
   nl: Alle ProZIN-producten
   en: All ProZIN products
+message_help_image_bank_product_selector:
+  nl: Selecteer binnen welke ProZIN-producten dit beeld gebruikt mag worden.
+  en: Select within which ProZIN products this image may be used.
 label_article_page:
   nl: Artikel
   en: Article
