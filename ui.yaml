@@ -267,6 +267,10 @@ label_permission_levels:
   de: Berechtigungsstufen
   fr: Niveaux dʼautorisation
 
+label_permission_levels_employee_zinl:
+  nl: Machtigingsniveauʼs als medewerker van Zorginstituut Nederland
+  en: Permissions levels as a Dutch Healthcare Institute employee
+
 label_public_access:
   nl: Publieke toegang
   en: Public access
