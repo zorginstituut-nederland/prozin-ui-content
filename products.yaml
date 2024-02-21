@@ -12,5 +12,7 @@
   code: PRO
 - name: Zorgcijfersdatabank
   code: ZOR
+- name: Zorginstituut Nederland
+  code: COR
 - name: Zorginzicht
   code: ZIZ

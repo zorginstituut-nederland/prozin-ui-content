@@ -261,6 +261,16 @@ label_permission_level:
   de: Berechtigungsstufe
   fr: Niveau dʼautorisation
 
+label_permission_levels:
+  en: Permission levels
+  nl: Machtigingsniveauʼs
+  de: Berechtigungsstufen
+  fr: Niveaux dʼautorisation
+
+label_public_access:
+  nl: Publieke toegang
+  en: Public access
+
 label_quote:
   nl: Citaat
   en: Quote
@@ -1359,6 +1369,10 @@ label_role_within_this_application:
 label_permisisons_within_this_application:
   nl: Machtigingsniveau binnen deze applicatie
   en: Permission level within this application
+
+label_permisisons_within_name_application:
+  nl: Machtigingsniveau binnen {0}
+  en: Permission level within {0}
 
 label_data_exchange:
   nl: Gegevensuitwisseling
