@@ -251,6 +251,16 @@ message_help_conditions_for_medicine:
   en: These terms are displayed as an introduction in the terms and conditions section of the medicine.
   nl: Deze voorwaarden worden weergegeven als introductie in de voorwaardensectie van het geneesmiddel.
 
+label_permission_profile:
+  nl: Permissieprofiel
+  en: Permission profile
+
+label_permission_level:
+  en: Permission level
+  nl: Machtigingsniveau
+  de: Berechtigungsstufe
+  fr: Niveau dʼautorisation
+
 label_quote:
   nl: Citaat
   en: Quote
@@ -801,6 +811,9 @@ message_nothing_for_this_workflow_state:
 label_workflow_state:
   en: Workflow state
   nl: Werkstroomstaat
+label_editor: 
+  nl: Redacteur
+  en: Editor
 label_first_editorial:
   en: First editorial
   nl: Eerste redactie
@@ -813,9 +826,18 @@ label_third_editorial:
 label_editorial_office:
   en: Editorial office
   nl: Bureauredactie
+label_editorial_officer:
+  en: Editorial officer
+  nl: Bureauredacteur
+label_communications_officer:
+  nl: Communicatiemedewerker
+  en: Communications officer
 label_final_editing:
   en: Final editing
   nl: Eindredactie
+label_final_editor:
+  en: Final editor
+  nl: Eindredacteur
 label_interpretations:
   nl: Duidingen
   en: Interpretations
@@ -1335,8 +1357,8 @@ label_role_within_this_application:
   en: Role within this application
 
 label_permisisons_within_this_application:
-  nl: Permissieprofiel binnen deze applicatie
-  en: Permission profile within this application
+  nl: Machtigingsniveau binnen deze applicatie
+  en: Permission level within this application
 
 label_data_exchange:
   nl: Gegevensuitwisseling
