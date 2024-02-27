@@ -80,6 +80,10 @@
   title: Location
 - css: trash
   title: Trash
+- css: doc-inv
+  title: Doc Inv
+- css: doc-text-inv
+  title: Doc Text Inv
 - css: document
   title: Document
 - css: docs
@@ -104,8 +108,6 @@
   title: File Video
 - css: file-code
   title: File Code
-- css: folder
-  title: Folder
 - css: box
   title: Box
 - css: phone-1
@@ -220,8 +222,6 @@
   title: Snapchat
 - css: snapchat-ghost
   title: Snapchat Ghost
-- css: snapchat-square
-  title: Snapchat Square
 - css: asl-interpreting
   title: Asl Interpreting
 - css: american-sign-language-interpreting
@@ -238,8 +238,6 @@
   title: Mail
 - css: mail-alt
   title: Mail Alt
-- css: mail-squared
-  title: Mail Squared
 - css: star-half
   title: Star Half
 - css: star-half-alt
@@ -260,22 +258,14 @@
   title: User Secret
 - css: minus
   title: Minus
-- css: plus-squared
-  title: Plus Squared
 - css: cancel
   title: Cancel
-- css: ok-squared
-  title: Ok Squared
 - css: camera
   title: Camera
 - css: picture-1
   title: Picture
 - css: videocam
   title: Videocam
-- css: minus-squared
-  title: Minus Squared
-- css: minus-squared-alt
-  title: Minus Squared Alt
 - css: help
   title: Help
 - css: info
@@ -346,10 +336,6 @@
   title: Compass
 - css: trash
   title: Trash
-- css: doc-inv
-  title: Doc Inv
-- css: doc-text-inv
-  title: Doc Text Inv
 - css: calendar-1
   title: Calendar
 - css: cart-arrow-down
@@ -360,10 +346,10 @@
   title: Menu
 - css: fax
   title: Fax
-- css: phone-squared
-  title: Phone Squared
 - css: rss-1
   title: Rss
+- css: folder
+  title: Folder
 - css: folder-open-empty
   title: Folder Open Empty
 - css: folder-open
@@ -770,8 +756,6 @@
   title: Neuter
 - css: android
   title: Android
-- css: facebook-squared
-  title: Facebook Squared
 - css: facebook
   title: Facebook
 - css: dropbox
@@ -782,8 +766,6 @@
   title: Cc
 - css: buysellads
   title: Buysellads
-- css: bitbucket-squared
-  title: Bitbucket Squared
 - css: bitbucket
   title: Bitbucket
 - css: apple
@@ -792,14 +774,10 @@
   title: Facebook Official
 - css: flickr
   title: Flickr
-- css: git-squared
-  title: Git Squared
 - css: git
   title: Git
 - css: github
   title: Github
-- css: github-squared
-  title: Github Squared
 - css: github-circled
   title: Github Circled
 - css: gittip
@@ -818,20 +796,14 @@
   title: Linkedin
 - css: linux
   title: Linux
-- css: linkedin-squared
-  title: Linkedin Squared
 - css: twitter
   title: Twitter
-- css: vimeo-squared
-  title: Vimeo Squared
 - css: whatsapp
   title: Whatsapp
 - css: windows
   title: Windows
 - css: youtube
   title: Youtube
-- css: youtube-squared
-  title: Youtube Squared
 - css: youtube-play
   title: Youtube Play
 - css: blank
@@ -962,12 +934,8 @@
   title: Handshake - open
 - css: clone
   title: Clone
-- css: envelope-open
-  title: Envelope open
 - css: envelope-open-o
   title: Envelope open - open
-- css: user-circle
-  title: User circle
 - css: user-circle-o
   title: User circle - open
 - css: user-o
