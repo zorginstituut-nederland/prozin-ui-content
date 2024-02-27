@@ -1,0 +1,1056 @@
+- css: ok
+  title: Ok
+- css: ok-circle
+  title: Ok Circle
+- css: glass
+  title: Glass
+- css: music
+  title: Music
+- css: search-1
+  title: Search
+- css: heart
+  title: Heart
+- css: heart-empty
+  title: Heart Empty
+- css: star
+  title: Star
+- css: star-empty
+  title: Star Empty
+- css: child
+  title: Child
+- css: video
+  title: Video
+- css: dot-circled
+  title: Dot Circled
+- css: cancel-circle
+  title: Cancel Circle
+- css: cancel-circle-open
+  title: Cancel Circle Open
+- css: plus-1
+  title: Plus
+- css: plus-circle
+  title: Plus Circle
+- css: minus-circle
+  title: Minus Circle
+- css: help-circle
+  title: Help Circle
+- css: home-1
+  title: Home
+- css: link
+  title: Link
+- css: unlink
+  title: Unlink
+- css: link-ext
+  title: Link Ext
+- css: pin
+  title: Pin
+- css: tag
+  title: Tag
+- css: tags
+  title: Tags
+- css: bookmark
+  title: Bookmark
+- css: bookmark-empty
+  title: Bookmark Empty
+- css: flag
+  title: Flag
+- css: thumbs-up-alt
+  title: Thumbs Up Alt
+- css: download
+  title: Download
+- css: upload
+  title: Upload
+- css: quote-left
+  title: Quote Left
+- css: export
+  title: Export
+- css: share
+  title: Share
+- css: edit
+  title: Edit
+- css: comment
+  title: Comment
+- css: chat
+  title: Chat
+- css: bell-alt
+  title: Bell Alt
+- css: attention
+  title: Attention
+- css: location
+  title: Location
+- css: trash
+  title: Trash
+- css: document
+  title: Document
+- css: docs
+  title: Docs
+- css: doc-text
+  title: Doc Text
+- css: file-pdf
+  title: File Pdf
+- css: file-word
+  title: File Word
+- css: file-excel
+  title: File Excel
+- css: file-powerpoint
+  title: File Powerpoint
+- css: file-image
+  title: File Image
+- css: file-archive
+  title: File Archive
+- css: file-audio
+  title: File Audio
+- css: file-video
+  title: File Video
+- css: file-code
+  title: File Code
+- css: folder
+  title: Folder
+- css: box
+  title: Box
+- css: phone-1
+  title: Phone
+- css: cog
+  title: Cog
+- css: cog-many
+  title: Cog Many
+- css: wrench
+  title: Wrench
+- css: calendar-empty
+  title: Calendar Empty
+- css: clock
+  title: Clock
+- css: lightbulb
+  title: Lightbulb
+- css: move
+  title: Move
+- css: down-open
+  title: Down Open
+- css: up-open
+  title: Up Open
+- css: up-circle
+  title: Up Circle
+- css: down-circle
+  title: Down Circle
+- css: angle-double-right
+  title: Angle Double Right
+- css: right-hand
+  title: Right Hand
+- css: cw
+  title: Cw
+- css: ccw
+  title: Ccw
+- css: history
+  title: History
+- css: signal
+  title: Signal
+- css: award
+  title: Award
+- css: mobile
+  title: Mobile
+- css: inbox
+  title: Inbox
+- css: globe
+  title: Globe
+- css: sun
+  title: Sun
+- css: paragraph
+  title: Paragraph
+- css: list-bullet
+  title: List Bullet
+- css: list-numbered
+  title: List Numbered
+- css: table
+  title: Table
+- css: cut
+  title: Cut
+- css: paste
+  title: Paste
+- css: briefcase
+  title: Briefcase
+- css: suitcase
+  title: Suitcase
+- css: ellipsis-hor
+  title: Ellipsis Hor
+- css: book
+  title: Book
+- css: toggle-on
+  title: Toggle On
+- css: check-on
+  title: Check On
+- css: check-off
+  title: Check Off
+- css: radio-off
+  title: Radio Off
+- css: fork
+  title: Fork
+- css: magic
+  title: Magic
+- css: building
+  title: Building
+- css: bank
+  title: Bank
+- css: newspaper
+  title: Newspaper
+- css: gwallet
+  title: Gwallet
+- css: right-big
+  title: Right Big
+- css: arrows-cw
+  title: Arrows Cw
+- css: up-big
+  title: Up Big
+- css: exit
+  title: Exit
+- css: play-circled
+  title: Play Circled
+- css: cart-plus
+  title: Cart Plus
+- css: grid-large
+  title: Grid Large
+- css: hourglass-1
+  title: Hourglass
+- css: sign-language
+  title: Sign Language
+- css: low-vision
+  title: Low Vision
+- css: viadeo
+  title: Viadeo
+- css: snapchat
+  title: Snapchat
+- css: snapchat-ghost
+  title: Snapchat Ghost
+- css: snapchat-square
+  title: Snapchat Square
+- css: asl-interpreting
+  title: Asl Interpreting
+- css: american-sign-language-interpreting
+  title: American Sign Language Interpreting
+- css: assistive-listening-systems
+  title: Assistive Listening Systems
+- css: braille
+  title: Braille
+- css: volume-control-phone
+  title: Volume Control Phone
+- css: blind
+  title: Blind
+- css: mail-1
+  title: Mail
+- css: mail-alt
+  title: Mail Alt
+- css: mail-squared
+  title: Mail Squared
+- css: star-half
+  title: Star Half
+- css: star-half-alt
+  title: Star Half Alt
+- css: user-1
+  title: User
+- css: user-plus
+  title: User Plus
+- css: user-times
+  title: User Times
+- css: users-1
+  title: Users
+- css: male
+  title: Male
+- css: female
+  title: Female
+- css: user-secret
+  title: User Secret
+- css: minus
+  title: Minus
+- css: plus-squared
+  title: Plus Squared
+- css: cancel
+  title: Cancel
+- css: ok-squared
+  title: Ok Squared
+- css: th-list
+  title: Th List
+- css: th
+  title: Th
+- css: th-large
+  title: Th Large
+- css: camera-alt
+  title: Camera Alt
+- css: camera
+  title: Camera
+- css: picture-1
+  title: Picture
+- css: videocam
+  title: Videocam
+- css: minus-squared
+  title: Minus Squared
+- css: minus-squared-alt
+  title: Minus Squared Alt
+- css: help
+  title: Help
+- css: info
+  title: Info
+- css: attach-1
+  title: Attach
+- css: lock
+  title: Lock
+- css: lock-open
+  title: Lock Open
+- css: lock-open-alt
+  title: Lock Open Alt
+- css: eye
+  title: Eye
+- css: eye-off
+  title: Eye Off
+- css: code
+  title: Code
+- css: quote-right
+  title: Quote Right
+- css: forward
+  title: Forward
+- css: reply
+  title: Reply
+- css: reply-all
+  title: Reply All
+- css: upload-cloud-1
+  title: Upload Cloud
+- css: download-cloud
+  title: Download Cloud
+- css: thumbs-down-alt
+  title: Thumbs Down Alt
+- css: thumbs-down
+  title: Thumbs Down
+- css: thumbs-up-1
+  title: Thumbs Up
+- css: flag-checkered
+  title: Flag Checkered
+- css: flag-empty
+  title: Flag Empty
+- css: export-alt
+  title: Export Alt
+- css: share-squared
+  title: Share Squared
+- css: pencil-1
+  title: Pencil
+- css: pencil-squared
+  title: Pencil Squared
+- css: print-1
+  title: Print
+- css: retweet
+  title: Retweet
+- css: keyboard
+  title: Keyboard
+- css: gamepad
+  title: Gamepad
+- css: comment-empty
+  title: Comment Empty
+- css: chat-empty
+  title: Chat Empty
+- css: bell
+  title: Bell
+- css: bell-off-empty
+  title: Bell Off Empty
+- css: attention-alt
+  title: Attention Alt
+- css: attention-circled
+  title: Attention Circled
+- css: direction
+  title: Direction
+- css: compass
+  title: Compass
+- css: trash
+  title: Trash
+- css: doc-inv
+  title: Doc Inv
+- css: doc-text-inv
+  title: Doc Text Inv
+- css: calendar-1
+  title: Calendar
+- css: cart-arrow-down
+  title: Cart Arrow Down
+- css: sliders
+  title: Sliders
+- css: menu
+  title: Menu
+- css: fax
+  title: Fax
+- css: phone-squared
+  title: Phone Squared
+- css: rss-1
+  title: Rss
+- css: rss-squared
+  title: Rss Squared
+- css: folder-open-empty
+  title: Folder Open Empty
+- css: folder-open
+  title: Folder Open
+- css: folder-1
+  title: Folder
+- css: login
+  title: Login
+- css: mic
+  title: Mic
+- css: mute
+  title: Mute
+- css: volume-off
+  title: Volume Off
+- css: volume-down
+  title: Volume Down
+- css: volume-up
+  title: Volume Up
+- css: headphones
+  title: Headphones
+- css: resize-full-alt
+  title: Resize Full Alt
+- css: block
+  title: Block
+- css: resize-horizontal
+  title: Resize Horizontal
+- css: resize-vertical
+  title: Resize Vertical
+- css: zoom-in
+  title: Zoom In
+- css: zoom-out
+  title: Zoom Out
+- css: down-circled2
+  title: Down Circled2
+- css: up-circled2
+  title: Up Circled2
+- css: left-circled2
+  title: Left Circled2
+- css: right-circled2
+  title: Right Circled2
+- css: down-dir-1
+  title: Down Dir
+- css: up-dir
+  title: Up Dir
+- css: left-dir
+  title: Left Dir
+- css: right-dir-1
+  title: Right Dir
+- css: left-open-1
+  title: Left Open
+- css: right-open
+  title: Right Open
+- css: angle-left
+  title: Angle Left
+- css: angle-up
+  title: Angle Up
+- css: angle-right
+  title: Angle Right
+- css: angle-circled-left
+  title: Angle Circled Left
+- css: angle-down
+  title: Angle Down
+- css: angle-circled-right
+  title: Angle Circled Right
+- css: angle-double-left
+  title: Angle Double Left
+- css: angle-double-up
+  title: Angle Double Up
+- css: angle-double-down
+  title: Angle Double Down
+- css: down
+  title: Down
+- css: left
+  title: Left
+- css: right
+  title: Right
+- css: up
+  title: Up
+- css: down-big
+  title: Down Big
+- css: left-big
+  title: Left Big
+- css: left-hand
+  title: Left Hand
+- css: up-hand
+  title: Up Hand
+- css: down-hand
+  title: Down Hand
+- css: left-circled
+  title: Left Circled
+- css: right-circled
+  title: Right Circled
+- css: up-circled
+  title: Up Circled
+- css: down-circled
+  title: Down Circled
+- css: to-start
+  title: To Start
+- css: to-end-alt
+  title: To End Alt
+- css: to-end
+  title: To End
+- css: pause
+  title: Pause
+- css: stop
+  title: Stop
+- css: play-circled2
+  title: Play Circled2
+- css: play
+  title: Play
+- css: collapse-left
+  title: Collapse Left
+- css: expand-right
+  title: Expand Right
+- css: collapse
+  title: Collapse
+- css: expand
+  title: Expand
+- css: exchange
+  title: Exchange
+- css: shuffle
+  title: Shuffle
+- css: level-down
+  title: Level Down
+- css: level-up
+  title: Level Up
+- css: font
+  title: Font
+- css: leaf
+  title: Leaf
+- css: paper-plane-empty
+  title: Paper Plane Empty
+- css: paper-plane
+  title: Paper Plane
+- css: fighter-jet
+  title: Fighter Jet
+- css: to-start-alt
+  title: To Start Alt
+- css: fast-fw
+  title: Fast Fw
+- css: fast-bw
+  title: Fast Bw
+- css: eject
+  title: Eject
+- css: target
+  title: Target
+- css: wifi
+  title: Wifi
+- css: desktop
+  title: Desktop
+- css: laptop
+  title: Laptop
+- css: tablet
+  title: Tablet
+- css: header
+  title: Header
+- css: text-height
+  title: Text Height
+- css: text-width
+  title: Text Width
+- css: cloud
+  title: Cloud
+- css: flash
+  title: Flash
+- css: moon
+  title: Moon
+- css: umbrella
+  title: Umbrella
+- css: flight
+  title: Flight
+- css: list-1
+  title: List
+- css: barcode
+  title: Barcode
+- css: qrcode
+  title: Qrcode
+- css: list-alt
+  title: List Alt
+- css: road
+  title: Road
+- css: 'off'
+  title: 'Off'
+- css: ellipsis-vert
+  title: Ellipsis Vert
+- css: crop
+  title: Crop
+- css: columns
+  title: Columns
+- css: adjust
+  title: Adjust
+- css: tint
+  title: Tint
+- css: circle
+  title: Circle
+- css: circle-thin
+  title: Circle Thin
+- css: dot-circled
+  title: Dot Circled
+- css: circle-notch
+  title: Circle Notch
+- css: asterisk
+  title: Asterisk
+- css: fire
+  title: Fire
+- css: gift
+  title: Gift
+- css: magnet
+  title: Magnet
+- css: chart-bar
+  title: Chart Bar
+- css: chart-area
+  title: Chart Area
+- css: chart-pie
+  title: Chart Pie
+- css: chart-line
+  title: Chart Line
+- css: ticket
+  title: Ticket
+- css: credit-card
+  title: Credit Card
+- css: floppy
+  title: Floppy
+- css: megaphone-1
+  title: Megaphone
+- css: key
+  title: Key
+- css: hdd
+  title: Hdd
+- css: rocket
+  title: Rocket
+- css: bug
+  title: Bug
+- css: certificate
+  title: Certificate
+- css: tasks
+  title: Tasks
+- css: filter
+  title: Filter
+- css: beaker
+  title: Beaker
+- css: cab
+  title: Cab
+- css: taxi
+  title: Taxi
+- css: truck
+  title: Truck
+- css: bus
+  title: Bus
+- css: bicycle
+  title: Bicycle
+- css: motorcycle
+  title: Motorcycle
+- css: sort
+  title: Sort
+- css: viacoin
+  title: Viacoin
+- css: bitcoin
+  title: Bitcoin
+- css: try
+  title: Try
+- css: shekel
+  title: Shekel
+- css: rouble
+  title: Rouble
+- css: yen
+  title: Yen
+- css: rupee
+  title: Rupee
+- css: dollar
+  title: Dollar
+- css: pound
+  title: Pound
+- css: euro
+  title: Euro
+- css: money
+  title: Money
+- css: ship
+  title: Ship
+- css: subway
+  title: Subway
+- css: train
+  title: Train
+- css: sort-name-up
+  title: Sort Name Up
+- css: sort-name-down
+  title: Sort Name Down
+- css: sort-number-up
+  title: Sort Number Up
+- css: sort-number-down
+  title: Sort Number Down
+- css: hammer
+  title: Hammer
+- css: gauge
+  title: Gauge
+- css: sitemap
+  title: Sitemap
+- css: spinner
+  title: Spinner
+- css: coffee
+  title: Coffee
+- css: food
+  title: Food
+- css: beer
+  title: Beer
+- css: user
+  title: User
+- css: stethoscope
+  title: Stethoscope
+- css: heartbeat
+  title: Heartbeat
+- css: ambulance
+  title: Ambulance
+- css: medkit
+  title: Medkit
+- css: h-sigh
+  title: H Sigh
+- css: bed
+  title: Bed
+- css: hospital
+  title: Hospital
+- css: won
+  title: Won
+- css: building-filled
+  title: Building Filled
+- css: smile
+  title: Smile
+- css: frown
+  title: Frown
+- css: meh
+  title: Meh
+- css: anchor
+  title: Anchor
+- css: terminal
+  title: Terminal
+- css: eraser
+  title: Eraser
+- css: puzzle
+  title: Puzzle
+- css: shield
+  title: Shield
+- css: extinguisher
+  title: Extinguisher
+- css: bullseye
+  title: Bullseye
+- css: wheelchair
+  title: Wheelchair
+- css: language
+  title: Language
+- css: graduation-cap
+  title: Graduation Cap
+- css: paw
+  title: Paw
+- css: spoon
+  title: Spoon
+- css: cube
+  title: Cube
+- css: cubes
+  title: Cubes
+- css: recycle
+  title: Recycle
+- css: street-view
+  title: Street View
+- css: diamond
+  title: Diamond
+- css: birthday
+  title: Birthday
+- css: brush-1
+  title: Brush
+- css: eyedropper
+  title: Eyedropper
+- css: at
+  title: At
+- css: copyright
+  title: Copyright
+- css: calc
+  title: Calc
+- css: plug
+  title: Plug
+- css: binoculars
+  title: Binoculars
+- css: tty
+  title: Tty
+- css: soccer-ball
+  title: Soccer Ball
+- css: bomb
+  title: Bomb
+- css: empire
+  title: Empire
+- css: lifebuoy
+  title: Lifebuoy
+- css: server
+  title: Server
+- css: database
+  title: Database
+- css: tree
+  title: Tree
+- css: venus
+  title: Venus
+- css: mars
+  title: Mars
+- css: mercury
+  title: Mercury
+- css: transgender
+  title: Transgender
+- css: transgender-alt
+  title: Transgender Alt
+- css: venus-double
+  title: Venus Double
+- css: mars-double
+  title: Mars Double
+- css: venus-mars
+  title: Venus Mars
+- css: mars-stroke
+  title: Mars Stroke
+- css: mars-stroke-v
+  title: Mars Stroke V
+- css: mars-stroke-h
+  title: Mars Stroke H
+- css: neuter
+  title: Neuter
+- css: cc-visa
+  title: Cc Visa
+- css: cc-mastercard
+  title: Cc Mastercard
+- css: cc-amex
+  title: Cc Amex
+- css: cc-paypal
+  title: Cc Paypal
+- css: android
+  title: Android
+- css: facebook-squared
+  title: Facebook Squared
+- css: facebook
+  title: Facebook
+- css: dropbox
+  title: Dropbox
+- css: css3
+  title: Css3
+- css: cc
+  title: Cc
+- css: buysellads
+  title: Buysellads
+- css: bitbucket-squared
+  title: Bitbucket Squared
+- css: bitbucket
+  title: Bitbucket
+- css: apple
+  title: Apple
+- css: facebook-official
+  title: Facebook Official
+- css: flickr
+  title: Flickr
+- css: git-squared
+  title: Git Squared
+- css: git
+  title: Git
+- css: github
+  title: Github
+- css: github-squared
+  title: Github Squared
+- css: github-circled
+  title: Github Circled
+- css: gittip
+  title: Gittip
+- css: google
+  title: Google
+- css: gplus
+  title: Gplus
+- css: html5
+  title: Html5
+- css: instagram
+  title: Instagram
+- css: paypal
+  title: Paypal
+- css: linkedin
+  title: Linkedin
+- css: linux
+  title: Linux
+- css: linkedin-squared
+  title: Linkedin Squared
+- css: twitter
+  title: Twitter
+- css: vimeo-squared
+  title: Vimeo Squared
+- css: whatsapp
+  title: Whatsapp
+- css: windows
+  title: Windows
+- css: youtube
+  title: Youtube
+- css: yahoo
+  title: Yahoo
+- css: youtube-squared
+  title: Youtube Squared
+- css: youtube-play
+  title: Youtube Play
+- css: blank
+  title: Blank
+- css: lemon
+  title: Lemon
+- css: genderless
+  title: Genderless
+- css: battery-4
+  title: Battery 4
+- css: battery-3
+  title: Battery 3
+- css: battery-1
+  title: Battery
+- css: battery-2
+  title: Battery 2
+- css: battery-0
+  title: Battery 0
+- css: mouse-pointer
+  title: Mouse Pointer
+- css: i-cursor
+  title: I Cursor
+- css: object-group
+  title: Object Group
+- css: object-ungroup
+  title: Object Ungroup
+- css: sticky-note
+  title: Sticky Note
+- css: sticky-note-o
+  title: Sticky Note O
+- css: balance-scale
+  title: Balance Scale
+- css: hourglass-o
+  title: Hourglass O
+- css: hourglass-2
+  title: Hourglass 2
+- css: hourglass-3
+  title: Hourglass 3
+- css: hourglass
+  title: Hourglass
+- css: hand-grab-o
+  title: Hand Grab O
+- css: hand-paper-o
+  title: Hand Paper O
+- css: hand-scissors-o
+  title: Hand Scissors O
+- css: hand-lizard-o
+  title: Hand Lizard O
+- css: hand-spock-o
+  title: Hand Spock O
+- css: hand-pointer-o
+  title: Hand Pointer O
+- css: hand-peace-o
+  title: Hand Peace O
+- css: trademark
+  title: Trademark
+- css: creative-commons
+  title: Creative Commons
+- css: registered
+  title: Registered
+- css: wikipedia-w
+  title: Wikipedia W
+- css: safari
+  title: Safari
+- css: chrome
+  title: Chrome
+- css: firefox
+  title: Firefox
+- css: opera
+  title: Opera
+- css: internet-explorer
+  title: Internet Explorer
+- css: television
+  title: Television
+- css: amazon
+  title: Amazon
+- css: calendar-plus-o
+  title: Calendar Plus O
+- css: calendar-times-o
+  title: Calendar Times O
+- css: calendar-minus-o
+  title: Calendar Minus O
+- css: calendar-check-o
+  title: Calendar Check O
+- css: industry
+  title: Industry
+- css: map-pin
+  title: Map Pin
+- css: map-signs
+  title: Map Signs
+- css: map-o
+  title: Map O
+- css: commenting
+  title: Commenting
+- css: shopping-bag
+  title: Shopping Bag
+- css: stop-circle-o
+  title: Stop Circle O
+- css: pause-circle-o
+  title: Pause Circle O
+- css: usb
+  title: Usb
+- css: question-circle-o
+  title: Question Circle O
+- css: wheelchair-alt
+  title: Wheelchair Alt
+- css: fort-awesome
+  title: Fort Awesome
+- css: universal-access
+  title: Universal access
+- css: edge
+  title: Edge
+- css: percent
+  title: Percent
+- css: black-tie
+  title: Black Tie
+- css: bluetooth
+  title: Bluetooth
+- css: vimeo
+  title: Vimeo
+- css: hashtag
+  title: Hashtag
+- css: shopping-basket
+  title: Shopping Basket
+- css: commenting-o
+  title: Commenting - open
+- css: link-ext
+  title: Link external
+- css: handshake-o
+  title: Handshake - open
+- css: clone
+  title: Clone
+- css: envelope-open
+  title: Envelope open
+- css: envelope-open-o
+  title: Envelope open - open
+- css: user-circle
+  title: User circle
+- css: user-circle-o
+  title: User circle - open
+- css: user-o
+  title: User - open
+- css: id-badge
+  title: Id Badge
+- css: id-card-o
+  title: Id Card - open
+- css: address-book-o
+  title: Address Book - open
+- css: thermometer
+  title: Thermometer
+- css: thermometer-3
+  title: Thermometer 3
+- css: thermometer-2
+  title: Thermometer 2
+- css: thermometer-quarter
+  title: Thermometer Quarter
+- css: thermometer-0
+  title: Thermometer 0
+- css: shower
+  title: Shower
+- css: bath
+  title: Bath
+- css: podcast
+  title: Podcast
+- css: snowflake-o
+  title: Snowflake O
+- css: microchip
+  title: Microchip
+- css: gitlab
+  title: Gitlab
+- css: google-plus-circle
+  title: Google Plus Circle
+- css: window-maximize
+  title: Window Maximize
+- css: window-close-o
+  title: Window Close O
+- css: window-close
+  title: Window Close
+- css: window-restore
+  title: Window Restore
+- css: telegram
+  title: Telegram
