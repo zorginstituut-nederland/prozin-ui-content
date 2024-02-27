@@ -2769,10 +2769,10 @@ label_role_scanner:
   en: Scanner
 label_working_group: 
   nl: Werkgroep
-  en: Workgroup
+  en: Working group
 label_working_groups: 
   nl: Werkgroepen
-  en: Workgroups
+  en: Working groups
 label_role_werkgroeplid:
   nl: Werkgroeplid
   en: Working group member
@@ -5362,7 +5362,9 @@ label_latest_full_scan:
 label_full_scans:
   nl: Volledige scans
   en: Full scans
-
+message_help_summary:
+  nl: Een uitleg van de processen van Horizonscan Geneesmiddelen.
+  en: An explanation of the processes of Horizonscan Medicines.
 # Labels for documenttypes in Bloomreach
 label_newscontentdocument:
  nl: Nieuwsbericht
