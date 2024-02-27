@@ -1883,6 +1883,15 @@ label_structure:
 label_process:
   nl: Proces
   en: Process
+label_processes:
+  nl: Processen
+  en: Processes
+label_processes:
+  nl: Processen
+  en: Processes
+label_new_process:
+  nl: Nieuw proces
+  en: New process
 label_outcome:
   nl: Uitkomst
   en: Outcome
@@ -5362,9 +5371,12 @@ label_latest_full_scan:
 label_full_scans:
   nl: Volledige scans
   en: Full scans
+label_process_step:
+  nl: Processtap
+  en: Process step
 message_help_summary:
-  nl: Een uitleg van de processen van Horizonscan Geneesmiddelen.
-  en: An explanation of the processes of Horizonscan Medicines.
+  nl: Een uitleg over het totstandkomingsproces van Horizonscan Geneesmiddelen.
+  en: An explanation of the development process of Horizon Scan Medicines.
 # Labels for documenttypes in Bloomreach
 label_newscontentdocument:
  nl: Nieuwsbericht
