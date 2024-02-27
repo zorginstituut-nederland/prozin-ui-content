@@ -266,14 +266,6 @@
   title: Cancel
 - css: ok-squared
   title: Ok Squared
-- css: th-list
-  title: Th List
-- css: th
-  title: Th
-- css: th-large
-  title: Th Large
-- css: camera-alt
-  title: Camera Alt
 - css: camera
   title: Camera
 - css: picture-1
@@ -532,12 +524,6 @@
   title: Laptop
 - css: tablet
   title: Tablet
-- css: header
-  title: Header
-- css: text-height
-  title: Text Height
-- css: text-width
-  title: Text Width
 - css: cloud
   title: Cloud
 - css: flash
@@ -660,14 +646,6 @@
   title: Subway
 - css: train
   title: Train
-- css: sort-name-up
-  title: Sort Name Up
-- css: sort-name-down
-  title: Sort Name Down
-- css: sort-number-up
-  title: Sort Number Up
-- css: sort-number-down
-  title: Sort Number Down
 - css: hammer
   title: Hammer
 - css: gauge
@@ -900,8 +878,6 @@
   title: Object Ungroup
 - css: sticky-note
   title: Sticky Note
-- css: sticky-note-o
-  title: Sticky Note O
 - css: balance-scale
   title: Balance Scale
 - css: hourglass-o
