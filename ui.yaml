@@ -5974,6 +5974,14 @@ label_tag_imp:
   sv: "Tagg"
   he: "תגית"
 
+message_help_process_step:
+  nl: Probeer grote stappen te definieren. Het maximum aantal stappen dat een proces kan bevatten is zeven. Gebruik eventueel tussenkopjes binnen de stap voor het aanbrengen van substapen.
+  en: Try to define major steps. The maximum number of steps that a process can contain is seven. If necessary, use subheadings within the step to add sub-steps.
+
+message_help_process_step_icon:
+  nl: Kies een pictogram dat het beste het thema van deze stap symboliseert. Hanteer beeldmerken van bedrijven alleen wanneer een product of dienst van het bedrijf in kwestie bij deze stap betrokken is. Voorkom indien mogelijk dat u een pictogram kiest dat al elders gebruikt wordt met een andere betekenis. 
+  en: Choose an icon that best symbolises the theme of this step. Only use company logos when a product or service from the company in question is involved in this step. If possible, avoid choosing an icon that is already used elsewhere with a different meaning.
+
 label_basic_insurance:
   nl: Basisverzekering
   en: Basic insurance
@@ -5981,7 +5989,9 @@ label_basic_insurance:
 label_insurance:
   nl: Verzekering
   en: Insurance
-
+label_icon:
+  nl: Pictogram
+  en: Icon
 label_insurer:
   nl: Verzekeraar
   en: Insurer
