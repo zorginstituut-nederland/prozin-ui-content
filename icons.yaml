@@ -774,14 +774,6 @@
   title: Mars Stroke H
 - css: neuter
   title: Neuter
-- css: cc-visa
-  title: Cc Visa
-- css: cc-mastercard
-  title: Cc Mastercard
-- css: cc-amex
-  title: Cc Amex
-- css: cc-paypal
-  title: Cc Paypal
 - css: android
   title: Android
 - css: facebook-squared
