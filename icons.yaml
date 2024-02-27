@@ -318,12 +318,8 @@
   title: Flag Empty
 - css: export-alt
   title: Export Alt
-- css: share-squared
-  title: Share Squared
 - css: pencil-1
   title: Pencil
-- css: pencil-squared
-  title: Pencil Squared
 - css: print-1
   title: Print
 - css: retweet
@@ -500,8 +496,6 @@
   title: Leaf
 - css: paper-plane-empty
   title: Paper Plane Empty
-- css: paper-plane
-  title: Paper Plane
 - css: fighter-jet
   title: Fighter Jet
 - css: to-start-alt
