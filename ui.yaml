@@ -467,6 +467,12 @@ label_components:
   he: רכיבים
   nl: Componenten
 
+label_page_type:
+  de: Seitentype
+  en: Page type
+  fr: Types de page
+  nl: Paginatype
+
 label_page_types:
   de: Seitentypen
   en: Page types
