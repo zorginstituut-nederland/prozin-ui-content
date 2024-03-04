@@ -1,3 +1,19 @@
+message_modal_delete_user_add_again:
+  nl: U kunt deze gebruiker op een later moment altijd opnieuw toevoegen aan ${0}.
+  en: You can always add this user back to {0}   .
+
+message_modal_delete_user:
+  nl: U staat op het punt om het gebruikersaccount van '<strong>{0}</strong>' te verwijderen. Hierna heeft deze gebruiker geen toegang meer tot {1}. Alle content van deze gebruiker zal blijven bestaan.
+  en: You are about to delete the user account of '<strong>{0}</strong>'. After this, this user no longer has access to {1}. All content from this user will not be deleted.
+
+message_add_user_to_site:
+  nl: Voeg {0} weer toe aan site
+  en: Add {0} to site
+
+message_remove_user_from_site:
+  nl: Verwijder {0} uit {1}
+  en: Remove {0} from {1}
+
 message_select_image_before_publication:
   nl: Bewerk en kies een hoofdafbeelding om dit bericht te kunnen publiceren. 
   en: Edit and select a hero iamge in order to publish this item. 
