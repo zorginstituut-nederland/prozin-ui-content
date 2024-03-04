@@ -1,3 +1,7 @@
+message_select_image_before_publication:
+  nl: Bewerk en kies een hoofdafbeelding om dit bericht te kunnen publiceren. 
+  en: Edit and select a hero iamge in order to publish this item. 
+
 label_release_date:
   nl: Releasedatum
   en: Release date
