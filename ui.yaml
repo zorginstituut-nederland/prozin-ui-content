@@ -1167,11 +1167,14 @@ label_new_image:
   en: New image
   nl: Nieuwe afbeelding
 label_pin_on_top_of_overviews:
-  nl: Zet dit document vast bovenaan de overzichten
-  en: Pin this item to the top of overviews
+  nl: Zet vast bovenaan overzichten
+  en: Pin to top of overviews
 label_pinning:
   nl: Vastzetten
   en: Pinning
+label_pinning_imp:
+  nl: Zet vast
+  en: Pin
 label_dashboard: 
   nl: Dashboard
   en: Dashboard
