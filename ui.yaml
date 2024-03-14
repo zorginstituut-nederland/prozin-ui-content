@@ -277,19 +277,19 @@ label_permission_profile:
 
 label_permission_level:
   en: Permission level
-  nl: Machtigingsniveau
+  nl: Bevoegdheidsniveau
   de: Berechtigungsstufe
   fr: Niveau dʼautorisation
 
 label_permission_levels:
   en: Permission levels
-  nl: Machtigingsniveauʼs
+  nl: Bevoegdheden
   de: Berechtigungsstufen
   fr: Niveaux dʼautorisation
 
 label_permission_levels_employee_zinl:
-  nl: Machtigingsniveauʼs als medewerker van Zorginstituut Nederland
-  en: Permissions levels as a Dutch Healthcare Institute employee
+  nl: Bevoegdheden als medewerker van Zorginstituut Nederland
+  en: Permissions as a Dutch Healthcare Institute employee
 
 label_public_access:
   nl: Publieke toegang
@@ -1400,11 +1400,11 @@ label_role_within_this_application:
   en: Role within this application
 
 label_permisisons_within_this_application:
-  nl: Machtigingsniveau binnen deze applicatie
+  nl: Bevoegdheden binnen deze applicatie
   en: Permission level within this application
 
 label_permisisons_within_name_application:
-  nl: Machtigingsniveau binnen {0}
+  nl: Bevoegdheden binnen {0}
   en: Permission level within {0}
 
 label_data_exchange:
