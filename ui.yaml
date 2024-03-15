@@ -1,3 +1,11 @@
+label_all_releases_for_domain:
+  nl: Alle releases voor {0}
+  en: All releases for {0}
+
+label_all_news_for_domain:
+  nl: Alle nieuwsberichten voor {0}
+  en: All news items for {0}
+
 message_modal_delete_user_add_again:
   nl: U kunt deze gebruiker op een later moment altijd opnieuw toevoegen aan {0}.
   en: You can always add this user back to {0}.
