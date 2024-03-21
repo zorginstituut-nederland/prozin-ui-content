@@ -6261,3 +6261,7 @@ message_help_file_upload_title:
 message_max_5_pages:
   nl: Selecteer maximaal 5 paginaʼs
   en: Select a maximum of 5 pages
+
+label_no_available_content:
+  nl: Nog geen beschikbare content
+  en: No content available yet
