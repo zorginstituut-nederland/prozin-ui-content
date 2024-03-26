@@ -6262,6 +6262,6 @@ message_max_5_pages:
   nl: Selecteer maximaal 5 paginaʼs
   en: Select a maximum of 5 pages
 
-label_no_available_content:
-  nl: Nog geen beschikbare content
-  en: No content available yet
+message_no_available_content_yet:
+  nl: Er is nog geen inhoud beschikbaar. 
+  en: There is no content available yet.
