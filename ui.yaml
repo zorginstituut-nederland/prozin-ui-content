@@ -1,3 +1,10 @@
+label_contacts:
+  nl: Contacten
+  en: Contacts
+  fr: Contacts
+  de: Kontakte
+  he: אנשי קשר
+
 label_all_releases_for_domain:
   nl: Alle releases voor {0}
   en: All releases for {0}
