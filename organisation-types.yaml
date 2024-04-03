@@ -25,6 +25,9 @@
 - name: Ministerie
   i18n-singular: label_ministery
   i18n-plural:  label_ministeries
+- name: Softwareleverancier
+  i18n-singular: label_software_vendor
+  i18n-plural:  label_software_vendors
 - name: Werkgroep
   i18n-singular: label_working_group
   i18n-plural:  label_working_groups
