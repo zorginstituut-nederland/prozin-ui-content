@@ -1,3 +1,7 @@
+label_select_contact_person:
+  nl: Selecteer een contactpersoon
+  en: Select a contact person
+
 label_all_releases_for_domain:
   nl: Alle releases voor {0}
   en: All releases for {0}
@@ -4612,6 +4616,9 @@ label_verification_by_manufacturer:
 label_new_medicines:
   nl: Nieuwe geneesmiddelen
   en: New medicines
+label_new_medicine:
+  nl: Nieuw geneesmiddel
+  en: New medicine
 label_nieuw_geneesmiddel:
   nl: Nieuw geneesmiddel
   en: New medicine
