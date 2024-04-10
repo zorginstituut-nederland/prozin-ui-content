@@ -1279,6 +1279,9 @@ label_new_folder:
 label_edit_folder:
   nl: Map bewerken
   en: Edit folder
+label_new_specification:
+  nl: Nieuwe specificatie
+  en: New specification
 label_new_smart_folder:
   nl: Nieuwe slimme map
   en: New smart folder
@@ -2246,6 +2249,9 @@ label_release:
 label_releases:
   nl: Releases
   en: Releases
+
+
+
 label_new_release:
   nl: Nieuwe release
   en: New release
@@ -5302,6 +5308,11 @@ label_table_or_report:
 label_specification:
   nl: Specificatie
   en: Specification
+
+label_specifications:
+  nl: Specificaties
+  en: Specifications
+
 label_data_type:
   nl: Gegevenssoort
   en: Data type
