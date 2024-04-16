@@ -1,3 +1,7 @@
+label_about:
+  nl: Over
+  en: About
+
 label_select_contact_person:
   nl: Selecteer een contactpersoon
   en: Select a contact person
@@ -5446,6 +5450,15 @@ label_newscontentdocument:
 
 # Messages
 
+message_release_current:
+  nl: Alle informatie bij de release(s) die op dit moment in gebruik is/zijn.
+  en: All information accompanying the release(s) currently in use.
+message_release_in_development:
+  nl: Hier vindt u alle informatie over releases die op dit moment in ontwikkeling zijn.
+  en: Here you will find all information about releases currently in development.
+message_releases_overview:
+  nl: Op deze pagina vindt u alle lopende en gearchiveerde releases voor dit domein.
+  en: This page lists all current and archived releases for this domain.
 message_help_file_upload:
   nl: "De volgende bestandsformaten zijn toegestaan volgens de richtlijnen van Rijksoverheid: PDF, CSV, ODT, XML en MP3."
   en: "The following file formats are allowed according to the guidelines of the Dutch government: PDF, CSV, ODT, XML and MP3."
