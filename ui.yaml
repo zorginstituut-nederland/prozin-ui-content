@@ -38,8 +38,8 @@ message_remove_user_from_site:
   en: Remove {0} from {1}
 
 message_password_changed_recently:
-  nl: Het is niet mogelijk je wachtwoord te vernieuwen omdat deze recent is gewijzigd. Het wachtwoord kan na {1} worden gewijzigd.
-  en: It is not possible to renew your password because it has recently been changed. The password can be changed after {1}.
+  nl: Het is niet mogelijk je wachtwoord te vernieuwen omdat deze recent is gewijzigd. Het wachtwoord kan na {0} worden gewijzigd.
+  en: It is not possible to renew your password because it has recently been changed. The password can be changed after {0}.
 
 message_select_image_before_publication:
   nl: Bewerk en kies een hoofdafbeelding om dit bericht te kunnen publiceren. 
