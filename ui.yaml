@@ -69,6 +69,10 @@ message_see_concepts_for_wegiz:
   nl: Zie de begrippenlijst voor een {0}.
   en: Consult the glossary for an {0}.
 
+message_current_password_invalid:
+  nl: U heeft het oude wachtwoord niet goed ingevoerd.
+  en: You have entered the old password incorrectly.
+
 snippet_explanation_wegiz:
   nl: toelichting over Wegiz
   en: explanation about Wegiz
