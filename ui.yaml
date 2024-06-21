@@ -2034,6 +2034,9 @@ label_view_on_transparency_calendar:
 label_transparency_calendar:
   nl: Transparantiekalender
   en: Transparency Calendar
+label_transparency_calendar_sector:
+  nl: Transparantiekalender {0}
+  en: Transparency Calendar {0}
 label_reference_indicator_id:
   nl: Referentie indicator-ID 
   en: Reference indicator ID
