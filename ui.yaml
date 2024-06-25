@@ -978,6 +978,18 @@ label_patient_organisation:
 label_patient_organisations:
   en: Patient organisations
   nl: Patiëntenorganisaties
+label_agency:
+  en: Agency
+  nl: Agentschap
+label_agencies:
+  en: Agencies
+  nl: Agentschappen
+label_foundation:
+  en: Foundation
+  nl: Stichting
+label_foundations:
+  en: Foundations
+  nl: Stichtingen
 label_undefined:
   nl: Ongedefinieerd
   en: Undefined
