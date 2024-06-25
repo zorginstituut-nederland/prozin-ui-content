@@ -642,7 +642,7 @@ message_workflow_transition_publish:
   de: Wenn Sie fortfahren, wird dieses Dokument veröffentlicht. 
 
 message_workflow_transition_publish_batch:
-  nl: Als u verder gaat worden geselecteerde die in concept zijn gepubliceerd. 
+  nl: Als u verder gaat worden geselecteerde documenten die in concept zijn gepubliceerd. 
   en: If you proceed then selected documents that are in draft will be published.
 
 message_workflow_transition_publish_previous_version:
