@@ -38,8 +38,8 @@ message_remove_user_from_site:
   en: Remove {0} from {1}
 
 message_password_changed_recently:
-  nl: Het is niet mogelijk je wachtwoord te vernieuwen omdat deze recent is gewijzigd. Het wachtwoord kan na {0} worden gewijzigd.
-  en: It is not possible to renew your password because it has recently been changed. The password can be changed after {0}.
+  nl: Het is niet mogelijk uw wachtwoord te vernieuwen, omdat deze recent nog is aangepast. Het wachtwoord kan na {0} worden gewijzigd.
+  en: It is not possible to renew your password, because it has recently been changed. The password can be changed after {0}.
 
 message_select_image_before_publication:
   nl: Bewerk en kies een hoofdafbeelding om dit bericht te kunnen publiceren. 
@@ -642,7 +642,7 @@ message_workflow_transition_publish:
   de: Wenn Sie fortfahren, wird dieses Dokument veröffentlicht. 
 
 message_workflow_transition_publish_batch:
-  nl: Als u verder gaat worden geselecteerde die in concept zijn gepubliceerd. 
+  nl: Als u verder gaat worden geselecteerde documenten die in concept zijn gepubliceerd. 
   en: If you proceed then selected documents that are in draft will be published.
 
 message_workflow_transition_publish_previous_version:
@@ -978,6 +978,18 @@ label_patient_organisation:
 label_patient_organisations:
   en: Patient organisations
   nl: Patiëntenorganisaties
+label_agency:
+  en: Agency
+  nl: Agentschap
+label_agencies:
+  en: Agencies
+  nl: Agentschappen
+label_foundation:
+  en: Foundation
+  nl: Stichting
+label_foundations:
+  en: Foundations
+  nl: Stichtingen
 label_undefined:
   nl: Ongedefinieerd
   en: Undefined
@@ -2034,6 +2046,9 @@ label_view_on_transparency_calendar:
 label_transparency_calendar:
   nl: Transparantiekalender
   en: Transparency Calendar
+label_transparency_calendar_sector:
+  nl: Transparantiekalender {0}
+  en: Transparency Calendar {0}
 label_reference_indicator_id:
   nl: Referentie indicator-ID 
   en: Reference indicator ID

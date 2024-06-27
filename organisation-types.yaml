@@ -1,3 +1,6 @@
+- name: Agentschap
+  i18n-singular: label_agency
+  i18n-plural:  label_agencies
 - name: Apotheek
   i18n-singular: label_chemist
   i18n-plural:  label_chemists
@@ -28,6 +31,9 @@
 - name: Softwareleverancier
   i18n-singular: label_software_vendor
   i18n-plural:  label_software_vendors
+- name: Stichting
+  i18n-singular: label_foundation
+  i18n-plural:  label_foundations
 - name: Werkgroep
   i18n-singular: label_working_group
   i18n-plural:  label_working_groups
