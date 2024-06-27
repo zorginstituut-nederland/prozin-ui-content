@@ -17,6 +17,10 @@ label_all_releases_for_domain:
   nl: Alle releases voor {0}
   en: All releases for {0}
 
+label_all_news:
+  nl: Alle nieuws
+  en: All news
+
 label_all_news_for_domain:
   nl: Alle nieuwsberichten voor {0}
   en: All news items for {0}
@@ -771,6 +775,9 @@ label_registration_date:
 label_healthcare_area:
   nl: Zorggebied
   en: Healthcare area
+label_grouped_by_area_of_care:
+  nl: Gegroepeerd op zorggebied
+  en: Grouped by area of care
 label_quality_instruments:
   nl: Kwaliteitsinstrumenten
   en: Quality instruments
@@ -1309,6 +1316,9 @@ label_new_specification:
 label_new_smart_folder:
   nl: Nieuwe slimme map
   en: New smart folder
+label_folder:
+  nl: Map
+  en: Folder
 label_archive_imp:
   nl: Archiveer
   en: Archive
@@ -1916,6 +1926,9 @@ label_main_indicator:
 label_sector:
   nl: Sector
   en: Sector
+label_grouped_by_sector:
+  nl: Gegroepeerd op sector
+  en: Grouped by sector
 message_help_sector:
   nl: Dit veld bepaalt voor welke sectoren deze pagina van toepassing is. Er kunnen meerdere sectoren gekozen worden.
   en: This field determines which sectors this page applies to. Multiple sectors can be selected.
