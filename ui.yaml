@@ -5836,6 +5836,11 @@ message_lesser_experience_no_javascript:
 snippet_search_results:
   nl: zoekresultaten
   en: search results
+
+label_filtered_on:
+  nl: gefilterd op
+  en: filtered on
+
 snippet_total_cost_from_colon:
   nl: 'Totale kosten per jaar vanaf:'
   en: 'Total cost per year from:'
