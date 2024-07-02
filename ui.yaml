@@ -5865,6 +5865,10 @@ snippet_search_results:
   nl: zoekresultaten
   en: search results
 
+label_search_results:
+  nl: Zoekresultaten
+  en: Search results
+
 snippet_filtered_by:
   nl: gefilterd op
   en: filtered by
