@@ -5865,9 +5865,9 @@ snippet_search_results:
   nl: zoekresultaten
   en: search results
 
-label_filtered_on:
+label_filtered_by:
   nl: gefilterd op
-  en: filtered on
+  en: filtered by
 
 snippet_total_cost_from_colon:
   nl: 'Totale kosten per jaar vanaf:'
