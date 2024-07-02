@@ -5865,7 +5865,7 @@ snippet_search_results:
   nl: zoekresultaten
   en: search results
 
-label_filtered_by:
+snippet_filtered_by:
   nl: gefilterd op
   en: filtered by
 
