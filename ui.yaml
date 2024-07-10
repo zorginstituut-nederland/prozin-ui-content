@@ -1938,6 +1938,12 @@ label_ministery:
 label_ministeries:
   nl: Ministeries
   en: Ministeries
+label_software_vendor:
+  nl: Computerprogrammatuurleverancier
+  en: Software vendor
+label_software_vendors:
+  nl: Computerprogrammatuurleveranciers
+  en: Software vendors
 label_data_broker:
   nl: Gegevensmakelaar
   en: Data broker
