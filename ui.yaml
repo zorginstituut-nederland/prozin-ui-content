@@ -333,6 +333,9 @@ label_public_access:
 label_quote:
   nl: Citaat
   en: Quote
+label_swim_lane_featured:
+  nl: Zwembaan Uitgelicht
+  en: Swim lane Featured
 label_swim_lane_quote:
   nl: Zwembaan citaat
   en: Swim lane quote
@@ -1782,6 +1785,12 @@ label_pieces:
 label_tablet:                               
   en: Tablet                                
   nl: Tablet
+label_table:
+  en: Table
+  nl: Tabel
+label_tables:
+  en: Tables
+  nl: Tabellen
 label_tablets:                              
   en: Tablets                               
   nl: Tabletten
@@ -2736,9 +2745,18 @@ label_new_expected_publication_date:
 label_expected_next_publication_date_is_set_to:
   nl: De verwachte publicatiedatum voor de volgende editie van Horizonscan Geneesmiddelen staat ingesteld op {0}.
   en: The expected publication date for the next edition of Horizon Scan Medicines is set to {0}.
+label_remove_table_imp:
+  en: Remove table
+  nl: Verwijder tabel
 label_select_a_date:
   en: Select a date
   nl: Selecteer een datum
+label_select_table:
+  en: Select a table
+  nl: Tabel selecteren
+label_select_table_imp:
+  en: Select a table
+  nl: Selecteer een tabel
 label_continue:
   en: Continue
   nl: Verder
