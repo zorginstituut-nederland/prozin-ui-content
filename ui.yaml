@@ -2751,6 +2751,9 @@ label_remove_table_imp:
 label_select_a_date:
   en: Select a date
   nl: Selecteer een datum
+label_add_table:
+  en: Add a table
+  nl: Tabel toevoegen
 label_select_table:
   en: Select a table
   nl: Tabel selecteren
