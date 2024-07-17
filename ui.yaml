@@ -1995,6 +1995,9 @@ label_processes:
 label_new_process:
   nl: Nieuw proces
   en: New process
+label_new_interpretation:
+  nl: Nieuwe duiding
+  en: New interpretation
 label_outcome:
   nl: Uitkomst
   en: Outcome
