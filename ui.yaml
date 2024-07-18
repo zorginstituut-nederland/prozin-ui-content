@@ -2185,12 +2185,18 @@ label_year_published:
 label_status:
   nl: Status
   en: State
-
-
+label_item_filter: 
+  nl: Item-filter
+  en: Item filter
+message_help_item_filter:
+  nl: Tekst volgt binnenkort…
+  en: Text will come soon…
 label_major:
   nl: Majeur
   en: Major
-
+label_select_report:
+  nl: Rapportage selecteren
+  en: Select report
 label_minor:
   nl: Mineur
   en: Minor
