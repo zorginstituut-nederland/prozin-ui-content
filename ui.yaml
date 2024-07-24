@@ -892,6 +892,9 @@ message_nothing_for_this_workflow_state:
 label_workflow_state:
   en: Workflow state
   nl: Werkstroomstaat
+label_any_workflow_state:
+  nl: Iedere werkstroomstaat
+  en: Any workflow state
 label_editor: 
   nl: Redacteur
   en: Editor
@@ -2796,6 +2799,9 @@ label_unauthorised:
 label_author:
   nl: Auteur
   en: Author
+label_any_author:
+  nl: Iedere auteur
+  en: Any author
 label_select_user:
   nl: Selecteer een gebruiker
   en: Select a user
