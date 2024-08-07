@@ -951,6 +951,9 @@ label_final_editor:
 label_interpretations:
   nl: Duidingen
   en: Interpretations
+label_interpretation:
+  nl: Duiding
+  en: Interpretation
 label_steal_lock_confirmative:
   nl: Ja, neem bewerken over
   en: Yes, steal lock
