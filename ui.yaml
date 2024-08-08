@@ -882,6 +882,9 @@ message_help_wegiz:
 label_price_agreement_in_place:
   nl: Voor dit geneesmiddel bestaat een financieel arrangement
   en: For this medicine a price agreement is in place
+message_price_agreement_in_place:
+  nl: Voor dit geneesmiddel bestaat een financieel arrangement.
+  en: For this medicine a price agreement is in place.
 message_help_show_summaries:
   nl: Wanneer deze optie ingeschakeld is wordt er, waar beschikbaar, een samenvatting boven de inhoud getoond. Deze optie heeft uitsluitend invloed op Geneesmiddelpagina's, Geneesmiddelgroeppagina's en Indicatiepagina's.
   en: When this option is enabled, a summary will be shown above the content where available. This option only affects Medicine pages, Medicine group pages and Indication pages.
