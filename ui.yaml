@@ -886,6 +886,9 @@ message_help_wegiz:
 label_price_agreement_in_place:
   nl: Voor dit geneesmiddel bestaat een financieel arrangement
   en: For this medicine a price agreement is in place
+message_price_agreement_in_place:
+  nl: Voor dit geneesmiddel bestaat een financieel arrangement.
+  en: For this medicine a price agreement is in place.
 message_help_show_summaries:
   nl: Wanneer deze optie ingeschakeld is wordt er, waar beschikbaar, een samenvatting boven de inhoud getoond. Deze optie heeft uitsluitend invloed op Geneesmiddelpagina's, Geneesmiddelgroeppagina's en Indicatiepagina's.
   en: When this option is enabled, a summary will be shown above the content where available. This option only affects Medicine pages, Medicine group pages and Indication pages.
@@ -955,6 +958,9 @@ label_final_editor:
 label_interpretations:
   nl: Duidingen
   en: Interpretations
+label_interpretation:
+  nl: Duiding
+  en: Interpretation
 label_steal_lock_confirmative:
   nl: Ja, neem bewerken over
   en: Yes, steal lock
@@ -2049,6 +2055,18 @@ label_organisation:
 label_organisation_types:
   nl: Organisatietypen
   en: Organisation types
+label_database_organisation_type:
+  nl: Databankorganisatietype
+  en: Database organisation type
+label_database_folder_name:
+  nl: Databankmapnaam
+  en: Database organisation type
+label_reports_folder_name:
+  nl: Rapportagesmapnaam
+  en: Reports folder name
+label_sas_organisation_type:
+  nl: SAS-organisatietype
+  en: SAS organisation type
 label_approve_delivery:
   nl: Aanlevering goedkeuren
   en: Approve delivery
@@ -2320,7 +2338,7 @@ label_organisation_members_0:
   nl: Aantal gebruikers van {0}
   en: Number users in {0}
 label_organisation_type_not_selected:
-  nl: Organisatie type niet geselecteerd
+  nl: Organisatietype niet geselecteerd
   en: Organisation type not selected
 label_locations:
   nl: Locaties
