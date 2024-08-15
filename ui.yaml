@@ -2051,6 +2051,18 @@ label_organisation:
 label_organisation_types:
   nl: Organisatietypen
   en: Organisation types
+label_database_organisation_type:
+  nl: Databankorganisatietype
+  en: Database organisation type
+label_database_folder_name:
+  nl: Databankmapnaam
+  en: Database organisation type
+label_reports_folder_name:
+  nl: Rapportagesmapnaam
+  en: Reports folder name
+label_sas_organisation_type:
+  nl: SAS-organisatietype
+  en: SAS organisation type
 label_approve_delivery:
   nl: Aanlevering goedkeuren
   en: Approve delivery
