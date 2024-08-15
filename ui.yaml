@@ -2322,7 +2322,7 @@ label_organisation_members_0:
   nl: Aantal gebruikers van {0}
   en: Number users in {0}
 label_organisation_type_not_selected:
-  nl: Organisatie type niet geselecteerd
+  nl: Organisatietype niet geselecteerd
   en: Organisation type not selected
 label_locations:
   nl: Locaties
