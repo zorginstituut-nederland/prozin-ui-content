@@ -32,6 +32,10 @@ label_all_news_for_domain:
   nl: Alle nieuwsberichten voor {0}
   en: All news items for {0}
 
+label_website:
+  nl: Website
+  en: Website
+
   label_all_figures:
     nl: Alle vormen
     en: All figures
