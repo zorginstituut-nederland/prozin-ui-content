@@ -43,3 +43,4 @@
   organisation_types:
     - name: Beheerorganisatie
     - name: Gegevensmakelaar
+    - name: Zorgaanbieder
