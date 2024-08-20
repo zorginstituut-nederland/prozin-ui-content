@@ -2337,6 +2337,9 @@ label_organisation_members:
 label_organisation_members_0:
   nl: Aantal gebruikers van {0}
   en: Number users in {0}
+label_user_count:
+  nl: Aantal gebruikers
+  en: User count
 label_organisation_type_not_selected:
   nl: Organisatietype niet geselecteerd
   en: Organisation type not selected
