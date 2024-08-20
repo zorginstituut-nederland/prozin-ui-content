@@ -1,18 +1,45 @@
 - name: Farmacotherapeutisch Kompas
   code: FK
+  organisation_types:
+    - name: Beheerorganisatie
+    - name: Huisartsenpraktijk
+    - name: Ziekenhuis
 - name: GIPdatabank.nl
   code: GIP
+  organisation_types:
+    - name: Beheerorganisatie
+    - name: Zorgverzekeraar
 - name: Horizonscan Geneesmiddelen
   code: HOR
+  organisation_types:
+    - name: Beheerorganisatie
+    - name: Consulent
+    - name: Fabrikant
+    - name: Werkgroep
+    - name: Ministerie
 - name: iStandaarden
   code: IST
+  organisation_types:
+    - name: Beheerorganisatie
+    - name: Softwareleverancier
 - name: Medicijnkosten.nl
   code: MED
+  organisation_types:
+    - name: Beheerorganisatie
 - name: ProZIN
   code: PRO
+  organisation_types:
+    - name: Beheerorganisatie
 - name: Zorgcijfersdatabank
   code: ZOR
+  organisation_types:
+    - name: Beheerorganisatie
 - name: Zorginstituut Nederland
   code: COR
+  organisation_types:
+    - name: Beheerorganisatie
 - name: Zorginzicht
   code: ZIZ
+  organisation_types:
+    - name: Beheerorganisatie
+    - name: Gegevensmakelaar
