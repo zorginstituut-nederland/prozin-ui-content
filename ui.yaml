@@ -1980,12 +1980,12 @@ label_grouped_by_sector:
 message_help_sector:
   nl: Dit veld bepaalt voor welke sectoren deze pagina van toepassing is. Er kunnen meerdere sectoren gekozen worden.
   en: This field determines which sectors this page applies to. Multiple sectors can be selected.
-label_ministery:
+label_ministry:
   nl: Ministerie
-  en: Ministery
-label_ministeries:
+  en: Ministry
+label_ministries:
   nl: Ministeries
-  en: Ministeries
+  en: Ministries
 label_software_vendor:
   nl: Computerprogrammatuurleverancier
   en: Software vendor
@@ -2346,6 +2346,9 @@ label_organisation_type_not_selected:
 label_locations:
   nl: Locaties
   en: Locations
+label_location:
+  nl: Locatie
+  en: Location
 label_load_next_location:
   nl: Laad de volgende locatie
   en: Load next location
@@ -2534,6 +2537,9 @@ label_keyword:
 label_layout:
   nl: Indeling
   en: Layout
+label_select_organisation_type_imp:
+  nl: Selecteer een organisatietype
+  en: Select an organisation type
 message_help_landing_layout:
   nl: Selecteer een lay-out voor de landingspagina. De lay-out is zichtbaar op de publieke kant van de website. Gebruik de voorbeeldknop op de werkbalk om het resultaat van uw keuze te bekijken.
   en: Select a layout for the landing page. The layout is visible on the public side of the website. Use the preview button on the toolbar to see the result of your selection.

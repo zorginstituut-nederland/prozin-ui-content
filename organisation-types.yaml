@@ -26,8 +26,8 @@
   i18n-singular: label_gp_practice
   i18n-plural:  label_gp_practices
 - name: Ministerie
-  i18n-singular: label_ministery
-  i18n-plural:  label_ministeries
+  i18n-singular: label_ministry
+  i18n-plural:  label_ministries
 - name: Softwareleverancier
   i18n-singular: label_software_vendor
   i18n-plural:  label_software_vendors
