@@ -11,6 +11,7 @@
     - name: Zorgverzekeraar
     - name: ZBO
     - name: Ministerie
+    - name: Agentschap
 - name: Horizonscan Geneesmiddelen
   code: HOR
   organisation_types:
