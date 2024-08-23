@@ -63,6 +63,10 @@ message_modal_delete_user:
   nl: U staat op het punt om het gebruikersaccount van {0} te verwijderen. Hierna heeft deze gebruiker geen toegang meer tot {1}. Alle content van deze gebruiker zal blijven bestaan.
   en: You are about to delete the user account of {0}. After this, this user no longer has access to {1}. All content from this user will not be deleted.
 
+message_modal_deactivate_user:
+  nl: U staat op het punt om het gebruikersaccount van {0} te deactiveren. Hierna heeft deze gebruiker geen toegang meer tot het systeem. Alle content van deze gebruiker zal blijven bestaan. U kunt dit gebruikersaccount later altijd weer activeren.
+  en: You are about to deactivate the user account of {0}. After this, this user no longer has access to the system. All content from this user will not be deleted. You can always reactivate this user account
+
 message_add_user_to_site:
   nl: Voeg {0} weer toe aan site
   en: Add {0} to site
