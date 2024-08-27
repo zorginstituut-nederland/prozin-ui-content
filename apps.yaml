@@ -1,0 +1,24 @@
+- i18n: label_settings
+  name: Settings
+  url: /dialogues/apps/settings/
+- i18n: label_image_bank
+  name: Image bank
+  url: /dialogues/image-bank/
+- i18n: label_organisations
+  name: Organisations
+  url: /dialogues/apps/organisations/
+- i18n: label_user_management
+  name: User management
+  url: /dialogues/apps/user-management/
+- i18n: label_contacts
+  name: Contacts
+  url: #
+- i18n: label_documents
+  name: Documents
+  url: #
+- i18n: label_cost
+  name: Kosten
+  url: #
+- i18n: label_help_desk
+  name: Helpdesk
+  url: #
