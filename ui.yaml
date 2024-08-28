@@ -4575,6 +4575,9 @@ label_resend_invite:
 label_loading:
   nl: Laden
   en: Loading
+label_loading_ell:
+  nl: Laden…
+  en: Loading…
 label_rendering:
   nl: Weergave
   en: Rendering
