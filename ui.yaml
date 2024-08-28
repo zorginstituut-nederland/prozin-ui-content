@@ -1298,6 +1298,9 @@ label_insert_imp:
 label_settings:
   nl: Instellingen
   en: Settings
+label_product_settings:
+  nl: Productinstellingen
+  en: Product settings
 label_hyperlink:
   nl: Koppeling
   en: Hyperlink
@@ -5378,6 +5381,9 @@ label_12:
 label_product:
   nl: Product
   en: Product
+label_launchpad:
+  nl: Lanceerplatform
+  en: Launchpad
 label_lactation: 
   nl: Lactatie
   en: Lactation

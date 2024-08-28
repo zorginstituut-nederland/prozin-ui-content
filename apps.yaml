@@ -1,4 +1,4 @@
-- i18n: label_settings
+- i18n: label_product_settings
   name: Settings
   url: /dialogues/apps/settings/
 - i18n: label_image_bank
@@ -17,8 +17,23 @@
   name: Documents
   url: #
 - i18n: label_cost
-  name: Kosten
+  name: Cost
   url: #
 - i18n: label_help_desk
-  name: Helpdesk
+  name: Help desk
   url: #
+- i18n: label_medicines
+  name: Medicines
+  url: #
+- i18n: label_indicators
+  name: Indicators
+  url: #
+
+- i18n: label_dashboard
+  name: Dashboard
+  url: /beheer/
+  visible: false 
+- i18n: label_launchpad
+  name: Launchpad
+  url: /dialogues/apps
+  visible: false
