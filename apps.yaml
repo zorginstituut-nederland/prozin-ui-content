@@ -25,6 +25,9 @@
 - i18n: label_medicines
   name: Medicines
   url: #
+- i18n: label_public_data
+  name: Public data
+  url: /beheer/public-data
 - i18n: label_indicators
   name: Indicators
   url: /beheer/indicators-new
