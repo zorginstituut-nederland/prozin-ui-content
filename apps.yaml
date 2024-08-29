@@ -12,19 +12,19 @@
   url: /dialogues/apps/user-management/
 - i18n: label_contacts
   name: Contacts
-  url: #
+  url: '#'
 - i18n: label_documents
   name: Documents
-  url: #
+  url: '#'
 - i18n: label_cost
   name: Cost
-  url: #
+  url: '#'
 - i18n: label_help_desk
   name: Help desk
-  url: #
+  url: '#'
 - i18n: label_medicines
   name: Medicines
-  url: #
+  url: '#'
 - i18n: label_public_data
   name: Public data
   url: /beheer/public-data
@@ -33,7 +33,7 @@
   url: /beheer/indicators-new
 - i18n: label_help
   name: Help
-  url: #
+  url: '#'
 
 - i18n: label_dashboard
   name: Dashboard
