@@ -31,6 +31,9 @@
 - i18n: label_indicators
   name: Indicators
   url: /beheer/indicators-new
+- i18n: label_help
+  name: Help
+  url: #
 
 - i18n: label_dashboard
   name: Dashboard
