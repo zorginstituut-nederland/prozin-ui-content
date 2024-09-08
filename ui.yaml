@@ -9,6 +9,10 @@ label_about:
   nl: Over
   en: About
 
+label_app_demo:
+  nl: Daniëls lab
+  en: Daniel’s lab
+
 label_demo:
   nl: Demo
   en: Demo

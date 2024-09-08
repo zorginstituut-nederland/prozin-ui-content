@@ -34,7 +34,7 @@
 - i18n: label_help
   name: Help
   url: '#'
-- i18n: label_demo
+- i18n: label_app_demo
   name: Demo
   url: '/dialogues/apps/demo/'
 
