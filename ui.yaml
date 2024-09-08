@@ -9,6 +9,10 @@ label_about:
   nl: Over
   en: About
 
+label_demo:
+  nl: Demo
+  en: Demo
+
 label_select_contact_person:
   nl: Selecteer een contactpersoon
   en: Select a contact person

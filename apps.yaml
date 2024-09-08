@@ -34,6 +34,9 @@
 - i18n: label_help
   name: Help
   url: '#'
+- i18n: label_demo
+  name: Demo
+  url: '/dialogues/apps/demo/'
 
 - i18n: label_dashboard
   name: Dashboard
