@@ -6477,3 +6477,43 @@ message_max_5_pages:
 message_no_available_content_yet:
   nl: Er is nog geen inhoud beschikbaar. 
   en: There is no content available yet.
+
+message_admin_indexing_feedback_already_running:
+  nl: Het systeem is al/nog bezig met een vorige indexeer-actie.
+  en: The system is already/still busy with a previous indexing action.
+
+message_admin_indexing_feedback_error:
+  nl: "Bij het starten van de indexeerfunctie is een fout opgetreden:"
+  en: "Error found when executing indexing method:"
+
+label_list_of_organisations:
+  nl: Lijst van organisaties
+  en: List of organisations
+
+label_login_already:
+  nl: U bent al ingelogd
+  en: You are already logged in
+
+label_quality_instruments_intro:
+  nl: Register en Meerjarenagenda
+  en: Register and Long term agenda
+
+label_development_tools_intro:
+  nl: Hulpmiddelen om een kwaliteitsinstrument te maken
+  en: Development tool to create a quality instrument
+
+label_public_data_intro:
+  nl: Kwaliteitsgegevens van zorginstellingen
+  en: Quality data of healthcare providers
+
+label_transparency_calendar_intro:
+  nl: Overzicht per sector van aan te leveren kwaliteitsgegevens over verleende zorg (indicatoren) voor verslagjaar 2014 tot en met 2019.
+  en: Overview by sector of the provided quality data about care provided (indicators) for reporting year 2014 to 2019.
+
+message_wachtwoord_wijzigingsverzoek_reedsAfgehandeld:
+  nl: Het wachtwoord is via deze link reeds aangepast.
+  en: Password has been changed through this link
+
+message_wachtwoord_wijzigingsverzoek_onbekend:
+  nl: Deze link is onbekend.
+  en: This link is unknown.
