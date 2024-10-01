@@ -2119,14 +2119,20 @@ label_deactivate_user:
 label_deactivate:
   nl: Deactiveer
   en: Deactivate
-label_reactive_user:
+label_reactive_user_imp:
   nl: Heractiveer gebruiker
+  en: Reactivate user
+label_reactive_user:
+  nl: Gebruiker heractiveren
   en: Reactivate user
 label_deactivate_imp:
   nl: Deactiveer
   en: Deactivate
-label_reactive_imp:
+label_reactivate_imp:
   nl: Heractiveer
+  en: Reactivate
+label_reactivate:
+  nl: Heractiveren
   en: Reactivate
 label_new_user: 
   nl: Nieuwe gebruiker

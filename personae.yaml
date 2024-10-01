@@ -1,6 +1,11 @@
 daniel:
   first_name: Daniël
   last_name: Kolbach
+ruud:
+  first_name: Ruud
+  last_name: Bruut
+  email: rbruut@zinl.nl
+  organisation: Zorginstituut Nederland
 ramses:
   first_name: Ramses
   last_name: Ramselaar
@@ -72,6 +77,7 @@ wytse:
   follows: 
     - Nivolumab
     - Remedium
+  state: inactive
 devi:
   first_name: Devi
   last_name: Donders
