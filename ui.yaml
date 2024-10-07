@@ -6380,7 +6380,6 @@ label_allow_opt_in_mailing_list:
   de: Anmeldung zur Mailingliste zulassen
   he: אפשר הרשמה לרשימת תפוצה
 
-
 label_ticked_by_default:
   en: Ticked by default
   nl: Standaard aangevinkt
@@ -6523,3 +6522,37 @@ message_wachtwoord_wijzigingsverzoek_reedsAfgehandeld:
 message_wachtwoord_wijzigingsverzoek_onbekend:
   nl: Deze link is onbekend.
   en: This link is unknown.
+
+## GIPdatabank
+message_no_table:
+  nl: De bovenstaande combinatie levert geen resultaten op.
+  en: TRANSLATION REQUIRED
+message_wizard_data_generation:
+  nl: Door het genereren van de wizarddata kan het bladerinstrument met de meest recente gegevens werken.
+  en: TRANSLATION REQUIRED
+message_wizard_content_update:
+  nl: Werk de redactionele content van de Zorgcijfersdatabank.nl bij.
+  en: TRANSLATION REQUIRED
+message_indexation:
+  nl: Gebruik de indexeerfunctie om ervoor te zorgen dat in het zoekresultaat ook de meest recente pagina's weergegeven worden.
+  en: TRANSLATION REQUIRED
+message_wizard_data_generated:
+  nl: De wizarddata is gegenereerd.
+  en: The wizard data has been generated.
+message_indexed:
+  nl: Het indexeren is gestart. Dit kan enkele uren duren. Zodra het indexeren geslaagd is wordt u hierover per e-mail bericht.
+  en: The indexation has started. This may take several hours. You will receive an e-mail as soon as the indexation is finished.
+
+label_generate_wizard_data:
+  nl: Genereer wizarddata
+  en: Generate wizard data
+label_build_index:
+  nl: Indexeer
+  en: Build index
+label_update:
+  nl: Werk bij
+  en: Update
+
+label_update_imp:
+  nl: Werk bij
+  en: Update
