@@ -6546,6 +6546,7 @@ message_indexation:
 message_wizard_data_generated:
   nl: De wizarddata is gegenereerd.
   en: The wizard data has been generated.
+
 message_indexed:
   nl: Het indexeren is gestart. Dit kan enkele uren duren. Zodra het indexeren geslaagd is wordt u hierover per e-mail bericht.
   en: The indexation has started. This may take several hours. You will receive an e-mail as soon as the indexation is finished.
@@ -6563,3 +6564,7 @@ label_update:
 label_update_imp:
   nl: Werk bij
   en: Update
+
+message_cookie_message:
+  nl: Deze website gebruikt cookies om het gebruik van de website te analyseren en het gebruiksgemak te verbeteren. Lees meer over <a href="{0}">cookies</a>.
+  en: This website uses cookies to analyse the use of the website and to make it easier for you to use. Find out more about <a href="{0}">cookies</a>.
