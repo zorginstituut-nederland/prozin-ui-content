@@ -87,6 +87,7 @@ devi:
   follows: 
     - Nivolumab
     - Remedium
+  state: inactive
 nikos:
   first_name: Nikos
   last_name: Papadopoulus
