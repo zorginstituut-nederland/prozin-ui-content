@@ -22,6 +22,60 @@ message_verification_request:
   en: Zorginstituut Nederland invites you to verify changes that were prepared to a record from your portfolio for the next publication of Horizonscan Geneesmiddelen. 
   nl: Zorginstituut Nederland nodigt u uit om de wijzigingen die zijn voorbereid in een record uit uw portfolio te verifiëren voor de volgende publicatie van Horizonscan Geneesmiddelen.
 
+label_remove_user_from_organisation:
+  en: Remove user from organisation
+  nl: Verwijder gebruiker van de organisatie
+  de: Benutzer aus der Organisation entfernen
+  fr: Supprimer l'utilisateur de l'organisation
+  it: Rimuovi l'utente dall'organizzazione
+  es: Eliminar usuario de la organización
+  pt: Remover utilizador da organização
+  pl: Usuń użytkownika z organizacji
+  sv: Ta bort användare från organisationen
+  da: Fjern bruger fra organisationen
+  fi: Poista käyttäjä organisaatiosta
+  cs: Odebrat uživatele z organizace
+  el: Αφαίρεση χρήστη από την οργάνωση
+  hu: Felhasználó eltávolítása a szervezetből
+  ro: Eliminați utilizatorul din organizație
+  bg: Премахване на потребителя от организацията
+  hr: Ukloni korisnika iz organizacije
+  sk: Odstrániť používateľa z organizácie
+  sl: Odstranite uporabnika iz organizacije
+  lt: Pašalinti vartotoją iš organizacijos
+  lv: Noņemt lietotāju no organizācijas
+  et: Eemalda kasutaja organisatsioonist
+  mt: Neħħi l-utent mill-organizzazzjoni
+  ga: Bain úsáideoir as an eagraíocht
+  he: הסר משתמש מהארגון
+
+label_staff:
+  en: Staff
+  nl: Medewerkers
+  de: Personal
+  fr: Personnel
+  it: Personale
+  es: Personal
+  pt: Pessoal
+  pl: Personel
+  sv: Personal
+  da: Personale
+  fi: Henkilökunta
+  cs: Zaměstnanci
+  el: Προσωπικό
+  hu: Személyzet
+  ro: Personal
+  bg: Персонал
+  hr: Osoblje
+  sk: Personál
+  sl: Osebje
+  lt: Personalas
+  lv: Personāls
+  et: Töötajad
+  mt: Persunal
+  ga: Foireann
+  he: צוות
+
 label_about:
   nl: Over
   en: About
