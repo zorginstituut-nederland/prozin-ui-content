@@ -1,6 +1,23 @@
+label_impersonate_imp:
+  nl: Imiteer
+  en: Impersonate
+  de: Nachahmen
+  fr: Se faire passer pour
+  it: Impersonare
+  he: להתחזות
+
+label_impersonate:
+  nl: Imiteren
+  en: Impersonate
+  de: Nachahmen
+  fr: Se faire passer pour
+  it: Impersonare
+  he: להתחזות
+
 message_verification_request_intro:
   nl: Onderstaand bericht zal verstuurd worden naar de desbetreffende partijen.
   en: The message below will be sent to the relevant parties.
+
 message_verification_request:
   en: Zorginstituut Nederland invites you to verify changes that were prepared to a record from your portfolio for the next publication of Horizonscan Geneesmiddelen. 
   nl: Zorginstituut Nederland nodigt u uit om de wijzigingen die zijn voorbereid in een record uit uw portfolio te verifiëren voor de volgende publicatie van Horizonscan Geneesmiddelen.
