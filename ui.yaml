@@ -5872,8 +5872,15 @@ notice_cost:
 notice_impact: 
   nl: 'Dit bedrag geeft een <strong>indicatie</strong> van de totale kosten. Het is de uitkomst van het gemiddelde verwacht patiëntvolume maal de gemiddelde kosten per patiënt; beiden per jaar.'
   en: 'This amount gives an <strong>indication</strong> of the total cost. It is the result of the average expected patient volume times the average cost per patient. both per year.'
-notice_therapeutical_value: 
-  nl:  Deze inschatting doet geen uitspraak over de mogelijke opname in het pakket.
+
+notice_therapeutical_value:
+  nl: Deze inschatting doet geen uitspraak over de mogelijke opname in het pakket.
+  en: This assessment does not indicate any potential inclusion in the package.
+  de: Diese Einschätzung trifft keine Aussage über eine mögliche Aufnahme in das Paket.
+  fr: Cette évaluation ne préjuge pas d'une éventuelle inclusion dans le forfait.
+  it: Questa valutazione non implica una possibile inclusione nel pacchetto.
+  he: הערכה זו אינה מעידה על אפשרות הכללה בחבילה.
+
 footnote_cost: 
   nl: De getoonde getallen betreffen een verwachting over de periode van een jaar. 
   en: The numbers shown are an expectation over the period of one year.
