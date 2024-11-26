@@ -1,3 +1,7 @@
+label_or_visit:
+  nl: Of ga naar
+  en: Or visit
+
 message_download_batch:
   nl: Klik op 'Download' om een CSV-bestand te downloaded van de door u geselecteerde {0} records.
   en: Click 'Download' to download a CSV file of the {0} records that you selected.
