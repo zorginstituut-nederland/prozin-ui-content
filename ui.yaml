@@ -6654,3 +6654,19 @@ label_update_imp:
 message_cookie_message:
   nl: Deze website gebruikt cookies om het gebruik van de website te analyseren en het gebruiksgemak te verbeteren. Lees meer over <a href="{0}">cookies</a>.
   en: This website uses cookies to analyse the use of the website and to make it easier for you to use. Find out more about <a href="{0}">cookies</a>.
+
+label_specification_type_network:
+  nl: Netwerk
+  en: Network
+
+label_specification_type_relay:
+  nl: Estafette
+  en: Relay
+
+label_specification_type_indication_register:
+  nl: Indicatieregister
+  en: Indication register
+
+label_specification_type_mediation_register:
+  nl: Bemiddelingsregister
+  en: Mediation register
