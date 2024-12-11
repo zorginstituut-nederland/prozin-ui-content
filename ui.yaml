@@ -2,6 +2,22 @@ label_or_visit:
   nl: Of ga naar
   en: Or visit
 
+label_move_page:
+  nl: Pagina verplaatsen
+  en: Move page
+
+label_move_folder:
+  nl: Map verplaatsen
+  en: Move folder
+
+message_move_page:
+  nl: Selecteer een map om de pagina naar te verplaatsen.
+  en: Select a folder to move the page to.
+
+message_move_folder:
+  nl: Selecteer een map om de map naar te verplaatsen. De map en alle onderliggende mappen en pagina's zullen worden verplaatst.
+  en: Select a folder to move the folder to. The folder and all underlying folders and pages will be moved.
+
 message_download_batch:
   nl: Klik op 'Download' om een CSV-bestand te downloaded van de door u geselecteerde {0} records.
   en: Click 'Download' to download a CSV file of the {0} records that you selected.
@@ -5192,6 +5208,9 @@ label_new_password:
 label_repeat_new_password:
   nl: Herhaal nieuw wachtwoord
   en: Repeat new password
+label_destination:
+  nl: Bestemming
+  en: Destination
 label_medicine:
   nl: Geneesmiddel
   en: Medicine
