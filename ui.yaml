@@ -15,8 +15,8 @@ message_move_page:
   en: Select a folder to move the page to.
 
 message_move_folder:
-  nl: Selecteer een map om de map naar te verplaatsen. De map en alle onderliggende mappen en pagina's zullen worden verplaatst.
-  en: Select a folder to move the folder to. The folder and all underlying folders and pages will be moved.
+  nl: Selecteer een map om deze map naar te verplaatsen. Deze map en alle onderliggende mappen en pagina's zullen worden verplaatst.
+  en: Select a folder to move this folder to. This folder and all underlying folders and pages will be moved.
 
 message_download_batch:
   nl: Klik op 'Download' om een CSV-bestand te downloaded van de door u geselecteerde {0} records.
