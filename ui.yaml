@@ -6102,8 +6102,11 @@ message_outdated_browser:
 message_lesser_experience_no_javascript:
   nl: U gebruikt een verouderde webbrowser. Hierdoor heeft u niet de optimale ervaring. Installeer een nieuwere browser om optimaal van deze site gebruik te kunnen blijven maken.
   en: You are using an outdated web browser. Because of this you won't have an optimal experience. Please install a newer browser in order to make optimal use of this site.
-# Snippets
+message_no_medicines_found:
+  nl: Geen geneesmiddelen gevonden
+  en: No medicines found
 
+# Snippets
 snippet_search_results:
   nl: zoekresultaten
   en: search results
