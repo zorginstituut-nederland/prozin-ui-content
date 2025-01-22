@@ -184,7 +184,7 @@ message_password_changed_recently:
 
 message_select_image_before_publication:
   nl: Bewerk en kies een hoofdafbeelding om dit bericht te kunnen publiceren. 
-  en: Edit and select a hero iamge in order to publish this item. 
+  en: Edit and select a hero image in order to publish this item. 
 
 label_release_date:
   nl: Releasedatum
