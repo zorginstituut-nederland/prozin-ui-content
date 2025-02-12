@@ -139,24 +139,24 @@ label_website:
   nl: Website
   en: Website
 
-  label_all_figures:
-    nl: Alle vormen
-    en: All figures
-  label_all_strengths:
-    nl: Alle sterktes
-    en: All strengths
-  label_all_types:
-    nl: Alle types
-    en: All types
-  label_figure:
-    nl: Vorm
-    en: Figure
-  label_strength:
-    nl: Sterkte
-    en: Strength
-  label_report_type:
-    nl: Rapportage type
-    en: Report type
+label_all_figures:
+  nl: Alle vormen
+  en: All figures
+label_all_strengths:
+  nl: Alle sterktes
+  en: All strengths
+label_all_types:
+  nl: Alle types
+  en: All types
+label_figure:
+  nl: Vorm
+  en: Figure
+label_strength:
+  nl: Sterkte
+  en: Strength
+label_report_type:
+  nl: Rapportage type
+  en: Report type
 
 message_modal_delete_user_add_again:
   nl: U kunt deze gebruiker op een later moment altijd opnieuw toevoegen aan {0}.
