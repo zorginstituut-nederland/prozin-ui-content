@@ -194,6 +194,14 @@ label_release_number:
   nl: Releasenummer
   en: Release number
 
+label_rejected:
+  nl: Afgewezen
+  en: Rejected
+
+label_broadly_excluded:
+  nl: Breed uitgesloten
+  en: Broadly excluded
+
 message_help_video_transcript:
   nl: Het is verplicht om een transcript van alle gesproken tekst die in de video voor komt op te nemen, ten bate van mensen met een beperking.
   en: It is mandatory to include a transcript of all spoken text appearing in the video for the benefit of people with disabilities.
