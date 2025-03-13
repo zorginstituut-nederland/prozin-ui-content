@@ -6602,6 +6602,10 @@ message_max_5_pages:
   nl: Selecteer maximaal 5 paginaʼs
   en: Select a maximum of 5 pages
 
+message_max_10_pages:
+  nl: Selecteer maximaal 10 paginaʼs
+  en: Select a maximum of 10 pages
+
 message_no_available_content_yet:
   nl: Er is nog geen inhoud beschikbaar. 
   en: There is no content available yet.
