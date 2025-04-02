@@ -36,7 +36,7 @@
   url: '#'
 - i18n: label_tags
   name: Tags
-  url: '#'
+  url: '/dialogues/apps/tags/'
 - i18n: label_app_demo
   name: Demo
   url: '/dialogues/apps/demo/'
