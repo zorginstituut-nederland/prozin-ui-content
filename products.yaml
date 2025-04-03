@@ -1,10 +1,12 @@
 - name: Farmacotherapeutisch Kompas
+  url: https://www.farmacotherapeutischkompas.nl
   code: FK
   organisation_types:
     - name: Beheerorganisatie
     - name: Huisartsenpraktijk
     - name: Ziekenhuis
 - name: GIPdatabank.nl
+  url: https://www.gipdatabank.nl
   code: GIP
   organisation_types:
     - name: Beheerorganisatie
@@ -13,6 +15,7 @@
     - name: Ministerie
     - name: Agentschap
 - name: Horizonscan Geneesmiddelen
+  url: https://www.horizonscangeneesmiddelen.nl
   code: HOR
   organisation_types:
     - name: Beheerorganisatie
@@ -21,27 +24,34 @@
     - name: Werkgroep
     - name: Ministerie
 - name: iStandaarden
+  url: https://www.istandaarden.nl
   code: IST
   organisation_types:
     - name: Beheerorganisatie
     - name: Softwareleverancier
 - name: Medicijnkosten.nl
+  url: https://www.medicijnkosten.nl
+  code: MK
   code: MED
   organisation_types:
     - name: Beheerorganisatie
 - name: ProZIN
+  url: https://www.prozin.nl
   code: PRO
   organisation_types:
     - name: Beheerorganisatie
 - name: Zorgcijfersdatabank
+  url: https://www.zorgcijfersdatabank.nl
   code: ZOR
   organisation_types:
     - name: Beheerorganisatie
 - name: Zorginstituut Nederland
+  url: https://www.zorginstituutnederland.nl
   code: COR
   organisation_types:
     - name: Beheerorganisatie
 - name: Zorginzicht
+  url: https://www.zorginzicht.nl
   code: ZIZ
   organisation_types:
     - name: Beheerorganisatie
