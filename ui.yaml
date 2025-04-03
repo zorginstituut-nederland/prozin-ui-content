@@ -2,6 +2,10 @@ label_or_visit:
   nl: Of ga naar
   en: Or visit
 
+label_new_tag:
+  nl: Nieuwe tag
+  en: New tag
+
 label_move_page:
   nl: Pagina verplaatsen
   en: Move page
