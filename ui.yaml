@@ -712,6 +712,12 @@ label_dialogues:
   he: שיחות
   nl: Dialogen
 
+label_persona:
+  de: Persona
+  en: Persona
+  fr: Persona
+  nl: Persona
+
 label_personas:
   de: Personas
   en: Personas
