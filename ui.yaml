@@ -1070,8 +1070,8 @@ message_nothing_for_this_workflow_state:
   nl: Er zijn geen documenten in deze werkstroomstaat.
 
 message_document_x_not_accessible:
-  nl: Document {0} voldoet niet aan de voorwaarden om toegankelijk te zijn. Publicatid is alleen mogelijk na het corrigeren van dit probleem.
-  en: Document {0} does not meet the accessibility guidelines. Publication is only possible after correcting this issue. 
+  nl: Het bestand ‘{0}’ voldoet niet aan de voorwaarden om toegankelijk te zijn. Publication is alleen mogelijk na het oplossen van dit probleem.
+  en: The file ‘{0}’ does not meet the accessibility guidelines. Publication is only possible after solving this issue. 
 
 message_nothing_for_sluice:
   en: There are currently no documents undergoing processing that meet the sluice criteria.
