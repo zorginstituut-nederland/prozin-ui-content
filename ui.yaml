@@ -1069,10 +1069,14 @@ message_nothing_for_this_workflow_state:
   en: There are no documents with this workflow state.
   nl: Er zijn geen documenten in deze werkstroomstaat.
 
+message_document_x_not_accessible:
+  nl: Document {0} voldoet niet aan de voorwaarden om toegankelijk te zijn. Publicatid is alleen mogelijk na het corrigeren van dit probleem.
+  en: Document {0} does not meet the accessibility guidelines. Publication is only possible after correcting this issue. 
+
 message_nothing_for_sluice:
-  en: There are currently no documents that meet the sluice criteria.
-  nl: Er zijn momenteel geen documenten die voldoen aan de sluiscriteria.
-  
+  en: There are currently no documents undergoing processing that meet the sluice criteria.
+  nl: Er zijn op dit moment geen documenten in behandeling die voldoen aan de sluiscriteria.
+
 label_workflow_state:
   en: Workflow state
   nl: Werkstroomstaat
