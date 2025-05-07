@@ -1,3 +1,7 @@
+message_no_hero_image: 
+  en: A hero image is required to publish this item. 
+  nl: Een hoofdafbeelding is vereist om dit item te publiceren.
+
 label_search_persona:
   de: Persona suchen
   en: Search persona
@@ -534,14 +538,13 @@ label_sluice_candidates:
   nl: Sluiskandidaten
   en: Sluice candidates
 label_sluice_medicines:
-  nl: Sluismedicijnen
+  nl: Sluisgeneesmiddelen
   en: Sluice medicines
 message_sluice_medicines:
   nl: Nieuwe dure geneesmiddelen in ziekenhuizen worden normaal zonder prijsafspraken toegelaten. De minister kan ze tijdelijk uitsluiten van het basispakket vanwege hoge kosten. Het Zorginstituut adviseert over opname, de minister onderhandelt met fabrikanten. Sluis is voor kostbare behandelingen bij specialistische zorg in ziekenhuizen.
   en: New hospital medicines, without price agreements, may be temporarily excluded from the basic package due to high prices. Zorginstituut advises on inclusion, and the minister negotiates prices with the manufacturer. Zorginstituut uses data from Medicines Horizon Scan to recommend medicines for the sluice, which is for high-cost treatments in medical-specialist care within hospitals.
 label_sluice_medicine:
-  nl: Sluismedicijn
-  en: Sluice medicine
+  nl: Sluisgeneesmiddel
 label_product_specific_information:
   nl: Productspecifieke informatie
   en: Product specific information
@@ -1065,6 +1068,11 @@ message_refine_search_result:
 message_nothing_for_this_workflow_state:
   en: There are no documents with this workflow state.
   nl: Er zijn geen documenten in deze werkstroomstaat.
+
+message_nothing_for_sluice:
+  en: There are currently no documents that meet the sluice criteria.
+  nl: Er zijn momenteel geen documenten die voldoen aan de sluiscriteria.
+  
 label_workflow_state:
   en: Workflow state
   nl: Werkstroomstaat
