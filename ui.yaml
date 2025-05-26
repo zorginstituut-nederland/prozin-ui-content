@@ -688,6 +688,10 @@ label_position_in_org:
   he: מיקום
   nl: Functie
 
+label_function_and_role:
+  en: Function and role
+  nl: Functie en rol
+
 label_components:
   de: Komponenten
   en: Components
