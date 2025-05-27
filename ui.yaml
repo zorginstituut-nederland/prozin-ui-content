@@ -2687,6 +2687,9 @@ label_first_name:
 label_last_name:
   nl: Achternaam
   en: Last name
+label_first_and_last_name:
+  nl: Voor- en achternaam
+  en: First name and last name
 label_expand_sections_medicine_page:
   nl: Openklappen secties geneesmiddelpagina
   en: Expanding sections medicine page
