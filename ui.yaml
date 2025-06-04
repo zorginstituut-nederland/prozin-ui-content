@@ -739,11 +739,13 @@ label_personas:
   nl: Personas
 
 message_components:
-  de: Komponenten, die auf Seiten platziert werden können.
-  en: Components which may be used to be placed on pages.
-  fr: Composants qui peuvent être placés sur des pages.
-  he: רכיבים שניתן להשתמש בהם למקום על דפים.
+  en: Components that can be used within any ProZIN product.
   nl: Componenten die gebruikt kunnen worden binnen elk ProZIN-product.
+  fr: Composants pouvant être utilisés dans tout produit ProZIN.
+  de: Komponenten, die in jedem ProZIN-Produkt verwendet werden können.
+  it: Componenti che possono essere utilizzati in qualsiasi prodotto ProZIN.
+  es: Componentes que se pueden utilizar en cualquier producto ProZIN.
+  he: רכיבים שניתן להשתמש בהם בכל מוצר של ProZIN.
 
 message_page_types:
   de: Verschiedene Seitentypen, jeder mit einem eigenen Zweck.
