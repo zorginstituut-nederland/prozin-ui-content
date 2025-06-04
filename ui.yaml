@@ -743,7 +743,7 @@ message_components:
   en: Components which may be used to be placed on pages.
   fr: Composants qui peuvent être placés sur des pages.
   he: רכיבים שניתן להשתמש בהם למקום על דפים.
-  nl: Componenten die op pagina's geplaatst kunnen worden.
+  nl: Componenten die gebruikt kunnen worden binnen elk ProZIN-product.
 
 message_page_types:
   de: Verschiedene Seitentypen, jeder mit einem eigenen Zweck.
