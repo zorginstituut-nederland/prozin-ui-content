@@ -5012,6 +5012,9 @@ label_nieuwe_toedieningsvorm:
 label_application_frequency:
   nl: Toedieningsfrequentie
   en: Frequency of administration
+label_IHSI_code:
+  nl: IHSI Code
+  en: IHSI Code
 label_funding:
   nl: Bekostiging
   en: Budgetting
