@@ -1304,6 +1304,9 @@ label_preview:
 label_all_sectors:
   nl: Alle sectoren
   en: All sectors
+label_sectors:
+  nl: Sectoren
+  en: Sectors
 label_collapse_all_sections:
   nl: Vouw alle secties dicht
   en: Collapse all sections
