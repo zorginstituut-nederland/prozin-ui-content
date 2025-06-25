@@ -1307,6 +1307,9 @@ label_all_sectors:
 label_sectors:
   nl: Sectoren
   en: Sectors
+message_choose_a_sector:
+  nl: Kies een sector.
+  en: Choose a sector.
 label_collapse_all_sections:
   nl: Vouw alle secties dicht
   en: Collapse all sections
