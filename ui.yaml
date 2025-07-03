@@ -3129,8 +3129,8 @@ label_read_more:
   nl: Lees meer…
   en: Read more…
 label_read_more_ell:
-  nl: Lees meer…
-  en: Read more…
+  nl: Meer informatie…
+  en: More information…
 label_lemma:
   nl: Trefwoord
   en: Search term
@@ -6788,3 +6788,23 @@ label_specification_type_indication_register:
 label_specification_type_mediation_register:
   nl: Bemiddelingsregister
   en: Mediation register
+
+message_sector_intro:
+  nl: Op deze pagina vindt u alle informatie voor de sector {0} overzichtelijk bij elkaar.
+  en: This page lists all information for the sector {0}.
+
+label_main_information:
+  nl: Belangrijkste informatie
+  en: Main information
+
+label_transparency_calendar_description:
+  nl: Een overzicht van wanneer welke kwaliteitsgegevens over verleende zorg aangeleverd worden voor de sector {0}.
+  en: An overview of when what quality data on care provided will be delivered for the sector {0}.
+
+label_long_term_agenda_description:
+  nl: Prioriteitenlijst van te ontwikkelen kwaliteitsproducten voor de sector {0}
+  en: Priority list of quality products to be developed for the sector {0}.
+
+label_data_exchange_description:
+  nl: Overzicht van standaarden die een verplicht component hebben vanwege de Wet elektronische gegevensuitwisseling in de zorg (Wegiz) voor de sector {0}.
+  en: Overview of standards that have a mandatory component due to the Electronic Data Interchange in Healthcare Act (Wegiz) for the {0} sector.
