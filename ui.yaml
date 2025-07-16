@@ -1,3 +1,10 @@
+label_show_cost_imp:
+  de: Kosten anzeigen
+  en: Show cost
+  fr: Afficher les coûts
+  he: הצג עלויות
+  nl: Toon kosten
+
 message_no_hero_image: 
   en: A hero image is required to publish this item. 
   nl: Een hoofdafbeelding is vereist om dit item te publiceren.
