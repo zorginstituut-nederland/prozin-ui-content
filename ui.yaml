@@ -365,8 +365,8 @@ label_medication_handover:
   he: "העברת תרופות"
 
 label_acute_care:
-  nl: "Acute Zorg"
-  en: "Acute Care"
+  nl: "Acute zorg"
+  en: "Acute care"
   fr: "Soins aigus"
   de: "Akutversorgung"
   it: "Cura acuta"
