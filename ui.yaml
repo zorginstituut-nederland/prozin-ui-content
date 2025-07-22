@@ -1,3 +1,7 @@
+label_message_contents:
+  en: Message contents
+  nl: Berichtinhoud
+
 message_no_hero_image: 
   en: A hero image is required to publish this item. 
   nl: Een hoofdafbeelding is vereist om dit item te publiceren.
