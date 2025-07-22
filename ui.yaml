@@ -1,3 +1,10 @@
+label_message:
+  en: Message
+  nl: Bericht
+  de: Nachricht
+  fr: Message
+  he: הודעה
+
 message_help_message_type:
   nl: "Het juiste berichttype selecteren helpt gebruikers de inhoud beter te begrijpen of op te merken. De kleur en opmaak van berichten kunnen in de loop van de tijd veranderen. Kies het type daarom altijd op basis van de inhoud, niet op basis van de vormgeving. Gebruik het spaarzaam: bij overmatig gebruik raken gebruikers mogelijk overprikkeld en verliest het zijn effect. Dit sectietype wordt nooit met een titel weergegeven."
   en: "Selecting the appropriate message type helps users understand and navigate the content more effectively. Please note that the colour and formatting of messages may change over time. Always select a message type based on its content, not on its appearance. This section type sould be used sparingly. Overuse may overwhelm users and reduce its impact. This section type is never displayed with a title."
