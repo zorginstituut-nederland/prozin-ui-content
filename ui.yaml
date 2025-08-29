@@ -678,6 +678,12 @@ label_help_see_also:
   nl: Zie ook van de helpfunctie
   en: Help 'See also'
 
+message_browse_lane_help_gip:
+  nl: Stel de tabel samen die u wilt zien door eerst een keuze te maken in kolom 1 (bijvoorbeeld 'Geneesmiddelen' of 'Hulpmiddelen'), dan via de uitvouwknop in de keuzebalk in kolom 2. De beschikbare keuzevelden onder 3 en 4 worden vervolgens zichtbaar en u kunt uw keuze aanklikken. Klik dan op 'Toon overzicht' om de schakelaars in te klappen en de tabel te laden.\n\nWilt daarna een andere tabel bekijken? Klik dan op de uitvouwknop (expander) onder de bladerbaan, u krijgt dan alle keuzes weer te zien. U kunt ook klikken op één van de groene velden in de bladerbaan zodat ze weer uitvouwen.
+
+message_browse_lane_help_zor:
+  nl: Stel de tabel samen die u wilt zien door eerst een keuze te maken  in kolom 1 (bijvoorbeeld 'Zorgverzekeringswet' of 'Wet Langdurige Zorg'), dan via de uitvouwknop in de keuzebalk in kolom 2. De beschikbare keuzevelden onder 3 en 4 worden vervolgens zichtbaar en u kunt uw keuze aanklikken. Klik dan op 'Toon overzicht' om de schakelaars in te klappen en de tabel te laden.\n\nWilt u daarna een andere tabel bekijken? Klik dan op de uitvouwknop (expander) onder de bladerbaan, u krijgt dan alle keuzes weer te zien. U kunt ook klikken op één van de groene velden in de bladerbaan zodat ze weer uitvouwen.
+
 label_swim_lane_news:
   en: Swim lane News
   nl: Nieuwszwembaan
