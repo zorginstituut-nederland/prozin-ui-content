@@ -5130,6 +5130,18 @@ label_publish_imp:
 message_publish_all_indicator_sets:
   nl: Publiceer alle ongepubliceerde indicatorsets voor geselecteerde sectoren. 
   en: Publish all unpublished indicator sets for selected sectors.
+label_select_a_date_and_time:
+  nl: Selecteer een datum en tijd
+  en: Select a date and time
+label_scheduled_publication_date:
+  nl: Geplande publicatiedatum
+  en: Scheduled publication date
+message_document_has_scheduled_date:
+  nl: Dit document staat ingepland voor publicatie op {0} door {1}.
+  en: This document is scheduled for publication on {0} by {1}.
+message_scheduled_date:
+  nl: Het is alleen mogelijk een tijdstip per heel uur te kiezen.
+  en: It is only possible to pick a time per hour.
 label_remove_reporting_year_imp:
   nl: Verwijder verslagjaar
   en: Remove reporting year
