@@ -5142,6 +5142,9 @@ message_document_has_scheduled_date:
 message_scheduled_date:
   nl: Het is alleen mogelijk een tijdstip per heel uur te kiezen.
   en: It is only possible to pick a time per hour.
+message_change_download_publication_date:
+  nl: Kies hier, indien nodig, een andere publicatiedatum voor de bijlage. Standaard wordt de datum van vandaag ingesteld.
+  en: If necessary, select a different publication date for the attachment here. Today's date is set by default.
 label_remove_reporting_year_imp:
   nl: Verwijder verslagjaar
   en: Remove reporting year
