@@ -6088,6 +6088,12 @@ message_warning_send_news_flash:
 message_contact_us_via_form:
   nl: Neem via onderstaand formulier met ons contact op.
   en: Please use the form below to contact us.
+message_contact_us_via_form_intro:
+  nl: Contactgegevens van Zorginstituut Nederland vindt u op de <a href="https://www.zorginstituutnederland.nl/contact" target="_blank">website van Zorginstituut Nederland</a>. Wij registreren uw verzoek en beantwoorden uw vraag binnen 5 werkdagen. Als wij uw vraag niet binnen deze termijn kunnen beantwoorden, nemen wij hierover contact met u op.
+  en: You can find the contact details for the Dutch Healthcare Institute on the <a href="https://www.zorginstituutnederland.nl/contact" target="_blank">Dutch Healthcare Institute website</a>. We will register your request and respond to your question within five working days. If we are unable to respond to your question within this period, we will contact you to let you know.
+message_contact_us_via_form_complaint:
+  nl: Voor het maken van bezwaar of het indienen van een klacht, Woo-verzoek of AVG-inzageverzoek kijkt u op <a href="https://www.zorginstituutnederland.nl/over-ons/bezwaar-klacht-woo-verzoek-of-avg-inzageverzoek" target="_blank">de website van Zorginstituut Nederland</a>.
+  en: To lodge an objection or submit a complaint, Woo request, or GDPR access request, please visit the website of <a href="https://www.zorginstituutnederland.nl/over-ons/bezwaar-klacht-woo-verzoek-of-avg-inzageverzoek" target="_blank">the Dutch Healthcare Institute</a>.
 label_approve_imp:
   nl: Keur goed
   en: Approve
@@ -6104,8 +6110,8 @@ message_are_you_sure:
   nl: Weet u zeker dat u verder wilt gaan?
   en: Are you sure you want to continue?
 message_thanks_for_response_we_will_contact_you:
-  nl: Dankuwel voor uw reactie. Wij nemen zo spoedig mogelijk contact met u op.
-  en: Thank you for your response. We will contact you as soon as possible.
+  nl: Dankuwel voor uw reactie. Wij nemen zo spoedig mogelijk contact met u op. Wij registreren uw verzoek en beantwoorden uw vraag binnen 5 werkdagen.
+  en: Thank you for your response. We will contact you as soon as possible. We will register your request and respond to your question within 5 working days.
 message_message_not_sent:
   nl: Er is een fout opgetreden waardoor uw bericht niet verstuurd is. Probeert u het alstublieft later nog eens.
   en: An error occurred and your message was not sent. Please try again later.
@@ -6270,6 +6276,9 @@ message_lesser_experience_no_javascript:
 message_no_medicines_found:
   nl: Geen geneesmiddelen gevonden
   en: No medicines found
+message_blocked_error_message:
+  nl: U heeft te vaak zonder succes geprobeerd in te loggen. Uw toegang is tijdelijk geblokkeerd. Probeer het opnieuw na {0} minuut.
+  en: You have tried to log in too many times. Your access is temporarily blocked. Please try again after {0} minutes.
 
 # Snippets
 snippet_search_results:
