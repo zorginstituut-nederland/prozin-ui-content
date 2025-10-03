@@ -1063,6 +1063,12 @@ label_new_condition_set:
 label_new_page_type:
   en: New page type
   nl: Nieuw paginatype
+label_breadcrumb_public:
+  en: Public breadcrumb trail
+  nl: Kruimelpad publiek
+label_breadcrumb_admin:
+  en: Breadcrumb trail management
+  nl: Kruimelpad beheer
 label_new_persona:
   en: New persona
   nl: Nieuwe persona
