@@ -1021,6 +1021,9 @@ label_in_development:
 label_registration_date:
   nl: Registratiedatum
   en: Registration date
+message_help_registration_date:
+  nl: Dit is de datum die gebruikt wordt bij het sorteren. Als deze niet ingevuld is, wordt het automatisch de datum van publicatie.
+  en: This is the date that will be used when sorting. If left empty it will automatically be set to date of publication.
 label_healthcare_area:
   nl: Zorggebied
   en: Healthcare area
@@ -3104,6 +3107,12 @@ label_continue:
 label_publication_date:
   nl: Publicatiedatum
   en: Publication date
+label_original_publication_date:
+  nl: Originele publicatiedatum
+  en: Original publication date
+label_original_registration_date:
+  nl: Originele registratiedatum
+  en: Original registration date
 label_back:
   en: Back
   nl: Terug
