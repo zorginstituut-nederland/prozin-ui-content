@@ -776,6 +776,12 @@ label_page_types:
   he: סוגי דפים
   nl: Paginatypen
 
+label_dialogue:
+  de: Dialoge
+  en: Dialogue
+  fr: Dialogue
+  nl: Dialoog
+
 label_dialogues:
   de: Dialoge
   en: Dialogues
