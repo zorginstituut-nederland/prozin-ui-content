@@ -5,6 +5,14 @@ label_show_cost_imp:
   he: הצג עלויות
   nl: Toon kosten
 
+message_browse_lane_help_gip:
+  en: Message
+  nl: Bericht
+
+message_browse_lane_help_zor:
+  en: Message
+  nl: Bericht
+
 label_message:
   en: Message
   nl: Bericht
@@ -2217,6 +2225,12 @@ label_main_indicator:
 label_sector:
   nl: Sector
   en: Sector
+label_filter_on_all_products:
+  nl: Filter op alle producten
+  en: Filter on all products
+label_filter_on_all_types:
+  nl: Filter op alle types
+  en: Filter on all types
 label_grouped_by_sector:
   nl: Gegroepeerd op sector
   en: Grouped by sector
@@ -6106,7 +6120,7 @@ message_session_expired:
   en: You were automatically logged out because your session was epxired. Please log in again below to continue.
 message_double_ip:
   nl: U bent automatisch uitgelogd, omdat u ook op een andere locatie ingelogd bent, of omdat uw ip-adres tussentijds gewijzigd is. Neem bij twijfel over deze melding contact op met uw systeembeheerder.
-  en: You were automatically logged out because you are also logged in at a different location, or because your IP address has changed in the meantime. Please contact your system administrator if in doubt about this message. 
+  en: You were automatically logged out because you are also logged in at a different location, or because your IP address has changed in the meantime. Please contact your system administrator if in doubt about this message.
 
 message_help_atmp:
   nl: Vanaf 2007 bestaat er een apart gedefinieerde groep geneesmiddelen, namelijk de ‘Advanced Therapy Medicinal Products’ (ATMPs). Onder de ATMPs vallen producten voor en somatische celtherapie, gentherapie en weefselmanipulatie.
@@ -6858,3 +6872,4 @@ label_long_term_agenda_description:
 label_data_exchange_description:
   nl: Overzicht van standaarden die een verplicht component hebben vanwege de Wet elektronische gegevensuitwisseling in de zorg (Wegiz) voor de sector {0}.
   en: Overview of standards that have a mandatory component due to the Electronic Data Interchange in Healthcare Act (Wegiz) for the {0} sector.
+
