@@ -2254,9 +2254,6 @@ label_main_indicator:
 label_sector:
   nl: Sector
   en: Sector
-label_make_contact_person:
-  nl: Maak {0} contactpersoon
-  en: Make {0} the contact person
 label_filter_on_all_products:
   nl: Filter op alle producten
   en: Filter on all products
@@ -6180,7 +6177,9 @@ message_session_expired:
 message_double_ip:
   nl: U bent automatisch uitgelogd, omdat u ook op een andere locatie ingelogd bent, of omdat uw ip-adres tussentijds gewijzigd is. Neem bij twijfel over deze melding contact op met uw systeembeheerder.
   en: You were automatically logged out because you are also logged in at a different location, or because your IP address has changed in the meantime. Please contact your system administrator if in doubt about this message.
-
+message_make_contact_person:
+  nl: Maak contactpersoon van {0} voor {1}
+  en: Make contact person of {0} for {1}
 message_help_atmp:
   nl: Vanaf 2007 bestaat er een apart gedefinieerde groep geneesmiddelen, namelijk de ‘Advanced Therapy Medicinal Products’ (ATMPs). Onder de ATMPs vallen producten voor en somatische celtherapie, gentherapie en weefselmanipulatie.
   en: As of 2007 there is a separately defined group of medicines, namely the ‘Advanced Therapy Medicinal Products’ (ATMPs). ATMPs include products for somatic cell therapy, gene therapy and tissue engineering.
