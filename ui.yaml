@@ -568,6 +568,12 @@ label_swim_lane_featured:
 label_swim_lane_quote:
   nl: Zwembaan citaat
   en: Swim lane quote
+label_swim_lane_quote_placeholder:
+  nl: In der Beschränkung zeigt sich erst der Meister, und das Gesetz nur kann uns Freiheit geben.
+  en: In der Beschränkung zeigt sich erst der Meister, und das Gesetz nur kann uns Freiheit geben.
+label_swim_lane_quote_author_placeholder:
+  nl: Johann Wolfgang von Goethe
+  en: Johann Wolfgang von Goethe
 label_list:
   nl: Lijst
   en: List
