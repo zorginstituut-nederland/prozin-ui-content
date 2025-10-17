@@ -5444,6 +5444,9 @@ label_new_newsflash:
 label_product_fk:
   nl: Farmacotherapeutisch Kompas
   en: Pharmacotherapeutical Compass
+label_product_zinl:
+  nl: Zorginstituut nederland
+  en: National Health Care Institute
 message_description_product_fk: 
   nl: Het Farmacotherapeutisch Kompas (FK) is hét hulpmiddel voor artsen bij het voorschrijven van medicijnen aan patiënten. Het FK bevat deskundige, onafhankelijke en actuele informatie over alle medicijnen die in Nederland verkrijgbaar zijn. De website wordt vooral gebruikt door artsen, verpleegkundigen en apothekers, maar ook door patiënten die meer willen weten.
   en: Het Farmacotherapeutisch Kompas (FK) is hét hulpmiddel voor artsen bij het voorschrijven van medicijnen aan patiënten. Het FK bevat deskundige, onafhankelijke en actuele informatie over alle medicijnen die in Nederland verkrijgbaar zijn. De website wordt vooral gebruikt door artsen, verpleegkundigen en apothekers, maar ook door patiënten die meer willen weten.
@@ -6177,9 +6180,12 @@ message_session_expired:
 message_double_ip:
   nl: U bent automatisch uitgelogd, omdat u ook op een andere locatie ingelogd bent, of omdat uw ip-adres tussentijds gewijzigd is. Neem bij twijfel over deze melding contact op met uw systeembeheerder.
   en: You were automatically logged out because you are also logged in at a different location, or because your IP address has changed in the meantime. Please contact your system administrator if in doubt about this message.
+label_make_contact_person:
+    nl: Maak contactpersoon
+    en: Make contact person
 message_make_contact_person:
-  nl: Maak contactpersoon
-  en: Make contact person
+  nl: Hierbij overschrijf je de huidige contactpersoon en wordt {0} de nieuwe contactpersoon van {1} voor {2}.
+  en: This will overwrite the current contact person and {0} will become the new contact person of {1} for {2}.
 message_help_atmp:
   nl: Vanaf 2007 bestaat er een apart gedefinieerde groep geneesmiddelen, namelijk de ‘Advanced Therapy Medicinal Products’ (ATMPs). Onder de ATMPs vallen producten voor en somatische celtherapie, gentherapie en weefselmanipulatie.
   en: As of 2007 there is a separately defined group of medicines, namely the ‘Advanced Therapy Medicinal Products’ (ATMPs). ATMPs include products for somatic cell therapy, gene therapy and tissue engineering.
