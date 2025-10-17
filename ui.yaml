@@ -5098,6 +5098,10 @@ label_new_record:
 label_unknown: 
   nl: Onbekend
   en: Unknown
+label_unassigned:
+  nl: Niet toebedeeld
+  en: Unassigned
+
 ## is nodig voor huidige content op horizonscan  
 label_onbekend: 
   nl: Onbekend
@@ -6516,7 +6520,6 @@ extend_share_explanation:
   nl: 'U kunt de kopie op elk moment nog verder verlengen, of opheffen.'
   en: 'You may extend or cancel the copy at any time.'
 
-
 label_exit_compare:
   nl: Vergelijken sluiten
   en: Exit compare mode
@@ -6526,7 +6529,6 @@ label_field_name:
 label_unknown_user:
   nl: Onbekende gebruiker
   en: Unknown user
-
 
 fragment_pages:
   nl: pagina's
