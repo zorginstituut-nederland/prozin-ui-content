@@ -6942,3 +6942,6 @@ label_data_exchange_description:
   nl: Overzicht van standaarden die een verplicht component hebben vanwege de Wet elektronische gegevensuitwisseling in de zorg (Wegiz) voor de sector {0}.
   en: Overview of standards that have a mandatory component due to the Electronic Data Interchange in Healthcare Act (Wegiz) for the {0} sector.
 
+label_form:
+  nl: Formulier
+  en: Form
