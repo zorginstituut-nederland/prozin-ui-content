@@ -254,6 +254,10 @@ message_modal_deactivate_user:
   nl: U staat op het punt om het gebruikersaccount van {0} te deactiveren. Hierna heeft deze gebruiker geen toegang meer tot het systeem. Alle content van deze gebruiker zal blijven bestaan. U kunt dit gebruikersaccount later altijd weer activeren.
   en: You are about to deactivate the user account of {0}. After this, this user no longer has access to the system. All content from this user will not be deleted. You can always reactivate this user account
 
+message_modal_deactivate_user_lidmaatschap:
+  nl: U staat op het punt om de lidmaatschap van {0} te deactiveren voor het product {1}. Hierna heeft deze gebruiker geen toegang meer tot dit product. Alle content van deze gebruiker zal blijven bestaan. U kunt dit gebruikersaccount later voor het product altijd weer activeren.
+  en: You are about to deactivate the membership of {0} for the product {1}. After this, this user no longer has access to this product. All content from this user will not be deleted. You can always reactivate this user account
+
 message_add_user_to_site:
   nl: Voeg {0} weer toe aan site
   en: Add {0} to site
@@ -2384,9 +2388,15 @@ label_contact_person_not_selected:
 label_delete_user:
   nl: Verwijder gebruiker
   en: Delete user
+label_deactivate_membership:
+  nl: Deactiveer lidmaatschap
+  en: Deactivate membership
 label_deactivate_user:
-  nl: Deactiveer gebruikersaccount 
+  nl: Deactiveer gebruikersaccount
   en: Deactivate user account
+label_reactivate_user:
+  nl: Heractiveer gebruikersaccount
+  en: Reactivate user account
 label_deactivate:
   nl: Deactiveer
   en: Deactivate
@@ -6945,3 +6955,11 @@ label_data_exchange_description:
 label_form:
   nl: Formulier
   en: Form
+
+message_deactivate_lidmaatschap:
+  nl: Deactiveer {0} uit {1}
+  en: Deactivate {0} from {1}
+
+message_reactivate_lidmaatschap:
+  nl: Heractiveer {0} in {1}
+  en: Reactivate {0} in {1}
