@@ -263,8 +263,8 @@ message_add_user_to_site:
   en: Add {0} to site
 
 message_remove_user_from_site:
-  nl: Verwijder {0} uit {1}
-  en: Remove {0} from {1}
+  nl: Verwijder organisaties van {0} uit {1}
+  en: Remove organisations from {0} in {1}
 
 message_password_changed_recently:
   nl: Het is niet mogelijk uw wachtwoord te vernieuwen, omdat deze recent nog is aangepast. Het wachtwoord kan na {0} worden gewijzigd.
@@ -6164,6 +6164,12 @@ label_pdocs:
 label_user_management:
   nl: Gebruikersbeheer
   en: User management
+label_user_overview:
+  nl: Gebruikersoverzicht
+  en: User overview
+label_organisation_management:
+  nl: Organisatiebeheer
+  en: Organisation management
 message_are_you_sure:
   nl: Weet u zeker dat u verder wilt gaan?
   en: Are you sure you want to continue?
