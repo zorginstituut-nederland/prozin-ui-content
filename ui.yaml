@@ -6001,7 +6001,7 @@ message_newsletter_archive:
   en: This is the archive of all newsletters that we have sent in the past. 
 message_no_newsletters_sent_yet:
   nl: Er zijn nog geen nieuwsbrieven verstuurd.
-  en: No newsletter have been sent yet.
+  en: No newsletters have been sent yet.
 message_newsletter_keep_abreast:
   nl: Wilt u ook via e-mail op de hoogte worden gehouden van het laatste nieuws?
   en: Would you also like stay abreast with the latest news?
