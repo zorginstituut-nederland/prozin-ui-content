@@ -2300,9 +2300,15 @@ label_healthcare_providers:
 label_healthcare_provider:
   nl: Zorgaanbieder
   en: Healthcare provider
+label_select_healthcare_providers:
+  nl: Welke zorgaanbieders moeten aanleveren
+  en: Which healthcare providers must deliver
 label_search_healthcare_providers:
   nl: Zoek zorgaanbieders
   en: Search healtcare providers
+message_help_healthcare_providers:
+  nl: Geef aan welke categorieën zorgaanbieders/zorginstellingen de zorg leveren waarop de kwaliteitsregistratie betrekking heeft en daarover gegevens moeten (gaan) verstrekken.
+  en: Indicate which categories of healthcare providers/healthcare institutions provide the healthcare to which the quality registration relates and are required to provide data about it.
 label_search_indicators:
   nl: Zoek indicatoren
   en: Search indicators
@@ -2941,8 +2947,8 @@ label_persons_subject_to_registration:
   nl: "Registratieplichtingen"
   en: "Persons subject tot registration"
 label_personal_data:
-  nl: "(Persoons)gegevens"
-  en: "(Personal) data"
+  nl: "Verwerking gegevens"
+  en: "Data processing"
 label_quality_registration_standard:
   nl: "Kwaliteitsregistratiestandaard"
   en: "Quality registration standard"
@@ -2973,8 +2979,8 @@ message_amvb_wegiz:
   en: Lorem ipsum dolor sit amet consectetur bla bla bla.
 
 label_revision_date:
-  nl: "Herzieningsdatum"
-  en: "Revision date"
+  nl: "Verlengingstoets afgerond vóór"
+  en: "Renewal test completed before"
 message_help_revision_date:
   nl: De datum waarop externe partijen de registratie moeten herzien. Herzieninging houdt in dat het toetsingsproces opnieuw doorlopen wordt. Enige tijd voor het verlopen van de herzieningsdatum zal dit contentobject verschijnen in het portlet 'Te herzien' op het dashboard.
   en: The date by which third parties must review the registration. Revision means that the assessment process is repeated. Some time before the review date expires, this content object will appear in the 'For revision' portlet on the dashboard.
