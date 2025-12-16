@@ -1121,7 +1121,7 @@ label_registrered:
   nl: Geregistreerd
   en: Registered
 message_help_registered:
-  nl: De datum waarop het bestuur bekrachtigd heeft dat deze standaard in het register (deze website) opgenomen zal worden.
+  nl: De datum waarop het bestuur bekrachtigd heeft dat deze standaard in het Register (deze website) opgenomen zal worden.
   en: The date on which the board has confirmed that this standard will be included in the register (this website). 
 message_help_register:
   nl: Het Register is een digitaal overzicht van kwaliteitsstandaarden en meetinstrumenten dat voor iedereen toegankelijk en kosteloos te gebruiken is. Met het Register zorgt het Zorginstituut ervoor dat iedereen in Nederland kan zien wat wordt verstaan onder goede zorg en hoe je goede zorg meet. Zo helpen we mee om de zorg in Nederland steeds verder te verbeteren.
@@ -2953,7 +2953,7 @@ label_quality_registration_standard:
   nl: "Kwaliteitsregistratiestandaard"
   en: "Quality registration standard"
 label_included_in_register:
-  nl: "Opgenomen in het register"
+  nl: "Opgenomen in het Register"
   en: "Included in the register"
 label_on_long_term_agenda:
   nl: Op Meerjarenagenda
