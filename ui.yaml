@@ -6978,3 +6978,11 @@ message_deactivate_lidmaatschap:
 message_reactivate_lidmaatschap:
   nl: Heractiveer {0} in {1}
   en: Reactivate {0} in {1}
+
+title_current_image_references:
+  nl: Bestaande toepassingen
+  en: Existing references
+
+label_current_image_references:
+  nl: Deze afbeelding is gebruikt op de volgende locaties.
+  en: This image has been used in the following locations.
