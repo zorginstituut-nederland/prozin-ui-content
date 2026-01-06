@@ -5257,6 +5257,9 @@ label_your_response:
 label_mandatory_fields:
   nl: Verplichte velden
   en: Mandatory fields
+label_mandatory_field:
+  nl: Vul dit veld in
+  en: Fill in this field
 label_send:
   nl: Verstuur
   en: Send
