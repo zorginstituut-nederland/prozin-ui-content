@@ -29,7 +29,7 @@ jobs:
       - name: Install deps
         run: npm ci
 
-      # 1) Clean BASE ui.yaml (FAILS workflow on conflicts)
+      # 1) Clean BASE ui.yaml (FAILS workflow on conflicts and duplicates)
       - name: Clean BASE ui.yaml (report)
         run: |
           set -euo pipefail

@@ -6,7 +6,7 @@ This repository contains YAML-based i18n source files (for example `ui.yaml`) an
 2. Generate `.properties` files
 3. Support multiple languages and multiple YAML files
 4. Fully regenerate output on every build
-5. Produce cleanup reports suitable for PR / MR bodies
+5. Produce cleanup reports suitable for PR
 
 The workflow is intentionally split into two clear steps:
 
@@ -46,7 +46,7 @@ i18n:*   → clean + build combinations
 Cleaning YAML duplicates
 - Identical duplicate keys with identical values are removed automatically (FIFO order)
 - Duplicate keys with different values are detected as conflicts
-- Conflicts will fail the script (intended for PR / CI enforcement)
+- Duplicates and conflicts will fail the script when using CI
 
 Commands:
 
@@ -61,11 +61,10 @@ npm run clean:i18n:all-yamls
 
 ## Cleaning YAML duplicates WITH report
 
-In addition to cleaning, a report is generated for PR / MR usage.
+In addition to cleaning, a report is generated for PR.
 
 Generated files:
 - dist/i18n/clean-report.md
-- dist/i18n/clean-report.json
 
 Commands:
 
@@ -121,8 +120,21 @@ npm run i18n:full
 ```
 ---
 
+## Utility scripts
+```bash
+# Removes the entire `dist` folder
+npm run clean:dist  
+```
+
+---
+
 ## CI usage
 
+Github actions workflow uses below command. 
+This does a dry run to clean all yaml files and report it.
+When it has duplicates or conflicts the pipeline will fail.
+
+When no conflicts or duplicates are found, create a PR to bloomreach-zin
 Recommended CI command:
 ```bash
 npm run i18n:ci
@@ -132,40 +144,27 @@ Behavior:
 - Cleans ALL YAML files
 - Generates cleanup report
 - Builds properties from `ui.yaml` (nl + en)
-- Automatically removes safe duplicates
-- Fails CI only when conflicts are found
+- Fails CI only when conflicts or duplicates are found
 
 ---
 
-## Utility scripts
-```bash
-# Removes the entire `dist` folder
-npm run clean:dist  
-```
----
-
-## CI behavior summary
-
-Identical duplicate keys  
-→ Automatically removed  
-→ CI does NOT fail
-
-Duplicate keys with different values  
-→ Reported as conflicts  
-→ CI FAILS
-
-Cleanup reports  
-→ Can be attached directly to PR / MR bodies
-
----
-
-## GitHub Actions overview
+## How to use
 
 This repository is designed to work standalone (also when used as a submodule).
 
 Typical workflow:
-1. Run clean script (with report)
-2. Fail only on conflicts
-3. Generate `.properties`
-4. Upload `dist/i18n` and cleanup report as artifacts
-5. Use the report to populate PR / MR descriptions
+1. Update ui content.
+2. Run clean:i18n:all-yamls to validate if duplicate keys are found(with same or different values).
+    3. Duplicates with same value will be overwritten(FIFO style)
+    4. Duplicates with different value will be marked as conflict. Manual choose one of the values.
+3. When not executing step 2, pipeline could return error that duplicates/conflicts are found(NO PR).
+4. Push changes
+5. Workflow will automatically add PR to bloomreach-zin project for the new ui content.
+
+Updating site specific ui content:
+1. Update ui.yaml in frontend project. e.g. [Zorginzicht](https://github.com/zorginstituut-nederland/zorginzicht/blob/master/_data/ui.yaml) 
+2. Go to [Prozin-ui-content Actions](https://github.com/zorginstituut-nederland/prozin-ui-content/actions/workflows/i18n.yaml)
+3. Click Run workflow
+4. Use master branch
+5. Click Run workflow
+6. Prozin-ui-content will be updated and also the pull from the site specific content.

@@ -13,8 +13,6 @@ const hasFlag = (name) => argv.includes(name);
 const DATA_DIR = path.resolve(getArg("--dir", "./"));
 const ALL_YAMLS = hasFlag("--all-yamls");
 const DRY_RUN = hasFlag("--dry-run");
-
-// New: optional report output (markdown)
 const REPORT_PATH = getArg("--report", null);
 
 // Default to ui.yaml unless --all-yamls
@@ -30,10 +28,10 @@ function listYamlFiles(dir) {
         .map((n) => path.join(dir, n));
 }
 
-// Parse top-level "key:" blocks and simple "  lang: value" lines inside
+// Parse top-level blocks: key: + indented lang lines
 function parseTopLevelBlocks(fileText) {
     const lines = fileText.split(/\r?\n/);
-    const keyLineRe = /^([A-Za-z0-9_.-]+)\s*:\s*(#.*)?$/; // key: at col 0
+    const keyLineRe = /^([A-Za-z0-9_.-]+)\s*:\s*(#.*)?$/;
     const langLineRe = /^\s{2,}([A-Za-z0-9_-]+)\s*:\s*(.*)\s*$/;
 
     const blocks = [];
@@ -41,7 +39,6 @@ function parseTopLevelBlocks(fileText) {
 
     for (let i = 0; i < lines.length; i++) {
         const line = lines[i];
-
         const isTopLevel = !line.startsWith(" ") && !line.startsWith("\t");
         const mKey = isTopLevel ? line.match(keyLineRe) : null;
 
@@ -68,21 +65,20 @@ function parseTopLevelBlocks(fileText) {
         blocks.push(current);
     }
 
-    // fill langMap
+    // Fill langMap
     for (const b of blocks) {
         for (let j = 1; j < b.lines.length; j++) {
-            const line = b.lines[j];
-            const m = line.match(langLineRe);
+            const m = b.lines[j].match(langLineRe);
             if (!m) continue;
 
             const lang = m[1];
             let val = (m[2] ?? "").trim();
 
-            const isQuoted =
+            const quoted =
                 (val.startsWith('"') && val.endsWith('"')) ||
                 (val.startsWith("'") && val.endsWith("'"));
 
-            if (!isQuoted) {
+            if (!quoted) {
                 const hash = val.indexOf(" #");
                 if (hash >= 0) val = val.slice(0, hash).trim();
             }
@@ -102,8 +98,10 @@ function parseTopLevelBlocks(fileText) {
 }
 
 function signature(langMap) {
-    const keys = Object.keys(langMap).sort();
-    return keys.map((k) => `${k}=${langMap[k]}`).join("|");
+    return Object.keys(langMap)
+        .sort()
+        .map((k) => `${k}=${langMap[k]}`)
+        .join("|");
 }
 
 function unionLangs(variants) {
@@ -114,12 +112,8 @@ function unionLangs(variants) {
 
 function formatLangMap(langMap) {
     const langs = Object.keys(langMap).sort();
-    if (langs.length === 0) return "(no lang values found)";
+    if (!langs.length) return "(no lang values)";
     return langs.map((l) => `${l}: ${langMap[l]}`).join(" | ");
-}
-
-function mdEscape(s) {
-    return String(s ?? "").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
 
 const files = listYamlFiles(DATA_DIR);
@@ -153,8 +147,8 @@ for (const filePath of files) {
     }
 
     const startsToRemove = new Set();
+    const removedSameValue = [];
     const conflicts = [];
-    const removedSameValue = []; // records removed identical dupes
 
     for (const [key, arr] of byKey.entries()) {
         if (arr.length <= 1) continue;
@@ -166,40 +160,38 @@ for (const filePath of files) {
             sigToBlocks.get(sig).push(b);
         }
 
-        // identical dupes => remove first occurrence(s), keep last (FIFO removal)
+        // FIFO removal for identical duplicates
         for (const bs of sigToBlocks.values()) {
             if (bs.length > 1) {
                 const kept = bs[bs.length - 1];
-                for (let i = 0; i < bs.length - 1; i++) {
-                    const removed = bs[i];
-                    startsToRemove.add(removed.startLine);
+                const removed = bs.slice(0, -1);
 
-                    removedSameValue.push({
-                        key,
-                        removedLine: removed.startLine + 1,
-                        keptLine: kept.startLine + 1,
-                        langMap: removed.langMap,
-                    });
-                }
+                for (const r of removed) startsToRemove.add(r.startLine);
+
+                removedSameValue.push({
+                    key,
+                    removedLines: removed.map((r) => r.startLine + 1),
+                    keptLine: kept.startLine + 1,
+                    langMap: kept.langMap,
+                });
             }
         }
 
-        // different signatures => conflict
+        // Conflicts: same key, different values
         if (sigToBlocks.size > 1) {
             conflicts.push({
                 key,
                 variants: arr.map((b) => ({
-                    startLine: b.startLine + 1, // 1-based
+                    startLine: b.startLine + 1,
                     langMap: b.langMap,
                 })),
             });
         }
     }
 
-    // Print + report: removed identical duplicates
+    // Logging removed identical duplicates
     if (removedSameValue.length > 0) {
         console.log(`\n🧹 Removed identical duplicates in ${fileName}:\n`);
-
         if (REPORT_PATH) {
             report.push(`## ${fileName}`);
             report.push(``);
@@ -209,44 +201,32 @@ for (const filePath of files) {
 
         for (const r of removedSameValue) {
             console.log(`Key: ${r.key}`);
-            console.log(`  Removed line: ${r.removedLine}`);
-            console.log(`  Kept line:    ${r.keptLine}`);
-            console.log(`  Values:       ${formatLangMap(r.langMap)}`);
+            console.log(`  Removed (FIFO):`);
+            for (const ln of r.removedLines) console.log(`    - line ${ln}`);
+            console.log(`  Kept: line ${r.keptLine}`);
+            console.log(`  Values: ${formatLangMap(r.langMap)}`);
             console.log("");
 
             if (REPORT_PATH) {
-                report.push(`Key: \`${mdEscape(r.key)}\`  `);
-                report.push(`Removed line: ${r.removedLine}  `);
-                report.push(`Kept line: ${r.keptLine}  `);
-                report.push(``);
+                report.push(`Key: \`${r.key}\``);
+                report.push(`Removed (FIFO): ${r.removedLines.join(", ")}`);
+                report.push(`Kept: ${r.keptLine}`);
                 report.push(`Values:`);
-
-                const langs = Object.keys(r.langMap).sort();
-                for (const lang of langs) {
+                for (const lang of Object.keys(r.langMap).sort()) {
                     report.push(`${lang}: ${r.langMap[lang]}`);
                 }
                 report.push(``);
             }
         }
-
-        if (REPORT_PATH) report.push(``);
-    } else {
-        console.log(`✔ ${fileName}: no identical duplicates to remove`);
-        if (REPORT_PATH) {
-            report.push(`## ${fileName}`);
-            report.push(``);
-            report.push(`- No identical duplicates removed.`);
-            report.push(``);
-        }
     }
 
-    // Print + report: conflicts
+    // Logging conflicts (manual action)
     if (conflicts.length > 0) {
         conflictTotal += conflicts.length;
-        console.log(`\n⚠ Conflicts in ${fileName} (same key, different value):\n`);
+        console.log(`\n⚠ Conflicts in ${fileName}:\n`);
 
         if (REPORT_PATH) {
-            report.push(`### Conflicts (same key, different value)`);
+            report.push(`### Conflicts (manual resolution required)`);
             report.push(``);
         }
 
@@ -254,39 +234,35 @@ for (const filePath of files) {
             console.log(`Key: ${c.key}`);
             const langs = unionLangs(c.variants);
 
-            if (REPORT_PATH) {
-                report.push(`- **${mdEscape(c.key)}**`);
-            }
-
             for (const lang of langs) {
-                const values = new Set();
-                for (const v of c.variants) {
-                    if (v.langMap[lang] !== undefined) values.add(v.langMap[lang]);
-                }
+                const values = new Set(
+                    c.variants
+                        .map((v) => v.langMap[lang])
+                        .filter((v) => v !== undefined)
+                );
                 if (values.size > 1) {
                     console.log(`  ${lang}:`);
-                    for (const val of values) console.log(`    - ${val}`);
-
-                    if (REPORT_PATH) {
-                        report.push(`  - ${mdEscape(lang)}:`);
-                        for (const val of values) report.push(`    - ${mdEscape(val)}`);
-                    }
+                    for (const v of values) console.log(`    - ${v}`);
                 }
             }
 
-            console.log("  Occurs at lines:");
+            console.log(`  Occurs at lines:`);
             for (const v of c.variants) console.log(`    - ${v.startLine}`);
             console.log("");
 
             if (REPORT_PATH) {
-                report.push(`  - Occurs at lines: ${c.variants.map((v) => v.startLine).join(", ")}`);
+                report.push(`Key: \`${c.key}\``);
+                report.push(
+                    `Occurs at lines: ${c.variants
+                        .map((v) => v.startLine)
+                        .join(", ")}`
+                );
+                report.push(``);
             }
         }
-
-        if (REPORT_PATH) report.push(``);
     }
 
-    // Remove identical dupes
+    // Apply removals
     if (startsToRemove.size > 0) {
         const lines = original.split(/\r?\n/);
         const byStart = new Map(blocks.map((b) => [b.startLine, b]));
@@ -295,47 +271,61 @@ for (const filePath of files) {
 
         while (i < lines.length) {
             if (byStart.has(i) && startsToRemove.has(i)) {
-                const b = byStart.get(i);
-                i = b.endLine + 1; // skip entire duplicate block
+                i = byStart.get(i).endLine + 1;
                 continue;
             }
             out.push(lines[i]);
             i++;
         }
 
-        const removed = startsToRemove.size;
-        removedTotal += removed;
+        removedTotal += startsToRemove.size;
 
-        if (DRY_RUN) {
-            console.log(`🧪 ${fileName}: would remove ${removed} identical duplicate(s)`);
-        } else {
+        if (!DRY_RUN) {
             fs.writeFileSync(filePath, out.join("\n"), "utf8");
-            console.log(`🧹 ${fileName}: removed ${removed} identical duplicate(s)`);
         }
     }
 }
 
 console.log(
-    `\nDone. Identical duplicates removed: ${removedTotal}. Conflicting keys found: ${conflictTotal}.`
+    `\nDone. Identical duplicates removed: ${removedTotal}. Conflicts found: ${conflictTotal}.`
 );
 
 if (REPORT_PATH) {
     report.push(`---`);
     report.push(``);
     report.push(`## Summary`);
-    report.push(``);
     report.push(`- Identical duplicates removed: [ ${removedTotal} ]`);
     report.push(`- Conflicting keys found: [ ${conflictTotal} ]`);
-    report.push(``);
     fs.mkdirSync(path.dirname(REPORT_PATH), { recursive: true });
     fs.writeFileSync(REPORT_PATH, report.join("\n"), "utf8");
     console.log(`📝 Report written to ${REPORT_PATH}`);
 }
 
-// ✅ Fail only on conflicts
-if (conflictTotal > 0) {
-    console.error("❌ Conflicts found (same key, different value). Fix these manually.");
-    process.exit(1);
+// ✅ CI behavior: when --dry-run is used, FAIL if there are duplicates OR conflicts
+if (DRY_RUN) {
+    if (removedTotal > 0 || conflictTotal > 0) {
+        if (removedTotal > 0) {
+            console.error(
+                `❌ Duplicates found (identical duplicates): ${removedTotal}. ` +
+                `Run clean locally (without --dry-run) to auto-remove them.`
+            );
+        }
+        if (conflictTotal > 0) {
+            console.error(
+                `❌ Conflicts found (same key, different value): ${conflictTotal}. ` +
+                `Fix these manually.`
+            );
+        }
+        process.exit(1);
+    }
+    process.exit(0);
 }
 
+// ✅ Local behavior: never fail (remove identical duplicates + log conflicts)
+if (conflictTotal > 0) {
+    console.warn(
+        `⚠ Conflicts found (same key, different value): ${conflictTotal}. ` +
+        `Fix these manually.`
+    );
+}
 process.exit(0);
