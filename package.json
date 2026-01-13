@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "scripts": {
+    "clean:dist": "node -e \"import fs from 'fs'; fs.rmSync('dist',{recursive:true,force:true});\"",
+
+    "clean:i18n": "node scripts/clean-i18n-duplicates.js",
+    "clean:i18n:all-yamls": "node scripts/clean-i18n-duplicates.js --all-yamls",
+
+    "clean:i18n:report": "node scripts/clean-i18n-duplicates.js --report dist/i18n/clean-report.md --report-json dist/i18n/clean-report.json",
+    "clean:i18n:all-yamls:report": "node scripts/clean-i18n-duplicates.js --all-yamls --report dist/i18n/clean-report.md --report-json dist/i18n/clean-report.json",
+
+    "build:i18n": "npm run clean:dist && node scripts/build-i18n.js",
+    "build:i18n:all-langs": "npm run clean:dist && node scripts/build-i18n.js --all-langs",
+    "build:i18n:all-yamls": "npm run clean:dist && node scripts/build-i18n.js --all-yamls",
+    "build:i18n:full": "npm run clean:dist && node scripts/build-i18n.js --all-yamls --all-langs",
+
+    "i18n": "npm run clean:i18n && npm run build:i18n",
+    "i18n:all-langs": "npm run clean:i18n && npm run build:i18n:all-langs",
+    "i18n:all-yamls": "npm run clean:i18n:all-yamls && npm run build:i18n:all-yamls",
+    "i18n:full": "npm run clean:i18n:all-yamls && npm run build:i18n:full",
+
+    "i18n:ci": "npm run clean:i18n:all-yamls:report && npm run build:i18n"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

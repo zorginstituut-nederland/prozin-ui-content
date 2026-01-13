@@ -1,0 +1,363 @@
+name: i18n - clean and build ui content
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+    types: [opened, synchronize]
+
+permissions:
+  contents: read
+
+jobs:
+  base:
+    name: Build BASE (stop workflow if base fails)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout prozin ui content (this repo)
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install deps
+        run: npm ci
+
+      # 1) Clean BASE ui.yaml (FAILS workflow on conflicts)
+      - name: Clean BASE ui.yaml (report)
+        run: |
+          set -euo pipefail
+          mkdir -p reports
+          node ./scripts/clean-i18n-duplicates.js \
+            --dir "." \
+            --only "ui.yaml" \
+            --report "reports/base.md"
+
+      # 2) Build BASE properties -> dist/i18n/ui_{nl,en}.properties
+      - name: Build BASE properties (this repo ui.yaml)
+        run: |
+          set -euo pipefail
+          rm -rf dist
+          npm run clean:dist
+          node ./scripts/build-i18n.js --dir "." --only "ui.yaml"
+          test -f "dist/i18n/ui_nl.properties"
+          test -f "dist/i18n/ui_en.properties"
+
+      # 3) Upload BASE artifact (props + report)
+      - name: Prepare BASE artifact folder
+        run: |
+          set -euo pipefail
+          rm -rf _base_artifact
+          mkdir -p _base_artifact/base/i18n
+          mkdir -p _base_artifact/reports
+          cp dist/i18n/ui_nl.properties _base_artifact/base/i18n/ui_nl.properties
+          cp dist/i18n/ui_en.properties _base_artifact/base/i18n/ui_en.properties
+          cp reports/base.md _base_artifact/reports/base.md
+          echo "✅ BASE artifact:"
+          find _base_artifact -maxdepth 4 -type f -print
+
+      - name: Upload BASE artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: base
+          path: _base_artifact
+          if-no-files-found: error
+
+
+  build_per_site:
+    name: Build per site (matrix)
+    runs-on: ubuntu-latest
+    needs: base
+
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - sitename: horizonscan
+            repo: zorginstituut-nederland/horizonscan
+            ref: main
+            ui_path: ui.yaml
+          - sitename: zorginzicht
+            repo: zorginstituut-nederland/zorginzicht
+            ref: master
+            ui_path: ui.yaml
+          - sitename: gipdatabank
+            repo: zorginstituut-nederland/gipdatabank
+            ref: master
+            ui_path: ui.yaml
+          - sitename: zorgcijfersdatabank
+            repo: zorginstituut-nederland/zorgcijfersdatabank
+            ref: master
+            ui_path: ui.yaml
+          - sitename: medicijnkosten
+            repo: zorginstituut-nederland/medicijnkosten
+            ref: master
+            ui_path: ui.yaml
+          - sitename: istandaarden
+            repo: zorginstituut-nederland/istandaarden
+            ref: master
+            ui_path: ui.yaml
+          - sitename: prozin
+            repo: zorginstituut-nederland/prozin
+            ref: master
+            ui_path: ui.yaml
+
+    steps:
+      - name: Checkout prozin ui content (this repo)
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install deps
+        run: npm ci
+
+      # Download base artifact produced by base job
+      - name: Download BASE artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: base
+          path: .
+
+      - name: Verify BASE files
+        run: |
+          set -euo pipefail
+          test -f base/i18n/ui_nl.properties
+          test -f base/i18n/ui_en.properties
+          test -f reports/base.md
+
+      # Checkout site repo into site/
+      - name: Checkout site repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ matrix.repo }}
+          ref: ${{ matrix.ref }}
+          path: site
+          fetch-depth: 1
+          token: ${{ secrets.PAT_UI_CONTENT_CLASSIC }}
+
+      - name: Verify site ui.yaml exists
+        run: |
+          set -euo pipefail
+          echo "Listing site/_data:"
+          ls -la site/_data
+          echo "Looking for: site/_data/${{ matrix.ui_path }}"
+          test -f "site/_data/${{ matrix.ui_path }}" || (echo "❌ Missing site/_data/${{ matrix.ui_path }}" && exit 1)
+
+      # Clean SITE ui.yaml + report
+      - name: Clean SITE ui.yaml (report)
+        run: |
+          set -euo pipefail
+          mkdir -p reports
+          node ./scripts/clean-i18n-duplicates.js \
+            --dir "site/_data" \
+            --only "${{ matrix.ui_path }}" \
+            --report "reports/${{ matrix.sitename }}.md"
+
+      # Build SITE -> dist/i18n/ui_{nl,en}.properties
+      - name: Build SITE properties (site/_data/ui.yaml)
+        run: |
+          set -euo pipefail
+          rm -rf dist
+          npm run clean:dist
+          node ./scripts/build-i18n.js --dir "site/_data" --only "${{ matrix.ui_path }}"
+          test -f "dist/i18n/ui_nl.properties"
+          test -f "dist/i18n/ui_en.properties"
+
+      # Merge BASE + SITE (site overrides) -> dist/<sitename>/ui_{nl,en}.properties
+      - name: Merge base + site (site overrides) into dist/<sitename>
+        run: |
+          set -euo pipefail
+          mkdir -p "dist/${{ matrix.sitename }}"
+
+          merge_props () {
+            local baseFile="$1"
+            local siteFile="$2"
+            local outFile="$3"
+
+            awk -F'=' '
+              function addLine(k,v) {
+                if (k == "") return
+                map[k]=v
+                order[++n]=k
+              }
+              /^[[:space:]]*$/ { next }
+              /^#/ { next }
+              {
+                key=$1
+                $1=""
+                sub(/^=/,"")
+                val=$0
+                addLine(key,val)
+              }
+              END{
+                for(i=n;i>=1;i--){
+                  k=order[i]
+                  if(!(k in printed)){
+                    rev[++m]=k
+                    printed[k]=1
+                  }
+                }
+                for(i=m;i>=1;i--){
+                  k=rev[i]
+                  printf "%s=%s\n", k, map[k]
+                }
+              }
+            ' "$baseFile" "$siteFile" > "$outFile"
+          }
+
+          merge_props "base/i18n/ui_nl.properties" "dist/i18n/ui_nl.properties" "dist/${{ matrix.sitename }}/ui_nl.properties"
+          merge_props "base/i18n/ui_en.properties" "dist/i18n/ui_en.properties" "dist/${{ matrix.sitename }}/ui_en.properties"
+
+          echo "✅ Output:"
+          ls -la "dist/${{ matrix.sitename }}"
+
+      # Wrap outputs for merge-multiple download
+      - name: Prepare artifact folders
+        run: |
+          set -euo pipefail
+          rm -rf _artifact
+          mkdir -p "_artifact/dist/${{ matrix.sitename }}"
+          mkdir -p "_artifact/reports"
+          cp "dist/${{ matrix.sitename }}/ui_nl.properties" "_artifact/dist/${{ matrix.sitename }}/ui_nl.properties"
+          cp "dist/${{ matrix.sitename }}/ui_en.properties" "_artifact/dist/${{ matrix.sitename }}/ui_en.properties"
+          cp "reports/${{ matrix.sitename }}.md" "_artifact/reports/${{ matrix.sitename }}.md"
+
+      - name: Upload per-site artifact (dist + report)
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-${{ matrix.sitename }}
+          path: _artifact
+          if-no-files-found: error
+
+
+  aggregate_and_pr:
+    runs-on: ubuntu-latest
+    needs: build_per_site
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Download BASE artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: base
+          path: .
+
+      - name: Download all per-site artifacts (merged)
+        uses: actions/download-artifact@v4
+        with:
+          pattern: site-*
+          path: .
+          merge-multiple: true
+
+      - name: Show trees
+        run: |
+          set -euo pipefail
+          echo "dist:"
+          find dist -maxdepth 3 -type f -print
+          echo "reports:"
+          find reports -maxdepth 2 -type f -print
+
+      - name: Checkout bloomreach-zin
+        uses: actions/checkout@v4
+        with:
+          repository: zorginstituut-nederland/bloomreach-zin
+          token: ${{ secrets.PAT_UI_CONTENT_CLASSIC }}
+          path: bloomreach-zin
+          ref: main
+          fetch-depth: 0
+
+      - name: Sync dist/<sitename>/ui_*.properties into bloomreach-zin
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+
+          files=(dist/*/ui_*.properties)
+          if (( ${#files[@]} == 0 )); then
+            echo "❌ No files found under dist/*/ui_*.properties"
+            find dist -maxdepth 4 -type f -print || true
+            exit 1
+          fi
+
+          for src in "${files[@]}"; do
+            sitename="$(cut -d/ -f2 <<<"$src")"
+            filename="$(basename "$src")"
+
+            dest="bloomreach-zin/${sitename}/site/components/src/main/resources/nl/${sitename}/${filename}"
+
+            echo "Syncing $src -> $dest"
+            mkdir -p "$(dirname "$dest")"
+            cp "$src" "$dest"
+          done
+
+      - name: Compose PR body (as output)
+        id: pr_body
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          tmp="$(mktemp)"
+          {
+            echo "Automated sync of UI i18n files."
+            echo
+            echo "## Source"
+            echo "- Base: prozin-ui-content ui.yaml"
+            echo "- Site: each site repo site/_data/ui.yaml (site overrides base)"
+            echo
+            echo "## Reports"
+            echo
+            echo "### Base report"
+            echo
+            echo '```'
+            cat reports/base.md 2>/dev/null || echo "(no base report)"
+            echo '```'
+            echo
+            echo "### Site reports"
+            echo
+            for f in reports/*.md; do
+              b="$(basename "$f")"
+              [ "$b" = "base.md" ] && continue
+              echo "#### ${b%.md}"
+              echo
+              echo '```'
+              cat "$f" || true
+              echo '```'
+              echo
+            done
+          } > "$tmp"
+
+          {
+            echo "body<<EOF"
+            cat "$tmp"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Create PR in bloomreach-zin (fixed branch)
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.PAT_UI_CONTENT_CLASSIC }}
+          path: bloomreach-zin
+          base: main
+          branch: feature/ABO-1-update-ui-properties
+          title: Update ui properties (auto)
+          commit-message: "Sync ui_*.properties from prozin-ui-content"
+          body: ${{ steps.pr_body.outputs.body }}
+          add-paths: |
+            **/ui_*.properties
+          labels: automated
+          delete-branch: true
