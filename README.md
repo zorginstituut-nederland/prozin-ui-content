@@ -46,7 +46,7 @@ i18n:*   → clean + build combinations
 Cleaning YAML duplicates
 - Identical duplicate keys with identical values are removed automatically (FIFO order)
 - Duplicate keys with different values are detected as conflicts
-- Duplicates and conflicts will fail the script when using CI
+- Conflicts will fail the script when using CI
 
 Commands:
 
@@ -132,9 +132,9 @@ npm run clean:dist
 
 Github actions workflow uses below command. 
 This does a dry run to clean all yaml files and report it.
-When it has duplicates or conflicts the pipeline will fail.
+When it has conflicts the pipeline will fail.
 
-When no conflicts or duplicates are found, create a PR to bloomreach-zin
+When no conflicts are found, create a PR to bloomreach-zin
 Recommended CI command:
 ```bash
 npm run i18n:ci
@@ -144,7 +144,7 @@ Behavior:
 - Cleans ALL YAML files
 - Generates cleanup report
 - Builds properties from `ui.yaml` (nl + en)
-- Fails CI only when conflicts or duplicates are found
+- Fails CI only when conflicts are found
 
 ---
 
@@ -157,14 +157,14 @@ Typical workflow:
 2. Run clean:i18n:all-yamls to validate if duplicate keys are found(with same or different values).
     3. Duplicates with same value will be overwritten(FIFO style)
     4. Duplicates with different value will be marked as conflict. Manual choose one of the values.
-3. When not executing step 2, pipeline could return error that duplicates/conflicts are found(NO PR).
+3. When not executing step 2, pipeline could return a error that conflicts are found(NO PR, step 5).
 4. Push changes
 5. Workflow will automatically add PR to bloomreach-zin project for the new ui content.
 
 Updating site specific ui content:
 1. Update ui.yaml in frontend project. e.g. [Zorginzicht](https://github.com/zorginstituut-nederland/zorginzicht/blob/master/_data/ui.yaml) 
 2. Go to [Prozin-ui-content Actions](https://github.com/zorginstituut-nederland/prozin-ui-content/actions/workflows/i18n.yaml)
-3. Click Run workflow
+3. Click 'Run workflow'
 4. Use master branch
-5. Click Run workflow
+5. Click 'Run workflow'
 6. Prozin-ui-content will be updated and also the pull from the site specific content.

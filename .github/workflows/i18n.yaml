@@ -29,7 +29,7 @@ jobs:
       - name: Install deps
         run: npm ci
 
-      # 1) Clean BASE ui.yaml (FAILS workflow on conflicts and duplicates)
+      # 1) Clean BASE ui.yaml (FAILS workflow on conflicts)
       - name: Clean BASE ui.yaml (report)
         run: |
           set -euo pipefail
@@ -68,7 +68,6 @@ jobs:
           name: base
           path: _base_artifact
           if-no-files-found: error
-
 
   build_per_site:
     name: Build per site (matrix)
@@ -238,7 +237,6 @@ jobs:
           name: site-${{ matrix.sitename }}
           path: _artifact
           if-no-files-found: error
-
 
   aggregate_and_pr:
     runs-on: ubuntu-latest
