@@ -6855,7 +6855,3 @@ title_current_image_references:
 label_current_image_references:
   nl: Deze afbeelding is gebruikt op de volgende locaties.
   en: This image has been used in the following locations.
-
-label_message_contents:
-  en: Message contents
-  nl: Berichtinhouds
