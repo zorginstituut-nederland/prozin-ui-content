@@ -5,14 +5,6 @@ label_show_cost_imp:
   he: הצג עלויות
   nl: Toon kosten
 
-message_browse_lane_help_gip:
-  en: Message
-  nl: Bericht
-
-message_browse_lane_help_zor:
-  en: Message
-  nl: Bericht
-
 label_message:
   en: Message
   nl: Bericht
@@ -37,13 +29,6 @@ label_notice:
   de: Hinweis
   fr: Avis
   he: הודעה
-
-label_error:
-  en: Error
-  nl: Fout
-  de: Fehler
-  fr: Erreur
-  he: שגיאה
 
 label_warning: 
   en: Warning
@@ -235,9 +220,6 @@ label_all_types:
 label_figure:
   nl: Vorm
   en: Figure
-label_strength:
-  nl: Sterkte
-  en: Strength
 label_report_type:
   nl: Rapportage type
   en: Report type
@@ -475,9 +457,6 @@ label_image_type:
 label_copyright:
   en: Copyright
   nl: Auteursrecht
-label_grouped_by_registration_phase:
-  en: Grouped by registration phase
-  nl: Gegroepeerd op registratiefase
 label_grouped_by_collection:
   en: Grouped by collection
   nl: Gegroepeerd op collectie
@@ -622,12 +601,6 @@ label_product_specific_documentation:
 label_documentation_per_product:
   nl: Documentatie per product
   en: Documentation per product
-message_help_directly_to:
-  de: Direkt zu
-  en: Directly to
-  fr: Directement à
-  he: ישירות אל
-  nl: Direct naar
 
 message_help_directly_to:
   de: "Die 'Direkt zu'-Funktion ist für die Top-Aufgaben der Benutzer gedacht. Das Feld kann leer gelassen oder mit bis zu 5 Verweisen gefüllt werden."
@@ -1239,9 +1212,6 @@ label_interpretation:
 label_steal_lock_confirmative:
   nl: Ja, neem bewerken over
   en: Yes, steal lock
-label_steal_lock:
-  nl: Bewerken overnemen
-  en: Steal lock
 label_steal_lock_imp:
   nl: Neem bewerken over
   en: Steal lock
@@ -1536,9 +1506,6 @@ label_add_imp:
   nl: Voeg toe
   de: Hinzufügen
   fr: Ajouter
-label_new_image:
-  en: New image
-  nl: Nieuwe afbeelding
 label_pin_on_top_of_overviews:
   nl: Zet vast bovenaan overzichten
   en: Pin to top of overviews
@@ -1567,11 +1534,6 @@ label_link_text:
 label_page:
   nl: Pagina
   en: Page
-label_insert_imp:
-  nl: Voeg in
-  en: Insert
-  fr: Insérer
-  de: Einfügen
 label_settings:
   nl: Instellingen
   en: Settings
@@ -1877,9 +1839,6 @@ label_applicator:
 label_applicators:                          
   en: Applicators                           
   nl: Applicators
-label_capsule:                              
-  en: Capsule                               
-  nl: Capsule
 label_capsules:                             
   en: Capsules                              
   nl: Capsules
@@ -1889,9 +1848,6 @@ label_capsule_vaginal:
 label_capsules_vaginal:                     
   en: Capsules vaginal                      
   nl: Capsules vaginaal
-label_combination_packaging:                
-  en: Combination packaging                 
-  nl: Combinatie verpakking
 label_combination_packaging:                
   en: Combination packaging                 
   nl: Combinatieverpakkingen
@@ -1909,19 +1865,10 @@ label_discus:
   nl: Diskussen
 label_dosing_pressure_packaging:            
   en: Dosing pressure packaging             
-  nl: Doseerdrukverpakking
-label_dosing_pressure_packaging:            
-  en: Dosing pressure packaging             
   nl: Doseerdrukverpakkingen
-label_dragee:                               
-  en: Dragee                                
-  nl: Dragee
 label_dragees:                              
   en: Dragees                               
   nl: Dragees
-label_pressure_packaging:                   
-  en: Pressure packaging                    
-  nl: Drukverpakking
 label_pressure_packaging:                   
   en: Pressure packaging                    
   nl: Drukverpakkingen
@@ -1934,9 +1881,6 @@ label_drip_packs:
 label_flacon:                               
   en: Flacon                                
   nl: Flacon
-label_bottles:                              
-  en: Bottles                               
-  nl: Flacons
 label_bottle:                               
   en: Bottle                                
   nl: Fles
@@ -1961,9 +1905,6 @@ label_infusion_set:
 label_infusion_sets:                        
   en: Infusion sets                         
   nl: Infusie-sets
-label_infusion_bottle:                      
-  en: Infusion bottle                       
-  nl: Infusieflacon
 label_infusion_vials:                       
   en: Infusion vials                        
   nl: Infusieflacons
@@ -2000,12 +1941,6 @@ label_vials:
 label_chewing-gum:                          
   en: Chewing gum                           
   nl: Kauwgom
-label_chewing-gum:                          
-  en: Chewing gum                           
-  nl: Kauwgom
-label_enema:                                
-  en: Enema                                 
-  nl: Klysma
 label_enema:                                
   en: Enema                                 
   nl: Klysmas
@@ -2027,9 +1962,6 @@ label_milliliter:
 label_milliliters:                          
   en: Milliliters                           
   nl: Milliliters
-label_minimum:                              
-  en: Minimum                               
-  nl: Minim
 label_minimums:                             
   en: Minimums                              
   nl: Minims
@@ -2039,15 +1971,9 @@ label_eye_insert:
 label_eye_inserts:                          
   en: Eye inserts                           
   nl: Ooginserts
-label_ovule:                                
-  en: Ovule                                 
-  nl: Ovule
 label_ovules:                               
   en: Ovules                                
   nl: Ovules
-label_pastille:                             
-  en: Pastille                              
-  nl: Pastille
 label_pastilles:                            
   en: Pastilles                             
   nl: Pastilles
@@ -2105,9 +2031,6 @@ label_piece:
 label_pieces:                               
   en: Pieces                                
   nl: Stuks
-label_tablet:                               
-  en: Tablet                                
-  nl: Tablet
 label_table:
   en: Table
   nl: Tabel
@@ -2137,9 +2060,6 @@ label_vaginal_systems:
   nl: Vaginaalsystemen
 label_packaging:                            
   en: Packaging                             
-  nl: Verpakking
-label_packaging:                            
-  en: Packaging                             
   nl: Verpakkingen
 label_atomizer:                             
   en: Atomizer                              
@@ -2156,9 +2076,6 @@ label_disposable_syringes:
 label_zak:                                  
   en: Zak                                   
   nl: Zak
-label_bags:                                 
-  en: Bags                                  
-  nl: Zakken
 label_bag:                                  
   en: Bag                                   
   nl: Zakje
@@ -2219,9 +2136,6 @@ label_landing_public_data:
 label_average:
   nl: Gemiddelde
   en: Average
-label_number:
-  nl: Getal
-  en: Number
 label_yes_no:
   nl: Ja/Nee
   en: Yes/No
@@ -2243,9 +2157,6 @@ label_stars_3:
 label_stars_5:
   nl: Sterren (5)
   en: Stars (5)
-label_amount:
-  nl: Aantal
-  en: Amount
 label_label:
   nl: Label
   en: Label
@@ -2321,9 +2232,6 @@ label_structure:
 label_process:
   nl: Proces
   en: Process
-label_processes:
-  nl: Processen
-  en: Processes
 label_processes:
   nl: Processen
   en: Processes
@@ -2460,9 +2368,6 @@ label_subtype_healthcare_provider:
 label_indicator_unit:
   nl: Indicatoreenheid
   en: Indicator unit
-label_indicator:
-  nl: Indicator
-  en: Indicator
 label_indicator_question:
   nl: Vraag
   en: Question
@@ -2922,9 +2827,6 @@ label_faq:
 label_favourites: 
   nl: Favorieten
   en: Favourites
-label_composition: 
-  nl: Samenstelling
-  en: Composition
 label_understand_hide_message:
   nl: Ik begrijp het, verberg dit bericht voortaan
   en: I understand, please hide this message
@@ -3002,9 +2904,6 @@ label_pregnancy-lactation:
 label_pregnant-lactation:
   nl: "Zwanger/Lactatie"
   en: "Pregnant/Lactation"
-label_lactation:
-  nl: "Borstvoeding"
-  en: "Lactation"
 label_children:
   nl: "Kinderen"
   en: "Children"
@@ -3041,9 +2940,6 @@ label_compare_versions:
 label_compare_versions_imp:
   nl: Vergelijk versies
   en: Compare historic versions
-label_field_name: 
-  nl: Veldnaam
-  en: Field name
 label_relevance: 
   nl: Relevantie
   en: Relevance
@@ -3844,9 +3740,6 @@ label_neuszalf:
 label_applicability:
   nl: Toepasbaarheid
   en: Applicability
-label_niet_van_toepassing:
-  nl: Niet van toepassing
-  en: Not applicable
 label_omhulde_tablet:
   nl: Omhulde tablet
   en: Coated tablet
@@ -4290,9 +4183,6 @@ label_hemofilie:
 label_leverziekten:
   nl: Leverziekten
   en: Liver diseases
-label_oogaandoeningen:
-  nl: Oogaandoeningen
-  en: Eye disorders
 label_stofwisselingsziekten:
   nl: Stofwisselingsziekten
   en: Metabolic diseases
@@ -4762,9 +4652,6 @@ label_doorlopend:
 label_current: 
   nl: Lopend
   en: Current
-label_cost:
-  nl: Kosten
-  en: Cost
 label_total_cost:
   nl: Totale kosten
   en: Total cost
@@ -4858,18 +4745,12 @@ label_cancel:
 label_cancel_imp:
   nl: Annuleer
   en: Cancel
-label_delete:
-  nl: Verwijder
-  en: Delete
 label_content:
   nl: Inhoud
   en: Content
 message_help_news_flash_content:
   nl: Selecteer één of meer nieuwberichten om op te nemen in deze nieuwsflits. Nieuwsberichten worden alleen opgenomen in de nieuwsflits als ze gepupubliceerd zijn.
   en: Select one or more news items to include in this news flash. News items are only included in the news flash if they have been published.
-label_send:
-  nl: Versturen
-  en: Send
 label_sent:
   nl: Verstuurd
   en: Sent
@@ -4907,9 +4788,6 @@ label_niet-toegedeeld:
 label_new_by_manufacturers:
   nl: Nieuw van Fabrikanten
   en: New by manufacturers
-label_edit:
-  nl: Bewerken
-  en: Edit
 label_edit_imp:
   nl: Bewerk
   en: Edit
@@ -4985,9 +4863,6 @@ label_ungrouped:
 label_contact_person:
   nl: Contactpersoon
   en: Contact
-label_email:
-  nl: E-mail
-  en: E-mail
 label_telephone_number:
   nl: Telefoonnummer
   en: Telephone number
@@ -5045,9 +4920,6 @@ label_followed_pages:
 label_follow:
   nl: Volgen
   en: Follow
-label_manufacturer:
-  nl: Fabrikant
-  en: Manufacturer
 label_manufacturers:
   nl: Fabrikanten
   en: Manufacturers
@@ -5185,9 +5057,6 @@ label_revert:
 label_publish:
   nl: Publiceren
   en: Publish
-label_publish_imp:
-  nl: Publiceer
-  en: Publish
 message_publish_all_indicator_sets:
   nl: Publiceer alle ongepubliceerde indicatorsets voor geselecteerde sectoren. 
   en: Publish all unpublished indicator sets for selected sectors.
@@ -5224,9 +5093,6 @@ label_new_revision:
 label_new_version:
   nl: Nieuwe versie
   en: New version
-label_follow:
-  nl: Volg
-  en: Follow
 label_unfollow:
   nl: Ontvolg
   en: Unfollow
@@ -6989,3 +6855,7 @@ title_current_image_references:
 label_current_image_references:
   nl: Deze afbeelding is gebruikt op de volgende locaties.
   en: This image has been used in the following locations.
+
+message_sector_introduction:
+  nl: Op deze pagina treft u een overzicht aan van wanneer welke kwaliteitsgegevens over verleende zorg aangeleverd worden voor de sector {0}.
+  en: On this page you will find an overview of when which quality data on care provided is provided for the sector {0}.
