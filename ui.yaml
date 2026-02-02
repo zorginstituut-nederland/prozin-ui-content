@@ -30,19 +30,19 @@ label_notice:
   fr: Avis
   he: הודעה
 
-label_warning: 
+label_warning:
   en: Warning
   nl: Waarschuwing
   de: Warnung
   fr: Avertissement
-  he: אזהרה 
+  he: אזהרה
 
 label_message_contents:
   en: Message contents
   nl: Berichtinhoud
 
-message_no_hero_image: 
-  en: A hero image is required to publish this item. 
+message_no_hero_image:
+  en: A hero image is required to publish this item.
   nl: Een hoofdafbeelding is vereist om dit item te publiceren.
 
 label_search_persona:
@@ -112,7 +112,7 @@ message_verification_request_intro:
   en: The message below will be sent to the relevant parties.
 
 message_verification_request:
-  en: Zorginstituut Nederland invites you to verify changes that were prepared to a record from your portfolio for the next publication of Horizonscan Geneesmiddelen. 
+  en: Zorginstituut Nederland invites you to verify changes that were prepared to a record from your portfolio for the next publication of Horizonscan Geneesmiddelen.
   nl: Zorginstituut Nederland nodigt u uit om de wijzigingen die zijn voorbereid in een record uit uw portfolio te verifiëren voor de volgende publicatie van Horizonscan Geneesmiddelen.
 
 label_remove_user_from_organisation:
@@ -253,8 +253,8 @@ message_password_changed_recently:
   en: It is not possible to renew your password, because it has recently been changed. The password can be changed after {0}.
 
 message_select_image_before_publication:
-  nl: Bewerk en kies een hoofdafbeelding om dit bericht te kunnen publiceren. 
-  en: Edit and select a hero image in order to publish this item. 
+  nl: Bewerk en kies een hoofdafbeelding om dit bericht te kunnen publiceren.
+  en: Edit and select a hero image in order to publish this item.
 
 label_release_date:
   nl: Releasedatum
@@ -277,11 +277,11 @@ message_help_video_transcript:
   en: It is mandatory to include a transcript of all spoken text appearing in the video for the benefit of people with disabilities.
 
 message_help_about_this_site:
-  nl: Artikelpagina's die hier gekozen worden verschijnen als deeplinks in de kolom 'Over deze site'. Pagina's die al direct op de homepage zichtbaar zijn zijn niet selecteerbaar. 
+  nl: Artikelpagina's die hier gekozen worden verschijnen als deeplinks in de kolom 'Over deze site'. Pagina's die al direct op de homepage zichtbaar zijn zijn niet selecteerbaar.
   en: Article pages chosen here will appear as deep links in the 'About this site' column. Pages that are already visible directly on the homepage are not selectable.
 
 message_help_service:
-  nl: Items die hier gekozen worden verschijnen als deeplinks in de kolom 'Service'. Pagina's die al direct op de homepage zichtbaar zijn zijn niet selecteerbaar. 
+  nl: Items die hier gekozen worden verschijnen als deeplinks in de kolom 'Service'. Pagina's die al direct op de homepage zichtbaar zijn zijn niet selecteerbaar.
   en: Items chosen here will appear as deep links in the 'Service' column. Pages that are already visible directly on the homepage are not selectable.
 
 message_see_concepts_for_wegiz:
@@ -499,7 +499,7 @@ label_inactive:
   he: לא פעיל
 
 message_help_image_upload:
-  nl: Afbeeldingen dienen in JPG, SVG of PNG-formaat te zijn. JPG is het meest geschikt voor fotografie. SVG is meer geschikt voor vectorafbeeldingen en PNG is het meest geschikt voor schermafdrukken. Verklein of converteer afbeeldingen niet zelf, maar laad bij voorkeur het origineel op. Kleinere versies worden automatisch door de server aangemaakt. De maximaal toegestane bestandsgrootte is 50 Megabyte. 
+  nl: Afbeeldingen dienen in JPG, SVG of PNG-formaat te zijn. JPG is het meest geschikt voor fotografie. SVG is meer geschikt voor vectorafbeeldingen en PNG is het meest geschikt voor schermafdrukken. Verklein of converteer afbeeldingen niet zelf, maar laad bij voorkeur het origineel op. Kleinere versies worden automatisch door de server aangemaakt. De maximaal toegestane bestandsgrootte is 50 Megabyte.
   en: Images must be in JPG, SVG or PNG format. JPG is best suited for photography. SVG is more suitable for vector graphics and PNG is best for screen printing. Do not resize or convert images yourself, but preferably upload the original. Smaller versions are created automatically by the server. The maximum allowed file size is 50 Megabytes.
 
 message_help_alt_text:
@@ -511,7 +511,7 @@ message_overwrite_by_uploading_new_image:
   en: You can overwrite this image by uploading a new version.
 
 message_help_medicine_for_conditions:
-  en: Select the medicine the information below belongs to. 
+  en: Select the medicine the information below belongs to.
   nl: Selecteer het geneesmiddel waar onderstaande informatie bij hoort.
 
 message_help_conditions_for_medicine:
@@ -686,7 +686,7 @@ label_breaking_news:
   en: Breaking news
   fr: Dernières nouvelles
   he: חדשות חמות
-  nl: Uiterst belangrijk nieuws 
+  nl: Uiterst belangrijk nieuws
 
 message_help_breaking_news:
   de: Verwenden Sie diese Funktion nur für hochkritische Nachrichten und niemals für längere Zeiträume.
@@ -700,7 +700,7 @@ label_no_breaking_news:
   en: No breaking news
   fr: Pas de dernières nouvelles
   he: אין חדשות חמות
-  nl: Geen uiterst belangrijk nieuws 
+  nl: Geen uiterst belangrijk nieuws
 
 label_photo:
   de: Foto
@@ -818,7 +818,7 @@ message_dialogues:
 
 message_personas:
   de: Der Satz von Personas, der verwendet wird, um die Web-Landschaft zu entwerfen und zu testen.
-  en: The set of personas that is used to design and test the web landscape. 
+  en: The set of personas that is used to design and test the web landscape.
   fr: L'ensemble des personas utilisées pour concevoir et tester le paysage web.
   he: הסט של הדמויות שמשמש לעיצוב ובדיקת הנוף של האינטרנט.
   nl: De set van personæ die gebruikt wordt om het weblandschap te ontwerpen en te testen.
@@ -886,13 +886,13 @@ label_copublication:
   he: שיתוף פרסום
 
 message_workflow_transition_publish:
-  nl: Als u verder gaat wordt dit document gepubliceerd. 
-  en: If you proceed, this document will be published. 
-  fr: Si vous continuez, ce document sera publié. 
-  de: Wenn Sie fortfahren, wird dieses Dokument veröffentlicht. 
+  nl: Als u verder gaat wordt dit document gepubliceerd.
+  en: If you proceed, this document will be published.
+  fr: Si vous continuez, ce document sera publié.
+  de: Wenn Sie fortfahren, wird dieses Dokument veröffentlicht.
 
 message_workflow_transition_publish_batch:
-  nl: Als u verder gaat worden geselecteerde documenten die in concept zijn gepubliceerd. 
+  nl: Als u verder gaat worden geselecteerde documenten die in concept zijn gepubliceerd.
   en: If you proceed then selected documents that are in draft will be published.
 
 message_workflow_transition_publish_previous_version:
@@ -906,7 +906,7 @@ message_tag_batch:
   en: Create or select tags. The tags will be applied to selected documents. Any existing tags on documents are retained.
 
 message_copublication:
-  nl: Het is mogelijk dit item op meerdere producten te publiceren door gebruik te maken van co-publicatie. 
+  nl: Het is mogelijk dit item op meerdere producten te publiceren door gebruik te maken van co-publicatie.
   en: It is possible to publish this item across multiple products by using co-publication.
   fr: Il est possible de publier cet article sur plusieurs produits en utilisant la co-publication.
   de: Es ist möglich, diesen Artikel mit Co-Publikation auf mehreren Produkten zu veröffentlichen.
@@ -994,10 +994,10 @@ label_delete_draft_imp:
 label_retract_imp:
   nl: Trek terug
   en: Retract
-message_help_patient_volume_additional_comments:  
-  nl: Deze inschatting van het patiëntvolume betreft niet het maximale risico en doet dus geen uitspraak over de aantallen die worden meegenomen in een eventuele sluisanalyse 
+message_help_patient_volume_additional_comments:
+  nl: Deze inschatting van het patiëntvolume betreft niet het maximale risico en doet dus geen uitspraak over de aantallen die worden meegenomen in een eventuele sluisanalyse
   en: The estimate of the patient volume does not concern the maximum risk and therefore does not make any statement about the numbers that will be included in a possible lock analysis.
-message_help_comments:  
+message_help_comments:
   nl: Reacties zijn alleen zichtbaar voor redacteuren en worden niet gepubliceerd.
   en: Comments are only visible to editors and won't be published.
 label_show_overview_imp:
@@ -1075,7 +1075,7 @@ label_new_persona:
 label_new_measuring_instrument:
   en: New measuring instrument
   nl: Nieuw meetinstrument
-message_quality_instrument_in_development: 
+message_quality_instrument_in_development:
   nl: Dit kwaliteitsproduct is in (door-)ontwikkeling.
   en: This quality product is in development.
 message_no_content_for_tag:
@@ -1095,7 +1095,7 @@ label_registrered:
   en: Registered
 message_help_registered:
   nl: De datum waarop het bestuur bekrachtigd heeft dat deze standaard in het Register (deze website) opgenomen zal worden.
-  en: The date on which the board has confirmed that this standard will be included in the register (this website). 
+  en: The date on which the board has confirmed that this standard will be included in the register (this website).
 message_help_register:
   nl: Het Register is een digitaal overzicht van kwaliteitsstandaarden en meetinstrumenten dat voor iedereen toegankelijk en kosteloos te gebruiken is. Met het Register zorgt het Zorginstituut ervoor dat iedereen in Nederland kan zien wat wordt verstaan onder goede zorg en hoe je goede zorg meet. Zo helpen we mee om de zorg in Nederland steeds verder te verbeteren.
   en: The Register is a digital overview of quality standards and measuring instruments that is accessible to everyone and can be used free of charge. With the Register, the Zorginstituut ensures that everyone in the Netherlands can see what is meant by good care and how to measure good care. In this way we help to continue to improve healthcare in the Netherlands.
@@ -1116,8 +1116,8 @@ message_help_show_summaries:
   en: When this option is enabled, a summary will be shown above the content where available. This option only affects Medicine pages, Medicine group pages and Indication pages.
 label_show_summaries:
   nl: Toon samenvattingen
-  en: Show summaries  
-label_search_globally: 
+  en: Show summaries
+label_search_globally:
   nl: Doorzoek de hele site
   en: Search globally
 message_x_found_on_page:
@@ -1128,7 +1128,7 @@ label_all_bookmarks:
   en: All bookmarks
   de: Alle Lesezeichen
   fr: Tous les signets
-  
+
 label_to_bookmark:
   nl: Bladwijzer toevoegen
   en: Bookmark
@@ -1151,7 +1151,7 @@ message_nothing_for_this_workflow_state:
 
 message_document_x_not_accessible:
   nl: Het bestand ‘{0}’ voldoet niet aan de voorwaarden om toegankelijk te zijn. Publication is alleen mogelijk na het oplossen van dit probleem.
-  en: The file ‘{0}’ does not meet the accessibility guidelines. Publication is only possible after solving this issue. 
+  en: The file ‘{0}’ does not meet the accessibility guidelines. Publication is only possible after solving this issue.
 
 message_nothing_for_sluice:
   en: There are currently no documents undergoing processing that meet the sluice criteria.
@@ -1165,7 +1165,7 @@ label_any_workflow_state:
   nl: Iedere werkstroomstaat
   en: Any workflow state
 
-label_editor: 
+label_editor:
   nl: Redacteur
   en: Editor
 
@@ -1216,7 +1216,7 @@ label_steal_lock_imp:
   nl: Neem bewerken over
   en: Steal lock
 message_steal_lock:
-  nl: Als u verder gaat, neemt u het bewerken van dit document over van {0}. Eventuele wijzigingen die {0} aangebracht, maar niet opgeslagen heeft, zullen verloren gaan. 
+  nl: Als u verder gaat, neemt u het bewerken van dit document over van {0}. Eventuele wijzigingen die {0} aangebracht, maar niet opgeslagen heeft, zullen verloren gaan.
   en: If you continue, you will take over the editing of this document from {0}. Any changes that {0} has made but not saved will be lost.
 message_publish:
   nl: Als u verder gaat, wordt dit document gepubliceerd. De vorige versie blijft voor u toegankelijk, maar zal voor het publiek niet meer zichtbaar zijn.
@@ -1381,10 +1381,10 @@ label_arrange_sections:
   nl: Secties ordenen
   en: Arrange sections
 message_help_hero_image:
-  nl: Zorg dat het hoofdbeeld voldoende groot is, liefst minimaal zo'n 1500 pixels breed. Een goed hoofdbeeld is puur fotografisch, niet samen gesteld uit meerdere beelden en heeft geen grafische elementen in zich zoals tekst. Zorg dat belangrijke onderdelen van het beeld, zoals gezichten, zich in het midden van het beeld bevinden. Dat voorkomt problemen bij automatische uitsnedes. 
+  nl: Zorg dat het hoofdbeeld voldoende groot is, liefst minimaal zo'n 1500 pixels breed. Een goed hoofdbeeld is puur fotografisch, niet samen gesteld uit meerdere beelden en heeft geen grafische elementen in zich zoals tekst. Zorg dat belangrijke onderdelen van het beeld, zoals gezichten, zich in het midden van het beeld bevinden. Dat voorkomt problemen bij automatische uitsnedes.
   en: Make sure the main image is large enough. Preferably at least about 1500 pixels wide. A good main image is purely photographic, not composed of multiple images and has no graphic elements such as text. Make sure that important parts of the image, such as faces, are in the center of the frame. This prevents problems with automatic cropping.
 message_help_administrator:
-  nl: Beheerders hebben meer rechten dan gewone leden. Zo kunnen beheerders onder andere extra leden aan de organisatie toevoegen. 
+  nl: Beheerders hebben meer rechten dan gewone leden. Zo kunnen beheerders onder andere extra leden aan de organisatie toevoegen.
   en: Administrators have more rights than regular members. For example, administrators can add additional members to the organisation.
 message_help_logo_upload:
   nl: Zorg ervoor dat het logo in SVG of PNG formaat is. In het geval van SVG, mag de SVG uitsluitend vectorinformatie bevatten. In het geval van PNG dient de minimale hoogte 150 pixels. De achtergrond moet transparent zijn.
@@ -1453,9 +1453,9 @@ label_mailing_lists:
   nl: Verzendlijsten
   en: Mailing lists
 message_write_pate_video_transcript:
- nl: Schrijf of plak hier de uitgeschreven tekst van de video.
- en: Write or paste the transcript of this video here.
-label_submit_for_review_imp: 
+  nl: Schrijf of plak hier de uitgeschreven tekst van de video.
+  en: Write or paste the transcript of this video here.
+label_submit_for_review_imp:
   nl: Dien in ter beoordeling
   en: Submit for review
 message_nothing_for_review:
@@ -1470,7 +1470,7 @@ message_nothing_for_revision:
   it: Non c'è nulla da rivedere in questo momento.
 message_all_is_in_review_or_published:
   en: Everything has been published, or is still under review.
-  nl: Alles is gepubliceerd, of nog in beoordeling.    
+  nl: Alles is gepubliceerd, of nog in beoordeling.
 label_add_link_imp:
   en: Add link
   nl: Voeg koppeling toe
@@ -1515,7 +1515,7 @@ label_pinning:
 label_pinning_imp:
   nl: Zet vast
   en: Pin
-label_dashboard: 
+label_dashboard:
   nl: Dashboard
   en: Dashboard
 
@@ -1632,7 +1632,7 @@ label_insert_imp:
   nl: Voeg in
   en: Insert
 message_warning_delete_image:
-  nl: U staat op het punt de afbeelding ‘André van Gameren’ te verwijderen. Bestaande kopieën van de afbeelding die reeds gebruikt zijn in nieuwsberichten of anderszins, zullen blijven bestaan. Na verwijderen kan de afbeelding niet meer gebruikt worden in nieuwe contentobjecten. 
+  nl: U staat op het punt de afbeelding ‘André van Gameren’ te verwijderen. Bestaande kopieën van de afbeelding die reeds gebruikt zijn in nieuwsberichten of anderszins, zullen blijven bestaan. Na verwijderen kan de afbeelding niet meer gebruikt worden in nieuwe contentobjecten.
   en: You are about to delete the image 'André van Gameren'. Existing copies of the image that have already been used in news reports or otherwise will continue to exist. Once deleted, the image can no longer be used in new content objects.
 label_last_revision:
   en: Last revision
@@ -1777,7 +1777,7 @@ label_error:
 label_something_went_wrong:
   nl: Er ging iets mis…
   en: Something went wrong…
-label_guide: 
+label_guide:
   nl: Gids
   en: Guide
 label_all_news_for_this_sector:
@@ -1821,215 +1821,215 @@ message_justification_price_90_days:
 
 # Start aflevervorm
 
-label_ampoule:                              
-  en: Ampoule                               
+label_ampoule:
+  en: Ampoule
   nl: Ampul
-label_ampoules:                             
-  en: Ampoules                              
+label_ampoules:
+  en: Ampoules
   nl: Ampullen
-label_ampoule_set:                          
-  en: Ampoule set                           
+label_ampoule_set:
+  en: Ampoule set
   nl: Ampul-set
-label_ampoule_sets:                         
-  en: Ampoule sets                          
+label_ampoule_sets:
+  en: Ampoule sets
   nl: Ampul-sets
-label_applicator:                           
-  en: Applicator                            
+label_applicator:
+  en: Applicator
   nl: Applicator
-label_applicators:                          
-  en: Applicators                           
+label_applicators:
+  en: Applicators
   nl: Applicators
-label_capsules:                             
-  en: Capsules                              
+label_capsules:
+  en: Capsules
   nl: Capsules
-label_capsule_vaginal:                      
-  en: Capsule vaginal                       
+label_capsule_vaginal:
+  en: Capsule vaginal
   nl: Capsule vaginaal
-label_capsules_vaginal:                     
-  en: Capsules vaginal                      
+label_capsules_vaginal:
+  en: Capsules vaginal
   nl: Capsules vaginaal
-label_combination_packaging:                
-  en: Combination packaging                 
+label_combination_packaging:
+  en: Combination packaging
   nl: Combinatieverpakkingen
-label_cup:                                  
-  en: Cup                                   
+label_cup:
+  en: Cup
   nl: Cupje
-label_cups:                                 
-  en: Cups                                  
+label_cups:
+  en: Cups
   nl: Cupjes
-label_diskus:                               
-  en: Diskus                                
+label_diskus:
+  en: Diskus
   nl: Diskus
-label_discus:                               
-  en: Discus                                
+label_discus:
+  en: Discus
   nl: Diskussen
-label_dosing_pressure_packaging:            
-  en: Dosing pressure packaging             
+label_dosing_pressure_packaging:
+  en: Dosing pressure packaging
   nl: Doseerdrukverpakkingen
-label_dragees:                              
-  en: Dragees                               
+label_dragees:
+  en: Dragees
   nl: Dragees
-label_pressure_packaging:                   
-  en: Pressure packaging                    
+label_pressure_packaging:
+  en: Pressure packaging
   nl: Drukverpakkingen
-label_drop_packaging:                       
-  en: Drop packaging                        
+label_drop_packaging:
+  en: Drop packaging
   nl: Druppelverpakking
-label_drip_packs:                           
-  en: Drip packs                            
+label_drip_packs:
+  en: Drip packs
   nl: Druppelverpakkingen
-label_flacon:                               
-  en: Flacon                                
+label_flacon:
+  en: Flacon
   nl: Flacon
-label_bottle:                               
-  en: Bottle                                
+label_bottle:
+  en: Bottle
   nl: Fles
-label_bottles:                              
-  en: Bottles                               
+label_bottles:
+  en: Bottles
   nl: Flessen
-label_gram:                                 
-  en: Gram                                  
+label_gram:
+  en: Gram
   nl: Gram
-label_grams:                                
-  en: Grams                                 
+label_grams:
+  en: Grams
   nl: Grammen
-label_implant:                              
-  en: Implant                               
+label_implant:
+  en: Implant
   nl: Implantaat
-label_implants:                             
-  en: Implants                              
+label_implants:
+  en: Implants
   nl: Implantaten
-label_infusion_set:                         
-  en: Infusion set                          
+label_infusion_set:
+  en: Infusion set
   nl: Infusie-set
-label_infusion_sets:                        
-  en: Infusion sets                         
+label_infusion_sets:
+  en: Infusion sets
   nl: Infusie-sets
-label_infusion_vials:                       
-  en: Infusion vials                        
+label_infusion_vials:
+  en: Infusion vials
   nl: Infusieflacons
-label_infusion_bottle:                      
-  en: Infusion bottle                       
+label_infusion_bottle:
+  en: Infusion bottle
   nl: Infusiefles
-label_infusion_bottles:                     
-  en: Infusion bottles                      
+label_infusion_bottles:
+  en: Infusion bottles
   nl: Infusieflessen
-label_infusion_bag:                         
-  en: Infusion bag                          
+label_infusion_bag:
+  en: Infusion bag
   nl: Infusiezak
-label_infusion_bags:                        
-  en: Infusion bags                         
+label_infusion_bags:
+  en: Infusion bags
   nl: Infusiezakken
-label_infusion_bag_plus_1p:                      
-  en: Infusion bag+1p                       
+label_infusion_bag_plus_1p:
+  en: Infusion bag+1p
   nl: Infusiezak+1p
-label_infusion_bags_plus_1p:                     
-  en: Infusion bags+1p                      
+label_infusion_bags_plus_1p:
+  en: Infusion bags+1p
   nl: Infusiezakken+1p
-label_infusion_bag_plus_2p:                      
-  en: Infusion bag+2p                       
+label_infusion_bag_plus_2p:
+  en: Infusion bag+2p
   nl: Infusiezak+2p
-label_infusion_bags_plus_2p:                     
-  en: Infusion bags+2p                      
+label_infusion_bags_plus_2p:
+  en: Infusion bags+2p
   nl: Infusiezakken+2p
-label_vial:                                 
-  en: Vial                                  
+label_vial:
+  en: Vial
   nl: Injectieflacon
-label_vials:                                
-  en: Vials                                 
+label_vials:
+  en: Vials
   nl: Injectieflacons
-label_chewing-gum:                          
-  en: Chewing gum                           
+label_chewing-gum:
+  en: Chewing gum
   nl: Kauwgom
-label_enema:                                
-  en: Enema                                 
+label_enema:
+  en: Enema
   nl: Klysmas
-label_enema-bottle:                         
-  en: Enema bottle                          
+label_enema-bottle:
+  en: Enema bottle
   nl: Klysmaflacon
-label_enema-vials:                          
-  en: Enema vials                           
+label_enema-vials:
+  en: Enema vials
   nl: Klysmaflacons
-label_lyophilisate:                         
-  en: Lyophilisate                          
+label_lyophilisate:
+  en: Lyophilisate
   nl: Lyophilisaat
-label_lyophilisates:                        
-  en: Lyophilisates                         
+label_lyophilisates:
+  en: Lyophilisates
   nl: Lyophilisaten
-label_milliliter:                          
-  en: Milliliter                           
+label_milliliter:
+  en: Milliliter
   nl: Milliliter
-label_milliliters:                          
-  en: Milliliters                           
+label_milliliters:
+  en: Milliliters
   nl: Milliliters
-label_minimums:                             
-  en: Minimums                              
+label_minimums:
+  en: Minimums
   nl: Minims
-label_eye_insert:                           
-  en: Eye insert                            
+label_eye_insert:
+  en: Eye insert
   nl: Ooginsert
-label_eye_inserts:                          
-  en: Eye inserts                           
+label_eye_inserts:
+  en: Eye inserts
   nl: Ooginserts
-label_ovules:                               
-  en: Ovules                                
+label_ovules:
+  en: Ovules
   nl: Ovules
-label_pastilles:                            
-  en: Pastilles                             
+label_pastilles:
+  en: Pastilles
   nl: Pastilles
-label_pattern:                              
-  en: Pattern                               
+label_pattern:
+  en: Pattern
   nl: Patroon
-label_patterns:                             
-  en: Patterns                              
+label_patterns:
+  en: Patterns
   nl: Patronen
-label_plaster:                              
-  en: Plaster                               
+label_plaster:
+  en: Plaster
   nl: Pleister
-label_plasters:                             
-  en: Plasters                              
+label_plasters:
+  en: Plasters
   nl: Pleisters
-label_pot:                                  
-  en: Pot                                   
+label_pot:
+  en: Pot
   nl: Pot
-label_pots:                                 
-  en: Pots                                  
+label_pots:
+  en: Pots
   nl: Potten
-label_ring:                                 
-  en: Ring                                  
+label_ring:
+  en: Ring
   nl: Ring
-label_rings:                                
-  en: Rings                                 
+label_rings:
+  en: Rings
   nl: Ringen
-label_iud:                                  
-  en: IUD                                   
+label_iud:
+  en: IUD
   nl: Spiraaltje
-label_iuds:                                 
-  en: IUDs                                  
+label_iuds:
+  en: IUDs
   nl: Spiraaltjes
-label_stick:                                
-  en: Stick                                 
+label_stick:
+  en: Stick
   nl: Stick
-label_sticks:                               
-  en: Sticks                                
+label_sticks:
+  en: Sticks
   nl: Sticks
-label_marker:                               
-  en: Marker                                
+label_marker:
+  en: Marker
   nl: Stift
-label_markers:                              
-  en: Markers                               
+label_markers:
+  en: Markers
   nl: Stiften
-label_comic_book:                           
-  en: Comic book                            
+label_comic_book:
+  en: Comic book
   nl: Strip
-label_comics:                               
-  en: Comics                                
+label_comics:
+  en: Comics
   nl: Strips
-label_piece:                                
-  en: Piece                                 
+label_piece:
+  en: Piece
   nl: Stuk
-label_pieces:                               
-  en: Pieces                                
+label_pieces:
+  en: Pieces
   nl: Stuks
 label_table:
   en: Table
@@ -2037,57 +2037,57 @@ label_table:
 label_tables:
   en: Tables
   nl: Tabellen
-label_tablets:                              
-  en: Tablets                               
+label_tablets:
+  en: Tablets
   nl: Tabletten
-label_tablet_vaginal:                       
-  en: Tablet vaginal                        
+label_tablet_vaginal:
+  en: Tablet vaginal
   nl: Tablet vaginaal
-label_tablets_vaginal:                      
-  en: Tablets vaginal                       
+label_tablets_vaginal:
+  en: Tablets vaginal
   nl: Tabletten vaginaal
-label_tube:                                 
-  en: Tube                                  
+label_tube:
+  en: Tube
   nl: Tube
-label_tubes:                                
-  en: Tubes                                 
+label_tubes:
+  en: Tubes
   nl: Tubes
-label_vaginal_system:                       
-  en: Vaginal system                        
+label_vaginal_system:
+  en: Vaginal system
   nl: Vaginaalsysteem
-label_vaginal_systems:                      
-  en: Vaginal systems                       
+label_vaginal_systems:
+  en: Vaginal systems
   nl: Vaginaalsystemen
-label_packaging:                            
-  en: Packaging                             
+label_packaging:
+  en: Packaging
   nl: Verpakkingen
-label_atomizer:                             
-  en: Atomizer                              
+label_atomizer:
+  en: Atomizer
   nl: Verstuiver
-label_atomizers:                            
-  en: Atomizers                             
+label_atomizers:
+  en: Atomizers
   nl: Verstuivers
-label_disposable_syringe:                   
-  en: Disposable syringe                    
+label_disposable_syringe:
+  en: Disposable syringe
   nl: Wegwerpspuit
-label_disposable_syringes:                  
-  en: Disposable syringes                   
+label_disposable_syringes:
+  en: Disposable syringes
   nl: Wegwerpspuiten
-label_zak:                                  
-  en: Zak                                   
+label_zak:
+  en: Zak
   nl: Zak
-label_bag:                                  
-  en: Bag                                   
+label_bag:
+  en: Bag
   nl: Zakje
-label_bags:                                 
-  en: Bags                                  
+label_bags:
+  en: Bags
   nl: Zakjes
-label_suppository:                          
-  en: Suppository                         
+label_suppository:
+  en: Suppository
   nl: Zetpil
-label_suppositories:                   
-  en: Suppositoriesen                   
-  nl: Zetpillen                      
+label_suppositories:
+  en: Suppositoriesen
+  nl: Zetpillen
 
 # End verpakkingsvorm
 
@@ -2247,7 +2247,7 @@ label_outcome:
 label_healthcare_institutions:
   nl: Zorginstellingen
   en: Healthcare institutions
-label_member: 
+label_member:
   nl: Lid
   en: Member
 label_regular_user:
@@ -2329,17 +2329,17 @@ label_reactivate_imp:
 label_reactivate:
   nl: Heractiveren
   en: Reactivate
-label_new_user: 
+label_new_user:
   nl: Nieuwe gebruiker
   en: New user
 label_delete_organisation:
   nl: Verwijder organisatie
   en: Delete organisation
-label_new_organisation: 
+label_new_organisation:
   nl: Nieuwe organisatie
   en: New organisation
-label_view_on_transparency_calendar: 
-  nl: Tonen op transparantiekalender  
+label_view_on_transparency_calendar:
+  nl: Tonen op transparantiekalender
   en: View on transparency calendar
 label_transparency_calendar:
   nl: Transparantiekalender
@@ -2348,7 +2348,7 @@ label_transparency_calendar_sector:
   nl: Transparantiekalender {0}
   en: Transparency Calendar {0}
 label_reference_indicator_id:
-  nl: Referentie indicator-ID 
+  nl: Referentie indicator-ID
   en: Reference indicator ID
 label_client_information:
   nl: Cliëntinformatie
@@ -2375,10 +2375,10 @@ label_reporting_level:
   nl: Rapportageniveau
   en: Reporting level
 label_valid_from:
-  nl: Geldig van  
+  nl: Geldig van
   en: Valid from
 label_valid_until:
-  nl: Geldig tot en met  
+  nl: Geldig tot en met
   en: Valid until
 label_measure_period_start_date:
   nl: Meetperiodebegindatum
@@ -2431,10 +2431,10 @@ label_order:
 label_project_page:
   nl: Projectpagina
   en: Project page
-label_add_indicator_set: 
+label_add_indicator_set:
   nl: Voeg indicatorset toe
   en: Add indicator set
-label_add_indicator: 
+label_add_indicator:
   nl: Voeg indicator toe
   en: Add indicator
 label_public_data:
@@ -2449,7 +2449,7 @@ label_year_published:
 label_status:
   nl: Status
   en: State
-label_item_filter: 
+label_item_filter:
   nl: Item-filter
   en: Item filter
 message_help_item_filter:
@@ -2640,7 +2640,7 @@ label_presentation:
 label_information_model:
   nl: Informatiemodel
   en: Information model
-message_information_model: 
+message_information_model:
   nl: In het Informatiemodel iStandaarden liggen de specificaties voor alle iStandaarden vast. Het model biedt een totaaloverzicht van lopende releases van iWlz, iWmo, iJw, iEb en iPgb. Ook ziet u welke releases in ontwikkeling zijn, wat vorige releases waren en er is een archief.
   en: The iStandaarden Information Model contains the specifications for all iStandards. The model provides a total overview of current releases of iWlz, iWmo, iJw, iEb and iPgb. You can also see which releases are in development, what previous releases were and there is an archive.
 label_information:
@@ -2658,34 +2658,34 @@ label_organisation_type:
 label_january:
   nl: Januari
   en: January
-  de: Januar  
+  de: Januar
 label_february:
   nl: Februari
-  en: February  
+  en: February
   de: Februar
 label_march:
   nl: Maart
-  en: March  
+  en: March
   de: März
 label_april:
   nl: April
   en: April
-  de: April  
+  de: April
 label_may:
   nl: Mei
   en: May
-  de: Mai  
+  de: Mai
 label_june:
   nl: Juni
-  en: June  
+  en: June
   de: Juni
 label_july:
   nl: Juli
-  en: July  
+  en: July
   de: Juli
 label_august:
   nl: Augustus
-  en: August  
+  en: August
   de: August
 label_september:
   nl: September
@@ -2693,16 +2693,16 @@ label_september:
   de: Septembers
 label_october:
   nl: Oktober
-  en: October  
+  en: October
   de: Oktober
 label_november:
   nl: November
-  en: November  
+  en: November
   de: November
 label_december:
   nl: December
   en: December
-  de: Dezember 
+  de: Dezember
 label_first_name:
   nl: Voornaam
   en: First name
@@ -2726,13 +2726,13 @@ label_show_more:
   en: Show more
 label_statement_of_approval:
   nl: Akkoordverklaring
-  en: Statement of approval 
+  en: Statement of approval
 label_permission_user_survey:
   nl: Ik geef Zorginstituut Nederland toestemming om mijn contactgegevens te gebruiken voor een tevredenheidsonderzoek.
-  en: I give the National Health Care Institute permission to use my contact details for a satisfaction survey. 
+  en: I give the National Health Care Institute permission to use my contact details for a satisfaction survey.
 label_agree_with_privacy_statement:
   nl: Ik heb gelezen en begrepen <a href="{0}" target="new">wat er met mijn persoonsgegevens wordt gedaan</a>.
-  en: I have read and understood <a href="{0}" target="new">how my personal data will be processed</a>. 
+  en: I have read and understood <a href="{0}" target="new">how my personal data will be processed</a>.
 label_search:
   nl: Zoeken
   en: Search
@@ -2742,8 +2742,8 @@ label_search_imp:
   en: Search
 
 label_global_nav_search:
-  nl: Zoek 
-  en: Search  
+  nl: Zoek
+  en: Search
 label_use_fuzzy_search:
   nl: Gebruik fuzzy zoeken
   en: Use fuzzy search
@@ -2763,7 +2763,7 @@ message_help_landing_layout:
   nl: Selecteer een lay-out voor de landingspagina. De lay-out is zichtbaar op de publieke kant van de website. Gebruik de voorbeeldknop op de werkbalk om het resultaat van uw keuze te bekijken.
   en: Select a layout for the landing page. The layout is visible on the public side of the website. Use the preview button on the toolbar to see the result of your selection.
 message_help_folder_summary:
-  nl: De samenvatting van de map wordt getoond bovenaan landingspagina's, in zoekresultaten op deze site en wordt gebruikt voor indexering door zoekmachines. 
+  nl: De samenvatting van de map wordt getoond bovenaan landingspagina's, in zoekresultaten op deze site en wordt gebruikt voor indexering door zoekmachines.
   en: The folder summary is displayed at the top of landing pages, in search results on this site, and is used by search engine for indexing.
 label_language:
   nl: Taal
@@ -2784,7 +2784,7 @@ label_default_language:
   fr: Langue par défaut
   da: Standard sprog
   he: שפת ברירת מחדל
-  
+
 label_english_native:
   nl: English
   en: English
@@ -2824,7 +2824,7 @@ label_user:
 label_faq:
   nl: Veelgestelde vragen
   en: FAQ
-label_favourites: 
+label_favourites:
   nl: Favorieten
   en: Favourites
 label_understand_hide_message:
@@ -2922,13 +2922,13 @@ label_show_orphans_only:
 label_atmp:
   nl: ATMP
   en: ATMP
-label_higher_than: 
+label_higher_than:
   nl: Hoger dan
   en: Higher than
-label_less_than: 
+label_less_than:
   nl: Minder dan
   en: Less than
-label_save_message: 
+label_save_message:
   nl: Bewaarbericht
   en: Save message
 label_compare:
@@ -2940,13 +2940,13 @@ label_compare_versions:
 label_compare_versions_imp:
   nl: Vergelijk versies
   en: Compare historic versions
-label_relevance: 
+label_relevance:
   nl: Relevantie
   en: Relevance
 label_scores:
   nl: Scores
   en: Ratings
-label_sort_by_colon: 
+label_sort_by_colon:
   nl: "Sorteren op:"
   en: "Sort by:"
 label_contact_administrator:
@@ -3010,7 +3010,7 @@ label_change_deadline:
   en: Change deadline for submission
   nl: Wijzig uiterste inleverdatum
 label_deadline_for_submission_is_set_to:
-  en: The deadline for submission is set to {0}. 
+  en: The deadline for submission is set to {0}.
   nl: De uiterste inleverdatum staat ingesteld op {0}.
 label_change_expected_publication_month:
   en: Change the expected publication month
@@ -3135,7 +3135,7 @@ label_select_all:
   en: Select all
 label_deselect_all:
   nl: Deselecteer alles
-  en: Deselect all   
+  en: Deselect all
 label_read_more:
   nl: Lees meer…
   en: Read more…
@@ -3190,10 +3190,10 @@ label_inid:
 label_role_scanner:
   nl: Scanner
   en: Scanner
-label_working_group: 
+label_working_group:
   nl: Werkgroep
   en: Working group
-label_working_groups: 
+label_working_groups:
   nl: Werkgroepen
   en: Working groups
 label_role_werkgroeplid:
@@ -3417,7 +3417,7 @@ label_stollingsfactor:
   en: Coagulant
 label_tnf-alfa-remmer:
   nl: TNF-alfa-remmer
-  en: TNF-alpha inhibitor 
+  en: TNF-alpha inhibitor
 label_trombineremmer:
   nl: Trombineremmer
   en: Thrombin inhibitor
@@ -3449,7 +3449,7 @@ label_negatieve_chmp-opinie:
 label_registratieaanvraag_in_behandeling:
   en: Registration application pending
   nl: Registratieaanvraag in behandeling
-label_advice_healthcare_institute: 
+label_advice_healthcare_institute:
   nl: Advies Zorginstituut
   en: Advice Healthcare Institute
 label_reimbursed_from_basic_package:
@@ -3981,11 +3981,11 @@ label_zetpil:
   nl: Zetpil
   en: Suppository
 label_zuigtablet:
-  nl: Zuigtablet  
+  nl: Zuigtablet
   en: Lozenge
 label_pessarium:
   nl: Pessarium
-  en: Pessary  
+  en: Pessary
 
 label_auriculair:
   nl: Auriculair
@@ -4040,7 +4040,7 @@ label_intracaverneus:
   en: Intracavernous
 label_intracerebraal:
   nl: Intracerebraal
-  en: Intracerebral  
+  en: Intracerebral
 label_intracoronair:
   nl: Intracoronair
   en: Intracoronary
@@ -4096,7 +4096,7 @@ label_nasaal:
   nl: Nasaal
   en: Nasal
 label_unspecified:
-  nl: Niet gespecificeerd 
+  nl: Niet gespecificeerd
   en: Unspecified
 label_niet_gespecificeerd_of_meervoudig:
   nl: Niet gespecificeerd of meervoudig
@@ -4151,7 +4151,7 @@ label_submucosaal:
   en: Submucosal
 label_subretinaal:
   nl: Subretinaal
-  en: Subretinal  
+  en: Subretinal
 label_transdermaal:
   nl: Transdermaal
   en: Transdermal
@@ -4166,7 +4166,7 @@ label_voor_implantatie:
   en: For implantation
 label_intratympaan:
   nl: Intratympaan
-  en: Intratympanic  
+  en: Intratympanic
 
 label_darmziekten:
   nl: Darmziekten
@@ -4195,7 +4195,7 @@ label_stofwisseling_en_endocrinologie_overig:
 
 label_antitrombotische_medicatie:
   nl: Antitrombotische medicatie
-  en: Antithrombotic medications 
+  en: Antithrombotic medications
 label_bloedstolling:
   en: Blood clotting
   nl: Bloedstolling
@@ -4210,13 +4210,13 @@ label_hemostase:
   nl: Hemostase
 label_hemostase_bevorderende_medicatie:
   nl: Hemostase bevorderende medicatie
-  en: Hemostasis promoting medication  
-label_lipidenverlagende_medicatie: 
+  en: Hemostasis promoting medication
+label_lipidenverlagende_medicatie:
   nl: Lipidenverlagende medicatie
-  en: Lipid-lowering medications 
+  en: Lipid-lowering medications
 label_overige_medicatie_hart-en_vaatziekten:
   nl: Overige medicatie hart-en vaatziekten
-  en: Other medication for cardiovascular diseases  
+  en: Other medication for cardiovascular diseases
 label_overige_niet-oncologische_hematologische_medicatie:
   nl: Overige niet-oncologische hematologische medicatie
   en: Other non-oncological hematological medications
@@ -4240,7 +4240,7 @@ label_aml_mds:
   en: AML / MDS
 label_baarmoederhalskanker:
   nl: Baarmoederhalskanker
-  en: Cervical cancer  
+  en: Cervical cancer
 label_blaaskanker:
   nl: Blaaskanker
   en: Bladder cancer
@@ -4252,10 +4252,10 @@ label_borstvlieskanker:
   en: Mesothelioma
 label_cll:
   nl: CLL
-  en: CLL  
+  en: CLL
 label_cml:
   nl: CML
-  en: CML  
+  en: CML
 label_darmkanker:
   nl: Darmkanker
   en: Colon cancer
@@ -4267,13 +4267,13 @@ label_graft_versus_host:
   en: Graft versus Host
 label_hematologie_overig:
   nl: Hematologie, overig
-  en: Other hematology    
+  en: Other hematology
 label_hersenkanker:
   nl: Hersenkanker
   en: Brain cancer
 label_hodgkin_lymfoom:
   nl: Hodgkin lymfoom
-  en: Hodgkin's lymphoma  
+  en: Hodgkin's lymphoma
 label_hoofd-_en_halskanker:
   nl: Hoofd- en halskanker
   en: Head and neck cancer
@@ -4297,7 +4297,7 @@ label_maagkanker:
   en: Stomach cancer
 label_myeloproliferatieve_aandoeningen:
   nl: Myeloproliferatieve aandoeningen
-  en: Myeloproliferative disorders  
+  en: Myeloproliferative disorders
 label_multipel_myeloom:
   nl: Multipel Myeloom
   en: Multiple Myeloma
@@ -4309,7 +4309,7 @@ label_non-hodgkin_lymfoom_agressief:
   en: Aggressive non-Hodgkin’s lymphoma
 label_non-hodgkin_lymfoom_indolent:
   nl: Non-hodgkin lymfoom indolent
-  en: Indolent non-Hodgkin’s lymphoma  
+  en: Indolent non-Hodgkin’s lymphoma
 label_nierkanker:
   nl: Nierkanker
   en: Kidney cancer
@@ -4336,11 +4336,11 @@ label_adhd:
   nl: ADHD
   en: ADHD
 label_als:
-  nl: ALS 
+  nl: ALS
   en: ALS
 label_bipolaire_stoornis:
   nl: Bipolaire stoornis
-  en: Bipolar disorder   
+  en: Bipolar disorder
 label_dementie:
   nl: Dementie
   en: Dementia
@@ -4355,13 +4355,13 @@ label_epilepsie:
   en: Epilepsy
 label_gehooraandoeningen:
   nl: Gehooraandoeningen
-  en: Hearing disorders  
+  en: Hearing disorders
 label_hoofdpijn:
   nl: Hoofdpijn
   en: Headache
 label_multiple_sclerose:
   nl: Multiple sclerose
-  en: Multiple sclerosis  
+  en: Multiple sclerosis
 label_neurologie_overig:
   nl: Neurologie, overig
   en: Neurological disorders other
@@ -4373,7 +4373,7 @@ label_parkinson:
   en: Parkinson's
 label_pijn:
   nl: Pijn
-  en: Pain 
+  en: Pain
 label_psychiatrie:
   nl: Psychiatrie
   en: Psychiatry
@@ -4385,19 +4385,19 @@ label_slaapstoornissen:
   en: Sleep disorders
 label_schizofrenie_psychose:
   nl: Schizofrenie, psychose
-  en: Schizophrenia, psychosis  
+  en: Schizophrenia, psychosis
 label_schizofrenie_psychose_bipolaire_stoornis:
   nl: Schizofrenie, psychose, bipolaire stoornis
-  en: Schizophrenia, psychosis, bipolar disorder 
+  en: Schizophrenia, psychosis, bipolar disorder
 label_sma:
   nl: SMA
-  en: SMA   
+  en: SMA
 label_spierziekten:
   nl: Spierziekten
   en: Muscular diseases
 label_spierziekten_overig:
   nl: Spierziekten, overig
-  en: Muscular diseases other  
+  en: Muscular diseases other
 
 label_copd:
   nl: COPD
@@ -4410,7 +4410,7 @@ label_astma:
   en: Asthma
 label_long_overig:
   nl: Long, overig
-  en: Lung other  
+  en: Lung other
 label_bacteriele_infecties:
   nl: Bacteriele infecties
   en: Bacterial infections
@@ -4486,7 +4486,7 @@ label_chronische_immuunziekten_overig:
   en: Other chronic immune diseases
 label_allergie:
   nl: Allergie
-  en: Allergy  
+  en: Allergy
 # Label should match the ldap workgroup  
 label_infectieziekten:
   nl: Infectieziekten
@@ -4504,7 +4504,7 @@ label_neurologische-aandoeningen:
   en: Neurological disorders
 # Label should match the ldap workgroup  
 label_cardiovasculaire-aandoeningen:
-  nl: Cardiovasculaire aandoeningen 
+  nl: Cardiovasculaire aandoeningen
   en: Cardiovascular diseases
 
 label_mogelijke_minderwaarde:
@@ -4587,7 +4587,7 @@ label_minimaal:
   en: Minimal
 label_maximaal:
   nl: Maximaal
-  en: Maximal 
+  en: Maximal
 label_brand_name:
   nl: Merknaam
   en: Proprietary name
@@ -4649,7 +4649,7 @@ label_eenmalig:
 label_doorlopend:
   nl: doorlopend
   en: continuous
-label_current: 
+label_current:
   nl: Lopend
   en: Current
 label_total_cost:
@@ -4709,7 +4709,7 @@ label_reason_of_inclusion:
 label_dagelijks:
   en: Daily
   nl: Dagelijks
-snippet_log_in_to: 
+snippet_log_in_to:
   nl: Inloggen op
   en: Log in to
 snippet_published_on:
@@ -4782,7 +4782,7 @@ label_therapeutical_value_and_treatment_scheme:
   nl: Therapeutische waarde en behandelschema
   en: Therapeutical value and treatment scheme
 # Label should match the ldap workgroup  
-label_niet-toegedeeld: 
+label_niet-toegedeeld:
   nl: Niet toebedeeld
   en: Unassigned
 label_new_by_manufacturers:
@@ -4793,13 +4793,13 @@ label_edit_imp:
   en: Edit
 label_all_latest_versions:
   nl: Alle laatste versies
-  en: All latest versions 
+  en: All latest versions
 label_created:
   nl: Aangemaakt
   en: Created
 label_drafts_only:
   nl: Alleen conceptversies
-  en: Drafts only  
+  en: Drafts only
 label_compact_view:
   nl: Compacte weergave
   en: Compact view
@@ -4839,9 +4839,9 @@ label_grouped_by_mechanism_of_action:
 label_grouped_by_particularity:
   nl: Ingedeeld op bijzonderheid
   en: Grouped by particularity
-label_grouped_by_registration_phase: 
+label_grouped_by_registration_phase:
   nl: Ingedeeld op registratiefase
-  en: Grouped by registration phase  
+  en: Grouped by registration phase
 label_group_by_medicine_group:
   nl: Ingedeeld op geneesmiddelgroep
   en: Group by medicine group
@@ -4878,13 +4878,13 @@ label_remove:
 label_delete:
   nl: Verwijderen
   en: Delete
-label_remove_imp: 
+label_remove_imp:
   nl: Verwijder
   en: Remove
-label_delete_imp: 
+label_delete_imp:
   nl: Verwijder
   en: Delete
-label_remove_user: 
+label_remove_user:
   nl: Verwijder gebruiker
   en: Remove user
 label_drafts:
@@ -4975,7 +4975,7 @@ label_nieuw_geneesmiddel:
   nl: Nieuw geneesmiddel
   en: New medicine
 label_nieuw_geneesmiddelen:
-  nl: "Nieuwe geneesmiddelen (specialité’s)" 
+  nl: "Nieuwe geneesmiddelen (specialité’s)"
   en: New medicines
 label_nieuw_geneesmiddel_met_priority_medicines_prime_:
   nl: Nieuw geneesmiddel met Priority Medicines (PRIME)
@@ -4983,7 +4983,7 @@ label_nieuw_geneesmiddel_met_priority_medicines_prime_:
 label_new_record:
   nl: Nieuw record
   en: New record
-label_unknown: 
+label_unknown:
   nl: Onbekend
   en: Unknown
 label_unassigned:
@@ -4991,9 +4991,9 @@ label_unassigned:
   en: Unassigned
 
 ## is nodig voor huidige content op horizonscan  
-label_onbekend: 
+label_onbekend:
   nl: Onbekend
-  en: Unknown  
+  en: Unknown
 label_role:
   nl: Rol
   en: Role
@@ -5058,7 +5058,7 @@ label_publish:
   nl: Publiceren
   en: Publish
 message_publish_all_indicator_sets:
-  nl: Publiceer alle ongepubliceerde indicatorsets voor geselecteerde sectoren. 
+  nl: Publiceer alle ongepubliceerde indicatorsets voor geselecteerde sectoren.
   en: Publish all unpublished indicator sets for selected sectors.
 label_select_a_date_and_time:
   nl: Selecteer een datum en tijd
@@ -5156,7 +5156,7 @@ label_email:
 label_subject:
   nl: Onderwerp
   en: Subject
-label_grouping: 
+label_grouping:
   nl: Gegroepeerd op
   en: Grouped by
 label_employee_position:
@@ -5266,13 +5266,13 @@ label_comments:
   en: Comments
 label_leave_a_comment:
   nl: Plaats je reactie
-  en: Leave a comment 
+  en: Leave a comment
 label_post:
   nl: Plaats
-  en: Post  
+  en: Post
 label_older_comments:
   nl: Toon eerdere reacties
-  en: Show older comments  
+  en: Show older comments
 label_remarks:
   nl: Opmerkingen
   en: Remarks
@@ -5336,42 +5336,42 @@ label_product_fk:
 label_product_zinl:
   nl: Zorginstituut nederland
   en: National Health Care Institute
-message_description_product_fk: 
+message_description_product_fk:
   nl: Het Farmacotherapeutisch Kompas (FK) is hét hulpmiddel voor artsen bij het voorschrijven van medicijnen aan patiënten. Het FK bevat deskundige, onafhankelijke en actuele informatie over alle medicijnen die in Nederland verkrijgbaar zijn. De website wordt vooral gebruikt door artsen, verpleegkundigen en apothekers, maar ook door patiënten die meer willen weten.
   en: Het Farmacotherapeutisch Kompas (FK) is hét hulpmiddel voor artsen bij het voorschrijven van medicijnen aan patiënten. Het FK bevat deskundige, onafhankelijke en actuele informatie over alle medicijnen die in Nederland verkrijgbaar zijn. De website wordt vooral gebruikt door artsen, verpleegkundigen en apothekers, maar ook door patiënten die meer willen weten.
 
 label_product_gip:
   nl: GIPdatabank.nl
   en: GIPdatabank.nl
-message_description_product_gip: 
+message_description_product_gip:
   nl: De GIPdatabank bevat informatie over het gebruik van geneesmiddelen en hulpmiddelen in Nederland over een periode van 5 jaar. De informatie op deze website is vooral relevant voor beleidsmakers, zorgverzekeraars en zorgprofessionals.
   en: De GIPdatabank bevat informatie over het gebruik van geneesmiddelen en hulpmiddelen in Nederland over een periode van 5 jaar. De informatie op deze website is vooral relevant voor beleidsmakers, zorgverzekeraars en zorgprofessionals.
 
 label_product_hor:
   nl: Horizonscan geneesmiddelen
   en: Horizonscan geneesmiddelen
-message_description_product_hor: 
+message_description_product_hor:
   nl: Horizonscan Geneesmiddelen biedt een volledig, openbaar en objectief overzicht van geneesmiddelen die op de markt verwacht worden. De website bevat informatie voor behandelaars, ziekenhuizen, zorgverzekeraars, overheidsorganen en patiënten.
   en: Horizonscan Geneesmiddelen biedt een volledig, openbaar en objectief overzicht van geneesmiddelen die op de markt verwacht worden. De website bevat informatie voor behandelaars, ziekenhuizen, zorgverzekeraars, overheidsorganen en patiënten.
 
 label_product_med:
   nl: Medicijnkosten.nl
   en: Medicijnkosten.nl
-message_description_product_med: 
+message_description_product_med:
   nl: Op deze website kunnen patiënten en zorgverleners informatie zoeken over de hoogte van de vergoeding en de vergoedingsstatus van geneesmiddelen in Nederland, op grond van de Zorgverzekeringswet (Zvw). De gegevens worden aan het begin van iedere maand geactualiseerd.
   en: Op deze website kunnen patiënten en zorgverleners informatie zoeken over de hoogte van de vergoeding en de vergoedingsstatus van geneesmiddelen in Nederland, op grond van de Zorgverzekeringswet (Zvw). De gegevens worden aan het begin van iedere maand geactualiseerd.
 
 label_product_pro:
   nl: ProZIN
   en: ProZIN
-message_description_product_pro: 
+message_description_product_pro:
   nl: Het platform bestaande uit een CMS en een verzameling unversele bouwstenen waar de meeste digitale ZIN-producten op draaien.
   en: The platform consisting of a CMS and a collection of universal building blocks on which most digital ZIN products run.
 
 label_product_ist:
   nl: iStandaarden
   en: iStandards
-message_description_product_ist: 
+message_description_product_ist:
   nl: "iStandaarden is het portaal voor 5 informatiestandaarden voor zorg en ondersteuning: iWlz, iWmo, iJw, iPgb en iEB. Elk van deze standaarden is een verzameling regels en afspraken die ervoor zorgen dat cliëntgegevens gestandaardiseerd, kwalitatief en veilig worden uitgewisseld. De informatie op deze website is belangrijk voor uitvoeringsorganisaties, zorgorganisaties, de Vereniging Nederlandse Gemeenten (VNG), Zorgverzekeraars Nederland (ZN) en de Nederlandse Zorgautoriteit (NZa)."
   en: "iStandaarden is het portaal voor 5 informatiestandaarden voor zorg en ondersteuning: iWlz, iWmo, iJw, iPgb en iEB. Elk van deze standaarden is een verzameling regels en afspraken die ervoor zorgen dat cliëntgegevens gestandaardiseerd, kwalitatief en veilig worden uitgewisseld. De informatie op deze website is belangrijk voor uitvoeringsorganisaties, zorgorganisaties, de Vereniging Nederlandse Gemeenten (VNG), Zorgverzekeraars Nederland (ZN) en de Nederlandse Zorgautoriteit (NZa)."
 
@@ -5396,38 +5396,38 @@ message_description_product_cor:
   nl: De corporate website van Zorginstituut Nederland.
   en: The corporate website of National Health Care Institute.
 
-label_composition: 
+label_composition:
   nl: Samenstelling
   en: Composition
-label_advice: 
+label_advice:
   nl: Advies
   en: Advice
-label_active_substance: 
+label_active_substance:
   nl: Werkzame stof
   en: Active substance
-label_main_indication: 
+label_main_indication:
   nl: Hoofdindicatie
   en: Main indication
-label_indication: 
+label_indication:
   nl: Indicatie
   en: Indication
-label_extended_indication: 
+label_extended_indication:
   nl: Uitgebreide indicatie
   en: Extended indication
-label_indicatieuitbreiding: 
+label_indicatieuitbreiding:
   nl: Indicatieuitbreiding
   en: Indication extension
 #Zowel label_indicatieuitbreiding als label_indicatie behouden omdat beide in gebruik zijn in hippo
 label_indicatie-uitbreiding:
   nl: Indicatieuitbreiding
   en: Indication extension
-label_indication_extensions: 
+label_indication_extensions:
   nl: Indicatieuitbreidingen
   en: Indication extensions
-label_indication_group: 
+label_indication_group:
   nl: Indicatiegroep
   en: Indication group
-label_indications: 
+label_indications:
   nl: Indicaties
   en: Indications
 label_mechanism_of_action:
@@ -5455,7 +5455,7 @@ message_medicine_reimbursed_under_conditions:
   nl: Dit middel wordt onder {0} vergoed door uw zorgverzekeraar.
   en: This medicine is reimbursed by your health insurer under certain {0}.
 
-label_side_effects: 
+label_side_effects:
   nl: Bijwerkingen
   en: Side effects
 label_described_frequency_unknown:
@@ -5504,10 +5504,10 @@ label_side_effects_frequency_5:
   nl: Zeer vaak
   en: Very often
 
-label_interactions: 
+label_interactions:
   nl: Interacties
   en: Interactions
-label_dosage: 
+label_dosage:
   nl: Dosering
   en: Dosage
 label_dosages:
@@ -5519,7 +5519,7 @@ label_registration:
 label_registration_route:
   nl: Registratieroute
   en: Registration route
-label_registration_phase: 
+label_registration_phase:
   nl: Registratiefase
   en: Registration phase
 label_type_of_process:
@@ -5561,50 +5561,50 @@ label_orphan_drug:
 # Date labels are in numbers for backwards compatibility with existing data in hippo that cannot be migrated.
 label_01:
   nl: Januari
-  en: January  
+  en: January
 label_02:
   nl: Februari
-  en: February  
+  en: February
 label_03:
   nl: Maart
-  en: March  
+  en: March
 label_04:
   nl: April
-  en: April  
+  en: April
 label_05:
   nl: Mei
-  en: May  
+  en: May
 label_06:
   nl: Juni
-  en: June  
+  en: June
 label_07:
   nl: Juli
-  en: July  
+  en: July
 label_08:
   nl: Augustus
-  en: August  
+  en: August
 label_09:
   nl: September
-  en: September  
+  en: September
 label_10:
   nl: Oktober
-  en: October  
+  en: October
 label_11:
   nl: November
-  en: November  
+  en: November
 label_12:
   nl: December
-  en: December  
+  en: December
 label_product:
   nl: Product
   en: Product
 label_launchpad:
   nl: Lanceerplatform
   en: Launchpad
-label_lactation: 
+label_lactation:
   nl: Lactatie
   en: Lactation
-label_prolongated: 
+label_prolongated:
   nl: Verlengd
   en: Prolongated
 label_contraindications:
@@ -5651,7 +5651,7 @@ label_not_found:
   en: Not found
 label_niet_gevonden:
   nl: Niet gevonden
-  en: Not found  
+  en: Not found
 label_main_menu:
   nl: Hoofdmenu
   en: Main menu
@@ -5714,10 +5714,10 @@ label_send_request_for_pipeline:
 label_change_request_by_manufacturer:
   nl: Wijzigingsverzoek door fabrikant
   en: Change request by manufacturer
-label_review_by_zorginstituut: 
+label_review_by_zorginstituut:
   nl: Review door Zorginstituut
   en: Review by Zorginstituut
-label_zorginstituut_edits_a_record: 
+label_zorginstituut_edits_a_record:
   nl: Zorginstituut bewerkt een record
   en: Zorginstituut edits a record
 label_edit_a_record:
@@ -5740,7 +5740,7 @@ label_administrators:
   en: Administrators
 label_last_modified_on:
   nl: Laatst bewerkt op
-  en: Last modified on 
+  en: Last modified on
 label_last_modified:
   nl: Laatst bewerkt
   en: Last modified
@@ -5752,7 +5752,7 @@ message_help_periodical_tags:
   nl: Volgt…
   en: Volgt…
 
-label_frequency: 
+label_frequency:
   nl: Frequentie
   en: Frequency
 
@@ -5815,8 +5815,8 @@ message_help_summary:
   en: An explanation of the development process of Horizon Scan Medicines.
 # Labels for documenttypes in Bloomreach
 label_newscontentdocument:
- nl: Nieuwsbericht
- en: News article
+  nl: Nieuwsbericht
+  en: News article
 
 # Messages
 
@@ -5842,11 +5842,11 @@ message_about_horizonscan:
   nl: Onze inhoudelijke werkgroepen spelen een belangrijke rol in het proces van de Horizonscan voor geneesmiddelen.
   en: Our substantive working groups play an important role in the process of the Horizon Scan for Medicines.
 message_help_presentation_url:
-  nl: Als alternatief voor het opladen van een presentatie kunt u ook verwijzen naar een presentatie die elders gehost is. 
+  nl: Als alternatief voor het opladen van een presentatie kunt u ook verwijzen naar een presentatie die elders gehost is.
   en: As an alternative to uploading a presentation, you can also refer to a presentation hosted elsewhere.
 message_help_presentation_upload:
-  nl: Als u een presentatie oplaadt dan dient de presentatie in HTML-formaat te zijn en gecomprimeerd te zijn als ZIP-bestand. De indexpagina van de presentatie dient altijd ‘index.html’ te heten. 
-  en: In case you upload a presentation then the presentation must be in HTML format and compressed as a ZIP file. The index page of the presentation should always be called ‘index.html’. 
+  nl: Als u een presentatie oplaadt dan dient de presentatie in HTML-formaat te zijn en gecomprimeerd te zijn als ZIP-bestand. De indexpagina van de presentatie dient altijd ‘index.html’ te heten.
+  en: In case you upload a presentation then the presentation must be in HTML format and compressed as a ZIP file. The index page of the presentation should always be called ‘index.html’.
 message_transfer_to_odb:
   nl: U gaat het bestand doorzetten naar de ODB.
   en: You are about to transfer the file to the ODB.
@@ -5872,8 +5872,8 @@ message_error_file_upload_max_file_size:
   nl: De maximale bestandsgrootte is {0} MB.
   en: The maximum file size is {0} MB.
 message_newsletter_archive:
-  nl: Dit is het archief van alle nieuwsbrieven die in het verleden door ons verstuurd zijn. 
-  en: This is the archive of all newsletters that we have sent in the past. 
+  nl: Dit is het archief van alle nieuwsbrieven die in het verleden door ons verstuurd zijn.
+  en: This is the archive of all newsletters that we have sent in the past.
 message_no_newsletters_sent_yet:
   nl: Er zijn nog geen nieuwsbrieven verstuurd.
   en: No newsletters have been sent yet.
@@ -5914,7 +5914,7 @@ message_process_zorginstituut_edits_a_record:
   nl: Zorginstituut Nederlands bewerkt een nieuw of bestaand record voor de volgende publicatie van Horizonscan Geneesmiddelen.
   en: Zorginstituut Nederlands edits a new or existing record for the next publication of Horizonscan Geneesmiddelen.
 message_process_manufacturer_verifies:
-  nl: De fabrikant bekijkt de wijzigingen die Zorginstituut Nederland aangebracht heeft. Dit is het moment voor de fabrikant om ontbrekende of foutieve informatie op te merken. 
+  nl: De fabrikant bekijkt de wijzigingen die Zorginstituut Nederland aangebracht heeft. Dit is het moment voor de fabrikant om ontbrekende of foutieve informatie op te merken.
   en: The manufacturer reviews the changes by Zorginstituut Nederland and has the oppurtunity to point out missing or faulty information.
 message_process_published:
   nl: Adipiscing elit, sed do eiusmod tempor incididunt dolor sit amet, consectetur  ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
@@ -5944,14 +5944,14 @@ message_manufacturer_no_new_proposals:
   nl: U heeft op dit moment geen voorstellen uit staan voor nieuwe geneesmiddelen in Horizonscan Geneesmiddelen.
   en: You have no proposals for new medicines in Horizonscan Geneesmiddelen at this time.
 message_the_following_documents_were_proposed_by_you:
-  nl: U heeft de volgende nieuwe records voorgesteld voor de volgende publicatie van Horizonscan Geneesmiddelen.  
-  en: You proposed the following new records for the next publication of Horizonscan Geneesmiddelen.   
+  nl: U heeft de volgende nieuwe records voorgesteld voor de volgende publicatie van Horizonscan Geneesmiddelen.
+  en: You proposed the following new records for the next publication of Horizonscan Geneesmiddelen.
 message_the_following_documents_were_edited_by_you:
   nl: De volgende documenten zijn door u bewerkt.
   en: The following documents were edited by you.
 message_your_changes_will_be_reviewed_by_zin:
   nl: Uw wijzigingen worden bekeken door Zorginstituut Nederland.
-  en: Your changes will be reviewed by Zorginstituut Nederland. 
+  en: Your changes will be reviewed by Zorginstituut Nederland.
 message_manufacturer_no_change_requests:
   nl: Er zijn op dit moment geen wijzingsverzoeken van u in behandeling.
   en: There are no change requests of you being processed at this time.
@@ -5967,37 +5967,37 @@ message_no_info:
 message_no_info_registration:
   nl: Er is op dit moment niets bekend over registratie.
   en: There is currently nothing known about registration.
-message_no_info_other: 
+message_no_info_other:
   nl: Er is op dit moment geen overige informatie.
   en: There is currently no futher information available.
-message_no_info_indication_extensions: 
+message_no_info_indication_extensions:
   nl: Er is op dit moment niets bekend over indicatieuitbreidingen.
   en: There is currently nothing known about indication extensions.
-message_no_info_off_label: 
+message_no_info_off_label:
   nl: Er is op dit moment niets bekend over off-label gebruik.
   en: There is currently nothing known about off label use.
-message_no_info_impact: 
+message_no_info_impact:
   nl: Er is op dit moment niets bekend over de mogelijke totale kosten.
   en: There is currently nothing known about the possible total cost.
-message_no_info_cost: 
+message_no_info_cost:
   nl: Er is op dit moment niets bekend over de verwachte kosten.
   en: There is currently nothing known about the expected cost.
-message_no_info_volume: 
+message_no_info_volume:
   nl: Er is op dit moment niets bekend over het verwachte patiëntvolume.
   en: There is currently nothing known about the expected patient volume.
-message_no_info_therapeutical_value: 
+message_no_info_therapeutical_value:
   nl: Er is op dit moment niets bekend over therapeutische waarde en behandelschema.
   en: There is currently nothing known about therapeutic value and treatment regimen.
-message_no_info_product: 
+message_no_info_product:
   nl: Er is op dit moment niets bekend over het product.
   en: There is currently nothing known about the product.
-notice_patient_volume: 
+notice_patient_volume:
   nl: Marktaandeel wordt in de regel niet meegenomen tenzij anders vermeld.
   en: Market share is generally not included unless otherwise stated.
-notice_cost: 
+notice_cost:
   nl: Dit is de inschatting van de mogelijke kosten per patiënt per jaar. In het opmerkingenveld staat beschreven hoe tot dit bedrag is gekomen.
   en: This is the estimate of the possible cost per patient per year. The comments box describes how this amount was reached.
-notice_impact: 
+notice_impact:
   nl: 'Dit bedrag geeft een <strong>indicatie</strong> van de totale kosten. Het is de uitkomst van het gemiddelde verwacht patiëntvolume maal de gemiddelde kosten per patiënt; beiden per jaar.'
   en: 'This amount gives an <strong>indication</strong> of the total cost. It is the result of the average expected patient volume times the average cost per patient. both per year.'
 
@@ -6009,10 +6009,10 @@ notice_therapeutical_value:
   it: Questa valutazione non implica una possibile inclusione nel pacchetto.
   he: הערכה זו אינה מעידה על אפשרות הכללה בחבילה.
 
-footnote_cost: 
-  nl: De getoonde getallen betreffen een verwachting over de periode van een jaar. 
+footnote_cost:
+  nl: De getoonde getallen betreffen een verwachting over de periode van een jaar.
   en: The numbers shown are an expectation over the period of one year.
-footnote_total_cost: 
+footnote_total_cost:
   nl: Betreft de mogelijke totale kosten per jaar.
   en: Concerns the possible total cost per year.
 message_bio_gen_prices:
@@ -6079,8 +6079,8 @@ message_double_ip:
   nl: U bent automatisch uitgelogd, omdat u ook op een andere locatie ingelogd bent, of omdat uw ip-adres tussentijds gewijzigd is. Neem bij twijfel over deze melding contact op met uw systeembeheerder.
   en: You were automatically logged out because you are also logged in at a different location, or because your IP address has changed in the meantime. Please contact your system administrator if in doubt about this message.
 label_make_contact_person:
-    nl: Maak contactpersoon
-    en: Make contact person
+  nl: Maak contactpersoon
+  en: Make contact person
 message_make_contact_person:
   nl: Hierbij overschrijf je de huidige contactpersoon en wordt {0} de nieuwe contactpersoon van {1} voor {2}.
   en: This will overwrite the current contact person and {0} will become the new contact person of {1} for {2}.
@@ -6089,7 +6089,7 @@ message_help_atmp:
   en: As of 2007 there is a separately defined group of medicines, namely the ‘Advanced Therapy Medicinal Products’ (ATMPs). ATMPs include products for somatic cell therapy, gene therapy and tissue engineering.
 message_help_active_subtance:
   nl: Schrijf een stofnaam altijd in onderkast.
-  en: Always write the active substance in lowercase. 
+  en: Always write the active substance in lowercase.
 message_help_main_indication:
   nl: "De indicatie is afgeleid van de geregistreerde indicatie, maar is korter."
   en: "The indication name derives from the registered indication, yet shorter."
@@ -6142,14 +6142,14 @@ message_this_is_an_unpublished_concept:
   nl: Dit is een ongepubliceerd concept.
   en: This is an unpublished concept.
 message_changes_to_this_revision_are_visible_after_publication:
-  nl: <strong>Wijzigingen in deze revisie</strong> zijn pas na publicatie 
-         zichtbaar in de <a href="#" target="_blank">publieke kopie</a>.
+  nl: <strong>Wijzigingen in deze revisie</strong> zijn pas na publicatie
+    zichtbaar in de <a href="#" target="_blank">publieke kopie</a>.
   en: <strong>Changes to this revision</strong> are visible after publication in the <a href="#" target="_blank">public copy</a>.
 message_batch_publish:
   nl: Als u verder gaat worden alle geselecteerde documenten gepubliceerd. Deze handeling is onomkeerbaar. Controleer het volgende.
   en: As you proceed, all selected documents will be published. This action is irreversible. Check the following.
 message_batch_delete:
-  nl: Als u verder gaat worden alle geselecteerde documenten verwijderd. Deze handeling is onomkeerbaar. 
+  nl: Als u verder gaat worden alle geselecteerde documenten verwijderd. Deze handeling is onomkeerbaar.
   en: As you proceed, all selected documents will be deleted. This action is irreversible.
 message_check_the_url:
   nl: Controleer het adres in de adresbalk. Soms gaat er iets mis bij het kopiëren van een link, bijvoorbeeld uit een e-mailbericht. U kunt de informatie die u zoekt mogelijk vinden via de zoekpagina.
@@ -6175,8 +6175,8 @@ message_next_publication:
 message_enter_medicine_info_before_date:
   nl: Voer vóór <strong>{0}</strong> informatie in over nieuwe of bestaande geneesmiddelen.
   en: Please enter information for new or existing medicines before <strong>{0}</strong>.
-message_password_expired: 
-  nl: Uw wachtwoord is verlopen, omdat het meer dan 6 maanden oud is. 
+message_password_expired:
+  nl: Uw wachtwoord is verlopen, omdat het meer dan 6 maanden oud is.
   en: Your password has expired because it's more than 6 months old.
 message_email_address_unknown:
   nl: Het e-mailadres <strong>{0}</strong> is niet bij ons bekend. Vult u alstublieft het e-mailadres in dat u eerder bij ons geregistreerd hebt.
@@ -6191,13 +6191,13 @@ message_password_reset_expired:
   nl: De tijd om uw wachtwoord te kunnen wijzigen is verstreken. Vul opnieuw uw e-mailadres in om uw wachtwoord te wijzigen.
   en: Your password has expired. Enter your email address again to change your password.
 message_create_new_password:
-  nl: Vul hieronder een nieuw wachtwoord in. 
-  en: Enter a new password below. 
+  nl: Vul hieronder een nieuw wachtwoord in.
+  en: Enter a new password below.
 message_password_policy:
   nl: Het wachtwoord mag niet gelijk zijn aan een eerder gebruikt wachtwoord. Verder moet het wachtwoord uit minimaal 8 karakters bestaan, zowel hoofdletters als kleine letters en minimaal 1 cijfer of speciaal karakter bevatten.
   en: The password cannot be the same as a previously used password. Furthermore, the password must consist of at least 8 characters, both uppercase and lowercase letters and contain at least 1 number or special character.
 message_password_successfully_changed:
-  nl: Uw wachtwoord is succesvol gewijzigd. 
+  nl: Uw wachtwoord is succesvol gewijzigd.
   en: Your password was changed successfully.
 message_password_forgotten:
   nl: Hebt u uw wachtwoord vergeten? Geen nood. Als u onderstaand uw e-mailadres invult, dan sturen wij u een wachtwoord-reset link toe. Daarmee kunt u zelf een nieuw wachtwoord aanmaken.
@@ -6206,8 +6206,8 @@ message_password_already_used:
   nl: Het wachtwoord mag niet gelijk zijn aan een eerder gebruikt wachtwoord.
   en: The password cannot be the same as a previously used password.
 message_password_general_error:
-  nl: Het systeem is niet beschikbaar op dit moment. Probeer het later nog eens. 
-  en: The system is unavailable at the moment. Please try again later. 
+  nl: Het systeem is niet beschikbaar op dit moment. Probeer het later nog eens.
+  en: The system is unavailable at the moment. Please try again later.
 message_entered_wrong_password:
   nl: U heeft ongeldige inloggevens ingevoerd. Probeer het nogmaals. Lukt het inloggen niet neem dan <a class="pat-inject" href="{0}">contact op met de beheerder</a>.
   en: You have entered invalid credentials. Please try again. If the login still fails then please <a class="pat-inject" href="{0}">contact the administrator</a>.
@@ -6261,7 +6261,7 @@ label_maal_per_2_dagen:
   en: times every 2 days
 label_maal_per_3_dagen:
   nl: maal per 3 dagen
-  en: times every 3 days   
+  en: times every 3 days
 label_maal_per_4_dagen:
   nl: maal per 4 dagen
   en: times every 4 days
@@ -6279,13 +6279,13 @@ label_maal_per_2_weken:
   en: times every 2 weeks
 label_maal_per_3_weken:
   nl: maal per 3 weken
-  en: times every 3 weeks  
+  en: times every 3 weeks
 label_maal_per_4_weken:
   nl: maal per 4 weken
   en: times every 4 weeks
 label_maal_per_5_weken:
   nl: maal per 5 weken
-  en: times every 5 weeks  
+  en: times every 5 weeks
 label_maal_per_6_weken:
   nl: maal per 6 weken
   en: times every 6 weeks
@@ -6315,7 +6315,7 @@ label_maal_per_5_maanden:
   en: times every 5 months
 label_maal_per_6_maanden:
   nl: maal per 6 maanden
-  en: times every 6 months      
+  en: times every 6 months
 label_maal_per_jaar:
   nl: maal per jaar
   en: times a year
@@ -6364,11 +6364,11 @@ label_per_package:
   nl: per verpakking
   en: per package
 
-share: 
+share:
   nl: U kunt iemand zonder gebruikersaccount via een link die per e-mail wordt verstuurd toegang geven tot een kopie van dit document. De ontvanger van de e-mail zal het document kunnen bewerken en de voorgestelde wijzigingen kunnen op een later moment overgenomen in de hoofdversie.
   en: You can give someone without a user account access to a copy of this document via a link sent by email. The recipient of the email will be able to edit the document, and the proposed changes will be reflected in the major version at a later time.
 
-message_share_shared: 
+message_share_shared:
   nl: '<a href="{0}">Een kopie van dit document</a> is gedeeld met <a href="{1}">{2}</a>. {2} kan deze kopie inzien en bewerken tot en met <strong>{3}</strong>.'
   en: '<a href="{0}">A copy of this document</a> was shared with <a href="{1}">{2}</a>. {2} may view and edit this copy up and until <strong>{3}</strong>.'
 
@@ -6376,11 +6376,11 @@ message_share_public:
   nl: 'Klik bovenaan de pagina op de knop ‘Bewerk’ om dit document te bewerken. Door u aangebrachte wijzigingen zullen publiekelijk zichtbaar zijn zodra <a href="mailto:{0}">{1}</a> of een andere redacteur uw inhoud geaccepteerd en gepubliceerd heeft. U kunt deze kopie inzien en bewerken tot en met <strong>{2}</strong>. Daarna behoudt u nog steeds de mogelijk om deze kopie in te zien.'
   en: 'Click the ‘Edit‘ button at the top of the page to edit this document. Changes you make will be publicly visible once <a href="mailto:{0}">{1}</a> or another editor has accepted and published your content. You may view and edit this copy up and until <strong>{2}</strong>. Afterwards, you still retain the ability to view this copy.'
 
-share_change_accepted: 
+share_change_accepted:
   nl: "De aanpassing van {0} is <strong>geaccepteerd</strong> en opgeslagen in uw werkdocument."
   en: "{0}‘s adjustment has been <strong>accepted</strong> and saved in your working document."
 
-share_change_rejected: 
+share_change_rejected:
   nl: "De aanpassing van {0} is <strong>verworpen</strong>. Uw werkdocument blijft ongewijzigd."
   en: "{0}‘s adjustment has been <strong>rejected</strong>. Your working document remains unchanged."
 
@@ -6398,19 +6398,19 @@ label_reject_impl:
   nl: Verwerp
   en: Reject
 
-edit_copy: 
+edit_copy:
   nl: 'Klik bovenaan de pagina op de knop ‘Bewerk’ om dit document te bewerken. Door u aangebrachte wijzigingen zullen publiekelijk zichtbaar zijn zodra <a href="mailto: nicole@vanreemst.nl">Nicole Van Reemst</a> of een andere redacteur uw inhoud geaccepteerd en gepubliceerd heeft.'
   en: 'Klik bovenaan de pagina op de knop ‘Bewerk’ om dit document te bewerken. Door u aangebrachte wijzigingen zullen publiekelijk zichtbaar zijn zodra <a href="mailto: nicole@vanreemst.nl">Nicole Van Reemst</a> of een andere redacteur uw inhoud geaccepteerd en gepubliceerd heeft.'
 edit_copy_expiration:
   nl: Tekst onbreekt
-  en: Text is missing 
-cancel_share: 
+  en: Text is missing
+cancel_share:
   nl: 'Als u verder gaat wordt het kopie dat u met Max Meijer gedeeld heeft opgeheven. Eventuele inhoudswijzigingsvoorstellen die Max Meijer gedaan heeft blijven wel voor u beschikbaar. Deze handeling kan niet ongedaan gemaakt worden.'
   en: If you continue, the copy you shared with Max Meijer will be canceled. Any content change proposals Max Meijer has made will remain available to you. This action cannot be undone.
-extend_share: 
+extend_share:
   nl: 'Verleng de levensduur van deze kopie met'
   en: 'Extend the lifespan of this copy by'
-extend_share_explanation: 
+extend_share_explanation:
   nl: 'U kunt de kopie op elk moment nog verder verlengen, of opheffen.'
   en: 'You may extend or cancel the copy at any time.'
 
@@ -6468,7 +6468,7 @@ message_help_process_step:
   en: Try to define major steps. The maximum number of steps that a process can contain is seven. If necessary, use subheadings within the step to add sub-steps.
 
 message_help_process_step_icon:
-  nl: Kies een pictogram dat het beste het thema van deze stap symboliseert. Hanteer beeldmerken van bedrijven alleen wanneer een product of dienst van het bedrijf in kwestie bij deze stap betrokken is. Voorkom indien mogelijk dat u een pictogram kiest dat al elders gebruikt wordt met een andere betekenis. 
+  nl: Kies een pictogram dat het beste het thema van deze stap symboliseert. Hanteer beeldmerken van bedrijven alleen wanneer een product of dienst van het bedrijf in kwestie bij deze stap betrokken is. Voorkom indien mogelijk dat u een pictogram kiest dat al elders gebruikt wordt met een andere betekenis.
   en: Choose an icon that best symbolises the theme of this step. Only use company logos when a product or service from the company in question is involved in this step. If possible, avoid choosing an icon that is already used elsewhere with a different meaning.
 
 label_basic_insurance:
@@ -6682,31 +6682,31 @@ label_publications:
   en: Publications
 
 message_warning_no_drafts_in_news_flash:
-  nl: Let op, de volgende nieuwsartikelen worden niet in de nieuwsflits opgenomen, omdat ze gearchiveerd of niet gepubliceerd zijn. Als er van een nieuwsbericht een oudere, reeds gepubliceerde, versie bestaat, dan wordt deze versie opgenomen. 
+  nl: Let op, de volgende nieuwsartikelen worden niet in de nieuwsflits opgenomen, omdat ze gearchiveerd of niet gepubliceerd zijn. Als er van een nieuwsbericht een oudere, reeds gepubliceerde, versie bestaat, dan wordt deze versie opgenomen.
   en: Please note, the following news articles are not included in the news flash because they are either archived or unpublished. If there's an older, already published version of a news item, then this version will be included instead.
 
 message_help_send_news_flash_confirm:
-  nl: Als u klikt op ‘Ik weet het zeker, verzend nu’, wordt deze nieuwsflits verzonden naar alle in de gelecteerde verzendlijsten opgenomen e-mailadressen. 
+  nl: Als u klikt op ‘Ik weet het zeker, verzend nu’, wordt deze nieuwsflits verzonden naar alle in de gelecteerde verzendlijsten opgenomen e-mailadressen.
   en: If you click on ‘I'm sure, send now’, this newsflash will be sent to all email addresses included in the selected mailing lists.
 
-summary_iwlz: 
+summary_iwlz:
   nl: De iStandaard om cliënten in alle fasen van de Wlz-keten te volgen.
   en: The iStandard to follow clients in all phases of the Wlz chain.
-summary_iwmo: 
+summary_iwmo:
   nl: Inzicht in de informatiestromen binnen de Wmo tussen gemeenten en zorgaanbieders.
   en: Insight into the information flows within the Wmo between municipalities and healthcare providers.
-summary_ijw: 
+summary_ijw:
   nl: iJw biedt inzicht in de informatiestromen binnen de Jeugdwet tussen gemeenten en zorgaanbieders.
   en: iJw provides insight into the information flows within the Youth Act between municipalities and healthcare providers.
-summary_ipgb: 
+summary_ipgb:
   nl: Inzicht in de gegevensuitwisseling op het gebied van het trekkingsrecht pgb tussen gemeenten, zorgkantoren en de Sociale Verzekeringsbank (SVB).
   en: Insight into the data exchange in the field of the PGB drawing right between municipalities, healthcare offices and the Social Insurance Bank (SVB).
-summary_ieb: 
+summary_ieb:
   nl: De nieuwe iStandaard voor informatie-uitwisseling over het Wmo-abonnementstarief tussen gemeenten en het CAK.
   en: The new iStandard for exchanging information about the Wmo subscription rate between municipalities and the CAK.
 
 message_help_file_upload_title:
-  nl: Kies een titel die compact is (Bij voorkeur op 1 regel passend) en de inhoud van het document beschrijft. Namen van bijlagen beginnen altijd met een hoofdletter en bevatten meestal geen punten. Gebruik nooit termen als 'Download' of 'Klik hier' in titels. 
+  nl: Kies een titel die compact is (Bij voorkeur op 1 regel passend) en de inhoud van het document beschrijft. Namen van bijlagen beginnen altijd met een hoofdletter en bevatten meestal geen punten. Gebruik nooit termen als 'Download' of 'Klik hier' in titels.
   en: Choose a title that is compact (preferably on 1 line) and describes the content of the document. Attachment names always start with a capital letter and usually do not contain periods. Never use terms like 'Download' or 'Click here' in titles.
 
 message_max_5_pages:
@@ -6718,7 +6718,7 @@ message_max_10_pages:
   en: Select a maximum of 10 pages
 
 message_no_available_content_yet:
-  nl: Er is nog geen inhoud beschikbaar. 
+  nl: Er is nog geen inhoud beschikbaar.
   en: There is no content available yet.
 
 message_admin_indexing_feedback_already_running:
