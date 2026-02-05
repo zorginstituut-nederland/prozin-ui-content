@@ -6867,7 +6867,7 @@ label_revision_new_translation:
 
 label_revision_edit:
   nl: Bewerking gestart
-  en: Started editing
+  en: Editing started
 
 label_revision_save_close:
   nl: Bewerkt
@@ -6875,11 +6875,11 @@ label_revision_save_close:
 
 label_revision_deleted_translation:
   nl: Vertaling verwijderd
-  en: Deleted translation
+  en: Translation deleted
 
 label_revision_deleted:
   nl: Revisie verwijderd
-  en: Deleted revision
+  en: Revision deleted
 
 label_revision_restored:
   nl: Hesteld
