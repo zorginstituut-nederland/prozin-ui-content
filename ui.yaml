@@ -6859,3 +6859,53 @@ label_current_image_references:
 message_sector_introduction:
   nl: Op deze pagina treft u een overzicht aan van wanneer welke kwaliteitsgegevens over verleende zorg aangeleverd worden voor de sector {0}.
   en: On this page you will find an overview of when which quality data on care provided is provided for the sector {0}.
+
+# Revisions / revisies voor historische vergelijkingen
+label_revision_new_translation:
+  nl: Nieuwe vertaling
+  en: New translation
+
+label_revision_edit:
+  nl: Bewerking gestart
+  en: Started editing
+
+label_revision_save_close:
+  nl: Bewerkt
+  en: Edited
+
+label_revision_deleted_translation:
+  nl: Vertaling verwijderd
+  en: Deleted translation
+
+label_revision_deleted:
+  nl: Revisie verwijderd
+  en: Deleted revision
+
+label_revision_restored:
+  nl: Hesteld
+  en: Restored  
+
+label_revision_shared:
+  nl: Gedeeld met
+  en: Shared with
+
+label_revision_accepted_suggestion:
+  nl: Wijziging geaccepteerd
+  en: Change accepted
+
+label_unarchived:
+  nl: Gedearchiveerd
+  en: Unarchived
+
+label_commented:
+  nl: Becommentarieerd
+  en: Commented
+
+
+
+
+
+
+
+ 
+
