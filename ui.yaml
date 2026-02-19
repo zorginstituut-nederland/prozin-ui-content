@@ -220,9 +220,14 @@ label_all_types:
 label_figure:
   nl: Vorm
   en: Figure
-label_report_type:
-  nl: Rapportage type
-  en: Report type
+
+label_databank_type:
+  nl: Databank type
+  en: Databank type
+
+label_databankpages:
+  nl: Databank pagina's
+  en: Databank pages
 
 message_modal_delete_user_add_again:
   nl: U kunt deze gebruiker op een later moment altijd opnieuw toevoegen aan {0}.
