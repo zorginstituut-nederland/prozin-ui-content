@@ -6813,6 +6813,10 @@ label_specification_type_relay:
   nl: Estafette
   en: Relay
 
+label_specification_type_delivery_register:
+  nl: Leveringsregister
+  en: Delivery register
+
 label_specification_type_indication_register:
   nl: Indicatieregister
   en: Indication register
