@@ -6910,7 +6910,41 @@ label_commented:
   nl: Becommentarieerd
   en: Commented
 
+label_product_ziz_name:
+  nl: Zorginzicht
+  en: Zorginzicht
 
+label_product_med_name:
+  nl: Medicijnkosten
+  en: Medicijnkosten
+
+label_product_ist_name:
+  nl: iStandaarden
+  en: iStandaarden
+
+label_product_zor_name:
+  nl: Zorgcijfersdatabank
+  en: Zorgcijfersdatabank
+
+label_product_gip_name:
+  nl: GIPdatabank
+  en: GIPdatabank
+
+label_product_cor_name:
+  nl: Zorginstituut nederland
+  en: Zorginstituut nederland
+
+label_product_pro_name:
+  nl: ProZIN
+  en: ProZIN
+
+label_product_hor_name:
+  nl: Horizonscan geneesmiddelen
+  en: Horizonscan geneesmiddelen
+
+label_product_fk_name:
+  nl: Farmacotherapeutisch kompas
+  en: Farmacotherapeutisch kompas
 
 
 
