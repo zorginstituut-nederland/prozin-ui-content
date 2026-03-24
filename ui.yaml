@@ -6946,7 +6946,9 @@ label_product_fk_name:
   nl: Farmacotherapeutisch kompas
   en: Farmacotherapeutisch kompas
 
-
+label_healthcare_provider_delivery:
+  nl: Aanlevering zorgaanbieder
+  en: Delivery healthcare provider
 
 
 
