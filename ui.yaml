@@ -674,13 +674,8 @@ label_help_see_also:
   nl: Zie ook van de helpfunctie
   en: Help 'See also'
 
-message_browse_lane_help_gip:
+message_browse_lane_help:
   nl: Stel de tabel samen die u wilt zien door eerst een keuze te maken in kolom 1 tussen Zorgverzekeringswet (Zvw) en Wet langdurige zorg (Wlz), dan via de uitvouwknop in de keuzebalk in kolom 2. De beschikbare keuzevelden onder 3 en 4 worden vervolgens zichtbaar en u kunt uw keuze aanklikken. Klik dan op 'Toon overzicht' om de schakelaars in te klappen en de tabel te laden. Wilt daarna een andere tabel bekijken? Klik dan op de uitvouwknop (expander) onder de bladerbaan, u krijgt dan alle keuzes weer te zien. U kunt ook klikken op één van de groene velden in de bladerbaan zodat ze weer uitvouwen.
-  en: Compile the table you want to see by first selecting either the Health Insurance Act (Zvw) or the Long-Term Care Act (Wlz) in column 1, then using the expand button in the selection bar in column 2. The available selection fields under 3 and 4 will then become visible and you can click on your selection. Then click on ‘Show overview’ to collapse the switches and load the table. Would you like to view another table? Click on the expand button (expander) below the scroll bar to see all the options again. You can also click on one of the green fields in the scroll bar to expand them again.
-
-message_browse_lane_help_zor:
-  nl: Stel de tabel samen die u wilt zien door eerst een keuze te maken in kolom 1 tussen Zorgverzekeringswet (Zvw) en Wet langdurige zorg (Wlz), dan via de uitvouwknop in de keuzebalk in kolom 2. De beschikbare keuzevelden onder 3 en 4 worden vervolgens zichtbaar en u kunt uw keuze aanklikken. Klik dan op 'Toon overzicht' om de schakelaars in te klappen en de tabel te laden. Wilt daarna een andere tabel bekijken? Klik dan op de uitvouwknop (expander) onder de bladerbaan, u krijgt dan alle keuzes weer te zien. U kunt ook klikken op één van de groene velden in de bladerbaan zodat ze weer uitvouwen.
-  en: Compile the table you want to see by first selecting either the Health Insurance Act (Zvw) or the Long-Term Care Act (Wlz) in column 1, then using the expand button in the selection bar in column 2. The available selection fields under 3 and 4 will then become visible and you can click on your selection. Then click on ‘Show overview’ to collapse the switches and load the table. Would you like to view another table? Click on the expand button (expander) below the scroll bar to see all the options again. You can also click on one of the green fields in the scroll bar to expand them again.
 
 label_swim_lane_news:
   en: Swim lane News
