@@ -6428,6 +6428,14 @@ fragment_pages:
   nl: pagina's
   en: pages
 
+label_page_amount_one:
+  nl: pagina
+  en: page
+
+label_amount_of_pages:
+  nl: Aantal pagina's
+  en: Amount of pages
+  
 label_gvs:
   nl: GVS
   en: GVS
