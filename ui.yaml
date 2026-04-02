@@ -5871,6 +5871,9 @@ message_remove_data_set:
 message_error_file_upload_max_file_size:
   nl: De maximale bestandsgrootte is {0} MB.
   en: The maximum file size is {0} MB.
+message_error_form_invalid_fields:
+  nl: Actie mislukt. Zorg ervoor dat velden correct zijn ingevuld en probeer het opnieuw.
+  en: Action failed. Please make sure fields are filled correctly and try again.
 message_newsletter_archive:
   nl: Dit is het archief van alle nieuwsbrieven die in het verleden door ons verstuurd zijn.
   en: This is the archive of all newsletters that we have sent in the past.
