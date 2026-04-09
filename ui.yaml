@@ -2879,10 +2879,12 @@ message_prio_wegiz:
 message_amvb_wegiz:
   nl: Lorem en ook hier levert Kathelijne nog een puik stukje tekst voro aan ipsum dolor sit amet consectetur bla bla bla.
   en: Lorem ipsum dolor sit amet consectetur bla bla bla.
-
 label_revision_date:
   nl: "Verlengingstoets afgerond vóór"
   en: "Renewal test completed before"
+label_revision_date_quality_standard:
+  nl: "Herzieningsdatum"
+  en: "Revision date"
 message_help_revision_date:
   nl: De datum waarop externe partijen de registratie moeten herzien. Herzieninging houdt in dat het toetsingsproces opnieuw doorlopen wordt. Enige tijd voor het verlopen van de herzieningsdatum zal dit contentobject verschijnen in het portlet 'Te herzien' op het dashboard.
   en: The date by which third parties must review the registration. Revision means that the assessment process is repeated. Some time before the review date expires, this content object will appear in the 'For revision' portlet on the dashboard.
