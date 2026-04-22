@@ -6954,8 +6954,193 @@ label_product_fk_name:
   nl: Farmacotherapeutisch kompas
   en: Farmacotherapeutisch kompas
 
+label_healthcare_provider_delivery:
+  nl: Aanlevering zorgaanbieder
+  en: Delivery healthcare provider
 
+label_add_healthcare_providers:
+  nl: Voeg zorgaanbieders toe
+  en: Add healthcare providers
 
+label_add_disclaimer:
+  nl: Voeg disclaimer toe
+  en: Add disclaimer
+
+label_portal_open:
+  nl: Portaal geopend
+  en: Portal opened
+
+label_portal_closed:
+  nl: Portaal gesloten
+  en: Portal closed
+
+label_portal_open_date:
+  nl: Portaal open datum
+  en: Portal open date
+
+label_portal_closed_date:
+  nl: Portaal gesloten datum
+  en: Portal closed date
+
+label_open:
+  nl: Geopend
+  en: Opened
+
+label_closed:
+  nl: Gesloten
+  en: Closed
+
+message_followup_received:
+  nl: Nalevering ontvangen,
+  en: Follow-up received,
+
+message_followup_received_changes:
+  nl: 'gewijzigde onderdelen: {0}'
+  en: 'changed items: {0}'
+
+message_odb_up_to_date:
+  nl: ODB actueel,
+  en: ODB up to date,
+
+message_odb_up_to_date_no_pending_follow_ups:
+  nl: geen openstaande nalevering
+  en: no pending follow-up
+
+label_remove_entire_set_odb:
+  nl: Verwijder gehele set uit ODB
+  en: Remove entire set from ODB
+
+message_providers_delivered:
+  nl: Aanbieders aangeleverd ({0})
+  en: Providers delivered ({0})
+
+message_providers_pending:
+  nl: Aanbieders nog aan te leveren ({0})
+  en: Providers still to be delivered ({0})
+
+label_remove_healthcare_provider:
+  nl: Verwijder zorgaanbieder
+  en: Remove healthcare provider
+
+label_send_reminder_email:
+  nl: Verstuur herinnering per mail
+  en: Send reminder email
+
+label_send_registration_email:
+  nl: Stuur registratie mail
+  en: Send registration email
+
+label_check_answers:
+  nl: Antwoorden controleren
+  en: Check answers
+
+label_questions:
+  nl: Vragen
+  en: Questions
+
+label_answers:
+  nl: Antwoorden
+  en: Answers
+
+label_submit_answers:
+  nl: Antwoorden verzenden
+  en: Submit answers
+
+label_edit_answers:
+  nl: Bewerk antwoorden
+  en: Edit answers
+
+label_healthcare_provider_submission:
+  nl: Aanlevering zorgaanbieder
+  en: Healthcare provider submission
+
+label_question_explanation_optional:
+  nl: Toelichting vraag {0} (optioneel)
+  en: Explanation question {0} (optional)
+
+label_question_number:
+  nl: Vraag {0}.
+  en: Question {0}.
+
+label_question_remark:
+  nl: Opmerking vraag {0}.
+  en: Remark question {0}.
+
+message_portal_is:
+  nl: Het aanleverportaal is
+  en: The submission portal is
+
+message_submission_review_intro:
+  nl: Dit zijn de antwoorden van uw ingediende vragenlijst.
+  en: These are the answers of your submitted questionnaire.
+
+message_submission_review_instruction:
+  nl: Controleer de gegevens en pas ze indien nodig aan voordat u deze indient. Wanneer alles correct is, kunt u het formulier definitief verzenden.
+  en: Please review the data and adjust if necessary before submitting. When everything is correct, you can submit the form definitively.
+
+message_answer_questions:
+  nl: Beantwoord de onderstaande vragen.
+  en: Answer the questions below.
+
+message_no_indicatorsets_linked:
+  nl: Geen indicatorsets gekoppeld.
+  en: No indicator sets linked.
+
+message_remove_healthcare_provider_line1:
+  nl: U staat op het punt om de zorgaanbieder '{0}' te verwijderen uit '{1}'.
+  en: You are about to remove healthcare provider '{0}' from '{1}'.
+
+message_remove_healthcare_provider_line2:
+  nl: U kunt deze zorgaanbieder op een later moment altijd opnieuw toevoegen aan '{0}'.
+  en: You can always add this healthcare provider again to '{0}' at a later time.
+
+message_remove_healthcare_provider_warning:
+  nl: 'Let op, deze zorgaanbieder heeft al data aangeleverd. Hiermee verwijdert u ook de aanleverdata van deze zorgaanbieder.'
+  en: 'Note: this healthcare provider has already submitted data. This will also remove the submitted data of this healthcare provider.'
+
+message_remove_delivery_data_single_line1:
+  nl: U staat op het punt om de aanleverdata te verwijderen uit ODB voor zorgaanbieder '{0}'.
+  en: You are about to remove the submitted data from ODB for healthcare provider '{0}'.
+
+message_remove_delivery_data_single_line2:
+  nl: U kunt altijd opnieuw publiceren om de aanleverdata weer in ODB te zetten.
+  en: You can always republish to restore the data in ODB.
+
+message_remove_delivery_data_all_line1:
+  nl: U staat op het punt om alle aanleverdata te verwijderen uit ODB voor alle zorgaanbieders die aangeleverd hebben.
+  en: You are about to remove all submitted data from ODB for all healthcare providers who have delivered data.
+
+message_remove_delivery_data_all_line2:
+  nl: U kunt altijd opnieuw publiceren om alle aanleverdata weer in ODB te zetten.
+  en: You can always republish to restore all data in ODB.
+
+message_add_disclaimer_line1:
+  nl: U staat op het punt om een disclaimer toe te voegen aan de huidige indicatorset.
+  en: You are about to add a disclaimer to the current indicator set.
+
+message_add_disclaimer_line2:
+  nl: Bij het opslaan wordt de oude disclaimer overschreven en gebruikt bij het downloaden van openbare data.
+  en: When saving, the existing disclaimer will be overwritten and used when downloading public data.
+
+message_publish_to_odb:
+  nl: U staat op het punt om de publicatie voor '{0}' door te zetten naar ODB.
+  en: You are about to publish '{0}' to ODB.
+
+message_submit_data_intro:
+  nl: Hier levert u uw gegevens aan voor verslagjaar {0}. Dit bestaat uit meerdere vragen en stappen
+  en: Here you submit your data for reporting year {0}. This consists of multiple questions and steps
+
+message_submit_final_warning:
+  nl: U staat op het punt uw ingevulde gegevens definitief te verzenden. Na het verzenden kunt u geen wijzigingen meer aanbrengen in deze versie. Uw gegevens worden openbaar gemaakt.
+  en: You are about to definitively submit your completed data. After submission, you can no longer make changes to this version. Your data will be made public.
+
+message_submit_confirmation:
+  nl: Ik bevestig dat de aangeleverde gegevens en contactgegevens juist en volledig zijn, en dat ik bevoegd ben om deze namens mijn organisatie in te dienen.
+  en: I confirm that the submitted data and contact details are correct and complete, and that I am authorized to submit them on behalf of my organization.
+
+message_contactdata_check:
+  nl: Deze gegevens gelden voor alle gebruikers van uw organisatie en voor de aanlevering. Controleer of ze nog actueel zijn voordat u verdergaat.
+  en: This data applies to all users of your organization and to the submission. Please verify that it is still up to date before continuing.
 
 
  
