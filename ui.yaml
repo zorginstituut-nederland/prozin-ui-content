@@ -7087,20 +7087,20 @@ message_no_indicatorsets_linked:
   en: No indicator sets linked.
 
 message_remove_healthcare_provider_line1:
-  nl: U staat op het punt om de zorgaanbieder '{0}' te verwijderen uit '{1}'.
-  en: You are about to remove healthcare provider '{0}' from '{1}'.
+  nl: U staat op het punt om de zorgaanbieder {0} te verwijderen uit {1}.
+  en: You are about to remove healthcare provider {0} from {1}.
 
 message_remove_healthcare_provider_line2:
-  nl: U kunt deze zorgaanbieder op een later moment altijd opnieuw toevoegen aan '{0}'.
-  en: You can always add this healthcare provider again to '{0}' at a later time.
+  nl: U kunt deze zorgaanbieder op een later moment altijd opnieuw toevoegen aan {0}.
+  en: You can always add this healthcare provider again to {0} at a later time.
 
 message_remove_healthcare_provider_warning:
   nl: 'Let op, deze zorgaanbieder heeft al data aangeleverd. Hiermee verwijdert u ook de aanleverdata van deze zorgaanbieder.'
   en: 'Note: this healthcare provider has already submitted data. This will also remove the submitted data of this healthcare provider.'
 
 message_remove_delivery_data_single_line1:
-  nl: U staat op het punt om de aanleverdata te verwijderen uit ODB voor zorgaanbieder '{0}'.
-  en: You are about to remove the submitted data from ODB for healthcare provider '{0}'.
+  nl: U staat op het punt om de aanleverdata te verwijderen uit ODB voor zorgaanbieder {0}.
+  en: You are about to remove the submitted data from ODB for healthcare provider {0}.
 
 message_remove_delivery_data_single_line2:
   nl: U kunt altijd opnieuw publiceren om de aanleverdata weer in ODB te zetten.
@@ -7123,8 +7123,8 @@ message_add_disclaimer_line2:
   en: When saving, the existing disclaimer will be overwritten and used when downloading public data.
 
 message_publish_to_odb:
-  nl: U staat op het punt om de publicatie voor '{0}' door te zetten naar ODB.
-  en: You are about to publish '{0}' to ODB.
+  nl: U staat op het punt om de publicatie voor {0} door te zetten naar ODB.
+  en: You are about to publish {0} to ODB.
 
 message_submit_data_intro:
   nl: Hier levert u uw gegevens aan voor verslagjaar {0}. Dit bestaat uit meerdere vragen en stappen
