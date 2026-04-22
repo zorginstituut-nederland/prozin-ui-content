@@ -7062,6 +7062,10 @@ label_question_number:
   nl: Vraag {0}.
   en: Question {0}.
 
+label_confirm_org_imp:
+  nl: Bevestig gegevens
+  en: Confirm organisation details
+
 label_question_remark:
   nl: Opmerking vraag {0}.
   en: Remark question {0}.
