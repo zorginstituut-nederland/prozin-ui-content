@@ -7090,6 +7090,10 @@ message_no_indicatorsets_linked:
   nl: Geen indicatorsets gekoppeld.
   en: No indicator sets linked.
 
+message_no_questionnaire_linked:
+  nl: Geen vragenlijst gekoppeld.
+  en: No questionnaire linked.
+
 message_remove_healthcare_provider_line1:
   nl: U staat op het punt om de zorgaanbieder {0} te verwijderen uit {1}.
   en: You are about to remove healthcare provider {0} from {1}.
