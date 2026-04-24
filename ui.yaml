@@ -7147,8 +7147,8 @@ message_submit_confirmation:
   en: I confirm that the submitted data and contact details are correct and complete, and that I am authorized to submit them on behalf of my organization.
 
 message_contactdata_check:
-  nl: Deze gegevens gelden voor alle gebruikers van uw organisatie en voor de aanlevering. Controleer of ze nog actueel zijn voordat u verdergaat.
-  en: This data applies to all users of your organization and to the submission. Please verify that it is still up to date before continuing.
+  nl: Deze organisatiegegevens staan bij ons geregistreerd en worden bij uw aanlevering op Zorginzicht.nl gepubliceerd. Controleer of ze nog actueel zijn voordat u verdergaat.
+  en: These organisation details are registered with us and will be published on Zorginzicht.nl with your submission. Please verify and update them if necessary before continuing.
 
 
  
