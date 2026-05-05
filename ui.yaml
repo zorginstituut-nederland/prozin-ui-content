@@ -7150,6 +7150,16 @@ message_contactdata_check:
   nl: Deze organisatiegegevens staan bij ons geregistreerd en worden bij uw aanlevering op Zorginzicht.nl gepubliceerd. Controleer of ze nog actueel zijn voordat u verdergaat.
   en: These organisation details are registered with us and will be published on Zorginzicht.nl with your submission. Please verify and update them if necessary before continuing.
 
+message_reminder_mail_sent_all:
+  nl: De herinneringsmail is verstuurd naar alle zorgaanbieders die nog niet hebben aangeleverd.
+  en: The reminder email has been sent to all healthcare providers who have not yet submitted their data.
 
+message_registration_mail_sent_single:
+  nl: De registratiemail is verstuurd naar zorgaanbieder {0}.
+  en: The registration email has been sent to healthcare provider {0}.
+
+message_registration_mail_sent_all:
+  nl: De registratiemail is verstuurd naar alle zorgaanbieders die nog niet hebben aangeleverd.
+  en: The registration email has been sent to all healthcare providers who have not yet submitted their data.
  
 
