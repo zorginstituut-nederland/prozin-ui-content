@@ -7161,5 +7161,17 @@ message_registration_mail_sent_single:
 message_registration_mail_sent_all:
   nl: De registratiemail is verstuurd naar alle zorgaanbieders die nog niet hebben aangeleverd.
   en: The registration email has been sent to all healthcare providers who have not yet submitted their data.
+
+message_reminder_mail_sent_all_modal:
+  nl: U staat op het punt om de herinneringsmail te versturen naar alle zorgaanbieders die nog niet hebben aangeleverd.
+  en: You are about to send the reminder email to all healthcare providers who have not yet submitted their data.
+
+message_registration_mail_sent_single_modal:
+  nl: U staat op het punt om de registratiemail te versturen naar zorgaanbieder {0}.
+  en: You are about to send the registration email to healthcare provider {0}.
+
+message_registration_mail_sent_all_modal:
+  nl: U staat op het punt om de registratiemail te versturen naar alle zorgaanbieders die nog niet hebben aangeleverd.
+  en: You are about to send the registration email to all healthcare providers who have not yet submitted their data.
  
 
