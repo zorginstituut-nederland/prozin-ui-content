@@ -7172,6 +7172,6 @@ message_registration_mail_sent_single_modal:
 
 message_registration_mail_sent_all_modal:
   nl: U staat op het punt om de registratiemail te versturen naar alle zorgaanbieders die nog niet hebben aangeleverd.
-  en: You are about to send the registration email to all healthcare providers who have not yet submitted their data. test
+  en: You are about to send the registration email to all healthcare providers who have not yet submitted their data.
  
 
