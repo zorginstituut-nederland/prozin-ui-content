@@ -3553,6 +3553,9 @@ label_negatieve_chmp-opinie:
 label_registratieaanvraag_in_behandeling:
   en: Registration application pending
   nl: Registratieaanvraag in behandeling
+label_vergoedingsaanvraag_in_behandeling:
+  en: Reimbursement request pending
+  nl: Vergoedingsaanvraag in behandeling
 label_advice_healthcare_institute: 
   nl: Advies Zorginstituut
   en: Advice Healthcare Institute
