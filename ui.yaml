@@ -6780,16 +6780,16 @@ message_wachtwoord_wijzigingsverzoek_onbekend:
 ## GIPdatabank
 message_no_table:
   nl: De bovenstaande combinatie levert geen resultaten op.
-  en: TRANSLATION REQUIRED
+  en: The above combination yields no results.
 message_wizard_data_generation:
   nl: Door het genereren van de wizarddata kan het bladerinstrument met de meest recente gegevens werken.
-  en: TRANSLATION REQUIRED
+  en: By generating the wizard data, the browsing tool can work with the most recent data.
 message_wizard_content_update:
   nl: Werk de redactionele content van de Zorgcijfersdatabank.nl bij.
-  en: TRANSLATION REQUIRED
+  en: Update the editorial content of Zorgcijfersdatabank.nl.
 message_indexation:
   nl: Gebruik de indexeerfunctie om ervoor te zorgen dat in het zoekresultaat ook de meest recente pagina's weergegeven worden.
-  en: TRANSLATION REQUIRED
+  en: Use the indexing function to ensure that the most recent pages are also displayed in the search result.
 message_wizard_data_generated:
   nl: De wizarddata is gegenereerd.
   en: The wizard data has been generated.
