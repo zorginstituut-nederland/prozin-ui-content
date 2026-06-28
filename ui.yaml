@@ -98,7 +98,15 @@ label_impersonate_imp:
   fr: Se faire passer pour
   it: Impersonare
   he: להתחזות
-
+label_iwlz:
+  nl: iWlz
+  en: iWlz
+label_iwmo:
+  nl: iWmo
+  en: iWmo
+label_iwvggz:
+  nl: iWvggz
+  en: iWvggz
 label_impersonate:
   nl: Imiteren
   en: Impersonate
@@ -248,6 +256,10 @@ message_modal_deactivate_user_lidmaatschap:
 message_add_user_to_site:
   nl: Voeg {0} weer toe aan site
   en: Add {0} to site
+
+message_actieprogramma:
+  nl: Gegevens delen van keten naar netwerk
+  en: Data sharing from chain to network
 
 message_remove_user_from_site:
   nl: Verwijder organisaties van {0} uit {1}
@@ -597,6 +609,7 @@ message_sluice_medicines:
   en: New hospital medicines, without price agreements, may be temporarily excluded from the basic package due to high prices. Zorginstituut advises on inclusion, and the minister negotiates prices with the manufacturer. Zorginstituut uses data from Medicines Horizon Scan to recommend medicines for the sluice, which is for high-cost treatments in medical-specialist care within hospitals.
 label_sluice_medicine:
   nl: Sluisgeneesmiddel
+  en: Sluice medicine
 label_product_specific_information:
   nl: Productspecifieke informatie
   en: Product specific information
@@ -676,7 +689,7 @@ label_help_see_also:
 
 message_browse_lane_help:
   nl: Stel de tabel samen die u wilt zien door eerst een keuze te maken in kolom 1 tussen Zorgverzekeringswet (Zvw) en Wet langdurige zorg (Wlz), dan via de uitvouwknop in de keuzebalk in kolom 2. De beschikbare keuzevelden onder 3 en 4 worden vervolgens zichtbaar en u kunt uw keuze aanklikken. Klik dan op 'Toon overzicht' om de schakelaars in te klappen en de tabel te laden. Wilt daarna een andere tabel bekijken? Klik dan op de uitvouwknop (expander) onder de bladerbaan, u krijgt dan alle keuzes weer te zien. U kunt ook klikken op één van de groene velden in de bladerbaan zodat ze weer uitvouwen.
-
+  en: Compile the table you want to see by first making a choice with the switch in column 1 (for example 'Medicines' or 'Medicines', then in column 2, etc. until the last column. Then click on 'Show overview' to collapse the switches and load the table, then want to view another table, click again on one of the switches so that they expand again.
 label_swim_lane_news:
   en: Swim lane News
   nl: Nieuwszwembaan
@@ -4817,6 +4830,9 @@ label_grouped_by_domain:
 label_grouped_by_indication:
   nl: Ingedeeld op indicatie
   en: Grouped by indication
+label_grouped_by_inclusion_date_per_month:
+  nl: Gegroepeerd op opnamedatum per maand
+  en: Grouped by recording date per month
 label_grouped_by_status:
   nl: Ingedeeld op status
   en: Grouped by status
@@ -4826,15 +4842,24 @@ label_grouped_by_expected_registration_date:
 label_grouped_by_manufacturer:
   nl: Ingedeeld op fabrikant
   en: Grouped by manufacturer
+label_grouped_by_medical_field:
+  nl: Gegroepeerd op zorggebied
+  en: Grouped by care sector
 label_grouped_by_active_substance:
   nl: Ingedeeld op werkzame stof
   en: Grouped by active substance
 label_grouped_by_publication_date:
   nl: Ingedeeld op publicatiedatum
   en: Grouped by publication date
+label_grouped_by_publication_date_per_month:
+  nl: Gegroepeerd op uiterste publicatiedatum per maand
+  en: Grouped by latest publication date per month
 label_grouped_by_submission_date:
   nl: Ingedeeld op indieningsdatum
   en: Grouped by submission date
+label_grouped_by_quality_instrument:
+  nl: Gegroepeerd op type kwaliteitsinstrument
+  en: Grouped by type of quality instrument 
 label_grouped_by_reason_of_inclusion:
   nl: Ingedeeld op reden van opname in Horizonscan Geneesmiddelen
   en: Grouped by reason of inclusion in Horizonscan Geneesmiddelen
@@ -4847,6 +4872,9 @@ label_grouped_by_particularity:
 label_grouped_by_registration_phase:
   nl: Ingedeeld op registratiefase
   en: Grouped by registration phase
+label_grouped_by_revision_date_per_month:
+  nl: Gegroepeerd op revisiedatum per maand
+  en: Grouped by revision date per month
 label_group_by_medicine_group:
   nl: Ingedeeld op geneesmiddelgroep
   en: Group by medicine group
@@ -5400,7 +5428,9 @@ label_product_cor:
 message_description_product_cor:
   nl: De corporate website van Zorginstituut Nederland.
   en: The corporate website of National Health Care Institute.
-
+label_events:
+  nl: Events
+  en: Events
 label_composition:
   nl: Samenstelling
   en: Composition
@@ -5410,6 +5440,9 @@ label_advice:
 label_active_substance:
   nl: Werkzame stof
   en: Active substance
+label_actieprogramma:
+  nl: Actieprogramma
+  en: Action program
 label_main_indication:
   nl: Hoofdindicatie
   en: Main indication
@@ -5426,6 +5459,15 @@ label_indicatieuitbreiding:
 label_indicatie-uitbreiding:
   nl: Indicatieuitbreiding
   en: Indication extension
+label_ieb:
+  nl: iEb
+  en: iEb
+label_ijw:
+  nl: iJw
+  en: iJw
+label_ipgb:
+  nl: iPgb
+  en: iPgb
 label_indication_extensions:
   nl: Indicatieuitbreidingen
   en: Indication extensions
@@ -6932,7 +6974,9 @@ label_product_med_name:
 label_product_ist_name:
   nl: iStandaarden
   en: iStandaarden
-
+label_istandaarden:
+  nl: iStandaarden
+  en: iStandaarden
 label_product_zor_name:
   nl: Zorgcijfersdatabank
   en: Zorgcijfersdatabank
