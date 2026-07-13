@@ -253,6 +253,10 @@ message_modal_deactivate_user_lidmaatschap:
   nl: U staat op het punt om de lidmaatschap van {0} te deactiveren voor het product {1}. Hierna heeft deze gebruiker geen toegang meer tot dit product. Alle content van deze gebruiker zal blijven bestaan. U kunt dit gebruikersaccount later voor het product altijd weer activeren.
   en: You are about to deactivate the membership of {0} for the product {1}. After this, this user no longer has access to this product. All content from this user will not be deleted. You can always reactivate this user account
 
+message_modal_admin_reset_password:
+  nl: Wilt u een nieuw wachtwoord genereren voor {0}, {1}? Het huidige wachtwoord wordt direct ongeldig gemaakt. De gebruiker kan inloggen met het nieuw gegenereerde wachtwoord.
+  en: Do you want to generate a new password for {0}, {1}? The current password will instantly become invalid. The user can log in with the newly generated password.
+
 message_add_user_to_site:
   nl: Voeg {0} weer toe aan site
   en: Add {0} to site
@@ -2324,6 +2328,18 @@ label_deactivate_user:
 label_reactivate_user:
   nl: Heractiveer gebruikersaccount
   en: Reactivate user account
+label_reset_password:
+  nl: Wachtwoord herstellen
+  en: Reset password
+label_generate_password:
+  nl: Wachtwoord genereren
+  en: Generate password
+label_password_generated:
+  nl: Wachtwoord genereerd
+  en: Generated password
+label_copy_password:
+  nl: Wachtwoord kopieren
+  en: Copy password
 label_deactivate:
   nl: Deactiveer
   en: Deactivate
