@@ -253,10 +253,6 @@ message_modal_deactivate_user_lidmaatschap:
   nl: U staat op het punt om de lidmaatschap van {0} te deactiveren voor het product {1}. Hierna heeft deze gebruiker geen toegang meer tot dit product. Alle content van deze gebruiker zal blijven bestaan. U kunt dit gebruikersaccount later voor het product altijd weer activeren.
   en: You are about to deactivate the membership of {0} for the product {1}. After this, this user no longer has access to this product. All content from this user will not be deleted. You can always reactivate this user account
 
-message_modal_admin_reset_password:
-  nl: Wilt u een nieuw wachtwoord genereren voor {0}, {1}? Het huidige wachtwoord wordt direct ongeldig gemaakt. De gebruiker kan inloggen met het nieuw gegenereerde wachtwoord.
-  en: Do you want to generate a new password for {0}, {1}? The current password will instantly become invalid. The user can log in with the newly generated password.
-
 message_add_user_to_site:
   nl: Voeg {0} weer toe aan site
   en: Add {0} to site
@@ -264,7 +260,12 @@ message_add_user_to_site:
 message_actieprogramma:
   nl: Gegevens delen van keten naar netwerk
   en: Data sharing from chain to network
-
+message_account_access:
+  nl: Met dit account krijgt u toegang tot het aanleverportaal van Zorginzicht.
+  en: With this account, you gain access to the Zorginzicht submission portal.
+message_after_registration:
+  nl: Na registratie kunt u inloggen en namens uw organisatie gegevens aanleveren en eerdere aanleveringen bekijken.
+  en: After registration, you can log in, submit data on behalf of your organization, and view previous submissions.
 message_remove_user_from_site:
   nl: Verwijder organisaties van {0} uit {1}
   en: Remove organisations from {0} in {1}
@@ -1343,6 +1344,9 @@ label_new_concept:
 label_new_glossary:
   nl: Nieuwe begrippenlijst
   en: New glossary
+label_personal_message:
+  nl: Persoonlijk bericht aan de ontvanger (Optioneel)
+  en: Personal message to the recipient (Optional)
 label_personal_space:
   nl: Persoonlijke ruimte
   en: Personal space
@@ -1406,6 +1410,21 @@ message_help_administrator:
 message_help_logo_upload:
   nl: Zorg ervoor dat het logo in SVG of PNG formaat is. In het geval van SVG, mag de SVG uitsluitend vectorinformatie bevatten. In het geval van PNG dient de minimale hoogte 150 pixels. De achtergrond moet transparent zijn.
   en: Make sure the logo is in SVG or PNG format. In the case of SVG, the SVG must only contain vector information. In the case of PNG, the minimum height must be 150 pixels. The background must be transparent.
+message_help_public_data_1:
+  nl: Op deze pagina ziet u alle aanleveringen (van na 01-04-2019) die door uw organisatie zijn ge-upload. U kunt een nieuwe aanlevering uploaden via de knop ‘Uploaden’ rechtsboven.
+  en: On this page, you can view all submissions (from after 01-04-2019) uploaded by your organization. You can upload a new submission via the ‘Upload’ button in the top right corner.
+message_help_public_data_2:
+  nl: Bij een nieuwe aanlevering wordt de validatie automatisch gestart. U moet het scherm verversen om het resultaat van de validatie te kunnen bekijken. Via het verticale ellipsis icoon naast de aanlevering kunt u het validatieresultaat oproepen.
+  en: Validation starts automatically upon a new submission. You must refresh the screen to view the validation result. You can access the validation result via the vertical ellipsis icon next to the submission.
+message_help_public_data_3:
+  nl: Als de validatie is mislukt, verzoeken we u het bestand te verwijderen, de inhoud zodanig aan te passen dat alle validatiefouten worden hersteld en het bestand opnieuw te uploaden.
+  en: If validation fails, we request that you delete the file, modify the content so that all validation errors are corrected, and re-upload the file.
+message_help_public_data_4:
+  nl: Als de validatie is geslaagd, kunt u de aanlevering goedkeuren, downloaden of verwijderen. Zodra de aanlevering is goedgekeurd krijgt een beheerder van Zorginstituut Nederland een signaal. Het is daarna niet meer mogelijk de aanlevering te verwijderen.
+  en: If validation is successful, you can approve, download, or delete the submission. As soon as the submission is approved, an administrator at Zorginstituut Nederland receives a notification. It is then no longer possible to delete the submission.
+message_help_public_data_5:
+  nl: Let op, als u alleen wilt testen, laat dit dan merken in de naamgeving van het bestand en keur het bestand niet goed!
+  en: Please note, if you only want to test, indicate this in the file name and do not approve the file!
 label_introduction:
   nl: Inleiding
   en: Introduction
@@ -1454,6 +1473,12 @@ label_transcript:
 message_caption_optional:
   nl: Een onderschrift voor deze inhoud (optioneel).
   en: A caption for this content (optional).
+message_cannot_delete_indicator:
+  nl: De indicatorset {0} kan niet worden verwijderd omdat er aanleveringen bij zijn geupload.
+  en: The indicator set {0} cannot be deleted because deliveries have been uploaded to it.
+message_delete_indicatorset:
+  nl: U staat op het punt de indicatorset {0} te verwijderen. Deze handeling is onomkeerbaar.
+  en: You are about to delete the indicator set {0}. This action is irreversible.
 message_header_above_block:
   nl: Een kop voor boven deze inhoud (optioneel).
   en: A header to be displayed above this content (optional).
@@ -2180,6 +2205,9 @@ label_label:
 label_time:
   nl: Tijd
   en: Time
+label_time_zone:
+  nl: Tijdzone
+  en: Time zone
 label_main_indicator:
   nl: Hoofdindicator
   en: Main indicator
@@ -2231,6 +2259,18 @@ label_healthcare_provider:
 label_select_healthcare_providers:
   nl: Welke zorgaanbieders moeten aanleveren
   en: Which healthcare providers must deliver
+label_search_and_select:
+  nl: Zoek en selecteer een pagina op deze site
+  en: Search and select a page on this site
+label_search_image_database:
+  nl: Zoeken in de beeldbank
+  en: Search the image database
+label_search_within_page:
+  nl: Zoeken binnen pagina
+  en: Search within page
+label_all_reporting_years:
+  nl: Alle verslagjaren
+  en: All reporting years
 label_search_healthcare_providers:
   nl: Zoek zorgaanbieders
   en: Search healtcare providers
@@ -2328,18 +2368,6 @@ label_deactivate_user:
 label_reactivate_user:
   nl: Heractiveer gebruikersaccount
   en: Reactivate user account
-label_reset_password:
-  nl: Wachtwoord herstellen
-  en: Reset password
-label_generate_password:
-  nl: Wachtwoord genereren
-  en: Generate password
-label_password_generated:
-  nl: Wachtwoord genereerd
-  en: Generated password
-label_copy_password:
-  nl: Wachtwoord kopieren
-  en: Copy password
 label_deactivate:
   nl: Deactiveer
   en: Deactivate
@@ -4362,7 +4390,63 @@ label_stamceltransplantaties:
 label_tumoragnostische_geneesmiddelen:
   nl: Tumoragnostische geneesmiddelen
   en: Tumour agnostic medication
-
+label_redactional_content:
+  nl: Redactionele content
+  en: Redactional content
+label_select_another_table:
+  nl: Selecteer een andere tabel
+  en: Select another table
+label_first_name:
+  nl:
+  en: Your first name
+label_surname:
+  nl: Uw achternaam
+  en: Your surname
+label_your_email_address:
+  nl: Uw zakelijke e-mailadres
+  en: Your business email address
+label_go_up:
+  nl: Naar boven
+  en: Go up
+label_go_to:
+  nl: Naar
+  en: Go to
+label_go_to_search:
+  nl: Naar zoeken
+  en: To search
+label_user_registered:
+  nl: Gebruiker is geregistreerd
+  en: User is registered
+label_to_registrate:
+  nl: Registreren
+  en: Register
+label_no_organisations_found:
+  nl: Geen organisaties gevonden
+  en: No organisations found
+label_select_providers:
+  nl: Selecteer zorgaanbieders
+  en: Select healthcare providers
+label_select_sectors:
+  nl: Selecteer sectoren
+  en: Select sectors
+label_select_an_organization:
+  nl: Selecteer een organisatie
+  en: Select an organization
+label_welcome_to_bloomreach:
+  nl: Welkom bij BloomReach
+  en: Welcome to BloomReach
+message_no_data_available:
+  nl: Geen data beschikbaar voor de gemaakte keuze
+  en: No data available for the selected choice
+label_no_disclaimers:
+  nl: Geen disclaimers voor deze sector en jaar.
+  en: No disclaimers for this sector and year.
+label_final_submission_date:
+  nl: Uiterste aanleverdatum
+  en: Final submission date
+label_choose_criterium:
+  nl: Kies een criterium om <a href="{0}">de lijst met kwaliteitsinstrumenten</a> op te filteren.
+  en: Select a criterion to filter the list of quality instruments <a href="{0}">on.
 label_aandoeningen_van_zintuigen_overig:
   nl: Aandoeningen van zintuigen, overig
   en: Disorders of the senses other
@@ -4734,6 +4818,9 @@ label_expected_cost_per_patient_per_year:
 label_cost_per_patient:
   nl: Kosten per patiënt
   en: Cost per patient
+label_cost_pharmacy:
+  nl: Afleverkosten zijn de kosten die uw apotheker hanteert voor het leveren van het geneesmiddel.
+  en: Delivery costs are the costs your pharmacist charges for delivering the medicine.
 label_domain:
   nl: Domein
   en: Domain
@@ -4803,6 +4890,9 @@ label_send_imp:
 label_resend_invite:
   nl: Uitnodiging opnieuw versturen
   en: Resend invite
+label_restore:
+  nl: Herstel
+  en: Restore
 label_loading:
   nl: Laden
   en: Loading
@@ -5226,6 +5316,12 @@ label_news_article:
 label_news_articles:
   nl: Nieuwsberichten
   en: News articles
+label_more:
+  nl: Meer…
+  en: More…
+label_loading_more:
+  nl: Meer laden…
+  en: Loading more…
 label_more_news:
   nl: Meer nieuws
   en: More news
@@ -5304,6 +5400,9 @@ label_directly_to:
 label_warnings:
   nl: Waarschuwingen
   en: Warnings
+label_watch_fullscreen:
+  nl: Bekijk fullscreen
+  en: Watch fullscreen
 label_recent:
   nl: Recent
   en: Recent
@@ -5462,6 +5561,9 @@ label_actieprogramma:
 label_main_indication:
   nl: Hoofdindicatie
   en: Main indication
+label_indexing:
+  nl: Indexeren
+  en: Indexing
 label_indication:
   nl: Indicatie
   en: Indication
@@ -5703,6 +5805,9 @@ label_external_links:
 label_external_link:
   nl: Externe koppeling
   en: External link
+label_external_url:
+  nl: Typ of plak een externe URL
+  en: Type or paste an external URL
 label_contact:
   nl: Contact
   en: Contact
@@ -6548,7 +6653,9 @@ message_help_process_step_icon:
 label_basic_insurance:
   nl: Basisverzekering
   en: Basic insurance
-
+label_by:
+  nl: , door
+  en: , by
 label_insurance:
   nl: Verzekering
   en: Insurance
@@ -7133,6 +7240,10 @@ label_question_remark:
   nl: Opmerking vraag {0}.
   en: Remark question {0}.
 
+label_wizarddata:
+  nl: Wizarddata
+  en: Wizard data
+
 message_portal_is:
   nl: Het aanleverportaal is
   en: The submission portal is
@@ -7237,4 +7348,7 @@ message_registration_mail_sent_all_modal:
   nl: U staat op het punt om de registratiemail te versturen naar alle zorgaanbieders die nog niet hebben aangeleverd.
   en: You are about to send the registration email to all healthcare providers who have not yet submitted their data.
  
+ message_delete_org_warning:
+  nl: U staat op het punt om de organisatie "{0}" te verwijderen. Eventuele referenties naar deze organisatie blijven bestaan…
+  en: You are about to delete the organization "{0}". Any references to this organization will remain…
 
