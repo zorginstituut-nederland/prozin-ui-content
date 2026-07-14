@@ -7364,7 +7364,7 @@ message_registration_mail_sent_all_modal:
   nl: U staat op het punt om de registratiemail te versturen naar alle zorgaanbieders die nog niet hebben aangeleverd.
   en: You are about to send the registration email to all healthcare providers who have not yet submitted their data.
  
- message_delete_org_warning:
+message_delete_org_warning:
   nl: U staat op het punt om de organisatie "{0}" te verwijderen. Eventuele referenties naar deze organisatie blijven bestaan…
   en: You are about to delete the organization "{0}". Any references to this organization will remain…
 
