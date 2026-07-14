@@ -6670,8 +6670,8 @@ label_basic_insurance:
   nl: Basisverzekering
   en: Basic insurance
 label_by:
-  nl: "," door
-  en: "," by
+  nl: ", door"
+  en: ", by"
 label_insurance:
   nl: Verzekering
   en: Insurance
