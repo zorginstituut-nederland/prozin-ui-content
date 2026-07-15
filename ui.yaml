@@ -3057,6 +3057,21 @@ label_download:
 label_download_these_medicines_as_csv:
   nl: Download deze geneesmiddelen als een CSV-bestand
   en: Download these medicines as a CSV file
+label_download_this_video:
+  nl: Download deze video
+  en: Download this video
+label_read_transcript:
+  nl: Lees het <a href="{0}">transcript</a>
+  en: Read the <a href="{0}">transcript</a>
+label_linkedin:
+  nl: "LinkedIn: Zorginstituut Nederland"
+  en: "LinkedIn: Zorginstituut Nederland"
+label_twitter:
+  nl: "X: Zorginstituut Nederland @ZINLActueel"
+  en: "X: Zorginstituut Nederland @ZINLActueel"
+label_facebook:
+  nl: "Facebook: de zorg van morgen"
+  en: "Facebook: the care of tomorrow"
 label_expert_inquiries:
   nl: Navragen bij deskundigen
   en: Expert inquiries
@@ -6997,6 +7012,13 @@ message_cookie_message:
   nl: Deze website gebruikt cookies om het gebruik van de website te analyseren en het gebruiksgemak te verbeteren. Lees meer over <a href="{0}">cookies</a>.
   en: This website uses cookies to analyse the use of the website and to make it easier for you to use. Find out more about <a href="{0}">cookies</a>.
 
+label_corporate_speech:
+  nl: "Iedereen die in Nederland woont of werkt, heeft recht op goede zorg uit het basispakket. Ons zorgstelsel is gebaseerd op solidariteit. Rijk en arm, jong en oud, gezond en ziek, in Nederland heeft iedereen toegang tot dezelfde zorg. We betalen daar allemaal aan mee, via premies en belastingen. <br/><br/>Het basispakket moet zorg bevatten die werkt tegen een redelijke prijs en past bij wat de patiënt nodig heeft. Tegelijkertijd is het belangrijk dat het basispakket ook in de toekomst toegankelijk blijft. Dat is waar Zorginstituut Nederland aan werkt: goede verzekerde zorg voor iedereen in Nederland, nu en in de toekomst."
+  en: "Everyone who lives or works in the Netherlands is entitled to good care from the basic package. Our healthcare system is based on solidarity. Rich and poor, young and old, healthy and sick, everyone in the Netherlands has access to the same care. We all contribute to this through premiums and taxes. <br/><br/>The basic package must contain care that works at a reasonable price and matches the patient's needs. At the same time, it is important that the basic package remains accessible in the future. That is what Zorginstituut Nederland is working on: good insured care for everyone in the Netherlands, now and in the future."
+
+label_search_within_section:
+  nl: Zoeken binnen sectie
+  en: Search within section
 label_specification_type_network:
   nl: Netwerkmodel
   en: Network model
