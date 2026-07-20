@@ -7390,3 +7390,18 @@ message_delete_org_warning:
   nl: U staat op het punt om de organisatie "{0}" te verwijderen. Eventuele referenties naar deze organisatie blijven bestaan…
   en: You are about to delete the organization "{0}". Any references to this organization will remain…
 
+message_istandaarden_migration_error_1:
+  nl: Deze website is verhuisd naar een nieuwe omgeving. Hierdoor is de pagina die u probeert te bezoeken mogelijk niet langer beschikbaar op deze locatie.
+  en: This website has been moved to a new environment. As a result, the page you are trying to visit may no longer be available at this location.
+
+message_istandaarden_migration_error_2:
+  nl: De meest actuele informatie is voortaan te vinden op de nieuwe omgeving van <a href="{0}">www.istandaarden.nl</a>
+  en: From now on, the most up-to-date information can be found on the new environment of <a href="{0}">www.istandaarden.nl</a>
+
+message_istandaarden_migration_error_3:
+  nl: Wij adviseren u uw zoekopdracht of navigatie daar voort te zetten. Wij danken u voor uw begrip en eventuele ongemakken die deze wijziging met zich meebrengt.
+  en: We recommend that you continue your search or navigation there. We thank you for your understanding and apologize for any inconvenience this change may cause.
+
+label_visit:
+  nl: Ga naar
+  en: Visit
