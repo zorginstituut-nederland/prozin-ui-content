@@ -1764,8 +1764,8 @@ label_measuring_instrument:
   nl: Meetinstrument
   en: Measuring instrument
 label_reporting_year:
-  nl: Verslagjaar
-  en: Reporting year
+  nl: Verslagjaar 
+  en: Reporting year 
 label_selected_reports:
   nl: Uitgelichte rapportages
   en: Selected reports
@@ -1784,7 +1784,9 @@ label_indicator_indicator_name:
 label_new_indicator:
   nl: Nieuwe indicator
   en: New indicator
-
+label_view_imp:
+  nl: Bekijk
+  en: View
 label_role_within_this_application:
   nl: Rol binnen deze applicatie
   en: Role within this application
@@ -2382,7 +2384,7 @@ label_password_generated:
   nl: Wachtwoord genereerd
   en: Generated password
 label_copy_password:
-  nl: Wachtwoord kopiÃ«ren
+  nl: Wachtwoord kopieren
   en: Copy password
 label_deactivate:
   nl: Deactiveer
@@ -2467,7 +2469,7 @@ label_first_delivery_date:
   en: First delivery date
 label_indicator_type:
   nl: Indicatortype
-  en: label_indicator_type
+  en: Indicator type
 label_delivery_frequency:
   nl: Aanleverfrequentie
   en: Delivery frequency
@@ -4477,7 +4479,7 @@ label_final_submission_date:
   en: Final submission date
 label_choose_criterium:
   nl: Kies een criterium om <a href="{0}">de lijst met kwaliteitsinstrumenten</a> op te filteren.
-  en: Select a criterion to filter the list of quality instruments <a href="{0}">on.
+  en: Select a criterion to filter the <a href="{0}">list of quality instruments</a> on.
 label_aandoeningen_van_zintuigen_overig:
   nl: Aandoeningen van zintuigen, overig
   en: Disorders of the senses other
@@ -7003,11 +7005,64 @@ label_build_index:
 label_update:
   nl: Werk bij
   en: Update
-
+label_updated_until:
+  nl: Bijgewerkt tot 
+  en: Updated until 
+label_search_box_placeholder:
+  nl: Doorzoek de site
+  en: Search the site
+message_search_document_notification:
+  nl: U kunt hier specifiek zoeken op gepubliceerde documenten en/of concepten.
+  en: You can search specifically for published documents and/or drafts here.
+label_revision_of:
+  nl: Dit is een revisie van {0} van {1}.
+  en: This is a revision of {0} of {1}.
+label_load_more_news:
+  nl: Meer nieuws laden…
+  en: Load more news…
+label_download_this_set:
+  nl: Download deze set
+  en: Download this set
+label_indicatorset_reporting_year:
+  nl: Indicatorenset, Verslagjaar 
+  en: Indicator set, Reporting year 
+label_optional_text:
+  nl: Optionele tekst die tussen de samenvatting en de nieuwsberichten komt.
+  en: Optional text that goes below the news items.
+label_optional_text_under:
+  nl: Optionele tekst die onder de nieuwsberichten komt te staan.
+  en: Optional text that goes below the news items.
+label_select_users:
+  nl: Selecteer gebruikers
+  en: Select users
 label_update_imp:
   nl: Werk bij
   en: Update
+message_reimbursement_conditions:
+  nl: Aan de vergoeding van dit geneesmiddel zijn <a id="conditions-link" href="#voorwaarden">voorwaarden</a> verbonden.
+  en: <a id="conditions-link" href="#voorwaarden">Conditions</a> apply to the reimbursement of this medicine.
+message_repayment_arrangement:
+  nl: U kunt mogelijk uw bijdrage terugkrijgen. Lees hier meer over op <a href="{0}">terugbetaalregeling.nl</a>.
+  en: You may be able to get your contribution back. Read more about this at <a href="{0}">terugbetaalregeling.nl</a>.
+label_next_issue:
+  nl: Volgende uitgave
+  en: Next issue
+label_untitled:
+  nl: Zonder titel
+  en: Untitled
+label_unlink:
+  nl: Ontkoppelen
+  en: Unlink
 
+label_edit_link:
+  nl: Link bijwerken
+  en: Edit link
+label_visit_linked_webpage:
+  nl: Bezoek de gekoppelde webpagina
+  en: Visit linked webpage
+label_enlarge_image:
+  nl: Vergroot afbeelding
+  en: Enlarge image
 message_cookie_message:
   nl: Deze website gebruikt cookies om het gebruik van de website te analyseren en het gebruiksgemak te verbeteren. Lees meer over <a href="{0}">cookies</a>.
   en: This website uses cookies to analyse the use of the website and to make it easier for you to use. Find out more about <a href="{0}">cookies</a>.
@@ -7022,7 +7077,12 @@ label_search_within_section:
 label_specification_type_network:
   nl: Netwerkmodel
   en: Network model
-
+message_filters_active:
+  nl: 'Er zijn momenteel <a href="${0}#filters-menu" class="pat-forward" data-pat-forward="selector: #filters-menu .menu-trigger">filters</a> actief.'
+  en: 'There are currently <a href="${0}#filters-menu" class="pat-forward" data-pat-forward="selector: #filters-menu .menu-trigger">filters</a> active.'
+label_clear_filters:
+  nl: Filters wissen
+  en: Clear filters
 label_specification_type_relay:
   nl: Estafette
   en: Relay
@@ -7390,18 +7450,3 @@ message_delete_org_warning:
   nl: U staat op het punt om de organisatie "{0}" te verwijderen. Eventuele referenties naar deze organisatie blijven bestaan…
   en: You are about to delete the organization "{0}". Any references to this organization will remain…
 
-message_istandaarden_migration_error_1:
-  nl: Deze website is verhuisd naar een nieuwe omgeving. Hierdoor is de pagina die u probeert te bezoeken mogelijk niet langer beschikbaar op deze locatie.
-  en: This website has been moved to a new environment. As a result, the page you are trying to visit may no longer be available at this location.
-
-message_istandaarden_migration_error_2:
-  nl: De meest actuele informatie is voortaan te vinden op de nieuwe omgeving van <a href="{0}">www.istandaarden.nl</a>
-  en: From now on, the most up-to-date information can be found on the new environment of <a href="{0}">www.istandaarden.nl</a>
-
-message_istandaarden_migration_error_3:
-  nl: Wij adviseren u uw zoekopdracht of navigatie daar voort te zetten. Wij danken u voor uw begrip en eventuele ongemakken die deze wijziging met zich meebrengt.
-  en: We recommend that you continue your search or navigation there. We thank you for your understanding and apologize for any inconvenience this change may cause.
-
-label_visit:
-  nl: Ga naar
-  en: Visit
