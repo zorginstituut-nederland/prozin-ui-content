@@ -4664,8 +4664,8 @@ label_total_cost_for_sluice:
   nl: Totale kosten voor sluis
   en: Total cost for sluice
 label_patient_volume:
-  nl: Patiëntvolume
-  en: Patient volume
+  nl: Verwacht aantal gebruikers per jaar in Nederland
+  en: Estimated number of users per year in the Netherlands
 label_max_patient_volume:
   nl: Maximaal patiëntvolume
   en: Maximum patient volume
@@ -5411,8 +5411,8 @@ label_active_substance:
   nl: Werkzame stof
   en: Active substance
 label_main_indication:
-  nl: Hoofdindicatie
-  en: Main indication
+  nl: Hoofdindicatie Zorginstituut
+  en: Main indication Healthcare Institute
 label_indication:
   nl: Indicatie
   en: Indication
