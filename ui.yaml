@@ -1618,6 +1618,9 @@ label_article:
 label_visible:
   nl: Zichtbaar
   en: Visible
+label_invisible:
+  nl: Onzichtbaar
+  en: Invisible
 label_visible_from_outside:
   nl: Van buitenaf zichtbaar
   en: Visible from the outside
@@ -4430,7 +4433,7 @@ label_select_another_table:
   nl: Selecteer een andere tabel
   en: Select another table
 label_first_name:
-  nl:
+  nl: Uw voornaam
   en: Your first name
 label_surname:
   nl: Uw achternaam
