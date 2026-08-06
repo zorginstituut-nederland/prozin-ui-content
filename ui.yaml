@@ -6383,8 +6383,8 @@ message_enter_medicine_info_before_date:
   nl: Voer vóór <strong>{0}</strong> informatie in over nieuwe of bestaande geneesmiddelen.
   en: Please enter information for new or existing medicines before <strong>{0}</strong>.
 message_password_expired:
-  nl: Uw wachtwoord is verlopen, omdat het meer dan 6 maanden oud is.
-  en: Your password has expired because it's more than 6 months old.
+  nl: Uw wachtwoord is verlopen, stel een nieuw wachtwoord in.
+  en: Your password has expired, please set a new password.
 message_email_address_unknown:
   nl: Het e-mailadres <strong>{0}</strong> is niet bij ons bekend. Vult u alstublieft het e-mailadres in dat u eerder bij ons geregistreerd hebt.
   en: The e-mail address <strong>{0}</strong> is not known to us. Please enter the email address that you have previously registered with us.
