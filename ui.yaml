@@ -1585,6 +1585,9 @@ label_article:
 label_visible:
   nl: Zichtbaar
   en: Visible
+label_invisible:
+  nl: Onzichtbaar
+  en: Invisible
 label_visible_from_outside:
   nl: Van buitenaf zichtbaar
   en: Visible from the outside
