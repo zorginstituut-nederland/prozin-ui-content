@@ -7351,7 +7351,7 @@ label_twofactorauthentication:
 
 label_off:
   nl: Uit
-  en: Off
+  en: "Off"
 
 label_visit:
   nl: Ga naar
