@@ -7357,6 +7357,10 @@ label_visit:
   nl: Ga naar
   en: Visit
 
+label_unmodifiable:
+  nl: Vergrendeld
+  en: Unmodifiable
+
 message_istandaarden_migration_error_1:
   nl: Deze website is verhuisd naar een nieuwe omgeving. Hierdoor is de pagina die u probeert te bezoeken mogelijk niet langer beschikbaar op deze locatie.
   en: This website has been moved to a new server. As a result, the page you are trying to visit may no longer be available at this address.
