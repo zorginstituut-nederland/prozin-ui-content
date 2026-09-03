@@ -7361,6 +7361,22 @@ label_unmodifiable:
   nl: Vergrendeld
   en: Unmodifiable
 
+label_disclaimer:
+  nl: Disclaimer
+  en: Disclaimer
+
+label_new_disclaimer:
+  nl: Nieuwe disclaimer
+  en: New disclaimer
+
+label_apply_to:
+  nl: Toepassen op
+  en: Apply to
+
+label_no_indicatorsets:
+  nl: Geen indicatorsets gevonden voor deze sector en verslagjaar.
+  en: No sets of indicators were found for this sector and financial year.
+
 message_istandaarden_migration_error_1:
   nl: Deze website is verhuisd naar een nieuwe omgeving. Hierdoor is de pagina die u probeert te bezoeken mogelijk niet langer beschikbaar op deze locatie.
   en: This website has been moved to a new server. As a result, the page you are trying to visit may no longer be available at this address.
