@@ -7305,6 +7305,10 @@ label_check_answers:
   nl: Antwoorden controleren
   en: Check answers
 
+label_back_to_overview:
+  nl: Terug naar overzicht
+  en: Back to overview
+
 label_questions:
   nl: Vragen
   en: Questions
