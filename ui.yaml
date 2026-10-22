@@ -483,6 +483,9 @@ label_image_type:
 label_copyright:
   en: Copyright
   nl: Auteursrecht
+label_gerelateerde_informatie:
+  en: Related information
+  nl: Gerelateerde informatie
 label_grouped_by_collection:
   en: Grouped by collection
   nl: Gegroepeerd op collectie
