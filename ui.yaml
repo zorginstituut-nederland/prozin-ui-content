@@ -483,6 +483,9 @@ label_image_type:
 label_copyright:
   en: Copyright
   nl: Auteursrecht
+label_gerelateerde_informatie:
+  en: Related information
+  nl: Gerelateerde informatie
 label_grouped_by_collection:
   en: Grouped by collection
   nl: Gegroepeerd op collectie
@@ -7304,6 +7307,10 @@ label_send_registration_email:
 label_check_answers:
   nl: Antwoorden controleren
   en: Check answers
+
+label_back_to_overview:
+  nl: Terug naar overzicht
+  en: Back to overview
 
 label_questions:
   nl: Vragen
