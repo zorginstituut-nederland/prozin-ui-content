@@ -7497,3 +7497,22 @@ message_delete_org_warning:
   nl: U staat op het punt om de organisatie "{0}" te verwijderen. Eventuele referenties naar deze organisatie blijven bestaan…
   en: You are about to delete the organization "{0}". Any references to this organization will remain…
 
+message_email_history_provider:
+  nl: E-mail historie {0}
+  en: Email history {0}
+
+label_date_sent:
+  nl: Datum verzonden
+  en: Date sent
+
+label_subject_of_email:
+  nl: Onderwerp van e-mail
+  en: Subject of email
+
+label_sent_by:
+  nl: Verzonden door
+  en: Sent by
+
+label_view_email_history:
+  nl: E-mail historie bekijken
+  en: View email history
