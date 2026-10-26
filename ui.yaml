@@ -7312,6 +7312,18 @@ label_back_to_overview:
   nl: Terug naar overzicht
   en: Back to overview
 
+label_no_usage:
+  nl: Wanneer niet gebruiken
+  en: When not to use
+
+label_usage:
+  nl: Wanneer gebruiken
+  en: When to use
+
+label_wcag:
+  nl: Toegankelijkheid / WCAG
+  en: Accessibility / WCAG
+
 label_questions:
   nl: Vragen
   en: Questions
@@ -7371,6 +7383,10 @@ label_unmodifiable:
 label_disclaimer:
   nl: Disclaimer
   en: Disclaimer
+
+label_disclaimers:
+  nl: Disclaimers
+  en: Disclaimers
 
 label_new_disclaimer:
   nl: Nieuwe disclaimer
