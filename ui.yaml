@@ -7388,6 +7388,10 @@ label_disclaimers:
   nl: Disclaimers
   en: Disclaimers
 
+label_figma_links:
+  nl: Figma links
+  en: Figma links
+
 label_new_disclaimer:
   nl: Nieuwe disclaimer
   en: New disclaimer
