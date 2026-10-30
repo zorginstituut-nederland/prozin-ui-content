@@ -2479,6 +2479,9 @@ label_indicator_type:
 label_delivery_frequency:
   nl: Aanleverfrequentie
   en: Delivery frequency
+label_delivery_per_location:
+    nl: Aanlevering per locatie
+    en: Delivery per location
 label_internal_improvement_information:
   nl: Interneverbeteringsinformatie
   en: Internal improvement information
@@ -2488,6 +2491,9 @@ label_supervisory_information:
 label_healthcare_procurement_information:
   nl: Zorginkoopinformatie
   en: Healthcare procurement information
+label_hoofdvestiging:
+    nl: Hoofdvestiging
+    en: Head office
 label_number:
   nl: Nummer
   en: Number
