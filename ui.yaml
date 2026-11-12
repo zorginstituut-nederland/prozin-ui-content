@@ -667,6 +667,10 @@ label_survey_url:
   he: URL של הסקר
   nl: Enquete-url
 
+label_survey_show_in_page:
+  en: Also show survey on medicine pages
+  nl: Enquete ook tonen op medicijnpagina’s
+
 label_swim_lanes:
   de: Schwimmbahnen
   en: Swim lanes
