@@ -699,6 +699,13 @@ label_swim_lane_browse:
   en: Swim lane browse
   nl: Bladerbaan
 
+label_swim_lane_highlighted_by:
+  en: Highlighted by {0}
+  nl: Uitgelicht door {0}
+label_no_document_selected:
+  en: No document selected
+  nl: Geen document geselecteerd
+
 label_help_see_also:
   nl: Zie ook van de helpfunctie
   en: Help 'See also'
