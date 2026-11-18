@@ -4304,6 +4304,9 @@ label_leverziekten:
 label_stofwisselingsziekten:
   nl: Stofwisselingsziekten
   en: Metabolic diseases
+label_obesitas:
+  nl: Obesitas
+  en: Obesity
 label_hormonale_aandoeningen:
   nl: Hormonale aandoeningen
   en: Hormonal disorders
