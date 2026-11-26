@@ -7577,8 +7577,8 @@ message_editorial_content_last_run:
   en: Last updated on {0}.
 
 message_editorial_content_failed:
-  nl: Het bijwerken dat gestart is op {0} is mislukt:: {1}
-  en: The update started on {0} has failed:: {1}
+  nl: 'Het bijwerken dat gestart is op {0} is mislukt: {1}'
+  en: 'The update started on {0} has failed: {1}'
 
 message_editorial_content_unavailable:
   nl: De status van het bijwerken kon niet worden opgehaald. Probeer het later opnieuw.
