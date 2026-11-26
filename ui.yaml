@@ -7567,3 +7567,23 @@ label_sent_by:
 label_view_email_history:
   nl: E-mail historie bekijken
   en: View email history
+
+message_editorial_content_running:
+  nl: De redactionele content wordt bijgewerkt (gestart op {0}). Dit duurt even. Ververs de pagina om de actuele status te zien.
+  en: The editorial content is being updated (started on {0}). This takes a while. Refresh the page to see the current status.
+
+message_editorial_content_last_run:
+  nl: Laatst bijgewerkt op {0}.
+  en: Last updated on {0}.
+
+message_editorial_content_failed:
+  nl: Het bijwerken dat gestart is op {0} is mislukt:: {1}
+  en: The update started on {0} has failed:: {1}
+
+message_editorial_content_unavailable:
+  nl: De status van het bijwerken kon niet worden opgehaald. Probeer het later opnieuw.
+  en: The update status could not be retrieved. Please try again later.
+
+message_editorial_content_not_configured:
+  nl: Het bijwerken van de redactionele content is op deze omgeving (nog) niet ingericht.
+  en: Updating the editorial content has not been set up on this environment (yet).
