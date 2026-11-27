@@ -1742,6 +1742,9 @@ label_news_item:
 label_news_items:
   en: News items
   nl: Nieuwsberichten
+label_news_for_tag:
+  nl: Bekijk alle nieuwsberichten over {0}
+  en: Show all news articles for {0}
 label_new_news_item:
   en: New news item
   nl: Nieuw nieuwsbericht
