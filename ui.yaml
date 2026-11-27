@@ -7587,3 +7587,10 @@ message_editorial_content_unavailable:
 message_editorial_content_not_configured:
   nl: Het bijwerken van de redactionele content is op deze omgeving (nog) niet ingericht.
   en: Updating the editorial content has not been set up on this environment (yet).
+
+label_unsubscribe_to_newsletters:
+  nl: Afmelden voor nieuwsbrief
+  en: Unsubscribe from newsletter
+label_subscribe_to_newsletters:
+  nl: Aanmelden voor nieuwsbrief
+  en: Subscribe to newsletter
